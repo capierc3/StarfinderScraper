@@ -1,0 +1,27 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    implementation 'org.jsoup:jsoup:1.11.3'
+    implementation 'com.google.code.gson:gson:2.8.0'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+task scrape(type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+    description 'Scrapes the site and builds jsons'
+    main = 'run'
+}

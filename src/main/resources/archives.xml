@@ -1,0 +1,485 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Archives>
+    <ship>
+        <armor>
+            <url>
+                https://www.aonsrd.com/Starship_Armor.aspx
+            </url>
+            <type>
+                table
+            </type>
+        </armor>
+
+        <baseframes>
+            <url>
+                https://www.aonsrd.com/Starship_BaseFrames.aspx?ItemName=All
+            </url>
+            <type>
+                text
+            </type>
+        </baseframes>
+
+        <computers>
+            <url>
+                https://www.aonsrd.com/Starship_Computers.aspx
+            </url>
+            <type>
+                table
+            </type>
+        </computers>
+
+        <quarters>
+            <url>
+                https://www.aonsrd.com/Starship_CrewQuarters.aspx?ItemName=All
+            </url>
+            <type>
+                text
+            </type>
+        </quarters>
+
+        <countermeasures>
+            <url>
+                https://www.aonsrd.com/Starship_DefCounters.aspx
+            </url>
+            <type>
+                table
+            </type>
+        </countermeasures>
+
+        <drift>
+            <url>
+                https://www.aonsrd.com/Starship_DriftEngines.aspx
+            </url>
+            <type>
+                table
+            </type>
+        </drift>
+
+        <expansion>
+            <url>
+                https://www.aonsrd.com/Starship_ExpBays.aspx?ItemName=All&Family=None
+            </url>
+            <type>
+                table
+            </type>
+        </expansion>
+
+        <other>
+            <url>
+                https://www.aonsrd.com/Starship_OtherSystems.aspx?ItemName=All
+            </url>
+            <type>
+                table
+            </type>
+        </other>
+
+        <cores>
+            <url>
+                https://www.aonsrd.com/Starship_PowerCores.aspx
+            </url>
+            <type>
+                table
+            </type>
+        </cores>
+
+        <security>
+            <url>
+                https://www.aonsrd.com/Starship_Security.aspx?ItemName=All&Family=None
+            </url>
+            <type>
+                table
+            </type>
+        </security>
+
+        <sensors>
+            <url>
+                https://www.aonsrd.com/Starship_Sensors.aspx
+            </url>
+            <type>
+                table
+            </type>
+        </sensors>
+
+        <shields>
+            <url>
+                https://www.aonsrd.com/Starship_Shields.aspx
+            </url>
+            <type>
+                table
+            </type>
+        </shields>
+
+        <thrusters>
+            <url>
+                https://www.aonsrd.com/Starship_Thrusters.aspx
+            </url>
+            <type>
+                table
+            </type>
+        </thrusters>
+
+        <weapons>
+            <url>
+                https://www.aonsrd.com/Starship_Weapons.aspx
+            </url>
+            <type>
+                table
+            </type>
+        </weapons>
+
+        <properties>
+            <url>
+                https://www.aonsrd.com/Starship_WeaponProperties.aspx?ItemName=All
+            </url>
+            <type>
+                text
+            </type>
+        </properties>
+    </ship>
+
+    <equipment>
+        <computer>
+            <url>
+                https://www.aonsrd.com/ComputerMods.aspx?ItemName=All&Family=None
+            </url>
+            <type>
+                table
+            </type>
+        </computer>
+
+        <computer_security>
+            <url>
+                https://aonsrd.com/ComputerMods.aspx?ItemName=Security&Family=None
+            </url>
+            <type>
+                text
+            </type>
+        </computer_security>
+
+        <computer_shock>
+            <url>
+                https://aonsrd.com/ComputerMods.aspx?ItemName=Shock%20Grid&Family=None
+            </url>
+            <type>
+                text
+            </type>
+        </computer_shock>
+
+        <small_arms>
+            <url>
+                https://www.aonsrd.com/Weapons.aspx?Proficiency=SmallArms
+            </url>
+            <type>
+                table
+            </type>
+        </small_arms>
+
+        <advanced_melee>
+            <url>
+                https://www.aonsrd.com/Weapons.aspx?Proficiency=AdvMelee
+            </url>
+            <type>
+                table
+            </type>
+        </advanced_melee>
+
+        <basic_melee>
+            <url>
+                https://www.aonsrd.com/Weapons.aspx?Proficiency=BasicMelee
+            </url>
+            <type>
+                table
+            </type>
+        </basic_melee>
+
+        <grenade>
+            <url>
+                https://www.aonsrd.com/Weapons.aspx?Proficiency=Grenade
+            </url>
+            <type>
+                table
+            </type>
+        </grenade>
+
+        <heavy>
+            <url>
+                https://www.aonsrd.com/Weapons.aspx?Proficiency=Heavy
+            </url>
+            <type>
+                table
+            </type>
+        </heavy>
+
+        <long_arms>
+            <url>
+                https://www.aonsrd.com/Weapons.aspx?Proficiency=Longarms
+            </url>
+            <type>
+                table
+            </type>
+        </long_arms>
+
+        <snipers>
+            <url>
+                https://www.aonsrd.com/Weapons.aspx?Proficiency=Sniper
+            </url>
+            <type>
+                table
+            </type>
+        </snipers>
+
+        <special>
+            <url>
+                https://www.aonsrd.com/Weapons.aspx?Proficiency=Special
+            </url>
+            <type>
+                table
+            </type>
+        </special>
+
+        <light_armor>
+            <url>
+                https://www.aonsrd.com/Armor.aspx?Category=Light
+            </url>
+            <type>
+                table
+            </type>
+        </light_armor>
+
+        <heavy_armor>
+            <url>
+                https://www.aonsrd.com/Armor.aspx?Category=Heavy
+            </url>
+            <type>
+                table
+            </type>
+        </heavy_armor>
+
+        <powered_armor>
+            <url>
+                https://www.aonsrd.com/PoweredArmor.aspx?ItemName=All
+            </url>
+            <type>
+                table
+            </type>
+        </powered_armor>
+
+        <augmentations_biotech>
+            <url>
+                https://www.aonsrd.com/Biotech.aspx?ItemName=All&Family=None
+            </url>
+            <type>
+                table
+            </type>
+        </augmentations_biotech>
+
+        <augmentations_cybernetics>
+            <url>
+                https://www.aonsrd.com/Cybernetics.aspx?ItemName=All&Family=None
+            </url>
+            <type>
+                table
+            </type>
+        </augmentations_cybernetics>
+
+        <augmentations_magitech>
+            <url>
+                https://www.aonsrd.com/Magitech.aspx?ItemName=All&Family=None
+            </url>
+            <type>
+                table
+            </type>
+        </augmentations_magitech>
+
+        <augmentations_necrografts>
+            <url>
+                https://www.aonsrd.com/Necrografts.aspx?ItemName=All&Family=None
+            </url>
+            <type>
+                table
+            </type>
+        </augmentations_necrografts>
+
+        <augmentations_personal>
+            <url>
+                https://www.aonsrd.com/PersonalUpgrades.aspx?ItemName=All&Family=None
+            </url>
+            <type>
+                table
+            </type>
+        </augmentations_personal>
+
+        <food_drink>
+            <url>
+                https://www.aonsrd.com/OtherItems.aspx?Category=Food and Drinks
+            </url>
+            <type>
+                table
+            </type>
+        </food_drink>
+
+        <lodgings>
+            <url>
+                https://www.aonsrd.com/OtherItems.aspx?Category=Lodgings
+            </url>
+            <type>
+                table
+            </type>
+        </lodgings>
+
+        <medicinals>
+            <url>
+                https://www.aonsrd.com/OtherItems.aspx?Category=Medicinals
+            </url>
+            <type>
+                table
+            </type>
+        </medicinals>
+
+        <personal_items>
+            <url>
+                https://www.aonsrd.com/OtherItems.aspx?Category=Personal Items
+            </url>
+            <type>
+                table
+            </type>
+        </personal_items>
+
+        <services>
+            <url>
+                https://www.aonsrd.com/OtherItems.aspx?Category=Professional Services
+            </url>
+            <type>
+                table
+            </type>
+        </services>
+
+        <recharging>
+            <url>
+                https://www.aonsrd.com/OtherItems.aspx?Category=Recharging Stations
+            </url>
+            <type>
+                table
+            </type>
+        </recharging>
+
+        <trade_goods>
+            <url>
+                https://www.aonsrd.com/OtherItems.aspx?Category=Trade Goods
+            </url>
+            <type>
+                table
+            </type>
+        </trade_goods>
+
+        <transportation>
+            <url>
+                https://www.aonsrd.com/OtherItems.aspx?Category=Transportation
+            </url>
+            <type>
+                table
+            </type>
+        </transportation>
+
+        <weapon_accessories>
+            <url>
+                https://www.aonsrd.com/WeaponAccessories.aspx?ItemName=All&Family=None
+            </url>
+            <type>
+                table
+            </type>
+        </weapon_accessories>
+
+        <ammunition>
+            <url>
+                https://www.aonsrd.com/Weapons.aspx?Proficiency=Ammo
+            </url>
+            <type>
+                table
+            </type>
+        </ammunition>
+
+        <weapon_fusions>
+            <url>
+                https://www.aonsrd.com/WeaponFusions.aspx?ItemName=All
+            </url>
+            <type>
+                table
+            </type>
+        </weapon_fusions>
+
+        <solarian_crystals>
+            <url>
+                https://www.aonsrd.com/Weapons.aspx?Proficiency=Solarian
+            </url>
+            <type>
+                table
+            </type>
+        </solarian_crystals>
+
+        <hybrid_items>
+            <url>
+                https://www.aonsrd.com/HybridItems.aspx?ItemName=All&Family=None
+            </url>
+            <type>
+                table
+            </type>
+        </hybrid_items>
+
+        <magic_items>
+            <url>
+                https://www.aonsrd.com/MagicItems.aspx?ItemName=All&Family=None
+            </url>
+            <type>
+                table
+            </type>
+        </magic_items>
+
+        <tech_items>
+            <url>
+                https://www.aonsrd.com/TechItems.aspx?ItemName=All&Family=None
+            </url>
+            <type>
+                table
+            </type>
+        </tech_items>
+
+        <special_materials>
+            <url>
+                https://www.aonsrd.com/SpecialMaterials.aspx?ItemName=All&Family=None
+            </url>
+            <type>
+                table
+            </type>
+        </special_materials>
+
+        <vehicles>
+            <url>
+                https://www.aonsrd.com/LandVehicles.aspx?ItemName=All
+            </url>
+            <type>
+                table
+            </type>
+        </vehicles>
+
+        <shields>
+            <url>
+                https://www.aonsrd.com/Shields.aspx
+            </url>
+            <type>
+                table
+            </type>
+        </shields>
+
+        <armor_upgrades>
+            <url>
+                https://www.aonsrd.com/ArmorUpgrades.aspx?ItemName=All&Family=None
+            </url>
+            <type>
+                table
+            </type>
+        </armor_upgrades>
+
+
+    </equipment>
+</Archives>
