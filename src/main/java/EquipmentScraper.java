@@ -13,15 +13,17 @@ public class EquipmentScraper {
     private Elements page;
     private String pageName;
     private Document webDoc;
+    private MongoUtils mongo;
 
     /**
-     * Builds a new database of the equipments from aonsrd.com.
+     * creates json files from the equipment pages on aonsrd.com.
      */
     public EquipmentScraper() {
         try {
             InputStream is = this.getClass().getResourceAsStream("/archives.xml");
             Document doc = Jsoup.parse(is, null, "", Parser.xmlParser());
             Elements pages = doc.getElementsByTag("equipment").get(0).children();
+            mongo = new MongoUtils("localhost", 27017);
             for (Element element : pages) {
                 page = element.children();
                 pageName = element.nodeName();
@@ -40,7 +42,7 @@ public class EquipmentScraper {
         if (page.get(1).text().equalsIgnoreCase("table")) {
             tableReader(page.get(0).text());
         } else {
-            textReader(page.get(0).text());
+            //textReader(page.get(0).text());
         }
     }
 
@@ -98,11 +100,11 @@ public class EquipmentScraper {
                 break;
             }
         }
-        //create table and add entries.
+        //creates json array and entries.
         if (tableCheck) {
-            createTable(tempHeadings);
             for (ArrayList<ArrayList<String>> arrayLists : pageTables) {
-                addEntries(tempHeadings, arrayLists);
+                System.out.println(pageName);
+                addToMongo(tempHeadings, arrayLists);
             }
         }
     }
@@ -146,35 +148,29 @@ public class EquipmentScraper {
             }
         }
         //todo: test all headings match
-        createTable(pageHeadings.get(0));
+        //buildJson(pageHeadings.get(0));
         for (ArrayList<ArrayList<String>> table: pageTables) {
             addEntries(pageHeadings.get(0),table);
         }
 
     }
 
+//TODO: get working, rows need to be new json
     /**
      * creates the table in the database ships with the found column headings.
      * @param columnHeadings ArrayList
      */
-    private void createTable(ArrayList<String> columnHeadings) {
-        System.out.println(pageName);
-        StringBuilder table = new StringBuilder();
-        table.append("CREATE TABLE ")
-                .append(pageName)
-                .append("(");
-        for (int i = 0; i < columnHeadings.size(); i++) {
-            table.append(columnHeadings.get(i).replace(" ","_"));
-            if (i == 0) {
-                table.append("     TEXT NOT NULL, ");
-            } else if (i == columnHeadings.size() - 1) {
-                table.append("     TEXT)");
-            } else {
-                table.append("     TEXT, ");
+    private void addToMongo(ArrayList<String> columnHeadings, ArrayList<ArrayList<String>> rows) {
+        for (ArrayList<String> row: rows) {
+            org.bson.Document doc = new org.bson.Document();
+            for (int i = 0; i < row.size(); i++) {
+                if (columnHeadings.get(i).equalsIgnoreCase("type")) {
+                    doc.append("type", pageName);
+                } else {
+                    doc.append(columnHeadings.get(i), row.get(i));
+                }
             }
-        }
-        if (columnHeadings.size() > 0) {
-            //SQLite.createTable("equipment",pageName,table.toString());
+            mongo.addEntry("equipment." + pageName, doc);
         }
     }
 
@@ -186,33 +182,23 @@ public class EquipmentScraper {
      * @param rows ArrayList of Lists of strings.
      */
     private void addEntries(ArrayList<String> columnHeadings, ArrayList<ArrayList<String>> rows) {
-        StringBuilder sql = new StringBuilder();
-        sql.append("INSERT INTO ").append(pageName).append("(");
-        for (int i = 0; i < columnHeadings.size(); i++) {
-            sql.append(columnHeadings.get(i).replace(" ","_"));
-            if (i == columnHeadings.size() - 1) {
-                sql.append(")");
-            } else {
-                sql.append(",");
-            }
-        }
-        sql.append("VALUES ('");
+
         ArrayList<String> inserts = new ArrayList<>();
-        String base = sql.toString();
+        //String base = sql.toString();
         for (ArrayList<String> values:rows) {
-            sql = new StringBuilder();
+            //sql = new StringBuilder();
             for (int i = 0; i < values.size(); i++) {
                 String editValue = values.get(i).replace("'","_");
-                sql.append(editValue);
+                //sql.append(editValue);
                 if (i == values.size() - 1) {
-                    sql.append("');");
+                    //sql.append("');");
                 } else {
-                    sql.append("','");
+                    //sql.append("','");
                 }
             }
-            if (!sql.toString().contains("VALUES ('')")) {
-                inserts.add(base + sql);
-            }
+            //if (!sql.toString().contains("VALUES ('')")) {
+           //     inserts.add(base + sql);
+           // }
         }
         //SQLite.AddRecord("equipment",inserts,pageName);
     }
