@@ -1,9 +1,15 @@
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonParser;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import org.jsoup.nodes.Node;
 import org.jsoup.parser.Parser;
 import org.jsoup.select.Elements;
 
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
@@ -13,7 +19,7 @@ public class EquipmentScraper {
     private Elements page;
     private String pageName;
     private Document webDoc;
-    private MongoUtils mongo;
+    //private MongoUtils mongo;
 
     /**
      * creates json files from the equipment pages on aonsrd.com.
@@ -23,12 +29,27 @@ public class EquipmentScraper {
             InputStream is = this.getClass().getResourceAsStream("/archives.xml");
             Document doc = Jsoup.parse(is, null, "", Parser.xmlParser());
             Elements pages = doc.getElementsByTag("equipment").get(0).children();
-            mongo = new MongoUtils("localhost", 27017);
+            //mongo = new MongoUtils("localhost", 27017);
+            //StringBuilder json = new StringBuilder();
+            //json.append("{");
+            //String comma = " ";
             for (Element element : pages) {
+                //json.append(comma);
                 page = element.children();
                 pageName = element.nodeName();
-                read();
+                if (pageName.equalsIgnoreCase("tech_items")) read();
+                //json.append(pageName).append(": ");
+                //json.append(read());
+                //comma = ", ";
+                //System.out.println(pageName + " added to json");
             }
+            //json.append("}");
+            //Gson gson = new GsonBuilder().setPrettyPrinting().create();
+            //JsonParser parser = new JsonParser();
+            //JsonElement element = parser.parse(json.toString());
+            //FileWriter writer = new FileWriter("test.json");
+            //writer.write(gson.toJson(element));
+            //writer.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -38,11 +59,12 @@ public class EquipmentScraper {
      * reads the page and sends the info to the correct methods for parsing and inserting.
      * @throws IOException e
      */
-    private void read() throws IOException {
+    private String read() throws IOException {
         if (page.get(1).text().equalsIgnoreCase("table")) {
-            tableReader(page.get(0).text());
+            return tableReader(page.get(0).text());
         } else {
             //textReader(page.get(0).text());
+            return "";
         }
     }
 
@@ -51,7 +73,7 @@ public class EquipmentScraper {
      * @param url String of the page's url
      * @throws IOException e
      */
-    private void tableReader(String url) throws IOException {
+    private String tableReader(String url) throws IOException {
         //parse URL
         webDoc = Jsoup.connect(url)
                 .userAgent("Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 "
@@ -68,10 +90,12 @@ public class EquipmentScraper {
                 try {
                     tableName = table.parent().previousElementSibling().child(0).text();
                 } catch (IndexOutOfBoundsException e) {
-                    System.out.println("table name not found in " + pageName);
+                    //This is okay just means table name is page name.
+                    //System.out.println("table name not found in " + pageName);
                 }
                 Elements colHeadings = table.getElementsByTag("th");
                 ArrayList<String> headings = new ArrayList<>();
+                headings.add("source");
                 for (Element th : colHeadings) {
                     headings.add(th.text());
                 }
@@ -81,10 +105,26 @@ public class EquipmentScraper {
                 for (int i = 1; i < rows.size(); i++) {
                     ArrayList<String> row = new ArrayList<>();
                     Elements cols = rows.get(i).getElementsByTag("td");
+                    boolean name = true;
+                    String desc = "";
                     for (Element col: cols) {
+                        if (col.getElementsByTag("a").size() > 0 && name) {
+                            String link = "https://aonsrd.com/"
+                                    + col.getElementsByTag("a").get(0).attributes().get("href");
+                            desc = getDetails(link, col.text(), row);
+                            name = false;
+                        }
                         row.add(col.text());
                     }
-                    row.add(tableName);
+                    if (tableName.equalsIgnoreCase("")) {
+                        row.add(pageName);
+                    } else {
+                        row.add(tableName);
+                    }
+                    if (desc.length() > 0) {
+                        row.add(desc);
+                        headings.add("desc");
+                    }
                     tableArray.add(row);
                 }
                 pageTables.add(tableArray);
@@ -102,11 +142,120 @@ public class EquipmentScraper {
         }
         //creates json array and entries.
         if (tableCheck) {
+            StringBuilder jsonArray = new StringBuilder();
+            jsonArray.append("[");
+            String comma = " ";
             for (ArrayList<ArrayList<String>> arrayLists : pageTables) {
-                System.out.println(pageName);
-                addToMongo(tempHeadings, arrayLists);
+                jsonArray.append(comma);
+                addToMongo(tempHeadings, arrayLists,jsonArray);
+                comma = ", ";
             }
+            jsonArray.append("]");
+            Gson gson = new GsonBuilder().setPrettyPrinting().create();
+            JsonParser parser = new JsonParser();
+            JsonElement element = parser.parse(jsonArray.toString());
+            FileWriter writer = new FileWriter("jsons/" + pageName + ".json");
+            writer.write(gson.toJson(element));
+            writer.close();
+            return gson.toJson(element);
         }
+        return "";
+    }
+
+    private String getDetails(String link, String item, ArrayList<String> row) throws IOException {
+
+        try {
+            Document page = Jsoup.connect(link)
+                    .userAgent("Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 "
+                            + "(KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36")
+                    .timeout(0).followRedirects(true).execute().parse();
+            Elements tables = page.getElementsByTag("table");
+            Elements spans = tables.get(0).getElementsByTag("span");
+            Elements sections = spans.get(0).getElementsByTag("h2");
+            Elements h1Sections = spans.get(0).getElementsByTag("h1");
+            for (Element section : sections) {
+                if (section.nextElementSibling().tagName().equalsIgnoreCase("h1")) {
+                    section = section.nextElementSibling();
+                }
+                if (section.text().equalsIgnoreCase(item)) {
+                    //finds the items source.
+                    Element currentElm = section.nextElementSibling().nextElementSibling();
+                    String source = currentElm.text();
+                    row.add(source);
+                    currentElm = currentElm.nextElementSibling();
+                    //finds the items descriptions.
+                    //todo: find last main item value, current guess is type.
+                    while (currentElm.tagName().equalsIgnoreCase("b") || currentElm.nextElementSibling().tagName().equalsIgnoreCase("b")) {
+                        currentElm = currentElm.nextElementSibling();
+                        if (currentElm.tagName().equalsIgnoreCase("hr")) {
+                            //todo: get desc
+                            return "top desc: hr";
+                        } else if (currentElm.tagName().equalsIgnoreCase("h3")) {
+                            //todo: get all text after breaks.
+                            return currentElm.nextSibling().toString();
+                        } else if (currentElm.tagName().equalsIgnoreCase("h2")) {
+                            System.out.println("top desc: h2");
+                            return "top desc: h2";
+                        } else if (currentElm.tagName().equalsIgnoreCase("a")) {
+                            System.out.println("a tag found");
+                            return " ";
+                        }
+                        //System.out.println(currentElm.tagName());
+                    }
+                    //Finds descriptions that contains <i> tags and loops to get all information.
+                    if (currentElm != null && currentElm.nextElementSibling() != null && currentElm.nextElementSibling().tagName().equalsIgnoreCase("i")) {
+                        Node node = currentElm.nextSibling();
+                        StringBuilder descBuilder = new StringBuilder();
+                        while (!node.toString().contains("<br>")) {
+                            descBuilder.append(node.toString().replace("<i>","").replace("</i>",""));
+                            node = node.nextSibling();
+                        }
+                        return descBuilder.toString();
+                    }
+                    //Looks to see if there is two <br> elements in a row which is where descriptions are stored
+                    else if (currentElm != null && currentElm.nextElementSibling() != null
+                            && currentElm.tagName().equalsIgnoreCase(currentElm.nextElementSibling().tagName())) {
+                        //if nothing is between the <br> tags then the desc is at the top of the span
+                        if (currentElm.nextSibling().toString().equalsIgnoreCase("<br>")) {
+                            Elements h1 = spans.get(0).getElementsByTag("h1");
+                            Node node = h1.get(0).nextSibling();
+                            StringBuilder descBuilder = new StringBuilder();
+                            while (!node.toString().contains("<h2 ")) {
+                                if (node.toString().equalsIgnoreCase("<br>")) {
+                                    descBuilder.append(System.getProperty("line.separator"));
+                                } else {
+                                    descBuilder.append(node);
+                                }
+                                node = node.nextSibling();
+                            }
+                            return descBuilder.toString();
+                        }
+                        return currentElm.nextSibling().toString();
+                    }
+                }
+            }
+            for (Element e: h1Sections) {
+                if (e.text().equalsIgnoreCase(item)) {
+                    System.out.println(item + ": " + e.text());
+                }
+                if (e.text().equalsIgnoreCase(item)) {
+                    //finds the items source.
+                    Element currentElm = e.nextElementSibling().nextElementSibling();
+                    String source = currentElm.text();
+                    row.add(source);
+                }
+            }
+            System.out.println("~~~~~~~~~~~~~~~~");
+        } catch (IndexOutOfBoundsException e) {
+            System.out.println(pageName + ": " + item);
+        }
+        return "";
+
+
+    }
+
+    private void getTop() {
+
     }
 
     private void textReader(String url) throws IOException {
@@ -159,19 +308,21 @@ public class EquipmentScraper {
     /**
      * creates the table in the database ships with the found column headings.
      * @param columnHeadings ArrayList
+     * @return
      */
-    private void addToMongo(ArrayList<String> columnHeadings, ArrayList<ArrayList<String>> rows) {
+    private String addToMongo(ArrayList<String> columnHeadings, ArrayList<ArrayList<String>> rows, StringBuilder jsonArray) {
+        String comma = "";
         for (ArrayList<String> row: rows) {
+            jsonArray.append(comma);
             org.bson.Document doc = new org.bson.Document();
             for (int i = 0; i < row.size(); i++) {
-                if (columnHeadings.get(i).equalsIgnoreCase("type")) {
-                    doc.append("type", pageName);
-                } else {
-                    doc.append(columnHeadings.get(i), row.get(i));
-                }
+                doc.append(columnHeadings.get(i), row.get(i));
             }
-            mongo.addEntry("equipment." + pageName, doc);
+            jsonArray.append(doc.toJson());
+            comma = ", ";
+            //mongo.addEntry("equipment." + pageName, doc);
         }
+        return null;
     }
 
     /**
