@@ -1,0 +1,228 @@
+[
+  {
+    "source": "SFS Scenario #1-09: Live Exploration Extreme! pg. 26",
+    "Armor Model": "Goblin Battle Jack",
+    "Level": "2",
+    "Price": "950",
+    "type": "powered_armor",
+    "desc": "A set of goblin armor."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 204",
+    "Armor Model": "Cargo Lifter",
+    "Level": "4",
+    "Price": "2,150",
+    "type": "powered_armor",
+    "desc": "A cargo lifter consists of a simple metal frame atop slow-moving legs or treads. Rather than having articulated hands, its arms end in specialized gripping tools meant to lift bulky containers. A cargo lifter can’t use weapons and takes a –4 penalty to all attack rolls. It can carry 10 bulk more than normal for its Strength score without becoming encumbered or overburdened."
+  },
+  {
+    "source": "Starfinder #29: The Cradle Infestation pg. 49",
+    "Armor Model": "Encounter Suit",
+    "Level": "4",
+    "Price": "2,800",
+    "type": "powered_armor",
+    "desc": "This armor is made of rubbery blue material grown by barathu conglomerates. It\u0027s most popular among early-stage barathus who are not yet as skilled at adapting to various environments."
+  },
+  {
+    "source": "Starfinder Armory pg. 78",
+    "Armor Model": "Scrapper\u0027s Rig",
+    "Level": "4",
+    "Price": "2,150",
+    "type": "powered_armor",
+    "desc": "Most often constructed by desperate scavengers or goblins, a scrapper’s rig is a mismatched, ungainly amalgamation of exposed wires, steel plates, and leaky hydraulics. You cannot run or charge when wearing a scrapper’s rig."
+  },
+  {
+    "source": "Starfinder Armory pg. 74",
+    "Armor Model": "Absorptive Shell",
+    "Level": "5",
+    "Price": "3,375",
+    "type": "powered_armor",
+    "desc": "This powered armor consists of a thin frame around a central command unit (which fits around the torso for a typical wearer), covered in form-fitting plates filled with a rheopectic fluid that hardens when struck, dispersing force throughout the armor and absorbing crushing blows. Although an absorptive shell provides significant protection, the fluid-filled plates can’t support a weapon mount."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 204",
+    "Armor Model": "Battle Harness",
+    "Level": "5",
+    "Price": "3,450",
+    "type": "powered_armor",
+    "desc": "The battle harness is the basic powered armor frame used by infantry units in professional militaries."
+  },
+  {
+    "source": "Starfinder Armory pg. 78",
+    "Armor Model": "Spacer Carapace",
+    "Level": "6",
+    "Price": "4,650",
+    "type": "powered_armor",
+    "desc": "This powered armor resembles a bulky humanoid insect, including helmet-mounted oxygen canisters that appear as stylized mandibles. The armor’s wide boots contain powerful magnets useful for navigating the exterior of starships and space stations for repair work or guard duty. You can move your land speed across metal surfaces in zero gravity without having to attempt checks; if you are adjacent to a metal surface, you do not automatically move at the beginning of your turn each round. You also gain a +2 circumstance bonus to your AC against bull rush and trip combat maneuvers when you are standing on a metal surface."
+  },
+  {
+    "source": "Alien Archive 2 pg. 11",
+    "Armor Model": "Laborer Frame",
+    "Level": "7",
+    "Price": "7,500",
+    "type": "powered_armor",
+    "desc": "A laborer frame resembles an anacite laborer. These armor frames allow weapon and upgrade modifications, mimicking the ways in which anacite laborers improve themselves. The frame is also reconfigurable for movement. When you buy the armor, the movement is set to one mode that you choose, but this mode can be changed with 1 hour of work using an engineering toolkit or tech workshop. The possible modes are detailed below."
+  },
+  {
+    "source": "Starfinder Armory pg. 78",
+    "Armor Model": "Personal Submersible",
+    "Level": "7",
+    "Price": "7,200",
+    "type": "powered_armor",
+    "desc": "This bulky, bulbous armor is made of pressure-resistant plates with durable seals. Retractable ridges along the armor’s arms, legs, and back function as fins, providing increased mobility in most fluids. The armor grants you a swim speed and allows you to both breathe underwater and survive the pressure of thick atmospheres and great depths even when your environmental protections are not active."
+  },
+  {
+    "source": "Starfinder #38: Crash and Burn pg. 55",
+    "Armor Model": "Cargo Hauler",
+    "Level": "8",
+    "Price": "9,500",
+    "type": "powered_armor",
+    "desc": "Similar in appearance to a cargo lifter, a cargo hauler consists of sturdy legs or treads supporting a basic metal frame. Large gripping appendages allow the user to lift and transport large crates and other bulky pieces of cargo. A cargo hauler isn’t designed to use weapons and takes a –2 penalty to all attack rolls. It can carry 10 bulk more than normal for its Strength score without becoming encumbered or overburdened."
+  },
+  {
+    "source": "Spellcaster\u0027s Aegis",
+    "Armor Model": "8",
+    "Level": "10,250",
+    "Price": "powered_armor"
+  },
+  {
+    "source": "Starfinder Armory pg. 75",
+    "Armor Model": "Brawler Frame",
+    "Level": "9",
+    "Price": "14,500",
+    "type": "powered_armor",
+    "desc": "Designed for brutal gladiatorial matches against other fighters in powered armor, a brawler frame consists of nanotech shock absorbers sandwiched between rigid metal plates. The default frame comes with blunt piston-powered fists designed to deal bludgeoning damage, but customized models with heavy blades or picks (dealing slashing or piercing damage, respectively) are not uncommon. Many owners paint their brawler frames with garish colors to be more distinctive in the arena."
+  },
+  {
+    "source": "SFS Scenario #3–04: The Vast Experiment: Falling into Deliverance pg. 31",
+    "Armor Model": "Hover Suit",
+    "Level": "9",
+    "Price": "13,300",
+    "type": "powered_armor",
+    "desc": "The powered armor is a hover suit, a miniaturized version of the more powerful flight frame armor better suited to maneuvering and performing heavy repairs."
+  },
+  {
+    "source": "Starfinder Armory pg. 78",
+    "Armor Model": "Ironclad Bulwark",
+    "Level": "10",
+    "Price": "19,250",
+    "type": "powered_armor",
+    "desc": "This heavy suit of reinforced metal and polymer powered armor provides superior protection at the expense of mobility. It can mount melee weapons in its weapon slots, rather than only ranged weapons."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 204",
+    "Armor Model": "Spider Harness",
+    "Level": "10",
+    "Price": "19,500",
+    "type": "powered_armor",
+    "desc": "This suspension harness has six arachnid legs. Each leg has a gravitic attraction device at the tip, allowing the armor to climb up walls and even walk across ceilings. The armor grants the wearer a climb speed of 25 feet. A spider harness also has powered arm braces that attach to the wearer’s arms, allowing the wearer to use weapons."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 204",
+    "Armor Model": "Flight Frame",
+    "Level": "11",
+    "Price": "27,100",
+    "type": "powered_armor",
+    "desc": "This massive, sleek machine is shaped like a person and equipped with powerful thrusters built into the feet and attached to the back, giving it a fly speed with average maneuverability."
+  },
+  {
+    "source": "Stag-Step Suit",
+    "Armor Model": "11",
+    "Level": "26,400",
+    "Price": "powered_armor"
+  },
+  {
+    "source": "Celerity Rigging",
+    "Armor Model": "12",
+    "Level": "38,500",
+    "Price": "powered_armor"
+  },
+  {
+    "source": "Starfinder Armory pg. 79",
+    "Armor Model": "Winter Walker",
+    "Level": "13",
+    "Price": "52,100",
+    "type": "powered_armor",
+    "desc": "The thick legs of this heavily insulated armor end in short retractable spikes, allowing you to easily anchor yourself to most surfaces. You gain a +2 bonus to your AC when resisting bull rush, reposition, and trip combat maneuvers as long as you are standing on the ground. You and the armor are immune to cold damage and cold environments, even when your environmental protections are not active. Your movement is not slowed by icy surfaces, and the DCs of Acrobatics checks you attempt on such surfaces do not increase. "
+  },
+  {
+    "source": "Starfinder Armory pg. 75",
+    "Armor Model": "Explorer\u0027s Cradle",
+    "Level": "14",
+    "Price": "79,000",
+    "type": "powered_armor",
+    "desc": "Travelers on alien worlds must be prepared to confront a variety of difficult environments. This long-range powered armor resembles a humanoid torso atop several bristly metal tendrils ending in sharp, grasping claws. The armor has comfortable seating and a supply of nutritious paste delivered intravenously; while wearing an explorer’s cradle, you do not need to eat or drink. As a standard action, you can extend and reshape the tentacles into a variety of forms resembling limbs, fins, or wings, gaining one of the following abilities until you next rearrange the tentacles."
+  },
+  {
+    "source": "Starfinder Armory pg. 75",
+    "Armor Model": "Commander\u0027s Harness",
+    "Level": "15",
+    "Price": "122,500",
+    "type": "powered_armor",
+    "desc": "A reinforced version of the standard battle harness, this powered armor frame is most often used by squad leaders commanding units of heavily armored soldiers. Its larger size helps leaders of entire armored battalions maintain visibility and control during a confrontation."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 204",
+    "Armor Model": "Jarlslayer",
+    "Level": "15",
+    "Price": "125,500",
+    "type": "powered_armor",
+    "desc": "The dwarven-built jarlslayer suit is traditionally shaped like a stocky, heavily armored dwarf with articulated hands, though other races have created sleeker, more modern-looking versions."
+  },
+  {
+    "source": "Angel Frame",
+    "Armor Model": "16",
+    "Level": "191,000",
+    "Price": "powered_armor"
+  },
+  {
+    "source": "Kyton Bloodsuit",
+    "Armor Model": "16",
+    "Level": "187,750",
+    "Price": "powered_armor"
+  },
+  {
+    "source": "Extradimensional Armor",
+    "Armor Model": "17",
+    "Level": "278,200",
+    "Price": "powered_armor"
+  },
+  {
+    "source": "Starfinder Armory pg. 78",
+    "Armor Model": "Reactor Guard",
+    "Level": "17",
+    "Price": "271,000",
+    "type": "powered_armor",
+    "desc": "This heavy, awkward armor is built with the highest levels of radiation shielding and anti-radiation materials known in the Pact Worlds. Primarily used to lift ultra-dense materials within reactor cores, reactor guard armor is useful for anyone fighting or working in areas with toxic levels of radiation. You and the armor are both immune to radiation even when your environmental protections are not active, and you can’t contract radiation sickness while wearing the armor."
+  },
+  {
+    "source": "Starfinder Armory pg. 79",
+    "Armor Model": "Surnoch Suit",
+    "Level": "18",
+    "Price": "405,000",
+    "type": "powered_armor",
+    "desc": "This sturdy gray suit of powered armor has rows of fine blades running along the body and limbs, which serve as digging claws; it is often used by elite sapper teams to reach entrenched enemies. A surnoch suit grants you a burrow speed. You can tunnel through rock while wearing a surnoch suit, but your speed is reduced to 5 feet."
+  },
+  {
+    "source": "Thrall Hardshell",
+    "Armor Model": "19",
+    "Level": "615,500",
+    "Price": "powered_armor"
+  },
+  {
+    "source": "Starfinder Armory pg. 79",
+    "Armor Model": "Warmaster\u0027s Harness",
+    "Level": "19",
+    "Price": "610,000",
+    "type": "powered_armor",
+    "desc": "The most sophisticated and powerful version of the common powered battle harness, the warmaster’s harness resembles a towering, armored titan. Its wide shoulder frame normally mounts short-range communication equipment to orchestrate troop movements or an enormous banner to identify military affiliation. It is often used by the generals of entire armies (or by assistants to such generals, in cases where the general cannot be risked directly on the front lines)."
+  },
+  {
+    "source": "Starfinder Armory pg. 79",
+    "Armor Model": "Starguard",
+    "Level": "20",
+    "Price": "904,500",
+    "type": "powered_armor",
+    "desc": "This shimmering golden armor is made primarily of reinforced esaris, a extremely light and durable proprietary material developed by the kasathan doyenate. One of the most expensive and well-designed armors produced by kasathans, starguard deflects energy attacks nearly as effectively as its reinforced frame absorbs physical blows. The interior of the helmet provides continuous status updates about your surroundings, providing you blindsight (vibration) with a range of 120 feet."
+  }
+]

@@ -1,0 +1,713 @@
+[
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Prosthetic Limb, Standard",
+    "Level": "1",
+    "Price": "100",
+    "System": "Arm and hand, or leg and foot",
+    "type": "augmentations_cybernetics",
+    "desc": "This prosthesis replaces a missing limb. It restores functionality, but it is no more durable than and doesn’t otherwise function differently than a normal limb for your species. A prosthetic limb can replace one you’ve lost, or you can have a limb removed in order to replace it with a prosthetic.\n\n A storage prosthetic limb has a built-in concealed storage compartment, which functions as a hideaway limb (see above).\n"
+  },
+  {
+    "source": "Starfinder #31: Waking the Worldseed pg. 53",
+    "Name": "Anosmatic Shunt",
+    "Level": "1",
+    "Price": "120",
+    "System": "Lungs",
+    "type": "augmentations_cybernetics",
+    "desc": "Popular with long-term visitors to Hibb, this cybernetic chip does only one thing; as a swift action, or as a reaction when you would be affected by a scent-based effect, you can choose to lose your sense of smell. You lose any abilities dependent on scent but become immune to sense-dependent effects that rely on scent. You can deactivate the anosmatic shunt and regain your sense of smell as a swift action."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Vocal Modulator",
+    "Level": "1",
+    "Price": "125",
+    "System": "Throat",
+    "type": "augmentations_cybernetics",
+    "desc": "A vocal modulator includes a series of miniature actuators built specifically to reshape your voice box, along with miniature hyper-resonant chambers that dynamically close or open. This allows you to change the pitch, timbre, and tone of your voice. You can more easily imitate accents or pronounce alien languages. When using Disguise to change your appearance, you gain a +2 circumstance bonus if the change in your voice also helps your disguise (at the GM’s discretion)."
+  },
+  {
+    "source": "Alien Archive pg. 11",
+    "Name": "Voice Amplifier",
+    "Level": "1",
+    "Price": "125",
+    "System": "Throat",
+    "type": "augmentations_cybernetics",
+    "desc": "A voice amplifier greatly increases the volume of your voice. You can switch a voice amplifier on or off as a swift action. When activated, a voice amplifier grants a +2 circumstance bonus to Intimidate checks and lowers the DCs of other creatures’ Perception checks to hear you speaking by 5."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Hideaway Limb, Standard",
+    "Level": "1",
+    "Price": "150",
+    "System": "Arm or leg",
+    "type": "augmentations_cybernetics",
+    "desc": "This compartment is hidden inside one of your limbs. You can conceal items inside and protect them with a simple passcode. The compartment can hold items of negligible bulk and items of light bulk that are either relatively small or can be folded or contracted to fit. A hideaway in a leg (in a human) can hold more than one in an arm, and the creature’s size also adjusts the capacity. The GM decides what can fit.\n\n When the compartment is closed, the seam in your flesh is difficult to detect. You gain a +2 bonus to Sleight of Hand checks to conceal items in a hideaway limb. Though this compartment can usually foil a simple pat down, most security checkpoints include a scan that can detect such devices. Retrieving an item from a hideaway limb is a move action instead of a standard action.\n\n This type of augmentation is for Small and Medium creatures only. Hideaway limbs for creatures larger than Medium typically cost more but can hold items of greater size or bulk.\n\n If you have a quickdraw hideaway limb, the compartment is integrated with a specific weapon. This allows you to draw the weapon as a swift action or as part of making an attack or full attack (similar to using the Quick Draw feat). A quickdraw hideaway limb works only if the limb is one you can normally aim and attack with, typically an arm. You can’t, for example, put a quickdraw hideaway limb in your leg and have the weapon spring into your hand.\n\n You can have a mount installed in a quickdraw limb that holds the weapon in place while you shoot. You still can’t use your hand for other purposes, but you gain a +2 bonus to KAC against disarm attempts. The mount can’t hold a weapon that requires more than one hand to operate. You can’t hide other objects inside a quickdraw hideaway limb—there’s room for only the weapon.\n\n Nothing stored in a hideaway limb is considered part of the cybernetic, and the stored item does not gain the cybernetic’s immunity to attacks affecting technological devices.\n"
+  },
+  {
+    "source": "SFS Scenario #1-01: The Commencement pg. 4",
+    "Name": "Society Subdermal Graft, Single",
+    "Level": "1",
+    "Price": "150",
+    "System": "Hand",
+    "type": "augmentations_cybernetics",
+    "desc": "This implant rests underneath the skin of the palm of one hand, or at the end of a tentacle or similar appendage in species that lack hands. The augmentation can be activated or deactivated mentally as a swift action. Activating the implant causes a rendition of the Starfinder Society’s symbol to glow underneath the skin. This augmentation acts as a mark, letting others know you are a member of the Starfinder Society. It also increases the light level within 5 feet by one step while active.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Respiration Compounder",
+    "Level": "1",
+    "Price": "250",
+    "System": "Lungs",
+    "type": "augmentations_cybernetics",
+    "desc": "A respiration compounder consists of a series of modules that attach to your lungs, letting you survive longer without having to breathe. Treat your Constitution score as though it were doubled for the purpose of how long you can hold your breath. You also gain a +4 bonus to Constitution checks to continue holding your breath. This doesn’t protect you from other dangers of an airless environment."
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 45",
+    "Name": "Lightvision Shades",
+    "Level": "2",
+    "Price": "500",
+    "System": "Eyes",
+    "type": "augmentations_cybernetics",
+    "desc": "This augmentation is a pair of sunglasses (your choice of style when you purchase them) that are integrated into your head. You can extend or retract these lenses as a swift action. While you have the lightvision shades active, you treat light levels of normal light and brighter as if they were areas of dim light. In addition, while the shades are active, you gain a +4 circumstance bonus to saving throws against effects that inflict the blinded or dazzled condition."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Datajack, Standard",
+    "Level": "2",
+    "Price": "625",
+    "System": "Brain",
+    "type": "augmentations_cybernetics",
+    "desc": "This cybernetic includes a programmable data port that allows you to access different types of computers and digital storage media. Any handheld computer can be inserted directly into the port, while larger systems need to be connected by an adapter cable. Having the system connected directly to your nervous system obviates the need for an interface to access data on a system. Actually operating the system requires you to use the Computers skill as usual. Some closed systems don’t allow data access or require you to do some rewiring to connect with a datajack (usually an Engineering check).\n\n Advanced datajacks make it easier to process and send information through the datajack. With a high-density datajack, you gain a +1 circumstance bonus to Computer checks when accessing a system via your datajack. An accelerated datajack instead provides a +2 bonus.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "Spinal Struts, Minimal",
+    "Level": "3",
+    "Price": "1,260",
+    "System": "Spinal column",
+    "type": "augmentations_cybernetics",
+    "desc": "Your spinal cartilage is replaced with synthetic cushions and your vertebrae are reinforced. If you have a minimal spinal strut augmentation, treat your Strength as 1 higher for the purpose of determining your bulk limit. If you have standard or reinforced spinal struts, treat your Strength as 2 or 3 higher, respectively, for the purpose of determining your bulk limit.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Retinal Reflectors",
+    "Level": "3",
+    "Price": "1,350",
+    "System": "Eyes",
+    "type": "augmentations_cybernetics",
+    "desc": "These sheets of reflective material can be implanted behind the retina, granting you low-light vision and a +1 enhancement bonus to vision-based Perception checks."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Prosthetic Limb, Storage",
+    "Level": "3",
+    "Price": "1,450",
+    "System": "Arm and hand, or leg and foot",
+    "type": "augmentations_cybernetics",
+    "desc": "This prosthesis replaces a missing limb. It restores functionality, but it is no more durable than and doesn’t otherwise function differently than a normal limb for your species. A prosthetic limb can replace one you’ve lost, or you can have a limb removed in order to replace it with a prosthetic.\n\n A storage prosthetic limb has a built-in concealed storage compartment, which functions as a hideaway limb (see above).\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "Optical Laser, Azimuth",
+    "Level": "3",
+    "Price": "1,530",
+    "System": "Eye",
+    "type": "augmentations_cybernetics",
+    "desc": "This system replaces one of your eyes with a compact laser weapon that functions as a small arm with the integrated weapon special property and deals damage based on its model. An optical laser has a 50-foot range increment, and it can’t be disarmed. Once you’ve used the optical laser for a single attack, its tiny battery is depleted; you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDamage\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eCritical\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAzimuth\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n   \u003ctd\u003e1,530\u003c/td\u003e\n   \u003ctd\u003e1d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 1d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eCorona\u003c/td\u003e\n   \u003ctd\u003e7\u003c/td\u003e\n   \u003ctd\u003e7,140\u003c/td\u003e\n   \u003ctd\u003e2d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 1d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAphelion\u003c/td\u003e\n   \u003ctd\u003e11\u003c/td\u003e\n   \u003ctd\u003e26,520\u003c/td\u003e\n   \u003ctd\u003e3d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 2d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eParallax\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e122,400\u003c/td\u003e\n   \u003ctd\u003e4d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 2d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eZenith\u003c/td\u003e\n   \u003ctd\u003e19\u003c/td\u003e\n   \u003ctd\u003e612,000\u003c/td\u003e\n   \u003ctd\u003e5d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 3d6\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Darkvision Capacitors, Standard",
+    "Level": "3",
+    "Price": "1,750",
+    "System": "Eyes",
+    "type": "augmentations_cybernetics",
+    "desc": "These replacement eyes allow you to see in total darkness, giving you darkvision with a range of 60 feet. They operate by sending out low-powered ultraviolet lasers that are then detected by receptors within the capacitors. When your capacitors are in operation, their lasers can be detected by creatures that have darkvision capacitors or can otherwise see ultraviolet light.\n\n Advanced darkvision capacitors have the benefits of a wide-spectrum ocular implant (see page 211). Long-range darkvision capacitors function like advanced capacitors but provide a darkvision range of 120 feet.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 88",
+    "Name": "Fortified Feet",
+    "Level": "4",
+    "Price": "1,850",
+    "System": "All feet",
+    "type": "augmentations_cybernetics",
+    "desc": "Built from a matrix of adamantine alloy prisms and regenerative ligaments, these feet are able to withstand significant punishment. You gain DR 5/— and energy resistance 5 against ground-based hazards that would harm you as you walk over them, such as electrified floors created by a computer’s shock grid defensive countermeasure, spikes, or puddles of acid."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Speed Suspension, Minimal",
+    "Level": "4",
+    "Price": "1,900",
+    "System": "All legs",
+    "type": "augmentations_cybernetics",
+    "desc": "You increase your land speed by replacing joints and tendons in your legs with high-performance cybernetics. A minimal speed suspension replaces only a few parts, increasing your land speed by 10 feet. A standard suspension is more invasive and increases your land speed by 20 feet. Replacing all your leg joints and tendons with a complete speed suspension increases your land speed by 30 feet. You can install a speed suspension into prosthetic legs. Extra speed from these augmentations is treated as an enhancement bonus.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "Threshold Buffer, Mk 1",
+    "Level": "4",
+    "Price": "2,080",
+    "System": "Heart",
+    "type": "augmentations_cybernetics",
+    "desc": "This system monitors your vitals, injecting a burst of synthetic adrenaline into your bloodstream when your body is on the brink of death. You gain a number of additional Resolve Points (depending on the model of your threshold buffer) that you can use or lose only when you are dying or stable, such as to avoid death, to stabilize, or to stay in the fight. These additional Resolve Points don’t count for the purpose of calculating how many Resolve Points you must spend to stabilize, and any unspent additional Resolve Points are lost the next time you take an 8-hour rest to regain your normal Resolve Points.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eResolve Points\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e4\u003c/td\u003e\n   \u003ctd\u003e2,080\u003c/td\u003e\n   \u003ctd\u003e1\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e9\u003c/td\u003e\n   \u003ctd\u003e13,500\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e110,000\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 45",
+    "Name": "Emotional Regulator",
+    "Level": "4",
+    "Price": "2,120",
+    "System": "Brain",
+    "type": "augmentations_cybernetics",
+    "desc": "This integrated processor is threaded into your brain by microfilaments that act as artificial synapses within the amygdala. These synthetic synapses subtly alter the transmission of emotional input, and you receive a +2 enhancement bonus to saves against confusion and fear effects. If you are affected by a confusion or fear effect, the duration of the effect is reduced by 1 round."
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "Weaponized Prosthesis, Mk 1",
+    "Level": "4",
+    "Price": "2,120",
+    "System": "Arm and hand",
+    "type": "augmentations_cybernetics",
+    "desc": "This prosthesis functions as a standard prosthetic arm but is lighter and hollowed in places to accommodate one weapon with the integrated weapon special property. A mk 1 weaponized prosthesis can accommodate one integrated weapon that takes up no more than one armor slot, whereas a mk 2 model can accommodate one integrated weapon that takes up no more than two armor slots.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eSlots\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e4\u003c/td\u003e\n   \u003ctd\u003e2,120\u003c/td\u003e\n   \u003ctd\u003e1\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e8\u003c/td\u003e\n   \u003ctd\u003e9,250\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder #26: Flight of the Sleepers pg. 52",
+    "Name": "Voice Encoder, Primal",
+    "Level": "4",
+    "Price": "2,250",
+    "System": "Throat",
+    "type": "augmentations_cybernetics",
+    "desc": "A voice encoder, often simply called a voxbox, is a cybernetic augmentation of your throat. When activated, the device takes control of your voice, speaking instructions in the artificial language known as Vox. This instruction is concealed inside a conventional Common phrase. A primal voice encoder allows you to use command as a spell-like ability. A sophisticate voice encoder allows you to use suggestion as a spell-like ability. Using a voice encoder is a standard action. You can use a voice encoder once per day, though you can spend 1 Resolve Point to use it again immediately.\n Before you can use a voice encoder, it must be programmed at a computer that can communicate with the voxbox wirelessly, through a datajack, or some other direct means. Programming a voxbox takes 1 minute. You program the device with the specific command or suggestion, as well as the Common phrase in which the instruction is hidden. (For example, the suggestion “Kill Raia Danviri” might be hidden behind the phrase, “I’m from the Stewards. Let me show you my badge.”) Until the voice encoder is reprogrammed, it can be used only to give the chosen command or suggestion, which is always concealed within the same Common phrase.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Datajack, High-Density",
+    "Level": "5",
+    "Price": "2,600",
+    "System": "Brains",
+    "type": "augmentations_cybernetics",
+    "desc": "This cybernetic includes a programmable data port that allows you to access different types of computers and digital storage media. Any handheld computer can be inserted directly into the port, while larger systems need to be connected by an adapter cable. Having the system connected directly to your nervous system obviates the need for an interface to access data on a system. Actually operating the system requires you to use the Computers skill as usual. Some closed systems don’t allow data access or require you to do some rewiring to connect with a datajack (usually an Engineering check).\n\n Advanced datajacks make it easier to process and send information through the datajack. With a high-density datajack, you gain a +1 circumstance bonus to Computer checks when accessing a system via your datajack. An accelerated datajack instead provides a +2 bonus.\n"
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 43",
+    "Name": "Solar Overload Conduit, Mk 1",
+    "Level": "5",
+    "Price": "2,640",
+    "System": "Skin",
+    "type": "augmentations_cybernetics",
+    "desc": "This augmentation takes the form of constellations connected with circuitry patterns, either on your palms (if you manifest a solar weapon) or on a large patch of your skin (if you manifest solar armor). Engineered with fanatical devotion to unlocking the potential of stars, solar overload conduits can grant solarians means to amplify their powers.\n\n If you are a solarian with a solar weapon and you have a solarian weapon crystal in your mote, when you hit a target with your solar weapon but do not score a critical hit, as a reaction you can overload your weapon crystal and apply your weapon crystal’s critical hit effect (if any) to the attack (do not roll your damage twice). You can use this ability a number of times per day equal to the solar overload conduit’s mark, but each time you do so, you immediately become unattuned.\n\n If you are a solarian with solar armor, when you take Hit Point damage from a creature within 100 feet of you, as a reaction you can dismiss your solar armor and send it as an arc of solar energy at the attacking creature, dealing an amount of fire damage equal to the damage dealt to you at the time you discharged your solar armor. The maximum damage you can reflect in this way is equal to 10 times the solar overload conduit’s mark. You can use this ability a number of times per day equal to the solar overload conduit’s mark, but when you do so, you immediately become unattuned.\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 45",
+    "Name": "Bionic Knee",
+    "Level": "5",
+    "Price": "2,750",
+    "System": "All legs",
+    "type": "augmentations_cybernetics",
+    "desc": "Complex actuators and servos are installed in your knees, giving you the power to make impressive leaps. You always count as having a running start when attempting Athletics checks to jump. In addition, you don’t fall prone if you fail an Athletics check to jump by 5 or more. Finally, the damage you take from the first 10 feet of a fall is converted into nonlethal damage, even if you aren’t falling onto a yielding surface."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Wide-Spectrum Ocular Implant",
+    "Level": "5",
+    "Price": "2,825",
+    "System": "Eyes",
+    "type": "augmentations_cybernetics",
+    "desc": "These cybernetic spheres replace your eyes entirely. You gain lowlight vision, as well as the ability to see infrared and ultraviolet light. These enhancements grant you a +2 bonus to vision-based Perception checks and allow you to notice some things people who can see only the red-violet light spectrum can’t, including the lasers from darkvision capacitors (see page 209). This doesn’t grant you darkvision, but in darkness you can see significant sources of heat due to your infrared vision."
+  },
+  {
+    "source": "Alien Archive pg. 11",
+    "Name": "Antitoxin Membrane",
+    "Level": "5",
+    "Price": "3,000",
+    "System": "Skin",
+    "type": "augmentations_cybernetics",
+    "desc": "An antitoxin membrane consists of a colony of nanobots that operate on the molecular level to counter certain toxins. An antitoxin membrane provides a +4 circumstance bonus to saving throws against contact and injury diseases and poisons."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Dermal Plating, Mk 1",
+    "Level": "5",
+    "Price": "3,025",
+    "System": "Skin",
+    "type": "augmentations_cybernetics",
+    "desc": "DR: 1"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Hideaway Limb, Quickdraw",
+    "Level": "5",
+    "Price": "3,050",
+    "System": "Arm or leg",
+    "type": "augmentations_cybernetics",
+    "desc": "This compartment is hidden inside one of your limbs. You can conceal items inside and protect them with a simple passcode. The compartment can hold items of negligible bulk and items of light bulk that are either relatively small or can be folded or contracted to fit. A hideaway in a leg (in a human) can hold more than one in an arm, and the creature’s size also adjusts the capacity. The GM decides what can fit.\n\n When the compartment is closed, the seam in your flesh is difficult to detect. You gain a +2 bonus to Sleight of Hand checks to conceal items in a hideaway limb. Though this compartment can usually foil a simple pat down, most security checkpoints include a scan that can detect such devices. Retrieving an item from a hideaway limb is a move action instead of a standard action.\n\n This type of augmentation is for Small and Medium creatures only. Hideaway limbs for creatures larger than Medium typically cost more but can hold items of greater size or bulk.\n\n If you have a quickdraw hideaway limb, the compartment is integrated with a specific weapon. This allows you to draw the weapon as a swift action or as part of making an attack or full attack (similar to using the Quick Draw feat). A quickdraw hideaway limb works only if the limb is one you can normally aim and attack with, typically an arm. You can’t, for example, put a quickdraw hideaway limb in your leg and have the weapon spring into your hand.\n\n You can have a mount installed in a quickdraw limb that holds the weapon in place while you shoot. You still can’t use your hand for other purposes, but you gain a +2 bonus to KAC against disarm attempts. The mount can’t hold a weapon that requires more than one hand to operate. You can’t hide other objects inside a quickdraw hideaway limb—there’s room for only the weapon.\n\n Nothing stored in a hideaway limb is considered part of the cybernetic, and the stored item does not gain the cybernetic’s immunity to attacks affecting technological devices.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 88",
+    "Name": "Force Matrix, Mk 1",
+    "Level": "5",
+    "Price": "3,300",
+    "System": "Hand",
+    "type": "augmentations_cybernetics",
+    "desc": "Your hand contains a matrix of energy-sensitive fibers that can shape a force field armor upgrade installed into armor you are wearing, focusing its strength in a particular direction. As a move action while your force field is active, you can designate an opponent you can see. Until the beginning of your next turn, your force field’s fast healing is halved, but against the designated opponent’s attacks, you increase your force field’s fortification percentage chance by 10% (maximum 100%) and gain DR/— based on the model of your force matrix. This benefit ends if you lose all the temporary Hit Points provided by your force field. The hand bearing the force matrix augmentation must be free to activate its abilities.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDR\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n   \u003ctd\u003e3,300\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e11\u003c/td\u003e\n   \u003ctd\u003e26,750\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e278,100\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 45",
+    "Name": "Detoxifier, Standard",
+    "Level": "5",
+    "Price": "3,500",
+    "System": "Heart",
+    "type": "augmentations_cybernetics",
+    "desc": "This synthetic organ replaces your liver, constantly filtering your bloodstream for toxic substances at a rate far more effective than that of an organic liver. The new organ is controlled by a wirelessly paired processor installed in your heart. When you have a standard detoxifier installed, you gain a +4 enhancement bonus to Fortitude saves against diseases, drugs, poisons, and radiation, and you are immune to addiction. Once per day when affected by a poison, you can roll your Fortitude save twice and take the better result. The enhanced detoxifier grants all of the above bonuses, as well as the ability to roll saving throws against poison twice per day. In addition, you automatically stabilize if reduced to 0 Hit Points as a result of damage from a poison. The elite detoxifier grants immunity to poison, as well as the bonuses to other Fortitude saves from the standard model.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Cardiac Accelerator",
+    "Level": "6",
+    "Price": "3,850",
+    "System": "Heart",
+    "type": "augmentations_cybernetics",
+    "desc": "This implant plugs directly into your heart and can be triggered to overclock the performance of your heart and circulatory system. When you run, charge, or take a move action to move, you can spend 1 Resolve Point to increase your speed (in the relevant mode of movement) by 20 feet for that action. This extra movement is treated as an enhancement bonus."
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 44",
+    "Name": "Adaptive Fingerprints",
+    "Level": "6",
+    "Price": "4,030",
+    "System": "All Hands",
+    "type": "augmentations_cybernetics",
+    "desc": "Originally created for military operatives but favored by criminals throughout the galaxy, these pads of nanotech-infused artificial flesh replace the skin of your palms and fingertips. You leave no identifying fingerprints behind when touching an object or surface, and you can’t be identified through your fingerprints. In addition, if you have access to records of another individual’s fingerprints, you can spend 1 Resolve Point to create wrinkled patterns in the pads that mimic those fingerprints for 1 hour, allowing you to bypass security features or leave false evidence."
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "Spinal Struts, Standard",
+    "Level": "6",
+    "Price": "4,030",
+    "System": "Spinal column",
+    "type": "augmentations_cybernetics",
+    "desc": "Your spinal cartilage is replaced with synthetic cushions and your vertebrae are reinforced. If you have a minimal spinal strut augmentation, treat your Strength as 1 higher for the purpose of determining your bulk limit. If you have standard or reinforced spinal struts, treat your Strength as 2 or 3 higher, respectively, for the purpose of determining your bulk limit.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "X-Legs, Basic",
+    "Level": "6",
+    "Price": "4,295",
+    "System": "All legs and feet",
+    "type": "augmentations_cybernetics",
+    "desc": "You enhance your stability by replacing your legs with a quartet of spiderlike limbs. Basic X-legs grant you a +4 circumstance bonus to your KAC against bull rush, reposition, and trip combat maneuvers. You also gain a +2 circumstance bonus to Reflex saving throws against effects that would knock you prone. Climbing X-legs include a gravitic-attraction device at the tip of each leg, allowing you to walk across walls and ceilings without using your hands; this grants you a climb speed of 25 feet.\n\n An X-legs system uses similar connection points as standard prosthetic legs, allowing you to detach your X-legs and attach a pair of prosthetic legs (which you must buy separately) in only 10 minutes, for situations where X-legs would attract unwanted attention.\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 45",
+    "Name": "Biosynthetic Nanites, Mk 1",
+    "Level": "6",
+    "Price": "4,450",
+    "System": "Skin",
+    "type": "augmentations_cybernetics",
+    "desc": "\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003cth\u003eModel\u003c/th\u003e\n   \u003cth\u003eLevel\u003c/th\u003e\n   \u003cth\u003ePrice\u003c/th\u003e\n   \u003cth\u003eTreat Wounds\u003c/th\u003e\n   \u003cth\u003eFast Healing\u003c/th\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n   \u003ctd\u003e4,450\u003c/td\u003e\n   \u003ctd\u003e2d8 Hit Points\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e9\u003c/td\u003e\n   \u003ctd\u003e13,700\u003c/td\u003e\n   \u003ctd\u003e3d8 Hit Points\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e13\u003c/td\u003e\n   \u003ctd\u003e50,900\u003c/td\u003e\n   \u003ctd\u003e6d8 Hit Points\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e Once injected into the body, these nanites congregate just under the epidermis and can quickly replicate to heal bodily injuries. This augmentation allows you to spend 1 Resolve Point as a swift action to activate the nanites’ treat wounds capability, instantly regaining a number of Hit Points depending on the model of biosynthetic nanites you have installed. In addition, once per day as a full action as long as you have Resolve Points remaining, you can overcharge the nanites to gain an amount of fast healing depending on the model of biosynthetic nanites you have installed for 1 minute. If you do so, you can’t activate the treat wounds capability of the augmentation until the next time you rest for 10 minutes to regain Stamina Points.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 88",
+    "Name": "Echolocators, Reactive",
+    "Level": "6",
+    "Price": "4,450",
+    "System": "Ears",
+    "type": "augmentations_cybernetics",
+    "desc": "As a swift action, you can fan out these replacement ears to triple their surface area, giving you blindsense (sound) with a range of 30 feet. Active and enhanced echolocators occupy both the ears and throat system, also allowing you to spend a move action to produce, receive, and process a series of subsonic chirps to gain the benefits of blindsight (sound) until the beginning of your next turn. The blindsight from active echolocators has a range of 30 feet, while the blindsight from enhanced echolocators has a range of 60 feet.\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 45",
+    "Name": "Polarizing Palm",
+    "Level": "7",
+    "Price": "5,850",
+    "System": "Hand",
+    "type": "augmentations_cybernetics",
+    "desc": "One of your hands contains a microscopic matrix of electromagnetically charged wires and nodes that is kept powered by your own nervous system. As long as you aren’t holding or wielding an item in that hand, you can use it as a standard action to make a melee attack roll against a target’s EAC. If you hit, a technological item that target is holding or wearing in a visible, accessible manner (such as on a belt) or a weapon that is powered by a battery that target is wielding loses 1d6+1 charges. This amount is doubled if you score a critical hit."
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 45",
+    "Name": "Limning Palm",
+    "Level": "7",
+    "Price": "6,300",
+    "System": "Hand",
+    "type": "augmentations_cybernetics",
+    "desc": "By injecting a colony of glowing nanites into the skin of one of your palms, you gain the ability to thwart stealthy foes. As a standard action, you can touch a creature (usually requiring a melee attack against EAC) to transfer some of your glowing nanites to it. For the next 5 minutes, the affected creature glows softly; it takes a –20 penalty to Stealth checks and is unable to benefit from the concealment usually provided by darkness. If the affected creature turns invisible while it is glowing, any others within line of sight of it are aware of its location. Once you use your limning palm, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points."
+  },
+  {
+    "source": "Alien Archive pg. 11",
+    "Name": "Shortwave Receiver-Transmitter",
+    "Level": "7",
+    "Price": "6,500",
+    "System": "Brain",
+    "type": "augmentations_cybernetics",
+    "desc": "A shortwave receiver-transmitter grants you the anacite’s shortwave ability: \"An anacite can communicate wirelessly. This acts as telepathy, but only with other creatures with this ability or constructs with the technological subtype.\""
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Dermal Plating, Mk 2",
+    "Level": "7",
+    "Price": "6,950",
+    "System": "Skin",
+    "type": "augmentations_cybernetics",
+    "desc": "DR: 2"
+  },
+  {
+    "source": "Starfinder #37: The White Glove Affair pg. 29",
+    "Name": "Illusion Refractor",
+    "Level": "7",
+    "Price": "7,000",
+    "System": "Eyes",
+    "type": "augmentations_cybernetics",
+    "desc": "An illusion refractor consists of two sets of ultrathin, prism-cut lenses implanted behind the retinas to spot irregularities in the motion of light around an illusion or disguise. You can see through technological holographic images, such as those produced by a holoskin, and gain a +2 circumstance bonus to Perception checks to see through magical illusions."
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "Optical Laser, Corona",
+    "Level": "7",
+    "Price": "7,140",
+    "System": "Eye",
+    "type": "augmentations_cybernetics",
+    "desc": "This system replaces one of your eyes with a compact laser weapon that functions as a small arm with the integrated weapon special property and deals damage based on its model. An optical laser has a 50-foot range increment, and it can’t be disarmed. Once you’ve used the optical laser for a single attack, its tiny battery is depleted; you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDamage\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eCritical\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAzimuth\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n   \u003ctd\u003e1,530\u003c/td\u003e\n   \u003ctd\u003e1d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 1d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eCorona\u003c/td\u003e\n   \u003ctd\u003e7\u003c/td\u003e\n   \u003ctd\u003e7,140\u003c/td\u003e\n   \u003ctd\u003e2d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 1d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAphelion\u003c/td\u003e\n   \u003ctd\u003e11\u003c/td\u003e\n   \u003ctd\u003e26,520\u003c/td\u003e\n   \u003ctd\u003e3d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 2d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eParallax\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e122,400\u003c/td\u003e\n   \u003ctd\u003e4d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 2d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eZenith\u003c/td\u003e\n   \u003ctd\u003e19\u003c/td\u003e\n   \u003ctd\u003e612,000\u003c/td\u003e\n   \u003ctd\u003e5d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 3d6\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Datajack, Accelerated",
+    "Level": "8",
+    "Price": "8,525",
+    "System": "Brain",
+    "type": "augmentations_cybernetics",
+    "desc": "This cybernetic includes a programmable data port that allows you to access different types of computers and digital storage media. Any handheld computer can be inserted directly into the port, while larger systems need to be connected by an adapter cable. Having the system connected directly to your nervous system obviates the need for an interface to access data on a system. Actually operating the system requires you to use the Computers skill as usual. Some closed systems don’t allow data access or require you to do some rewiring to connect with a datajack (usually an Engineering check).\n\n Advanced datajacks make it easier to process and send information through the datajack. With a high-density datajack, you gain a +1 circumstance bonus to Computer checks when accessing a system via your datajack. An accelerated datajack instead provides a +2 bonus.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "Recoil Stabilizer",
+    "Level": "8",
+    "Price": "8,550",
+    "System": "Arm and hand",
+    "type": "augmentations_cybernetics",
+    "desc": "This prosthesis functions as a standard prosthetic arm but also boasts gas-venting systems and internal gyroscopes that provide you additional stability when firing large weapons. When you use the automatic weapon special property of a ranged weapon wielded in the augmented hand, you can activate the arm’s stabilizers (this requires no action), allowing you to score critical hits while making attacks in automatic mode. Roll damage separately against targets you score critical hits against. Once you have used the recoil stabilizer, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Speed Suspension, Standard",
+    "Level": "8",
+    "Price": "8,800",
+    "System": "All legs",
+    "type": "augmentations_cybernetics",
+    "desc": "You increase your land speed by replacing joints and tendons in your legs with high-performance cybernetics. A minimal speed suspension replaces only a few parts, increasing your land speed by 10 feet. A standard suspension is more invasive and increases your land speed by 20 feet. Replacing all your leg joints and tendons with a complete speed suspension increases your land speed by 30 feet. You can install a speed suspension into prosthetic legs. Extra speed from these augmentations is treated as an enhancement bonus.\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 44",
+    "Name": "Adrenal Booster",
+    "Level": "8",
+    "Price": "8,900",
+    "System": "Endocrine",
+    "type": "augmentations_cybernetics",
+    "desc": "This pair of nanocarbon devices replaces part of your adrenal glands, and microscopic threads delicately link them to your endocrine system. When you are dying, the number of Resolve Points you need to stabilize is reduced by 1 (to a minimum of 1 Resolve Point needed to stabilize). This ability doesn’t stack with any other ability that allows you to spend fewer Resolve Points to stabilize. In addition, once per day, you can spend the required Resolve Points to stabilize and 1 additional Resolve Point to stay in the fight (regaining 1 Hit Point) in the same round."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Darkvision Capacitors, Advanced",
+    "Level": "8",
+    "Price": "9,000",
+    "System": "Eyes",
+    "type": "augmentations_cybernetics",
+    "desc": "These replacement eyes allow you to see in total darkness, giving you darkvision with a range of 60 feet. They operate by sending out low-powered ultraviolet lasers that are then detected by receptors within the capacitors. When your capacitors are in operation, their lasers can be detected by creatures that have darkvision capacitors or can otherwise see ultraviolet light.\n\n Advanced darkvision capacitors have the benefits of a wide-spectrum ocular implant (see page 211). Long-range darkvision capacitors function like advanced capacitors but provide a darkvision range of 120 feet.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "Weaponized Prosthesis, Mk 2",
+    "Level": "8",
+    "Price": "9,250",
+    "System": "Arm and hand",
+    "type": "augmentations_cybernetics",
+    "desc": "This prosthesis functions as a standard prosthetic arm but is lighter and hollowed in places to accommodate one weapon with the integrated weapon special property. A mk 1 weaponized prosthesis can accommodate one integrated weapon that takes up no more than one armor slot, whereas a mk 2 model can accommodate one integrated weapon that takes up no more than two armor slots.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eSlots\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e4\u003c/td\u003e\n   \u003ctd\u003e2,120\u003c/td\u003e\n   \u003ctd\u003e1\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e8\u003c/td\u003e\n   \u003ctd\u003e9,250\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder #5: The Thirteenth Gate pg. 9",
+    "Name": "Disquieting Nanites",
+    "Level": "8",
+    "Price": "10,000",
+    "System": "Skin and Throat",
+    "type": "augmentations_cybernetics",
+    "desc": "This augmentation infuses your skin with a host of iridescent nanites that swirl in hypnotic patterns. Internally, some of the nanites cluster around your voice box, slightly modifying your voice to create a kind of rhythmic reverberation. As a standard action, you can activate the nanites. After the first round, you must use a swift action each round to maintain the effect. A creature that can see or hear you when the nanites are activated must succeed at a Will saving throw (DC \u003d 14 + your key ability score modifier) or be shaken for as long it can see or hear you and you continue the effect. If the creature succeeds at the saving throw, it is immune to the effect of the nanites for 24 hours. You can choose for the nanites to not affect allies. If the creature can both see and hear you, it takes a –2 penalty to the saving throw. This is a mind-affecting, sense-dependent effect. You can use the augmentation for 8 rounds per day, though these rounds need not be consecutive."
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "Threshold Buffer, Mk 2",
+    "Level": "9",
+    "Price": "13,500",
+    "System": "Heart",
+    "type": "augmentations_cybernetics",
+    "desc": "This system monitors your vitals, injecting a burst of synthetic adrenaline into your bloodstream when your body is on the brink of death. You gain a number of additional Resolve Points (depending on the model of your threshold buffer) that you can use or lose only when you are dying or stable, such as to avoid death, to stabilize, or to stay in the fight. These additional Resolve Points don’t count for the purpose of calculating how many Resolve Points you must spend to stabilize, and any unspent additional Resolve Points are lost the next time you take an 8-hour rest to regain your normal Resolve Points.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eResolve Points\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e4\u003c/td\u003e\n   \u003ctd\u003e2,080\u003c/td\u003e\n   \u003ctd\u003e1\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e9\u003c/td\u003e\n   \u003ctd\u003e13,500\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e110,000\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 45",
+    "Name": "Biosynthetic Nanites, Mk 2",
+    "Level": "9",
+    "Price": "13,700",
+    "System": "Skin",
+    "type": "augmentations_cybernetics",
+    "desc": "\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003cth\u003eModel\u003c/th\u003e\n   \u003cth\u003eLevel\u003c/th\u003e\n   \u003cth\u003ePrice\u003c/th\u003e\n   \u003cth\u003eTreat Wounds\u003c/th\u003e\n   \u003cth\u003eFast Healing\u003c/th\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n   \u003ctd\u003e4,450\u003c/td\u003e\n   \u003ctd\u003e2d8 Hit Points\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e9\u003c/td\u003e\n   \u003ctd\u003e13,700\u003c/td\u003e\n   \u003ctd\u003e3d8 Hit Points\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e13\u003c/td\u003e\n   \u003ctd\u003e50,900\u003c/td\u003e\n   \u003ctd\u003e6d8 Hit Points\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e Once injected into the body, these nanites congregate just under the epidermis and can quickly replicate to heal bodily injuries. This augmentation allows you to spend 1 Resolve Point as a swift action to activate the nanites’ treat wounds capability, instantly regaining a number of Hit Points depending on the model of biosynthetic nanites you have installed. In addition, once per day as a full action as long as you have Resolve Points remaining, you can overcharge the nanites to gain an amount of fast healing depending on the model of biosynthetic nanites you have installed for 1 minute. If you do so, you can’t activate the treat wounds capability of the augmentation until the next time you rest for 10 minutes to regain Stamina Points.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 88",
+    "Name": "Echolocators, Active",
+    "Level": "9",
+    "Price": "13,700",
+    "System": "Ears",
+    "type": "augmentations_cybernetics",
+    "desc": "As a swift action, you can fan out these replacement ears to triple their surface area, giving you blindsense (sound) with a range of 30 feet. Active and enhanced echolocators occupy both the ears and throat system, also allowing you to spend a move action to produce, receive, and process a series of subsonic chirps to gain the benefits of blindsight (sound) until the beginning of your next turn. The blindsight from active echolocators has a range of 30 feet, while the blindsight from enhanced echolocators has a range of 60 feet.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Dermal Plating, Mk 3",
+    "Level": "9",
+    "Price": "17,975",
+    "System": "Skin",
+    "type": "augmentations_cybernetics",
+    "desc": "DR: 3"
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 43",
+    "Name": "Solar Overload Conduit, Mk 2",
+    "Level": "10",
+    "Price": "16,800",
+    "System": "Skin",
+    "type": "augmentations_cybernetics",
+    "desc": "This augmentation takes the form of constellations connected with circuitry patterns, either on your palms (if you manifest a solar weapon) or on a large patch of your skin (if you manifest solar armor). Engineered with fanatical devotion to unlocking the potential of stars, solar overload conduits can grant solarians means to amplify their powers.\n\n If you are a solarian with a solar weapon and you have a solarian weapon crystal in your mote, when you hit a target with your solar weapon but do not score a critical hit, as a reaction you can overload your weapon crystal and apply your weapon crystal’s critical hit effect (if any) to the attack (do not roll your damage twice). You can use this ability a number of times per day equal to the solar overload conduit’s mark, but each time you do so, you immediately become unattuned.\n\n If you are a solarian with solar armor, when you take Hit Point damage from a creature within 100 feet of you, as a reaction you can dismiss your solar armor and send it as an arc of solar energy at the attacking creature, dealing an amount of fire damage equal to the damage dealt to you at the time you discharged your solar armor. The maximum damage you can reflect in this way is equal to 10 times the solar overload conduit’s mark. You can use this ability a number of times per day equal to the solar overload conduit’s mark, but when you do so, you immediately become unattuned.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "Spinal Struts, Reinforced",
+    "Level": "10",
+    "Price": "17,640",
+    "System": "Spinal column",
+    "type": "augmentations_cybernetics",
+    "desc": "Your spinal cartilage is replaced with synthetic cushions and your vertebrae are reinforced. If you have a minimal spinal strut augmentation, treat your Strength as 1 higher for the purpose of determining your bulk limit. If you have standard or reinforced spinal struts, treat your Strength as 2 or 3 higher, respectively, for the purpose of determining your bulk limit.\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 45",
+    "Name": "Artificial Third Eye",
+    "Level": "10",
+    "Price": "18,000",
+    "System": "Brain and eyes",
+    "type": "augmentations_cybernetics",
+    "desc": "This crystalline nanocarbon node is implanted into your occipital lobe and connected to your optic nerves with a series of microscopic fibers. You can activate and deactivate your artificial third eye with a move action. When activated, an artificial third eye collects X-ray data and relays the information gathered directly to your eyes. You gain sense through (vision) with a range of 30 feet, though your vision is limited to black-and-white. The amount of visual information you receive when your artificial third eye is active can be distracting, imposing a –4 penalty on initiative checks."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Cybernetic Arm, Single",
+    "Level": "11",
+    "Price": "24,750",
+    "System": "Spinal column",
+    "type": "augmentations_cybernetics",
+    "desc": "Made of ultralight materials, this fully cybernetic arm fuses to your spinal column, exoskeleton, or equivalent body structure and functions as a full arm. You can hold an additional hand’s worth of equipment. This lets you have more items at the ready, but it doesn’t increase the number of attacks you can make in combat. You must have a Strength score of 12 to use a cybernetic arm effectively.\n\nDual cybernetic arms consist of a pair of arms, one on each side of your body, and let you hold two additional hands’ worth of equipment. You need a Strength score of 14 to use dual cybernetic arms effectively.\n"
+  },
+  {
+    "source": "Alien Archive 3 pg. 115",
+    "Name": "Thorgothrel Armature",
+    "Level": "11",
+    "Price": "25,000",
+    "System": "Spinal Column",
+    "type": "augmentations_cybernetics",
+    "desc": "These sophisticated silvery rods replace key bones in your spine or other internal biological supports. The armature resonates with any \u0026lt;%ARMOR.UPGRADES%Brown\u0026amp;Family\u003dForce%20Field%%\u0026gt;force field\u0026lt;%END\u0026gt; armor upgrade you have installed in your armor, allowing you to spend 1 Resolve Point as a move action to double the force field’s fast healing for 1 round."
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "Optical Laser, Aphelion",
+    "Level": "11",
+    "Price": "26,520",
+    "System": "Eye",
+    "type": "augmentations_cybernetics",
+    "desc": "This system replaces one of your eyes with a compact laser weapon that functions as a small arm with the integrated weapon special property and deals damage based on its model. An optical laser has a 50-foot range increment, and it can’t be disarmed. Once you’ve used the optical laser for a single attack, its tiny battery is depleted; you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDamage\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eCritical\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAzimuth\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n   \u003ctd\u003e1,530\u003c/td\u003e\n   \u003ctd\u003e1d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 1d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eCorona\u003c/td\u003e\n   \u003ctd\u003e7\u003c/td\u003e\n   \u003ctd\u003e7,140\u003c/td\u003e\n   \u003ctd\u003e2d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 1d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAphelion\u003c/td\u003e\n   \u003ctd\u003e11\u003c/td\u003e\n   \u003ctd\u003e26,520\u003c/td\u003e\n   \u003ctd\u003e3d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 2d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eParallax\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e122,400\u003c/td\u003e\n   \u003ctd\u003e4d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 2d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eZenith\u003c/td\u003e\n   \u003ctd\u003e19\u003c/td\u003e\n   \u003ctd\u003e612,000\u003c/td\u003e\n   \u003ctd\u003e5d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 3d6\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 88",
+    "Name": "Force Matrix, Mk 2",
+    "Level": "11",
+    "Price": "26,750",
+    "System": "Hand",
+    "type": "augmentations_cybernetics",
+    "desc": "Your hand contains a matrix of energy-sensitive fibers that can shape a force field armor upgrade installed into armor you are wearing, focusing its strength in a particular direction. As a move action while your force field is active, you can designate an opponent you can see. Until the beginning of your next turn, your force field’s fast healing is halved, but against the designated opponent’s attacks, you increase your force field’s fortification percentage chance by 10% (maximum 100%) and gain DR/— based on the model of your force matrix. This benefit ends if you lose all the temporary Hit Points provided by your force field. The hand bearing the force matrix augmentation must be free to activate its abilities.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDR\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n   \u003ctd\u003e3,300\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e11\u003c/td\u003e\n   \u003ctd\u003e26,750\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e278,100\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder #26: Flight of the Sleepers pg. 52",
+    "Name": "Voice Encoder, Sophisticate",
+    "Level": "11",
+    "Price": "27,500",
+    "System": "Throat",
+    "type": "augmentations_cybernetics",
+    "desc": "A voice encoder, often simply called a voxbox, is a cybernetic augmentation of your throat. When activated, the device takes control of your voice, speaking instructions in the artificial language known as Vox. This instruction is concealed inside a conventional Common phrase. A primal voice encoder allows you to use command as a spell-like ability. A sophisticate voice encoder allows you to use suggestion as a spell-like ability. Using a voice encoder is a standard action. You can use a voice encoder once per day, though you can spend 1 Resolve Point to use it again immediately.\n Before you can use a voice encoder, it must be programmed at a computer that can communicate with the voxbox wirelessly, through a datajack, or some other direct means. Programming a voxbox takes 1 minute. You program the device with the specific command or suggestion, as well as the Common phrase in which the instruction is hidden. (For example, the suggestion “Kill Raia Danviri” might be hidden behind the phrase, “I’m from the Stewards. Let me show you my badge.”) Until the voice encoder is reprogrammed, it can be used only to give the chosen command or suggestion, which is always concealed within the same Common phrase.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Speed Suspension, Complete",
+    "Level": "12",
+    "Price": "32,900",
+    "System": "All legs",
+    "type": "augmentations_cybernetics",
+    "desc": "You increase your land speed by replacing joints and tendons in your legs with high-performance cybernetics. A minimal speed suspension replaces only a few parts, increasing your land speed by 10 feet. A standard suspension is more invasive and increases your land speed by 20 feet. Replacing all your leg joints and tendons with a complete speed suspension increases your land speed by 30 feet. You can install a speed suspension into prosthetic legs. Extra speed from these augmentations is treated as an enhancement bonus.\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 45",
+    "Name": "Linguistic Capacitor",
+    "Level": "12",
+    "Price": "33,600",
+    "System": "Brain",
+    "type": "augmentations_cybernetics",
+    "desc": "A linguistic capacitor is a microscopic data chip inserted into your brain and connected by artificial synapses to your brain’s language centers. Once per day as a full action, you can activate a linguistic capacitor to gain the ability to communicate via the spoken or signed language of any intelligent creature, whether it is a racial tongue or a regional dialect, for 1 hour. You gain only one language at a time, and you can’t communicate with creatures whose method of communication is other something other than a spoken or signed language. You can make yourself understood as far as your voice carries."
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "X-Legs, Climbing",
+    "Level": "12",
+    "Price": "35,600",
+    "System": "All legs and feet",
+    "type": "augmentations_cybernetics",
+    "desc": "You enhance your stability by replacing your legs with a quartet of spiderlike limbs. Basic X-legs grant you a +4 circumstance bonus to your KAC against bull rush, reposition, and trip combat maneuvers. You also gain a +2 circumstance bonus to Reflex saving throws against effects that would knock you prone. Climbing X-legs include a gravitic-attraction device at the tip of each leg, allowing you to walk across walls and ceilings without using your hands; this grants you a climb speed of 25 feet.\n\n An X-legs system uses similar connection points as standard prosthetic legs, allowing you to detach your X-legs and attach a pair of prosthetic legs (which you must buy separately) in only 10 minutes, for situations where X-legs would attract unwanted attention.\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 45",
+    "Name": "Detoxifier, Enhanced",
+    "Level": "12",
+    "Price": "39,500",
+    "System": "Heart",
+    "type": "augmentations_cybernetics",
+    "desc": "This synthetic organ replaces your liver, constantly filtering your bloodstream for toxic substances at a rate far more effective than that of an organic liver. The new organ is controlled by a wirelessly paired processor installed in your heart. When you have a standard detoxifier installed, you gain a +4 enhancement bonus to Fortitude saves against diseases, drugs, poisons, and radiation, and you are immune to addiction. Once per day when affected by a poison, you can roll your Fortitude save twice and take the better result. The enhanced detoxifier grants all of the above bonuses, as well as the ability to roll saving throws against poison twice per day. In addition, you automatically stabilize if reduced to 0 Hit Points as a result of damage from a poison. The elite detoxifier grants immunity to poison, as well as the bonuses to other Fortitude saves from the standard model.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Dermal Plating, Mk 4",
+    "Level": "12",
+    "Price": "48,850",
+    "System": "Skin",
+    "type": "augmentations_cybernetics",
+    "desc": "DR: 4"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Darkvision Capacitors, Long-Range",
+    "Level": "13",
+    "Price": "48,950",
+    "System": "Eyes",
+    "type": "augmentations_cybernetics",
+    "desc": "These replacement eyes allow you to see in total darkness, giving you darkvision with a range of 60 feet. They operate by sending out low-powered ultraviolet lasers that are then detected by receptors within the capacitors. When your capacitors are in operation, their lasers can be detected by creatures that have darkvision capacitors or can otherwise see ultraviolet light.\n\n Advanced darkvision capacitors have the benefits of a wide-spectrum ocular implant (see page 211). Long-range darkvision capacitors function like advanced capacitors but provide a darkvision range of 120 feet.\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 45",
+    "Name": "Biosynthetic Nanites, Mk 3",
+    "Level": "13",
+    "Price": "50,900",
+    "System": "Skin",
+    "type": "augmentations_cybernetics",
+    "desc": "\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003cth\u003eModel\u003c/th\u003e\n   \u003cth\u003eLevel\u003c/th\u003e\n   \u003cth\u003ePrice\u003c/th\u003e\n   \u003cth\u003eTreat Wounds\u003c/th\u003e\n   \u003cth\u003eFast Healing\u003c/th\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n   \u003ctd\u003e4,450\u003c/td\u003e\n   \u003ctd\u003e2d8 Hit Points\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e9\u003c/td\u003e\n   \u003ctd\u003e13,700\u003c/td\u003e\n   \u003ctd\u003e3d8 Hit Points\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e13\u003c/td\u003e\n   \u003ctd\u003e50,900\u003c/td\u003e\n   \u003ctd\u003e6d8 Hit Points\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e Once injected into the body, these nanites congregate just under the epidermis and can quickly replicate to heal bodily injuries. This augmentation allows you to spend 1 Resolve Point as a swift action to activate the nanites’ treat wounds capability, instantly regaining a number of Hit Points depending on the model of biosynthetic nanites you have installed. In addition, once per day as a full action as long as you have Resolve Points remaining, you can overcharge the nanites to gain an amount of fast healing depending on the model of biosynthetic nanites you have installed for 1 minute. If you do so, you can’t activate the treat wounds capability of the augmentation until the next time you rest for 10 minutes to regain Stamina Points.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 88",
+    "Name": "Echolocators, Enhanced",
+    "Level": "13",
+    "Price": "50,900",
+    "System": "Ears",
+    "type": "augmentations_cybernetics",
+    "desc": "As a swift action, you can fan out these replacement ears to triple their surface area, giving you blindsense (sound) with a range of 30 feet. Active and enhanced echolocators occupy both the ears and throat system, also allowing you to spend a move action to produce, receive, and process a series of subsonic chirps to gain the benefits of blindsight (sound) until the beginning of your next turn. The blindsight from active echolocators has a range of 30 feet, while the blindsight from enhanced echolocators has a range of 60 feet.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Cybernetic Arm, Dual",
+    "Level": "14",
+    "Price": "70,150",
+    "System": "Spinal column",
+    "type": "augmentations_cybernetics",
+    "desc": "Made of ultralight materials, this fully cybernetic arm fuses to your spinal column, exoskeleton, or equivalent body structure and functions as a full arm. You can hold an additional hand’s worth of equipment. This lets you have more items at the ready, but it doesn’t increase the number of attacks you can make in combat. You must have a Strength score of 12 to use a cybernetic arm effectively.\n\nDual cybernetic arms consist of a pair of arms, one on each side of your body, and let you hold two additional hands’ worth of equipment. You need a Strength score of 14 to use dual cybernetic arms effectively.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Polyhand",
+    "Level": "14",
+    "Price": "71,000",
+    "System": "Hand",
+    "type": "augmentations_cybernetics",
+    "desc": "You replace your entire hand with a hand made of reprogrammable microscopic adamantine prisms. With either a mental command or a programmable interface built into the hand, you can reconfigure your hand into the shape of various tools. The hand can contain programming for nine different tools, in addition to a configuration for a normal hand for your species. As a move action, you can switch the setting, causing the adamantine pieces to realign into the shape of the chosen tool. The tool has all the flexibility of the normal tool (or of a hand, if set to that)."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Dermal Plating, Mk 5",
+    "Level": "14",
+    "Price": "105,000",
+    "System": "Skin",
+    "type": "augmentations_cybernetics",
+    "desc": "DR: 5"
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "Threshold Buffer, Mk 3",
+    "Level": "15",
+    "Price": "110,000",
+    "System": "Heart",
+    "type": "augmentations_cybernetics",
+    "desc": "This system monitors your vitals, injecting a burst of synthetic adrenaline into your bloodstream when your body is on the brink of death. You gain a number of additional Resolve Points (depending on the model of your threshold buffer) that you can use or lose only when you are dying or stable, such as to avoid death, to stabilize, or to stay in the fight. These additional Resolve Points don’t count for the purpose of calculating how many Resolve Points you must spend to stabilize, and any unspent additional Resolve Points are lost the next time you take an 8-hour rest to regain your normal Resolve Points.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eResolve Points\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e4\u003c/td\u003e\n   \u003ctd\u003e2,080\u003c/td\u003e\n   \u003ctd\u003e1\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e9\u003c/td\u003e\n   \u003ctd\u003e13,500\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e110,000\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 43",
+    "Name": "Solar Overload Conduit, Mk 3",
+    "Level": "15",
+    "Price": "120,000",
+    "System": "Skin",
+    "type": "augmentations_cybernetics",
+    "desc": "This augmentation takes the form of constellations connected with circuitry patterns, either on your palms (if you manifest a solar weapon) or on a large patch of your skin (if you manifest solar armor). Engineered with fanatical devotion to unlocking the potential of stars, solar overload conduits can grant solarians means to amplify their powers.\n\n If you are a solarian with a solar weapon and you have a solarian weapon crystal in your mote, when you hit a target with your solar weapon but do not score a critical hit, as a reaction you can overload your weapon crystal and apply your weapon crystal’s critical hit effect (if any) to the attack (do not roll your damage twice). You can use this ability a number of times per day equal to the solar overload conduit’s mark, but each time you do so, you immediately become unattuned.\n\n If you are a solarian with solar armor, when you take Hit Point damage from a creature within 100 feet of you, as a reaction you can dismiss your solar armor and send it as an arc of solar energy at the attacking creature, dealing an amount of fire damage equal to the damage dealt to you at the time you discharged your solar armor. The maximum damage you can reflect in this way is equal to 10 times the solar overload conduit’s mark. You can use this ability a number of times per day equal to the solar overload conduit’s mark, but when you do so, you immediately become unattuned.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "Optical Laser, Parallax",
+    "Level": "15",
+    "Price": "122,400",
+    "System": "Eye",
+    "type": "augmentations_cybernetics",
+    "desc": "This system replaces one of your eyes with a compact laser weapon that functions as a small arm with the integrated weapon special property and deals damage based on its model. An optical laser has a 50-foot range increment, and it can’t be disarmed. Once you’ve used the optical laser for a single attack, its tiny battery is depleted; you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDamage\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eCritical\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAzimuth\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n   \u003ctd\u003e1,530\u003c/td\u003e\n   \u003ctd\u003e1d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 1d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eCorona\u003c/td\u003e\n   \u003ctd\u003e7\u003c/td\u003e\n   \u003ctd\u003e7,140\u003c/td\u003e\n   \u003ctd\u003e2d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 1d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAphelion\u003c/td\u003e\n   \u003ctd\u003e11\u003c/td\u003e\n   \u003ctd\u003e26,520\u003c/td\u003e\n   \u003ctd\u003e3d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 2d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eParallax\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e122,400\u003c/td\u003e\n   \u003ctd\u003e4d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 2d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eZenith\u003c/td\u003e\n   \u003ctd\u003e19\u003c/td\u003e\n   \u003ctd\u003e612,000\u003c/td\u003e\n   \u003ctd\u003e5d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 3d6\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Dermal Plating, Mk 6",
+    "Level": "16",
+    "Price": "163,500",
+    "System": "Skin",
+    "type": "augmentations_cybernetics",
+    "desc": "DR: 6"
+  },
+  {
+    "source": "Starfinder Armory pg. 88",
+    "Name": "Force Matrix, Mk 3",
+    "Level": "17",
+    "Price": "278,100",
+    "System": "Hand",
+    "type": "augmentations_cybernetics",
+    "desc": "Your hand contains a matrix of energy-sensitive fibers that can shape a force field armor upgrade installed into armor you are wearing, focusing its strength in a particular direction. As a move action while your force field is active, you can designate an opponent you can see. Until the beginning of your next turn, your force field’s fast healing is halved, but against the designated opponent’s attacks, you increase your force field’s fortification percentage chance by 10% (maximum 100%) and gain DR/— based on the model of your force matrix. This benefit ends if you lose all the temporary Hit Points provided by your force field. The hand bearing the force matrix augmentation must be free to activate its abilities.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDR\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n   \u003ctd\u003e3,300\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e11\u003c/td\u003e\n   \u003ctd\u003e26,750\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e278,100\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 209",
+    "Name": "Dermal Plating, Mk 7",
+    "Level": "19",
+    "Price": "542,000",
+    "System": "Skin",
+    "type": "augmentations_cybernetics",
+    "desc": "DR: 7"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 45",
+    "Name": "Detoxifier, Elite",
+    "Level": "19",
+    "Price": "612,000",
+    "System": "Heart",
+    "type": "augmentations_cybernetics",
+    "desc": "This synthetic organ replaces your liver, constantly filtering your bloodstream for toxic substances at a rate far more effective than that of an organic liver. The new organ is controlled by a wirelessly paired processor installed in your heart. When you have a standard detoxifier installed, you gain a +4 enhancement bonus to Fortitude saves against diseases, drugs, poisons, and radiation, and you are immune to addiction. Once per day when affected by a poison, you can roll your Fortitude save twice and take the better result. The enhanced detoxifier grants all of the above bonuses, as well as the ability to roll saving throws against poison twice per day. In addition, you automatically stabilize if reduced to 0 Hit Points as a result of damage from a poison. The elite detoxifier grants immunity to poison, as well as the bonuses to other Fortitude saves from the standard model.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 89",
+    "Name": "Optical Laser, Zenith",
+    "Level": "19",
+    "Price": "612,000",
+    "System": "Eye",
+    "type": "augmentations_cybernetics",
+    "desc": "This system replaces one of your eyes with a compact laser weapon that functions as a small arm with the integrated weapon special property and deals damage based on its model. An optical laser has a 50-foot range increment, and it can’t be disarmed. Once you’ve used the optical laser for a single attack, its tiny battery is depleted; you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDamage\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eCritical\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAzimuth\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n   \u003ctd\u003e1,530\u003c/td\u003e\n   \u003ctd\u003e1d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 1d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eCorona\u003c/td\u003e\n   \u003ctd\u003e7\u003c/td\u003e\n   \u003ctd\u003e7,140\u003c/td\u003e\n   \u003ctd\u003e2d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 1d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAphelion\u003c/td\u003e\n   \u003ctd\u003e11\u003c/td\u003e\n   \u003ctd\u003e26,520\u003c/td\u003e\n   \u003ctd\u003e3d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 2d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eParallax\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e122,400\u003c/td\u003e\n   \u003ctd\u003e4d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 2d6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eZenith\u003c/td\u003e\n   \u003ctd\u003e19\u003c/td\u003e\n   \u003ctd\u003e612,000\u003c/td\u003e\n   \u003ctd\u003e5d6 F\u003c/td\u003e\n   \u003ctd\u003eBurn 3d6\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  }
+]

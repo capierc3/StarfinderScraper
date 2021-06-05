@@ -1,0 +1,92 @@
+[
+  {
+    "source": "Black Heart",
+    "Name": "Heart or Lungs",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Bone Blade",
+    "Name": "Arm",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Corpseskin",
+    "Name": "Skin",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Crypt Marrow",
+    "Name": "All legs",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Enervating Hand",
+    "Name": "Hand",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Ghoul Glands",
+    "Name": "Skin",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Grave Wind",
+    "Name": "Lungs",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Keening Larynx",
+    "Name": "Throat",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Moonlight Fibers",
+    "Name": "Spinal column",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Necrocortex",
+    "Name": "Brain",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Phantom Basal Ganglia",
+    "Name": "Brain",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Shadow Nerves",
+    "Name": "Spinal Column",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Squirming Entrails",
+    "Name": "Throat",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Stench Glands",
+    "Name": "Skin",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Undead Adrenal Gland",
+    "Name": "Endocrine",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Vampire Voice",
+    "Name": "Throat",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Whispering Gyrus",
+    "Name": "Brain",
+    "System": "augmentations_necrografts"
+  },
+  {
+    "source": "Wraith Motes",
+    "Name": "Eyes",
+    "System": "augmentations_necrografts"
+  }
+]

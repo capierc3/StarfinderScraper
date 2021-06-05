@@ -1,0 +1,2158 @@
+[
+  {
+    "source": "Starfinder Core Rulebook pg. 222",
+    "Name": "Aeon Stone, Clear Spindle",
+    "Category": "Aeon Stone",
+    "Level": "1",
+    "Price": "245",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "This "
+  },
+  {
+    "source": "Aeon Stone, Iridescent Spindle",
+    "Name": "Aeon Stone",
+    "Category": "2",
+    "Level": "740",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Cloudy Blue Rhomboid",
+    "Name": "Aeon Stone",
+    "Category": "3",
+    "Level": "1,300",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Opalescent White Pyramid",
+    "Name": "Aeon Stone",
+    "Category": "3",
+    "Level": "1,400",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Amber Hyperboloid",
+    "Name": "Aeon Stone",
+    "Category": "4",
+    "Level": "2,200",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Bright Yellow Cabochon",
+    "Name": "Aeon Stone",
+    "Category": "4",
+    "Level": "2,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Scarlet Prism",
+    "Name": "Aeon Stone",
+    "Category": "4",
+    "Level": "2,140",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Sapphire Cone",
+    "Name": "Aeon Stone",
+    "Category": "5",
+    "Level": "3,200",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Ruby Sphere",
+    "Name": "Aeon Stone",
+    "Category": "6",
+    "Level": "3,850",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Viridian Balbis",
+    "Name": "Aeon Stone",
+    "Category": "6",
+    "Level": "4,200",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Purple Sphere",
+    "Name": "Aeon Stone",
+    "Category": "7",
+    "Level": "7,500",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Vibrant Green Prism",
+    "Name": "Aeon Stone",
+    "Category": "9",
+    "Level": "14,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Dark Blue Rhomboid",
+    "Name": "Aeon Stone",
+    "Category": "10",
+    "Level": "18,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Alabaster Helix",
+    "Name": "Aeon Stone",
+    "Category": "11",
+    "Level": "30,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Pearly White Spindle",
+    "Name": "Aeon Stone",
+    "Category": "11",
+    "Level": "25,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Iridescent Trillian",
+    "Name": "Aeon Stone",
+    "Category": "12",
+    "Level": "32,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Kaleidoscopic Icosahedron",
+    "Name": "Aeon Stone",
+    "Category": "12",
+    "Level": "35,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Obsidian Annulus",
+    "Name": "Aeon Stone",
+    "Category": "13",
+    "Level": "55,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Aeon Stone, Silver Lemniscate",
+    "Name": "Aeon Stone",
+    "Category": "14",
+    "Level": "65,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder Armory pg. 118",
+    "Name": "Atrocite Sphere",
+    "Category": "Artifact",
+    "Level": "20",
+    "Price": "—",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "An "
+  },
+  {
+    "source": "Starfinder Armory pg. 118",
+    "Name": "Book of Unwritten Truths",
+    "Category": "Artifact",
+    "Level": "20",
+    "Price": "—",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "The "
+  },
+  {
+    "source": "Starfinder Armory pg. 119",
+    "Name": "Trafodi Paradox",
+    "Category": "Artifact",
+    "Level": "20",
+    "Price": "—",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "The "
+  },
+  {
+    "source": "Starfinder #1: Incident at Absalom Station pg. 53",
+    "Name": "Ungarato",
+    "Category": "Artifact",
+    "Level": "20",
+    "Price": "—",
+    "Bulk": "2",
+    "type": "Magic Items",
+    "desc": "\u003ci\u003eUngarato\u003c/i\u003e"
+  },
+  {
+    "source": "Starfinder #19: Fate of the Fifth pg. 45",
+    "Name": "Authority Medallion",
+    "Category": "Other",
+    "Level": "1",
+    "Price": "225",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "Awarded to squadron leaders, captains, and those who excel at commanding others, this brass medallion allows you to increase the bonus provided by a successful aid another action to +4 once per day; this takes no additional action."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 222",
+    "Name": "Charge Cloak",
+    "Category": "Other",
+    "Level": "1",
+    "Price": "200",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "A "
+  },
+  {
+    "source": "Starfinder #19: Fate of the Fifth pg. 45",
+    "Name": "Courage Medallion",
+    "Category": "Other",
+    "Level": "1",
+    "Price": "100",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "Enchanted to pulse with a bluish glow, a "
+  },
+  {
+    "source": "Starfinder #19: Fate of the Fifth pg. 45",
+    "Name": "Glory Medallion",
+    "Category": "Other",
+    "Level": "1",
+    "Price": "400",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "Awarded to only the most skilled combatants, a "
+  },
+  {
+    "source": "Alien Archive pg. 79",
+    "Name": "Reckless Gloves",
+    "Category": "Other",
+    "Level": "1",
+    "Price": "250",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "These thick leather gloves are often worn by aggressive vehicle pilots. Increase the collision DC of any vehicle you are driving by 2, and gain a +2 circumstance bonus to your Piloting checks when taking the ram and run over actions."
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 41",
+    "Name": "Sun Bean Ice",
+    "Category": "Other",
+    "Level": "1",
+    "Price": "80",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "Sun bean ice features an engineered species of sweet bean that many consider to be a “native” crop of the sun. For 1 hour after you drink sun bean ice, you treat hot environments as if they were one step lower (very hot to normal, severe heat to very hot, and extreme heat to severe heat). This has no effect on heat exposure due to direct contact, such as by touching lava or boiling water. During this duration, you do not suffer from heatstroke if you take damage from heat exposure, and if you are already suffering from heatstroke when you drink a sun bean ice, you can immediately attempt a DC 15 Fortitude saving throw to end the heatstroke. Drinking multiple servings of sun bean ice increases the duration, but the effects do not stack."
+  },
+  {
+    "source": "Character Operations Manual pg. 22",
+    "Name": "Xenowarden’s Boots",
+    "Category": "Other",
+    "Level": "1",
+    "Price": "80",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "These supple boots are crafted from plant fibers and reinforced with magical energy. While wearing a pair of xenowarden’s boots, each round you can move through up to 10 feet of difficult terrain caused by heavy undergrowth or other natural plant-based obstacles without reducing your speed."
+  },
+  {
+    "source": "Pact Worlds pg. 200",
+    "Name": "Encryption Tattoo, Agent",
+    "Category": "Other",
+    "Level": "1",
+    "Price": "50",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 110",
+    "Name": "Brooch of Shielding",
+    "Category": "Other",
+    "Level": "2",
+    "Price": "1,000",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "A piece of metal jewelry originally used to fasten a cloak, a "
+  },
+  {
+    "source": "Starfinder #4: The Ruined Clouds pg. 45",
+    "Name": "Corpse Lantern",
+    "Category": "Other",
+    "Level": "2",
+    "Price": "500",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "This portable light source functions as a lantern ("
+  },
+  {
+    "source": "Starfinder Armory pg. 112",
+    "Name": "Cover Seed",
+    "Category": "Other",
+    "Level": "2",
+    "Price": "200",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "About 3 inches in diameter, a typical "
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 41",
+    "Name": "Flame Melon Juice",
+    "Category": "Other",
+    "Level": "2",
+    "Price": "480",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "Flame melons are grown in many hot climates throughout the Pact Worlds, including the so-called “jungle boxes” that orbit the sun. When a flame melon is properly juiced and mixed with a secret blend of spices known only to Luthyx, it creates this curative serum. The next time you take a full night’s rest after drinking a glass of flame melon juice, you recover an additional 5 Hit Points. Drinking multiple servings of flame melon juice in one day doesn’t provide you with any additional benefits."
+  },
+  {
+    "source": "Starfinder #22: The Forever Reliquary pg. 44",
+    "Name": "Hoop of Perspicacity",
+    "Category": "Other",
+    "Level": "2",
+    "Price": "750",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "This simple yet elegant silver-colored hoop can be worn as a headband by most humanoid creatures or slipped over any large-enough appendage. The interior of the band is etched with magical runes that telepathically warn you before you commit a social misstep, which includes any action that would increase the DCs of Diplomacy checks to alter the attitudes of those around you or worsen the attitude of a person that you consider important. You acquire this information prior to acting or speaking."
+  },
+  {
+    "source": "Starfinder #21: Huskworld pg. 43",
+    "Name": "Quorlu heat gem",
+    "Category": "Other",
+    "Level": "2",
+    "Price": "125",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "Quorlus can find temperatures that are comfortable for most humanoids to be intolerably cold. Lower temperatures than that are even less to their liking. To remain comfortable in such environments, quorlus developed fiery-hearted gems using magic harnessed from the Plane of Fire to provide themselves with temporary resistance to cold."
+  },
+  {
+    "source": "Alien Archive pg. 79",
+    "Name": "Resilient Jacket",
+    "Category": "Other",
+    "Level": "2",
+    "Price": "600",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "This waterproof leather jacket functions as a travel outfit ("
+  },
+  {
+    "source": "Starfinder #19: Fate of the Fifth pg. 45",
+    "Name": "Valor Medallion",
+    "Category": "Other",
+    "Level": "2",
+    "Price": "1,000",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "This medallion is awarded to soldiers who have been severely wounded in battle and recover to fight again. Once per day as a standard action, you can activate a "
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 222",
+    "Name": "Amulet of Camouflage",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "1,400",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "This modest amulet projects a simple pattern over your outer layers of armor, clothing, and equipment, which helps you blend into the background. When in an environment with a maximum distance at which Perception checks can be attempted, rolls to see at what range other creatures can attempt Perception checks against you are rolled twice, and the lower result applies. See Chapter 11 for more information on the Perception ranges of different environments. The amulet’s magic isn’t powerful enough to make you invisible or grant a bonus to Stealth checks. You can activate or deactivate this camouflage as a standard action."
+  },
+  {
+    "source": "Pact Worlds pg. 200",
+    "Name": "Brigh\u0027s Bolt",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "1,300",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "This simple, shiny metal bolt is the size of a thumbnail and has an image of a tiny gear on its head. As a full action, you can affix a "
+  },
+  {
+    "source": "Starfinder #16: The Blind City pg. 49",
+    "Name": "Falsebound Tattoos",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "1,500",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "A "
+  },
+  {
+    "source": "Alien Archive 2 pg. 49",
+    "Name": "Hivemask",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "1,400",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "As a move action when wearing a "
+  },
+  {
+    "source": "Starfinder #4: The Ruined Clouds pg. 45",
+    "Name": "Instinctive Stabilizer",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "1,400",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "Kish shamans imbued this handheld scanner with mystical power to help heal the dying. When you use an "
+  },
+  {
+    "source": "Pact Worlds pg. 200",
+    "Name": "Lawfinder",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "1,200",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "This archaic, ornate compass is a holy trinket sacred to AbadarCorp, and its needle is shaped like a thin golden key. A "
+  },
+  {
+    "source": "Alien Archive 3 pg. 69",
+    "Name": "Moon Crystal",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "200",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "A "
+  },
+  {
+    "source": "Starfinder Armory pg. 114",
+    "Name": "Obfuscated Journal",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "1,250",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "An "
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 40",
+    "Name": "Pilot\u0027s Helmet",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "1,200",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "This floppy leather helmet is equipped with large goggles that enhance a pilot’s acuity. While you are wearing a pilot’s helmet, if an enemy vehicle ahead of yours successfully uses the trick pilot action, you can immediately attempt a Perception check with a +4 insight bonus opposed by the result of the opposing vehicle’s skill check to perform the trick pilot action. If you succeed, the penalty imposed by the opposing vehicle’s trick pilot action is reduced by 1."
+  },
+  {
+    "source": "Starfinder #21: Huskworld pg. 43",
+    "Name": "Queen\u0027s Meal",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "215",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "This sacred meal, typically consumed in celebration of or on religious holidays dedicated to Hylax, was popularized on Ilemchuuva. Temples there normally produce large quantities of this meal on feast days, often at a discounted price. A queen’s meal is not only a day’s worth of food and water, but it also makes coordination and collaboration more effective and discourages hostility for 24 hours. While benefiting from a queen’s meal, you take a –1 penalty to your attack rolls, but you gain a +1 divine bonus to your EAC, KAC, Perception checks, and Sense Motive checks. In addition, if you attempt to aid another creature that has also eaten a "
+  },
+  {
+    "source": "Starfinder #36: Professional Courtesy pg. 50",
+    "Name": "Quick-dive Pearl",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "210",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "While underwater, you can activate this single-use magical pearl as a move action while holding it in one hand. Once activated, it sinks with preternatural speed, taking you with it at a rate of 60 feet per round. You can release the pearl at any time to stop your descent (including at any point during the 60-foot movement per round); stopping this movement doesn’t require an action. A quick-dive pearl sinks for 600 feet before its magic fades and becomes a mundane pearl worth 10 credits."
+  },
+  {
+    "source": "Starfinder Armory pg. 115",
+    "Name": "Recovery Aegis",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "1,350",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "The Aspis Consortium partners with the Starfinder Society to deliver recovered relics to the churches of Desna, Iomedae, Sarenrae, Weydan, and Yaraesa. In exchange, mystics of these divinities provide magic items to support field agents. The "
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 41",
+    "Name": "Ruthig Milk Tea",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "220",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": " This iced beverage is made of imported ruthig milk mixed with sugar and tea. For 1 hour after you drink ruthig milk tea, you are not affected by areas of low radiation. In addition, during this time you can roll twice on your Fortitude saving throw to avoid contracting radiation sickness and take the better result. Drinking multiple servings of ruthig milk tea increases the duration, but the effects do not stack."
+  },
+  {
+    "source": "Starfinder Armory pg. 116",
+    "Name": "Starfinder Backpack",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "750",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "The Starfinder Society sells branded gear, of which the "
+  },
+  {
+    "source": "Alien Archive 3 pg. 9",
+    "Name": "Brenneri Stone, Glossy",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "1,000",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "You gain a +2 morale bonus against fear effects for 1 hour. "
+  },
+  {
+    "source": "Starfinder Armory pg. 112",
+    "Name": "Elemental Gem, Mk 1",
+    "Category": "Other",
+    "Level": "3",
+    "Price": "250",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "1st-level "
+  },
+  {
+    "source": "Starfinder Armory pg. 112",
+    "Name": "Darksight Goggles",
+    "Category": "Other",
+    "Level": "4",
+    "Price": "2,100",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "\u003ci\u003eDarksight goggles\u003c/i\u003e"
+  },
+  {
+    "source": "Starfinder #13: Fire Starters pg. 53",
+    "Name": "Flame Shield Gauntlet",
+    "Category": "Other",
+    "Level": "4",
+    "Price": "1,900",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "Worn over existing armor, this nanofiber mesh gauntlet cradles a blood-red gem that glows faintly and gives off a small amount of warmth. This item must be worn on a free hand. You can activate the gauntlet as a reaction when you are struck by an attack or effect that deals cold damage. When you do so, until the end of your next turn, you reduce any cold damage dealt to you by half, and if an effect allows a Reflex saving throw for half damage, you take no damage on a successful save. This resistance does not stack with other forms of cold resistance. Once used, the gem’s glow fades and you can’t use this item again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately."
+  },
+  {
+    "source": "Starfinder #22: The Forever Reliquary pg. 44",
+    "Name": "Friendship Bracelet",
+    "Category": "Other",
+    "Level": "4",
+    "Price": "2,000",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "Sold in pairs, these bracelets function only when you and another creature each wear one. Provided both of you are wearing the bracelets, each of you treats the other as if you cast a status spell on them. If you have line of sight to the other wearer, you can see them even if they are hidden or invisible, unless they do not wish to be seen by you."
+  },
+  {
+    "source": "Starfinder #1: Incident at Absalom Station pg. 52",
+    "Name": "Iomedaean Crusader Helm",
+    "Category": "Other",
+    "Level": "4",
+    "Price": "2,100",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "Originally created before the Gap for holy champions of Iomedae crusading in the Worldwound—a demon-haunted wasteland created by an Abyssal incursion on Golarion— "
+  },
+  {
+    "source": "Starfinder Armory pg. 117",
+    "Name": "Tangleburst Seed",
+    "Category": "Other",
+    "Level": "4",
+    "Price": "675",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "A brown seed 2 inches long, a "
+  },
+  {
+    "source": "Alien Archive pg. 79",
+    "Name": "Trampling Boots",
+    "Category": "Other",
+    "Level": "4",
+    "Price": "2,500",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "These rugged boots are made from the finest mountain eel hide. You can ignore difficult terrain, but only in hilly and mountainous environments. In addition, once per day as a full action, you can move up to your speed through other creatures’ spaces (as long as those creatures aren’t larger than you are). Each creature in your path automatically takes 2d6+4 bludgeoning damage. A target of this trample ability can make an attack of opportunity against you as you pass through its space, but at a -4 penalty. A target can forgo this attack of opportunity to instead attempt a DC 16 Reflex save to take half damage."
+  },
+  {
+    "source": "Starfinder #4: The Ruined Clouds pg. 45",
+    "Name": "Truth Amplifier",
+    "Category": "Other",
+    "Level": "4",
+    "Price": "2,000",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "This parabolic microphone is shaped like a pistol with a plastic cone for a barrel, and Kish shamans have imbued it with mystical power. To use a "
+  },
+  {
+    "source": "Improvisation Adornment, Mk 1",
+    "Name": "Other",
+    "Category": "4",
+    "Level": "1,800",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Planar Runeplates, Mk 1",
+    "Name": "Other",
+    "Category": "4",
+    "Level": "2,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Alien Archive 2 pg. 13",
+    "Name": "Arquand Manacles",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "2,800",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "Interwoven hide from numerous Arquand gazelles lines "
+  },
+  {
+    "source": "Alien Archive pg. 13",
+    "Name": "Barachius Helm",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "3,000",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "This helm replaces a suit of armor’s normal helmet (if any) and is incorporated into the armor’s normal environmental protections; these protections do not function if the helm is removed. If the armor has an available upgrade slot, a "
+  },
+  {
+    "source": "Starfinder #1: Incident at Absalom Station pg. 51",
+    "Name": "Blackraven Axe",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "3,370",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "\u003ci\u003eBlackraven axes\u003c/i\u003e"
+  },
+  {
+    "source": "Starfinder #4: The Ruined Clouds pg. 45",
+    "Name": "Celestial Stole",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "3,000",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "This long, thin scarf is usually marked with an alternating pattern of light and dark shapes. While wearing a "
+  },
+  {
+    "source": "Starfinder Armory pg. 111",
+    "Name": "Clearsight Trinket",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "2,750",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "\u003ci\u003eNo description provided by source\u003c/i\u003e"
+  },
+  {
+    "source": "Alien Archive 4 pg. 77",
+    "Name": "Contortion Coat",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "3,300",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "This tight-fitting jumpsuit magically reshapes and rearranges your body in response to external pressure, enhancing your flexibility and ability to move through tight spaces. While wearing a contortion coat, you gain the compression universal creature ability. In addition, you gain a +4 circumstance bonus to Acrobatics checks when using the escape task."
+  },
+  {
+    "source": "Starfinder Armory pg. 112",
+    "Name": "Dented Kasa",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "3,000",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "A conical helm of battered metal, a "
+  },
+  {
+    "source": "Starfinder #22: The Forever Reliquary pg. 52",
+    "Name": "Empty Orbit Emblem",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "2,600",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "An "
+  },
+  {
+    "source": "Starfinder #1: Incident at Absalom Station pg. 51",
+    "Name": "Falcon Boots",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "3,000",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "\u003ci\u003eFalcon boots\u003c/i\u003e"
+  },
+  {
+    "source": "Starfinder #22: The Forever Reliquary pg. 44",
+    "Name": "Monocle of Recognition",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "3,000",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "An unassuming brass eyepiece that can be fitted for any species’ visual sensors, a "
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 42",
+    "Name": "Radiant Ensemble",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "3,200",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "This fashionable set of clothing is sold as a fancy dress, a classy suit, or similar cultural garb. It appears to be crafted from shimmering crystal, and functions as a set of "
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 222",
+    "Name": "Ring of Sustenance",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "2,925",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "This ring provides you with life-sustaining nourishment, negating the need for food or drink while the ring is worn. Additionally, the ring’s magic refreshes your body and mind while worn, so you need only 2 hours of sleep each day to gain the benefits of 8 hours of rest. If you cast spells, you can regain your daily spell slots after only 2 hours of rest, but you still can’t do so more than once per day. The ring must be worn for a full week before its magic takes effect, and if removed you must wear it for another week to reattune it to you."
+  },
+  {
+    "source": "Starfinder Armory pg. 116",
+    "Name": "Skyfire Saddle",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "2,650",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "The Skyfire Legion rarely uses draconic steeds these days, but the tradition of forging magic items such as the "
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 222",
+    "Name": "Staff of Mystic Healing",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "3,700",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "Available in a variety of shapes and sizes, a "
+  },
+  {
+    "source": "Starfinder Armory pg. 116",
+    "Name": "Storage Goo",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "500",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "When not in use, "
+  },
+  {
+    "source": "Starfinder #16: The Blind City pg. 50",
+    "Name": "Weatherwear",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "2,750",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "Millennia ago, an enterprising guild of azer mystics discovered how to weave garments entirely out of planar essence from the Plane of Fire. This newfound fashion of flickering flames was dubbed "
+  },
+  {
+    "source": "Diffraction Cloak, Mk 1",
+    "Name": "Other",
+    "Category": "5",
+    "Level": "3,200",
+    "Price": "1",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Fiery Runeplates, Mk 1",
+    "Name": "Other",
+    "Category": "5",
+    "Level": "3,500",
+    "Price": "3",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder Armory pg. 113",
+    "Name": "Figurine of Wondrous Power, Obsidian Electrovore",
+    "Category": "Other",
+    "Level": "5",
+    "Price": "3,000",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "This statuette of obsidian can change into an electrovore. The electrovore has only 1 Resolve Point when transformed."
+  },
+  {
+    "source": "Travel Treads, Mk 1",
+    "Name": "Other",
+    "Category": "5",
+    "Level": "2,750",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder Armory pg. 112",
+    "Name": "Energy-Relay Gloves",
+    "Category": "Other",
+    "Level": "6",
+    "Price": "4,250",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "Warriors across the Pact Worlds commission these gloves to gain versatility in the type of damage they deal. A set of "
+  },
+  {
+    "source": "Starfinder #4: The Ruined Clouds pg. 45",
+    "Name": "Eohi Boots",
+    "Category": "Other",
+    "Level": "6",
+    "Price": "4,200",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "The insides of these simple-looking gray boots are lined with eohi fur (see page 57). Once per day as a full action, you can move up to your speed and make a full attack with melee weapons only. The penalty on each attack is –6 instead of –4, and you take a –2 penalty to your AC until the beginning of your next turn."
+  },
+  {
+    "source": "Starfinder Armory pg. 113",
+    "Name": "Ferocity Blazon",
+    "Category": "Other",
+    "Level": "6",
+    "Price": "4,000",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "A fierce reputation is a benefit, but only if your opponents know of it. Symbols on clothing have long been used to create associations between a given group’s reputation and its members. A "
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 222",
+    "Name": "Glove of Storing",
+    "Category": "Other",
+    "Level": "6",
+    "Price": "4,600",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "This simple glove is surprisingly smooth to the touch. While holding an item no larger than 2 bulk in the hand wearing it, you can command a "
+  },
+  {
+    "source": "Starfinder Armory pg. 114",
+    "Name": "Hat of Disguise",
+    "Category": "Other",
+    "Level": "6",
+    "Price": "3,850",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "A "
+  },
+  {
+    "source": "Starfinder #13: Fire Starters pg. 53",
+    "Name": "Plasma Scabbard",
+    "Category": "Other",
+    "Level": "6",
+    "Price": "4,250",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "This thin metallic band can be affixed either to an existing scabbard that holds a melee weapon that deals kinetic damage or directly to the hilt of a melee weapon that deals kinetic damage. You can activate the device as a swift action when you draw the weapon, coating the weapon with a corona of plasma. The first successful attack you make with that weapon deals an additional 1d10 electricity and fire damage. Once you’ve used the "
+  },
+  {
+    "source": "Starfinder #22: The Forever Reliquary pg. 44",
+    "Name": "Robe of Communalism",
+    "Category": "Other",
+    "Level": "6",
+    "Price": "4,250",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "This voluminous robe can be made out of any fabric and come in any style, but the most popular version is in emerald green with the holy symbol of Hylax sewn onto the back in golden thread. Once per day while you are wearing a "
+  },
+  {
+    "source": "Elemental Gem, Mk 2",
+    "Name": "Other",
+    "Category": "6",
+    "Level": "650",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Plasma Beads, Mk 1",
+    "Name": "Other",
+    "Category": "6",
+    "Level": "4,200",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder Armory pg. 111",
+    "Name": "Conspirator\u0027s Emblem",
+    "Category": "Other",
+    "Level": "7",
+    "Price": "6,500",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "A "
+  },
+  {
+    "source": "Starfinder Armory pg. 114",
+    "Name": "Furtive Garment",
+    "Category": "Other",
+    "Level": "7",
+    "Price": "5,500",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "The oldest "
+  },
+  {
+    "source": "Starfinder Armory pg. 115",
+    "Name": "Pathing Telescope",
+    "Category": "Other",
+    "Level": "7",
+    "Price": "7,000",
+    "Bulk": "2",
+    "type": "Magic Items",
+    "desc": "Starfaring societies use advanced technology for viewing the stars and plotting courses among them. Triune’s clerics intertwined magic and technology to create the initial models of the "
+  },
+  {
+    "source": "Starfinder Armory pg. 115",
+    "Name": "Restoring Rod",
+    "Category": "Other",
+    "Level": "7",
+    "Price": "6,750",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "Helixes and other geometric patterns swirl within the clear shaft of a "
+  },
+  {
+    "source": "Starfinder #1: Incident at Absalom Station pg. 52",
+    "Name": "Thruneblade",
+    "Category": "Other",
+    "Level": "7",
+    "Price": "9,980",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "It is thought that "
+  },
+  {
+    "source": "Brenneri Stone, Luminous",
+    "Name": "Other",
+    "Category": "7",
+    "Level": "6,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Alien Archive 2 pg. 13",
+    "Name": "Arquand Horns",
+    "Category": "Other",
+    "Level": "8",
+    "Price": "8,400",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "A coronet made of an Arquand gazelle’s four distinctive horns, this headwear counts as a worn magic item unless you install it in armor, taking up one upgrade slot. While you wear "
+  },
+  {
+    "source": "Alien Archive pg. 25",
+    "Name": "Aura Goggles",
+    "Category": "Other",
+    "Level": "8",
+    "Price": "9,000",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "While wearing these goggles, you gain a +4 circumstance bonus to saving throws against sense-dependent effects that target vision (such as gaze abilities or a bryrvath’s impossible aura). In addition, once per day, you can cast "
+  },
+  {
+    "source": "Starfinder Armory pg. 110",
+    "Name": "Calcification Rod",
+    "Category": "Other",
+    "Level": "8",
+    "Price": "9,500",
+    "Bulk": "2",
+    "type": "Magic Items",
+    "desc": "Kalos of the Brethedan moon of Kalo-Mahoi have developed numerous magical innovations honoring their artistic traditions. They created "
+  },
+  {
+    "source": "Starfinder #18: Assault on the Crucible pg. 36",
+    "Name": "Divination Mirror",
+    "Category": "Other",
+    "Level": "8",
+    "Price": "8,500",
+    "Bulk": "2",
+    "type": "Magic Items",
+    "desc": "You can use a "
+  },
+  {
+    "source": "Starfinder #1: Incident at Absalom Station pg. 52",
+    "Name": "Mask of the Mantis",
+    "Category": "Other",
+    "Level": "8",
+    "Price": "8,400",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "Once the traditional headgear for an ancient cabal of Golarion assassins called the Red Mantis, the "
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 42",
+    "Name": "Shattercoat",
+    "Category": "Other",
+    "Level": "8",
+    "Price": "9,000",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "Mirrored shards of glass are sewn into the cloth of this long overcoat at regular intervals. Once per day as a standard action, you can cause the shards to jut outward at deadly angles for 1 minute. During that time, each time you are struck with a creature’s natural weapon or unarmed strike, that creature takes 2d6 slashing damage. The creature can attempt a Reflex saving throw or half damage. In addition, once per day, if you are struck with a critical hit from a creature’s natural weapon or unarmed strike, you can cause the shards to fly from the coat as a reaction, dealing 8d6 slashing damage to every creature in a 10-foot-radius burst (Reflex save half). The DC for either Reflex save is equal to 10 + half your level + your key ability score modifier. After doing so, you can’t use the coat’s other protective ability for 24 hours."
+  },
+  {
+    "source": "Starfinder Armory pg. 117",
+    "Name": "Techbane Rod",
+    "Category": "Other",
+    "Level": "8",
+    "Price": "10,000",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "A simple wooden rod carved with sigils that pulse with magic, a "
+  },
+  {
+    "source": "Starfinder Armory pg. 117",
+    "Name": "Teleportation Puck",
+    "Category": "Other",
+    "Level": "8",
+    "Price": "1,500",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "A "
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 40",
+    "Name": "White Knuckle Gloves",
+    "Category": "Other",
+    "Level": "8",
+    "Price": "8,400",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "These bare-knuckle leather gloves are designed for those looking to pull off wild vehicle maneuvers. While you are wearing these gloves, when you take the double maneuver full action, you can commit to taking both actions and specify both actions before you roll the check for the first. If you do, you reduce the penalty to either check by 2 (minimum 0)."
+  },
+  {
+    "source": "Eldritch Encephalon, Mk 1",
+    "Name": "Other",
+    "Category": "8",
+    "Level": "3,500",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Encryption Tattoo, Operative",
+    "Name": "Other",
+    "Category": "8",
+    "Level": "8,900",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Figurine of Wondrous Power, Bone Crest-Eater",
+    "Name": "Other",
+    "Category": "8",
+    "Level": "9,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Improvisation Adornment, Mk 2",
+    "Name": "Other",
+    "Category": "8",
+    "Level": "8,400",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Planar Runeplates, Mk 2",
+    "Name": "Other",
+    "Category": "8",
+    "Level": "8,500",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder #1: Incident at Absalom Station pg. 50",
+    "Name": "Anvil of Torag",
+    "Category": "Other",
+    "Level": "9",
+    "Price": "12,000",
+    "Bulk": "50",
+    "type": "Magic Items",
+    "desc": "\u003ci\u003eAnvils of Torag\u003c/i\u003e"
+  },
+  {
+    "source": "Starfinder #1: Incident at Absalom Station pg. 51",
+    "Name": "Dreamsilk Cloak",
+    "Category": "Other",
+    "Level": "9",
+    "Price": "13,400",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "The original "
+  },
+  {
+    "source": "Starfinder #1: Incident at Absalom Station pg. 52",
+    "Name": "Hellknight Flail",
+    "Category": "Other",
+    "Level": "9",
+    "Price": "19,400",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "\u003ci\u003eHellknight flails\u003c/i\u003e"
+  },
+  {
+    "source": "Pact Worlds pg. 201",
+    "Name": "Ratfolk Belt",
+    "Category": "Other",
+    "Level": "9",
+    "Price": "12,250",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "Ysoki are skilled at negotiating the cramped corridors of a starship or the access tunnels in a sprawling metropolis, but even the smallest ysoki sometimes encounter openings too small to enter. While wearing a "
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 222",
+    "Name": "Rod of Cancellation",
+    "Category": "Other",
+    "Level": "9",
+    "Price": "2,100",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "This device pulses with strange powers that drain items of all magical properties. When you touch a hybrid or magic item with a "
+  },
+  {
+    "source": "Arclord\u0027s Rod, Mk 1",
+    "Name": "Other",
+    "Category": "9",
+    "Level": "14,500",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Diffraction Cloak, Mk 2",
+    "Name": "Other",
+    "Category": "9",
+    "Level": "12,500",
+    "Price": "1",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Elemental Gem, Mk 3",
+    "Name": "Other",
+    "Category": "9",
+    "Level": "2,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Fiery Runeplates, Mk 2",
+    "Name": "Other",
+    "Category": "9",
+    "Level": "14,000",
+    "Price": "3",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Plasma Beads, Mk 2",
+    "Name": "Other",
+    "Category": "9",
+    "Level": "12,500",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Travel Treads, Mk 2",
+    "Name": "Other",
+    "Category": "9",
+    "Level": "12,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 222",
+    "Name": "Shadow Orb",
+    "Category": "Other",
+    "Level": "10",
+    "Price": "2,850",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "While you hold this small orb of black glass, it puts forth tendrils of darkness that capture nearby light. The light level within a 20-foot radius of you decreases by one step. Lasers fired at you are bent toward the orb. This gives laser attacks against you a +1 circumstance bonus to hit, but also grants you fire resistance 5 against laser attacks."
+  },
+  {
+    "source": "Starfinder #16: The Blind City pg. 49",
+    "Name": "Starship in a Bottle",
+    "Category": "Other",
+    "Level": "10",
+    "Price": "17,500",
+    "Bulk": "2",
+    "type": "Magic Items",
+    "desc": "When purchased or crafted, a "
+  },
+  {
+    "source": "Alien Archive 3 pg. 117",
+    "Name": "Temporal Crystal",
+    "Category": "Other",
+    "Level": "10",
+    "Price": "2,900",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "After rolling an initiative check, and before anyone else’s initiative results are revealed, you can use a "
+  },
+  {
+    "source": "Pact Worlds pg. 200",
+    "Name": "Aballonian Drone Box",
+    "Category": "Other",
+    "Level": "11",
+    "Price": "24,500",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "This item consists of six 1-foot-square circuit boards soldered together at their edges to form a box. One of the sides is hinged, forming a lid. Although the box appears empty, it rattles occasionally, as if something inside is seeking to escape. While anacites across Aballon create these items, Those Who Wait prefer to stockpile them for future use, but Those Who Become send as many of these boxes into the galaxy as possible for unspoken reasons."
+  },
+  {
+    "source": "Starfinder #22: The Forever Reliquary pg. 44",
+    "Name": "Incense of Open Thoughts",
+    "Category": "Other",
+    "Level": "11",
+    "Price": "3,500",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "When a block of this sweet-smelling incensed is lit (a standard action), creatures inhaling its fumes become unusually receptive to thought. In still air, the incense’s smoke permeates a 40-foot-by-40-foot area to a height of 20 feet over the course of 1 minute. Creatures within that area can communicate telepathically with other creatures in the area. Creatures communicating in this fashion don’t need to share a language, but must have an intelligence modifier of –2 or greater. The openness of mind engendered by the incense also provides a +4 insight bonus to Diplomacy and Sense Motive checks against creatures in the area, and imposes a –4 penalty to Bluff and Intimidate checks against such creatures, and a –2 penalty to saving throws against mind-affecting effects."
+  },
+  {
+    "source": "Starfinder Armory pg. 114",
+    "Name": "Inspiration Blazon",
+    "Category": "Other",
+    "Level": "11",
+    "Price": "23,500",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "Inspiration can play a large part in success, and as such some leaders wear magical symbols to inspire their allies during tough situations. An "
+  },
+  {
+    "source": "Brenneri Stone, Radiant",
+    "Name": "Other",
+    "Category": "11",
+    "Level": "24,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder Armory pg. 114",
+    "Name": "Mantle of Willpower",
+    "Category": "Other",
+    "Level": "12",
+    "Price": "37,000",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "A "
+  },
+  {
+    "source": "Arclord\u0027s Rod, Mk 2",
+    "Name": "Other",
+    "Category": "12",
+    "Level": "38,500",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Elemental Gem, Mk 4",
+    "Name": "Other",
+    "Category": "12",
+    "Level": "5,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Improvisation Adornment, Mk 3",
+    "Name": "Other",
+    "Category": "12",
+    "Level": "33,500",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Planar Runeplates, Mk 3",
+    "Name": "Other",
+    "Category": "12",
+    "Level": "34,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Plasma Beads, Mk 3",
+    "Name": "Other",
+    "Category": "12",
+    "Level": "37,500",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Alien Archive 3 pg. 75",
+    "Name": "Flux Fig",
+    "Category": "Other",
+    "Level": "13",
+    "Price": "8,500",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "A "
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 43",
+    "Name": "Phase Twin Generator",
+    "Category": "Other",
+    "Level": "13",
+    "Price": "52,000",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "A "
+  },
+  {
+    "source": "Alien Archive 2 pg. 111",
+    "Name": "Shantak Whistle",
+    "Category": "Other",
+    "Level": "13",
+    "Price": "49,000",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "Resembling the skull of a "
+  },
+  {
+    "source": "Diffraction Cloak, Mk 3",
+    "Name": "Other",
+    "Category": "13",
+    "Level": "51,000",
+    "Price": "1",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Eldritch Encephalon, Mk 2",
+    "Name": "Other",
+    "Category": "13",
+    "Level": "12,500",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Encryption Tattoo, Provocateur",
+    "Name": "Other",
+    "Category": "13",
+    "Level": "48,000",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Fiery Runeplates, Mk 3",
+    "Name": "Other",
+    "Category": "13",
+    "Level": "56,000",
+    "Price": "3",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Figurine of Wondrous Power, Bloodstone Bloodbrother",
+    "Name": "Other",
+    "Category": "13",
+    "Level": "48,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Travel Treads, Mk 3",
+    "Name": "Other",
+    "Category": "13",
+    "Level": "46,500",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Pact Worlds pg. 200",
+    "Name": "Boardroom Attire",
+    "Category": "Other",
+    "Level": "14",
+    "Price": "62,500",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "This elegant tailored suit resembles a platinum AbadarCorp travel suit and has the same statistics as that armor. In addition, sigils of divination woven into the fabric of the suit subtly alert you to lies. When wearing a suit of "
+  },
+  {
+    "source": "Starfinder #6: Empire of Bones pg. 31",
+    "Name": "Warlord Stone",
+    "Category": "Other",
+    "Level": "14",
+    "Price": "75,000",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "\u003cb\u003e\u003ci\u003eWARNING: This entry contains spoilers for the Dead Sun Adventure Path.\u003c/i\u003e\u003c/b\u003e"
+  },
+  {
+    "source": "Alien Archive 3 pg. 39",
+    "Name": "Psychic Inhibitor",
+    "Category": "Other",
+    "Level": "15",
+    "Price": "120,000",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "Crafted from shards of crystal mined in the Colonies and held together with an organic, waxy substance, a "
+  },
+  {
+    "source": "Elemental Gem, Mk 5",
+    "Name": "Other",
+    "Category": "15",
+    "Level": "16,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Figurine of Wondrous Power, Plastic Sharpwing",
+    "Name": "Other",
+    "Category": "15",
+    "Level": "100,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Alien Archive 2 pg. 25",
+    "Name": "Calecor Skull-Globe",
+    "Category": "Other",
+    "Level": "17",
+    "Price": "250,000",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "This crystalline globe is bonded to a planet and constantly changes to reflect a real-time image of that world. Touching the globe allows you to use "
+  },
+  {
+    "source": "Arclord\u0027s Rod, Mk 3",
+    "Name": "Other",
+    "Category": "17",
+    "Level": "275,000",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Eldritch Encephalon, Mk 3",
+    "Name": "Other",
+    "Category": "18",
+    "Level": "450,000",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Elemental Gem, Mk 6",
+    "Name": "Other",
+    "Category": "18",
+    "Level": "49,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Encryption Tattoo, Master",
+    "Name": "Other",
+    "Category": "18",
+    "Level": "360,000",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder Armory pg. 112",
+    "Name": "Containment Tesseract",
+    "Category": "Other",
+    "Level": "19",
+    "Price": "500,000",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "A "
+  },
+  {
+    "source": "Starfinder #18: Assault on the Crucible pg. 45",
+    "Name": "The Malikah\u0027s Robes",
+    "Category": "Other",
+    "Level": "20",
+    "Price": "1,000,000",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "These unique robes provide protection as modern light armor that grants a +21 bonus to EAC and a +22 bonus to KAC, and has five upgrade slots. The robes also function as a "
+  },
+  {
+    "source": "Starfinder #18: Assault on the Crucible pg. 45",
+    "Name": "The Malikah\u0027s Staff",
+    "Category": "Other",
+    "Level": "20",
+    "Price": "1,250,000",
+    "Bulk": "1",
+    "type": "Magic Items",
+    "desc": "This unique two-handed basic melee weapon is an ornate, bejeweled magic battle staff of exceptional make. The staff deals 13d8 points of bludgeoning damage, and it has the analog, block, and reach special weapon properties, as well as the bind critical hit effect. The staff also functions as a "
+  },
+  {
+    "source": "Arclord\u0027s Rod, Mk 4",
+    "Name": "Other",
+    "Category": "20",
+    "Level": "950,000",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 222",
+    "Name": "Ring of Whispers",
+    "Category": "Rings",
+    "Level": "1",
+    "Price": "300",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "This simple gold band helps you hear when specific names are spoken. The ring can be attuned to recognize up to five proper names known to you, such as specific people, places, or things. The ring cannot be attuned to words that are not used as proper names. Attuning a "
+  },
+  {
+    "source": "Starfinder #32: The Starstone Blockade pg. 53",
+    "Name": "Arcane Signet",
+    "Category": "Rings",
+    "Level": "2",
+    "Price": "500",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "An "
+  },
+  {
+    "source": "Ring of Resistance, Mk 1",
+    "Name": "Rings",
+    "Category": "2",
+    "Level": "735",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder #2: Temple of the Twelve pg. 53",
+    "Name": "Ring of Fangs",
+    "Category": "Rings",
+    "Level": "3",
+    "Price": "315",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "When you wear this ring, your teeth become long and sharp, giving you a powerful bite attack. You can choose to have your unarmed attacks deal lethal piercing damage, and if you are 3rd level or higher, you automatically gain a special version of the Weapon Specialization feat that adds double your level to the damage of these unarmed attacks (rather than adding your level)."
+  },
+  {
+    "source": "Ring of Resistance, Mk 2",
+    "Name": "Rings",
+    "Category": "6",
+    "Level": "4,200",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Ring of Resistance, Mk 3",
+    "Name": "Rings",
+    "Category": "10",
+    "Level": "18,100",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 222",
+    "Name": "Ring of Cosmic Alignment",
+    "Category": "Rings",
+    "Level": "11",
+    "Price": "25,000",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "This majestic ring is forged from twin bands of mithral and adamantine. If you have the stellar mode class feature, whenever you start a turn of combat attuned to a stellar mode and choose to become unattuned, you can immediately gain 1 attunement point for the stellar mode that opposes the mode you began your turn in. For instance, if you began the turn in photon mode and choose to become unattuned, you can use the ring to gain 1 graviton attunement point. Using this ability is a swift action."
+  },
+  {
+    "source": "Starfinder Armory pg. 116",
+    "Name": "Ring of Counterspells",
+    "Category": "Rings",
+    "Level": "11",
+    "Price": "24,000",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "Spell duels are traditional in cultures throughout not only the Pact Worlds but the entire galaxy. A wily duelist might wear a "
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 53",
+    "Name": "Ring of the Ninth Truth",
+    "Category": "Rings",
+    "Level": "13",
+    "Price": "51,000",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "A rare velstrac item that neither causes nor relies on pain, a ring of the ninth truth is a prize to anyone seeking insight or personal enlightenment. The ring’s guidance is accurate, but it is often cryptic, utterly amoral, and rarely safe."
+  },
+  {
+    "source": "Ring of Resistance, Mk 4",
+    "Name": "Rings",
+    "Category": "14",
+    "Level": "70,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Ring of Resistance, Mk 5",
+    "Name": "Rings",
+    "Category": "18",
+    "Level": "361,500",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 222",
+    "Name": "Serum of Appearance Change",
+    "Category": "Serums",
+    "Level": "1",
+    "Price": "75",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "Upon drinking this elixir, your coloration and the general form of your features instantly and permanently changes. Within the range that is normal for your race and sex, you can select any skin tone, hair and eye color, and alter the nature of such things as the shape or your nose or chin, the length of your fingers, broadness of your frame, and so on. You are still recognizable as yourself unless you attempt a Disguise check to alter your features enough to conceal your identity (comparing the result of this Disguise check to any effort to determine if you are the same person as your original appearance). In no case can you take on the exact appearance of another creature (even with a Disguise check; the level of control is not that fine)."
+  },
+  {
+    "source": "Serum of Healing, Mk 1",
+    "Name": "Serums",
+    "Category": "1",
+    "Level": "50",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder #21: Huskworld pg. 43",
+    "Name": "Serum of Hibernation, Diluted",
+    "Category": "Serums",
+    "Level": "1",
+    "Price": "80",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 116",
+    "Name": "Serum, Lingo",
+    "Category": "Serums",
+    "Level": "2",
+    "Price": "100",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "Useful for explorers and scholars alike, the "
+  },
+  {
+    "source": "Alien Archive 2 pg. 73",
+    "Name": "Gravity Serum",
+    "Category": "Serums",
+    "Level": "3",
+    "Price": "320",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "\u003ci\u003eGravity serum\u003c/i\u003e"
+  },
+  {
+    "source": "Character Operations Manual pg. 126",
+    "Name": "Rad-Out Serum",
+    "Category": "Serums",
+    "Level": "3",
+    "Price": "225",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "This bubbling amber serum is infused with special isotopes designed to absorb radiation from your body. Upon imbibing a "
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 222",
+    "Name": "Serum of Sex Shift",
+    "Category": "Serums",
+    "Level": "3",
+    "Price": "350",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "Mass production has rendered this once-rare serum easy and inexpensive to obtain among the Pact Worlds. Upon drinking this elixir, your biology instantly transforms to take on a set of sexual characteristics of your choice, changing both your appearance and physiology accordingly. You have some mild control over the details of this change, but you retain a strong “family resemblance” to your former appearance."
+  },
+  {
+    "source": "Polymorphic Serum, Mk 1",
+    "Name": "Serums",
+    "Category": "3",
+    "Level": "250",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Serum, Daywalker",
+    "Name": "Serums",
+    "Category": "3",
+    "Level": "200",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Adaptive Serum, Mk 1",
+    "Name": "Serums",
+    "Category": "4",
+    "Level": "350",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Serum, Shadowblend",
+    "Name": "Serums",
+    "Category": "4",
+    "Level": "325",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Serum, X-Ray",
+    "Name": "Serums",
+    "Category": "4",
+    "Level": "350",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Alien Archive pg. 23",
+    "Name": "Bloodbrother Serum",
+    "Category": "Serums",
+    "Level": "5",
+    "Price": "500",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "\u003ci\u003eBloodbrother serum\u003c/i\u003e"
+  },
+  {
+    "source": "Starfinder #13: Fire Starters pg. 53",
+    "Name": "Dawnflower Melange",
+    "Category": "Serums",
+    "Level": "5",
+    "Price": "475",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "This warm tea infused with magical spices functions like a serum and fortifies the mind and spirit when imbibed. Cafes near the Radiant Cathedral are often filled daily with Sarenite clerics enjoying this beverage while talking about the confluence of science and religion. Drinking this brew grants you a +2 insight bonus to Diplomacy, Mysticism, and Physical Science checks for 1 hour, and during that time you can attempt checks to recall knowledge with Mysticism and Physical Science untrained."
+  },
+  {
+    "source": "Pact Worlds pg. 201",
+    "Name": "Pact World Serum, Aballon Spark",
+    "Category": "Serums",
+    "Level": "5",
+    "Price": "475",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "This cool, sparkling fluid grants you a +2 insight bonus to Computers checks, and you can attempt checks with this skill untrained. Once while this serum is in effect, you can be healed by "
+  },
+  {
+    "source": "Pact World Serum, Absalom Affable",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Pact World Serum, Akiton Rustrider",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Pact World Serum, Bretheda Effervescent",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Pact World Serum, Castrovel Effloresce",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Pact World Serum, Diaspora Daredevil",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Pact World Serum, Eox Deliquesce",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Pact World Serum, Idari Gold",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Pact World Serum, Triaxus Dragonsight",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Pact World Serum, Verces Gleam",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Serum, Veracity",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "450",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 222",
+    "Name": "Serum of Enhancement, Commando",
+    "Category": "Serums",
+    "Level": "5",
+    "Price": "475",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "The creature gains a +2 insight bonus to Acrobatics and Athletics checks, and it gains temporary Hit Points equal to half its level. If lost, these temporary Hit Points cannot be restored, and they do not stack with any other source of temporary Hit Points."
+  },
+  {
+    "source": "Serum of Enhancement, Diplomat",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Serum of Enhancement, Scientist",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Serum of Enhancement, Sensate",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Serum of Enhancement, Sneak",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Serum of Enhancement, Warrior",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Serum of Healing, Mk 2",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "425",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Serum of Hibernation, Potent",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "400",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder #27: Deceivers’ Moon pg. 45",
+    "Name": "Starmetal Serums, Abysium Philter",
+    "Category": "Serums",
+    "Level": "5",
+    "Price": "450",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "For 1 hour after you consume an "
+  },
+  {
+    "source": "Starmetal Serums, Djezet Draught",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "450",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starmetal Serums, Horacalcum Mélange",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starmetal Serums, Inubrix Brew",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starmetal Serums, Noqual Elixir",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "450",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starmetal Serums, Siccatite Tonic",
+    "Name": "Serums",
+    "Category": "5",
+    "Level": "475",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Character Operations Manual pg. 126",
+    "Name": "Regeneration Serum",
+    "Category": "Serums",
+    "Level": "6",
+    "Price": "600",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "This vial is filled with a brownish liquid that appears to be as thick as tar. When using a "
+  },
+  {
+    "source": "Polymorphic Serum, Mk 2",
+    "Name": "Serums",
+    "Category": "6",
+    "Level": "675",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder #37: The White Glove Affair pg. 39",
+    "Name": "Joyful Thought",
+    "Category": "Serums",
+    "Level": "7",
+    "Price": "870",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "A joyful thought serum is synthesized from the famous sensestone of Veyvilla-6. It manifests as a rosy purple brew bubbling with great effervescence. Upon imbibing the serum, a momentary, overwhelming joy encompasses your mind; you can attempt a new saving throw against any mind-affecting effects that are currently affecting you. Succeed or fail, you gain a +4 enhancement bonus to saving throws against mind-affecting effects for 10 minutes afterward as your mind focuses on happier thoughts."
+  },
+  {
+    "source": "Serum, Close-Quarters",
+    "Name": "Serums",
+    "Category": "7",
+    "Level": "950",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Adaptive Serum, Mk 2",
+    "Name": "Serums",
+    "Category": "8",
+    "Level": "1,500",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Polymorphic Serum, Mk 3",
+    "Name": "Serums",
+    "Category": "9",
+    "Level": "2,100",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Serum of Healing, Mk 3",
+    "Name": "Serums",
+    "Category": "9",
+    "Level": "1,950",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Alien Archive 3 pg. 79",
+    "Name": "Sophic Philter",
+    "Category": "Serums",
+    "Level": "11",
+    "Price": "4,500",
+    "Bulk": "—",
+    "type": "Magic Items",
+    "desc": "Emitted from a willing "
+  },
+  {
+    "source": "Adaptive Serum, Mk 3",
+    "Name": "Serums",
+    "Category": "12",
+    "Level": "5,500",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Polymorphic Serum, Mk 4",
+    "Name": "Serums",
+    "Category": "12",
+    "Level": "5,700",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Alien Archive 2 pg. 71",
+    "Name": "Haeshi-Shaa Serum",
+    "Category": "Serums",
+    "Level": "14",
+    "Price": "10,500",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "This serum causes a creature to become partially vaporous, imparting a 20% miss chance to its attacks and attacks targeting it. Spells the creature casts have a 20% chance to fail, and the creature becomes immune to critical hits. The effects of this serum last for 1 minute."
+  },
+  {
+    "source": "Polymorphic Serum, Mk 5",
+    "Name": "Serums",
+    "Category": "15",
+    "Level": "18,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Polymorphic Serum, Mk 6",
+    "Name": "Serums",
+    "Category": "18",
+    "Level": "60,000",
+    "Price": "—",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 222",
+    "Name": "Spell Ampoule, 0",
+    "Category": "Spell Ampoule",
+    "Level": "2",
+    "Price": "200",
+    "Bulk": "L",
+    "type": "Magic Items",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Spell Ampoule, 1st",
+    "Name": "Spell Ampoule",
+    "Category": "3",
+    "Level": "300",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Spell Ampoule, 2nd",
+    "Name": "Spell Ampoule",
+    "Category": "6",
+    "Level": "700",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Spell Ampoule, 3rd",
+    "Name": "Spell Ampoule",
+    "Category": "10",
+    "Level": "3,000",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Spell Gem, 0",
+    "Name": "Spell Gem",
+    "Category": "1",
+    "Level": "50",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Spell Gem, 1st",
+    "Name": "Spell Gem",
+    "Category": "2",
+    "Level": "140",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Spell Gem, 2nd",
+    "Name": "Spell Gem",
+    "Category": "5",
+    "Level": "450",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Spell Gem, 3rd",
+    "Name": "Spell Gem",
+    "Category": "8",
+    "Level": "1,400",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Spell Gem, 4th",
+    "Name": "Spell Gem",
+    "Category": "11",
+    "Level": "3,700",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Spell Gem, 5th",
+    "Name": "Spell Gem",
+    "Category": "14",
+    "Level": "10,600",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Spell Gem, 6th",
+    "Name": "Spell Gem",
+    "Category": "17",
+    "Level": "36,650",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Tiara of Translocation, Mk 1",
+    "Name": "Tiara of Translocation",
+    "Category": "14",
+    "Level": "11,750",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Tiara of Translocation, Mk 2",
+    "Name": "Tiara of Translocation",
+    "Category": "16",
+    "Level": "185,000",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Tiara of Translocation, Mk 3",
+    "Name": "Tiara of Translocation",
+    "Category": "18",
+    "Level": "410,000",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  },
+  {
+    "source": "Tiara of Translocation, Mk 4",
+    "Name": "Tiara of Translocation",
+    "Category": "20",
+    "Level": "875,000",
+    "Price": "L",
+    "Bulk": "Magic Items"
+  }
+]

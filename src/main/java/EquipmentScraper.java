@@ -2,6 +2,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonParser;
+import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -29,27 +30,14 @@ public class EquipmentScraper {
             InputStream is = this.getClass().getResourceAsStream("/archives.xml");
             Document doc = Jsoup.parse(is, null, "", Parser.xmlParser());
             Elements pages = doc.getElementsByTag("equipment").get(0).children();
-            //mongo = new MongoUtils("localhost", 27017);
-            //StringBuilder json = new StringBuilder();
-            //json.append("{");
-            //String comma = " ";
             for (Element element : pages) {
-                //json.append(comma);
                 page = element.children();
                 pageName = element.nodeName();
-                if (pageName.equalsIgnoreCase("tech_items")) read();
-                //json.append(pageName).append(": ");
-                //json.append(read());
-                //comma = ", ";
-                //System.out.println(pageName + " added to json");
+                //todo: remove after debugging
+                if (pageName.equalsIgnoreCase("advanced_melee"))
+                read();
+                //System.out.println(pageName + ".json created");
             }
-            //json.append("}");
-            //Gson gson = new GsonBuilder().setPrettyPrinting().create();
-            //JsonParser parser = new JsonParser();
-            //JsonElement element = parser.parse(json.toString());
-            //FileWriter writer = new FileWriter("test.json");
-            //writer.write(gson.toJson(element));
-            //writer.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -173,89 +161,88 @@ public class EquipmentScraper {
             Elements spans = tables.get(0).getElementsByTag("span");
             Elements sections = spans.get(0).getElementsByTag("h2");
             Elements h1Sections = spans.get(0).getElementsByTag("h1");
+            String desc = "";
             for (Element section : sections) {
                 if (section.nextElementSibling().tagName().equalsIgnoreCase("h1")) {
                     section = section.nextElementSibling();
                 }
                 if (section.text().equalsIgnoreCase(item)) {
-                    //finds the items source.
-                    Element currentElm = section.nextElementSibling().nextElementSibling();
-                    String source = currentElm.text();
-                    row.add(source);
-                    currentElm = currentElm.nextElementSibling();
-                    //finds the items descriptions.
-                    //todo: find last main item value, current guess is type.
-                    while (currentElm.tagName().equalsIgnoreCase("b") || currentElm.nextElementSibling().tagName().equalsIgnoreCase("b")) {
-                        currentElm = currentElm.nextElementSibling();
-                        if (currentElm.tagName().equalsIgnoreCase("hr")) {
-                            //todo: get desc
-                            return "top desc: hr";
-                        } else if (currentElm.tagName().equalsIgnoreCase("h3")) {
-                            //todo: get all text after breaks.
-                            return currentElm.nextSibling().toString();
-                        } else if (currentElm.tagName().equalsIgnoreCase("h2")) {
-                            System.out.println("top desc: h2");
-                            return "top desc: h2";
-                        } else if (currentElm.tagName().equalsIgnoreCase("a")) {
-                            System.out.println("a tag found");
-                            return " ";
-                        }
-                        //System.out.println(currentElm.tagName());
-                    }
-                    //Finds descriptions that contains <i> tags and loops to get all information.
-                    if (currentElm != null && currentElm.nextElementSibling() != null && currentElm.nextElementSibling().tagName().equalsIgnoreCase("i")) {
-                        Node node = currentElm.nextSibling();
-                        StringBuilder descBuilder = new StringBuilder();
-                        while (!node.toString().contains("<br>")) {
-                            descBuilder.append(node.toString().replace("<i>","").replace("</i>",""));
-                            node = node.nextSibling();
-                        }
-                        return descBuilder.toString();
-                    }
-                    //Looks to see if there is two <br> elements in a row which is where descriptions are stored
-                    else if (currentElm != null && currentElm.nextElementSibling() != null
-                            && currentElm.tagName().equalsIgnoreCase(currentElm.nextElementSibling().tagName())) {
-                        //if nothing is between the <br> tags then the desc is at the top of the span
-                        if (currentElm.nextSibling().toString().equalsIgnoreCase("<br>")) {
-                            Elements h1 = spans.get(0).getElementsByTag("h1");
-                            Node node = h1.get(0).nextSibling();
-                            StringBuilder descBuilder = new StringBuilder();
-                            while (!node.toString().contains("<h2 ")) {
-                                if (node.toString().equalsIgnoreCase("<br>")) {
-                                    descBuilder.append(System.getProperty("line.separator"));
-                                } else {
-                                    descBuilder.append(node);
-                                }
-                                node = node.nextSibling();
-                            }
-                            return descBuilder.toString();
-                        }
-                        return currentElm.nextSibling().toString();
+                    desc = searchInfo(section, row, spans, item);
+                }
+            }
+            if (desc.equalsIgnoreCase("")) {
+                for (Element section : h1Sections) {
+                    if (section.text().equalsIgnoreCase(item)) {
+                        desc = searchInfo(section, row, spans, item);
                     }
                 }
             }
-            for (Element e: h1Sections) {
-                if (e.text().equalsIgnoreCase(item)) {
-                    System.out.println(item + ": " + e.text());
-                }
-                if (e.text().equalsIgnoreCase(item)) {
-                    //finds the items source.
-                    Element currentElm = e.nextElementSibling().nextElementSibling();
-                    String source = currentElm.text();
-                    row.add(source);
-                }
-            }
-            System.out.println("~~~~~~~~~~~~~~~~");
+            return desc;
         } catch (IndexOutOfBoundsException e) {
             System.out.println(pageName + ": " + item);
+        } catch (HttpStatusException e2) {
+            System.out.println("page not found: " + link);
+            System.out.println("\tNo extra details added for: " + item);
         }
         return "";
 
 
     }
 
-    private void getTop() {
-
+    private String searchInfo(Element section, ArrayList<String> row, Elements spans, String item) {
+        Element currentElm = section.nextElementSibling().nextElementSibling();
+        String source = currentElm.text();
+        row.add(source);
+        currentElm = currentElm.nextElementSibling();
+        //finds the items descriptions.
+        while (currentElm.tagName().equalsIgnoreCase("b") || currentElm.nextElementSibling().tagName().equalsIgnoreCase("b") || currentElm.tagName().equalsIgnoreCase("a")) {
+            currentElm = currentElm.nextElementSibling();
+            if (currentElm == null) {
+                System.out.println("error: " + item);
+                return "error, looping till null";
+            } else if (currentElm.tagName().equalsIgnoreCase("hr")) {
+                Element heading = spans.get(0).getElementsByTag("h1").get(0);
+                return heading.nextSibling().toString();
+            } else if (currentElm.tagName().equalsIgnoreCase("h3")) {
+                //todo: get all text after breaks.
+                return currentElm.nextSibling().toString();
+            } else if (currentElm.tagName().equalsIgnoreCase("h2")) {
+                //System.out.println("top desc: h2");
+                return "top desc: h2";
+            }
+            //System.out.println(currentElm.tagName());
+        }
+        //Finds descriptions that contains <i> tags and loops to get all information.
+        if (currentElm.nextElementSibling() != null && currentElm.nextElementSibling().tagName().equalsIgnoreCase("i")) {
+            Node node = currentElm.nextSibling();
+            StringBuilder descBuilder = new StringBuilder();
+            while (!node.toString().contains("<br>")) {
+                descBuilder.append(node.toString().replace("<i>","").replace("</i>",""));
+                node = node.nextSibling();
+            }
+            return descBuilder.toString();
+        }
+        //Looks to see if there is two <br> elements in a row which is where descriptions are stored
+        else if (currentElm != null && currentElm.nextElementSibling() != null
+                && currentElm.tagName().equalsIgnoreCase(currentElm.nextElementSibling().tagName())) {
+            //if nothing is between the <br> tags then the desc is at the top of the span
+            if (currentElm.nextSibling().toString().equalsIgnoreCase("<br>")) {
+                Elements h1 = spans.get(0).getElementsByTag("h1");
+                Node node = h1.get(0).nextSibling();
+                StringBuilder descBuilder = new StringBuilder();
+                while (!node.toString().contains("<h2 ")) {
+                    if (node.toString().equalsIgnoreCase("<br>")) {
+                        descBuilder.append(System.getProperty("line.separator"));
+                    } else {
+                        descBuilder.append(node);
+                    }
+                    node = node.nextSibling();
+                }
+                return descBuilder.toString();
+            }
+            return currentElm.nextSibling().toString();
+        }
+        return "";
     }
 
     private void textReader(String url) throws IOException {

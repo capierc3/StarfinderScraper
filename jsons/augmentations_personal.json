@@ -1,0 +1,83 @@
+[
+  {
+    "source": "Starfinder Core Rulebook pg. 212",
+    "Name": "Ability Crystal (Magic), MK 1",
+    "Level": "3",
+    "Price": "1,400",
+    "Ability": "+2",
+    "type": "augmentations_personal",
+    "desc": "This crystal formed a mystical connection to the memories of heroes long ago. Any character can spend 1 hour communing with the crystal to gain additional ability points. This counts as a personal upgrade of the appropriate model number. Once a character has used the crystal, its magic is forever spent.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 212",
+    "Name": "Synaptic Accelerators (Technology), MK 1",
+    "Level": "3",
+    "Price": "1,400",
+    "Ability": "+2",
+    "type": "augmentations_personal",
+    "desc": "These implants supercharge the synaptic connections in your brain, allowing you to process information faster and send impulses throughout your body more effectively. Synaptic accelerators grant you additional ability points. This counts as a personal upgrade of the appropriate model number. It takes an hour to install a synaptic accelerator, and once a character has benefited from its technology, it is forever spent.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 212",
+    "Name": "Synergizing Symbiote (Hybrid), MK 1",
+    "Level": "3",
+    "Price": "1,400",
+    "Ability": "+2",
+    "type": "augmentations_personal",
+    "desc": "These tiny, biovat-grown, tadpole-like creatures form symbiotic relationships with other animals by attaching to their bodies and instinctively maximizing efficiency in the hosts’ biological systems, losing their own independence and functionally becoming a new organ. Synergizing symbiotes grant additional ability points. This counts as a personal upgrade of the appropriate model number. It takes an hour to implant a synergizing symbiote, and once a character has benefited from it, it is forever spent.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 212",
+    "Name": "Ability Crystal (Magic), MK 2",
+    "Level": "7",
+    "Price": "6,500",
+    "Ability": "+4",
+    "type": "augmentations_personal",
+    "desc": "This crystal formed a mystical connection to the memories of heroes long ago. Any character can spend 1 hour communing with the crystal to gain additional ability points. This counts as a personal upgrade of the appropriate model number. Once a character has used the crystal, its magic is forever spent.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 212",
+    "Name": "Synaptic Accelerators (Technology), MK 2",
+    "Level": "7",
+    "Price": "6,500",
+    "Ability": "+4",
+    "type": "augmentations_personal",
+    "desc": "These implants supercharge the synaptic connections in your brain, allowing you to process information faster and send impulses throughout your body more effectively. Synaptic accelerators grant you additional ability points. This counts as a personal upgrade of the appropriate model number. It takes an hour to install a synaptic accelerator, and once a character has benefited from its technology, it is forever spent.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 212",
+    "Name": "Synergizing Symbiote (Hybrid), MK 2",
+    "Level": "7",
+    "Price": "6,500",
+    "Ability": "+4",
+    "type": "augmentations_personal",
+    "desc": "These tiny, biovat-grown, tadpole-like creatures form symbiotic relationships with other animals by attaching to their bodies and instinctively maximizing efficiency in the hosts’ biological systems, losing their own independence and functionally becoming a new organ. Synergizing symbiotes grant additional ability points. This counts as a personal upgrade of the appropriate model number. It takes an hour to implant a synergizing symbiote, and once a character has benefited from it, it is forever spent.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 212",
+    "Name": "Ability Crystal (Magic), MK 3",
+    "Level": "14",
+    "Price": "75,000",
+    "Ability": "+6",
+    "type": "augmentations_personal",
+    "desc": "This crystal formed a mystical connection to the memories of heroes long ago. Any character can spend 1 hour communing with the crystal to gain additional ability points. This counts as a personal upgrade of the appropriate model number. Once a character has used the crystal, its magic is forever spent.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 212",
+    "Name": "Synaptic Accelerators (Technology), MK 3",
+    "Level": "14",
+    "Price": "75,000",
+    "Ability": "+6",
+    "type": "augmentations_personal",
+    "desc": "These implants supercharge the synaptic connections in your brain, allowing you to process information faster and send impulses throughout your body more effectively. Synaptic accelerators grant you additional ability points. This counts as a personal upgrade of the appropriate model number. It takes an hour to install a synaptic accelerator, and once a character has benefited from its technology, it is forever spent.\n"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 212",
+    "Name": "Synergizing Symbiote (Hybrid), MK 3",
+    "Level": "14",
+    "Price": "75,000",
+    "Ability": "+6",
+    "type": "augmentations_personal",
+    "desc": "These tiny, biovat-grown, tadpole-like creatures form symbiotic relationships with other animals by attaching to their bodies and instinctively maximizing efficiency in the hosts’ biological systems, losing their own independence and functionally becoming a new organ. Synergizing symbiotes grant additional ability points. This counts as a personal upgrade of the appropriate model number. It takes an hour to implant a synergizing symbiote, and once a character has benefited from it, it is forever spent.\n"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "source": "Starfinder Core Rulebook pg. 234",
+    "Name": "Communications",
+    "Level": "0",
+    "Price": "5 or 10 per minute",
+    "type": "Professional Services",
+    "desc": "Those without access to a starship’s comms system can send and receive messages at system-wide or unlimited range (see page 272) by paying an individual or business. System-wide communications cost 5 credits per minute, and unlimited-range communications cost 10 credits per minute."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 234",
+    "Name": "Professional Freelancer",
+    "Level": "0",
+    "Price": "Skill Bonus x 2 per day",
+    "type": "Professional Services",
+    "desc": "Entertainers, experts, porters, and tradesfolk often lack time or interest in taking jobs outside of their normal work. Those who do are freelancers, who build a circle of regular clients and get paid directly by those to whom they provide services."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 234",
+    "Name": "Unskilled Labor",
+    "Level": "0",
+    "Price": "4 per day or 1 per hour",
+    "type": "Professional Services",
+    "desc": "error, looping till null"
+  },
+  {
+    "source": "Starfinder Armory pg. 135",
+    "Name": "Grooming, Exotic",
+    "Level": "0",
+    "Price": "75",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 135",
+    "Name": "Grooming, Standard",
+    "Level": "0",
+    "Price": "3",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 135",
+    "Name": "Laundry, Magical",
+    "Level": "0",
+    "Price": "10",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 135",
+    "Name": "Laundry, Standard",
+    "Level": "0",
+    "Price": "1",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 135",
+    "Name": "Medical Treatment, Long-Term Care",
+    "Level": "0",
+    "Price": "100 per day",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 135",
+    "Name": "Medical Treatment, Long-Term Stability",
+    "Level": "0",
+    "Price": "15 per hour",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 135",
+    "Name": "Medical Treatment, Treat Deadly Wounds",
+    "Level": "0",
+    "Price": "75",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 135",
+    "Name": "Medical Treatment, Treat Disease",
+    "Level": "0",
+    "Price": "1,000",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 135",
+    "Name": "Medical Treatment, Treat Drugs or Poison",
+    "Level": "0",
+    "Price": "1,000",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 234",
+    "Name": "Spellcasting, 0-level Spell",
+    "Level": "0",
+    "Price": "20",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 234",
+    "Name": "Spellcasting, 1st-level Spell",
+    "Level": "0",
+    "Price": "100",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 234",
+    "Name": "Spellcasting, 2nd-level Spell",
+    "Level": "0",
+    "Price": "350",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 234",
+    "Name": "Spellcasting, 3rd-level Spell",
+    "Level": "0",
+    "Price": "1,000",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 234",
+    "Name": "Spellcasting, 4th-level Spell",
+    "Level": "0",
+    "Price": "3,000",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 234",
+    "Name": "Spellcasting, 5th-level Spell",
+    "Level": "0",
+    "Price": "9,000",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 234",
+    "Name": "Spellcasting, 6th-level Spell",
+    "Level": "0",
+    "Price": "30,000",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 135",
+    "Name": "Starship Crew, Officer",
+    "Level": "0",
+    "Price": "Skill bonus x 5 per week",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 135",
+    "Name": "Starship Crew, Standard",
+    "Level": "0",
+    "Price": "20 per week",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder #38: Crash and Burn pg. 55",
+    "Name": "Union Membership, Apprentice",
+    "Level": "1",
+    "Price": "5 credits/month",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder #38: Crash and Burn pg. 55",
+    "Name": "Union Membership, Artisan",
+    "Level": "7",
+    "Price": "25 credits/month",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder #38: Crash and Burn pg. 55",
+    "Name": "Union Membership, Master",
+    "Level": "14",
+    "Price": "100 credits/month",
+    "type": "Professional Services",
+    "desc": "top desc: hr"
+  }
+]

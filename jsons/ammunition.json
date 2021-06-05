@@ -1,0 +1,353 @@
+[
+  {
+    "source": "Arrows (20)",
+    "Name": "—",
+    "Category": "1",
+    "Level": "50",
+    "Price": "L",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Darts (25)",
+    "Name": "—",
+    "Category": "1",
+    "Level": "20",
+    "Price": "L",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Flare (1)",
+    "Name": "—",
+    "Category": "1",
+    "Level": "5",
+    "Price": "—",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Flechette (25)",
+    "Name": "—",
+    "Category": "1",
+    "Level": "75",
+    "Price": "L",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Scattergun Shells (25)",
+    "Name": "—",
+    "Category": "1",
+    "Level": "55",
+    "Price": "L",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Battery, Standard (20)",
+    "Name": "—",
+    "Category": "1",
+    "Level": "60",
+    "Price": "—",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Petrol Tank, Standard (20)",
+    "Name": "—",
+    "Category": "1",
+    "Level": "60",
+    "Price": "1",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Rounds, Longarm and Sniper (25)",
+    "Name": "—",
+    "Category": "1",
+    "Level": "75",
+    "Price": "L",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Rounds, Small Arm (30)",
+    "Name": "—",
+    "Category": "1",
+    "Level": "40",
+    "Price": "L",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Rounds, Heavy (20)",
+    "Name": "—",
+    "Category": "2",
+    "Level": "90",
+    "Price": "L",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Petrol Tank, High-Capacity (40)",
+    "Name": "—",
+    "Category": "3",
+    "Level": "280",
+    "Price": "2",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Mini-Rockets (10)",
+    "Name": "—",
+    "Category": "4",
+    "Level": "300",
+    "Price": "L",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Battery, High-Capacity (40)",
+    "Name": "—",
+    "Category": "4",
+    "Level": "330",
+    "Price": "—",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Battery, Super-Capacity (80)",
+    "Name": "—",
+    "Category": "4",
+    "Level": "390",
+    "Price": "—",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Battery, Ultra-Capacity (100)",
+    "Name": "—",
+    "Category": "5",
+    "Level": "445",
+    "Price": "L",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Nanite Canisters (10 nanites)",
+    "Name": "—",
+    "Category": "9",
+    "Level": "2,150",
+    "Price": "L",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Explosive, Arrow (20)",
+    "Name": "Special",
+    "Category": "2",
+    "Level": "75",
+    "Price": "L",
+    "Bulk": "fiery",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Explosive, Darts (25)",
+    "Name": "Special",
+    "Category": "2",
+    "Level": "50",
+    "Price": "L",
+    "Bulk": "fiery",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Explosive, Rounds, Longarm and Sniper (25)",
+    "Name": "Special",
+    "Category": "2",
+    "Level": "150",
+    "Price": "L",
+    "Bulk": "fiery",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Explosive, Rounds, Small Arms (30)",
+    "Name": "Special",
+    "Category": "2",
+    "Level": "60",
+    "Price": "L",
+    "Bulk": "fiery",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Explosive, Scattergun Shells (25)",
+    "Name": "Special",
+    "Category": "2",
+    "Level": "110",
+    "Price": "L",
+    "Bulk": "fiery",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Explosive, Rounds, Heavy (20)",
+    "Name": "Special",
+    "Category": "3",
+    "Level": "180",
+    "Price": "L",
+    "Bulk": "fiery",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Explosive, Mini-Rockets (10)",
+    "Name": "Special",
+    "Category": "5",
+    "Level": "450",
+    "Price": "L",
+    "Bulk": "fiery",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Grenade Arrow, I (1)",
+    "Name": "Special",
+    "Category": "6",
+    "Level": "875",
+    "Price": "—",
+    "Bulk": "as any 1st-level grenade",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Phasing, I Longarm and Sniper Rounds (25)",
+    "Name": "Special",
+    "Category": "7",
+    "Level": "820",
+    "Price": "L",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Grenade Arrow, II (1)",
+    "Name": "Special",
+    "Category": "10",
+    "Level": "5,450",
+    "Price": "—",
+    "Bulk": "as any 5th- or lower-level grenade",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Missile, Tactical (1)",
+    "Name": "Special",
+    "Category": "10",
+    "Level": "5,700",
+    "Price": "1",
+    "Bulk": "explode (6d8 B \u0026 P; 30 ft.)",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Plasma Missile, Ionized (1)",
+    "Name": "Special",
+    "Category": "11",
+    "Level": "6,700",
+    "Price": "1",
+    "Bulk": "8d8 e\u0026f",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Arrow, Diamond-Edge (20)",
+    "Name": "Special",
+    "Category": "12",
+    "Level": "5,200",
+    "Price": "L",
+    "Bulk": "3d6 p",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Missile, Advanced (1)",
+    "Name": "Special",
+    "Category": "13",
+    "Level": "14,600",
+    "Price": "1",
+    "Bulk": "13d8 b \u0026 f",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Phasing, II Longarm and Sniper Rounds (25)",
+    "Name": "Special",
+    "Category": "14",
+    "Level": "9,420",
+    "Price": "L",
+    "Bulk": "—",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Warpshot, Heavy Rounds (20)",
+    "Name": "Special",
+    "Category": "14",
+    "Level": "9,750",
+    "Price": "L",
+    "Bulk": "Force",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Warpshot, Mini-rockets (10)",
+    "Name": "Special",
+    "Category": "14",
+    "Level": "9,750",
+    "Price": "L",
+    "Bulk": "Force",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Warpshot, Scattergun Shells (25)",
+    "Name": "Special",
+    "Category": "14",
+    "Level": "9,750",
+    "Price": "L",
+    "Bulk": "Force",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Grenade Arrow, III (1)",
+    "Name": "Special",
+    "Category": "15",
+    "Level": "32,050",
+    "Price": "—",
+    "Bulk": "as any 10th- or lower-level grenade",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Plasma Missile, Stellar (1)",
+    "Name": "Special",
+    "Category": "16",
+    "Level": "53,200",
+    "Price": "1",
+    "Bulk": "12d10 e\u0026f",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Arrow, Molecular Rift (20)",
+    "Name": "Special",
+    "Category": "18",
+    "Level": "53,700",
+    "Price": "L",
+    "Bulk": "10d6 p",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Plasma Missile, HED (1)",
+    "Name": "Special",
+    "Category": "19",
+    "Level": "175,000",
+    "Price": "1",
+    "Bulk": "17d12 e\u0026f",
+    "Special": "ammunition"
+  },
+  {
+    "source": "Grenade Arrow, IV (1)",
+    "Name": "Special",
+    "Category": "20",
+    "Level": "245,000",
+    "Price": "—",
+    "Bulk": "as any 15th- or lower-level grenade",
+    "Special": "ammunition"
+  }
+]

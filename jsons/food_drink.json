@@ -1,0 +1,110 @@
+[
+  {
+    "source": "Starfinder Armory pg. 134",
+    "Name": "Dining, Common Chain",
+    "Category": "Dining",
+    "Price": "10",
+    "Bulk": "—",
+    "type": "Food and Drinks",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 134",
+    "Name": "Dining, Common Independent Venue",
+    "Category": "Dining",
+    "Price": "20",
+    "Bulk": "—",
+    "type": "Food and Drinks",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 134",
+    "Name": "Dining, Good Chain",
+    "Category": "Dining",
+    "Price": "25",
+    "Bulk": "—",
+    "type": "Food and Drinks",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 134",
+    "Name": "Dining, Good Independent Venue",
+    "Category": "Dining",
+    "Price": "50",
+    "Bulk": "—",
+    "type": "Food and Drinks",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 134",
+    "Name": "Dining, Poor Chain",
+    "Category": "Dining",
+    "Price": "2",
+    "Bulk": "—",
+    "type": "Food and Drinks",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 233",
+    "Name": "Intoxicant, Minor",
+    "Category": "Intoxicant",
+    "Price": "1",
+    "Bulk": "L",
+    "type": "Food and Drinks",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 233",
+    "Name": "Intoxicant, Superior",
+    "Category": "Intoxicant",
+    "Price": "10+",
+    "Bulk": "L",
+    "type": "Food and Drinks",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 233",
+    "Name": "Meal, Common",
+    "Category": "Meal",
+    "Price": "3",
+    "Bulk": "L",
+    "type": "Food and Drinks",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 233",
+    "Name": "Meal, Good",
+    "Category": "Meal",
+    "Price": "5",
+    "Bulk": "L",
+    "type": "Food and Drinks",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 233",
+    "Name": "Meal, Poor",
+    "Category": "Meal",
+    "Price": "1",
+    "Bulk": "L",
+    "type": "Food and Drinks",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 233",
+    "Name": "Field Ration",
+    "Category": "Other",
+    "Price": "1/week",
+    "Bulk": "1/week",
+    "type": "Food and Drinks",
+    "desc": "A field ration is prepackaged food that can easily sustain you but lacks flavor and visual appeal. Field rations generally consist of chewy, brownish blocks of processed nutrients, which contain enough moisture to provide a day’s worth of water intake. While it is possible to survive for weeks on nothing but field rations, it’s not a pleasant experience."
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 233",
+    "Name": "R2E",
+    "Category": "Other",
+    "Price": "1",
+    "Bulk": "L",
+    "type": "Food and Drinks",
+    "desc": "These self-contained “Ready-to-Eat” pouches contain a day’s worth of nourishing entrees and side dishes, plus a portable snack or dessert. Each R2E also includes disposable utensils, a single-use flameless ration heater, and an accessory pack containing breath freshener, a disposable cup, a napkin, seasonings, and drink powder. Each R2E has a shelf life of one century, and the pouch is made of a durable, easy-seal material."
+  }
+]

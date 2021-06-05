@@ -1,0 +1,596 @@
+[
+  {
+    "source": "Starfinder Armory pg. 93",
+    "Name": "Technopathy Node",
+    "Level": "1",
+    "Price": "220",
+    "System": "Throat",
+    "type": "augmentations_magitech",
+    "desc": "A small metallic node etched with arcane symbols implanted in your voice box allows you to silently vocalize messages to constructs with the technological subtype or to nearby computers designed to receive messages. As a standard action, you can send a short message in a language you know to up to three target creatures or computers you are observing within 100 feet and potentially receive a short reply, per telepathic message. Alternatively, as a standard action, you can send a short message in a language you know to a single target computer you are observing within 100 feet and have that computer display that message, allowing anyone observing that computer to read it without leaving any trace of the message’s origin."
+  },
+  {
+    "source": "Starfinder Armory pg. 92",
+    "Name": "Morphic Skin, Basic",
+    "Level": "1",
+    "Price": "370",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "Your skin is linked to implanted magical glands that release mutagenic enzymes and transmutation magic. Using \u003ci\u003emorphic skin\u003c/i\u003e requires you to concentrate on the desired features during a 10-minute rest to regain Stamina Points; this is an exception to the normal rule that you can’t perform any tasks while taking a 10-minute rest to recover your Stamina Points. The change completes at the end of the rest.\n\n \u003ci\u003eBasic morphic skin\u003c/i\u003e allows you to alter your appearance and voice within the normal bounds for your species, age, weight, and sex. You can adjust your height by up to 3 inches, become broader or thinner, become lighter or darker, alter apparent musculature (although your ability scores do not change), and adjust the shape of your features and the color of your hair, scales, or similar minor features. You ignore any penalties to Disguise checks for altering these major features, but you lack enough control to precisely match a specific individual.\n\n \u003ci\u003eAdvanced morphic skin\u003c/i\u003e offers the same options as the basic model, as well as the ability to change your apparent sex and age, alter your height by up to 1 foot, and gain features of another species of the same creature type (although you don’t gain or lose abilities as a result).\n\n \u003ci\u003eDoppelganger morphic\u003c/i\u003e skin offers the same options as the advanced model, as well as the ability to assume a specific individual’s appearance within the augmentation’s limits. When mimicking an individual this way, you gain a +10 circumstance bonus to your Disguise check to alter your form and to skill checks to bypass biometric security keyed to that individual.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 92",
+    "Name": "Gravitational Harness, Mk 1",
+    "Level": "2",
+    "Price": "515",
+    "System": "Spinal column",
+    "type": "augmentations_magitech",
+    "desc": "Slim neutronium-core gravitational crystals attached to your spine using intense alchemical processes allow you to manipulate gravity once per day.\n\n With a \u003ci\u003emk 1 gravitational harness\u003c/i\u003e, you can increase or lower gravity for yourself and everything you carry by one step for 2 rounds. This applies the usual effects of lower gravity, including falling more slowly and increased carrying capacity. You can activate, change, or end the effect as a standard action or reaction. If you use a reaction, you can’t take a standard action on your next turn. You can’t make gravity stronger than high gravity or weaker than light gravity. In zero gravity, activating the augmentation instead grants you a supernatural fly speed of 15 feet with perfect maneuverability. You can’t use the fly speed to run or while overburdened.\n\n A \u003ci\u003emk 2 gravitational harness\u003c/i\u003e functions as the mk 1 model, except as follows. The effect lasts for a total of 10 rounds, though you need not use them consecutively. The augmentation can increase or decrease your gravity by up to two steps or negate gravity for you in an area of standard or light gravity. While you have the augmentation active in zero gravity or while negating gravity for yourself, your fly speed is 30 feet.\n\n A \u003ci\u003emk 3 gravitation harness\u003c/i\u003e functions as the mk 2 model, except as follows. The effect lasts for a total of 10 minutes. You need not use the minutes consecutively, but you must use them in 1-minute increments. While you have the augmentation active in zero gravity or while negating gravity for yourself, your fly speed is 60 feet.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 93",
+    "Name": "Psychoactive Eyes, Fascinating",
+    "Level": "2",
+    "Price": "965",
+    "System": "Eyes",
+    "type": "augmentations_magitech",
+    "desc": "Your eyes are injected with nanite-controlled psychoactive dyes. Once per day as a standard action, you can activate a fascinating gaze with a duration of concentration. Creatures of your type within 30 feet that see you must succeed at a Will saving throw (DC \u003d 10 + half your character level + your Charisma modifier) or be fascinated for as long as they can see you. A creature that succeeds at this saving throw is immune to your gaze for 24 hours. If you break line of sight, the effect ends for those targets and they become immune to it for 24 hours. This is a mind-affecting gaze attack (Alien Archive 154). \u003ci\u003eCharming psychoactive eyes\u003c/i\u003e charm creatures per \u003ci\u003echarm person\u003c/i\u003e instead of fascinating them, but they otherwise function the same way as \u003ci\u003efascinating psychoactive eyes\u003c/i\u003e.\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 53",
+    "Name": "Velstrac Shackle, Follower",
+    "Level": "3",
+    "Price": "1,200",
+    "System": "Arm",
+    "type": "augmentations_magitech",
+    "desc": "A spiked gauntlet made of dark composite and inward pointing spikes, a \u003ci\u003evelstrac shackle\u003c/i\u003e fits over one forearm and has filaments like muscle fibers that snake up to the shoulder, connecting to dark barbs that protrude from your skin. The shackle feeds on your tissue, requiring you to eat and drink half again more than usual to sustain it, and it must be attached to flesh. Further, no matter how many arms you have, you can have only one \u003ci\u003evelstrac shackle.\u003c/i\u003e\n\n As if drawing a weapon, you can cause the shackle to extend a \u003ca style\u003d\"text-decoration:underline\" href\u003d\"WeaponDisplay.aspx?ItemName\u003dAcolyte\u0026amp;Family\u003dShadow%20Chains\"\u003eshadow chain\u003c/a\u003e of the same model name as the shackle. The shadow chain within the velstrac shackle is magical. It can also be upgraded with weapon fusions like a normal weapon of the \u003ci\u003evelstrac shackle’s\u003c/i\u003e level.\n\n Within the shackle, the chain is hidden from casual observation, although someone who searches you can discern the chain’s presence inside the shackle by succeeding at a Perception check (DC \u003d 10 + 1-1/2 × the item’s level + your key ability modifier). While you wear the shackle, you are proficient with the shadow chain within, and you cannot be disarmed of or drop the weapon. You can withdraw the chain into the shackle as a swift action or part of a full action. In addition, if the weapon takes damage, you can allocate any healing you receive to it, provided that healing restores your Hit Points.\n\n When your character level is within 2 levels of the next more powerful \u003ci\u003evelstrac shackle\u003c/i\u003e, you can upgrade the item to its next level. To do so, you must acquire magical components, including rare minerals from the Shadow Plane, worth the price of the more powerful shackle minus 25% of the value of your current shackle. You then use the components in a 1-hour ritual to upgrade the shackle to the new, higher level. You must also pay to upgrade any weapon fusions you wish to keep on the shadow chain as if transferring each of those fusions to a new higher-level weapon.\n\n Upgrading a \u003ci\u003evelstrac shackle\u003c/i\u003e via shadow magic is rumored to be a way to awaken mortal-made shackles to a true connection with velstracs. This awakening can make a shackle that was once safe a source of shadow corruption. Whispers about this dark possibility suggest virtuous users who magically upgrade a shackle are more at risk than those who already have bloodthirsty or wicked tendencies.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 92",
+    "Name": "Intercepting Ears, Mk 1",
+    "Level": "3",
+    "Price": "1,225",
+    "System": "Ears",
+    "type": "augmentations_magitech",
+    "desc": "Your eardrums are partially perforated with psychic crystals that resonate at the frequencies commonly used by telepathy. Whenever a creature within 30 feet of you sends or receives a telepathic message using limited telepathy or \u003ci\u003etelepathic message\u003c/i\u003e, you can overhear the message with a successful DC 25 Perception check (this requires no action). For \u003ci\u003emk 2 intercepting ears\u003c/i\u003e the Perception check DC is 20.\n"
+  },
+  {
+    "source": "Starfinder #8: Escape from the Prison Moon pg. 44",
+    "Name": "Nimble Soles",
+    "Level": "4",
+    "Price": "2,000",
+    "System": "Feet",
+    "type": "augmentations_magitech",
+    "desc": "A nimble soles augmentation places sets of miniature metal rings that hold the essence of the Elemental Plane of Air on your feet. The rings grant you a +2 enhancement bonus to Acrobatics checks to fly and tumble. In addition, once per day as a swift action, you can overcharge the rings to increase this bonus to +4 for 1 minute."
+  },
+  {
+    "source": "Starfinder Armory pg. 92",
+    "Name": "Morphic Skin, Advanced",
+    "Level": "4",
+    "Price": "2,030",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "Your skin is linked to implanted magical glands that release mutagenic enzymes and transmutation magic. Using \u003ci\u003emorphic skin\u003c/i\u003e requires you to concentrate on the desired features during a 10-minute rest to regain Stamina Points; this is an exception to the normal rule that you can’t perform any tasks while taking a 10-minute rest to recover your Stamina Points. The change completes at the end of the rest.\n\n \u003ci\u003eBasic morphic skin\u003c/i\u003e allows you to alter your appearance and voice within the normal bounds for your species, age, weight, and sex. You can adjust your height by up to 3 inches, become broader or thinner, become lighter or darker, alter apparent musculature (although your ability scores do not change), and adjust the shape of your features and the color of your hair, scales, or similar minor features. You ignore any penalties to Disguise checks for altering these major features, but you lack enough control to precisely match a specific individual.\n\n \u003ci\u003eAdvanced morphic skin\u003c/i\u003e offers the same options as the basic model, as well as the ability to change your apparent sex and age, alter your height by up to 1 foot, and gain features of another species of the same creature type (although you don’t gain or lose abilities as a result).\n\n \u003ci\u003eDoppelganger morphic\u003c/i\u003e skin offers the same options as the advanced model, as well as the ability to assume a specific individual’s appearance within the augmentation’s limits. When mimicking an individual this way, you gain a +10 circumstance bonus to your Disguise check to alter your form and to skill checks to bypass biometric security keyed to that individual.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 92",
+    "Name": "Force Soles, Mk 1",
+    "Level": "4",
+    "Price": "2,260",
+    "System": "All feet",
+    "type": "augmentations_magitech",
+    "desc": "Nodes in the soles of your feet project tiny fields of force energy when you intentionally step into thin air, allowing you to walk as if you were on solid ground as long as you are not encumbered, even in zero gravity. Ascending into the air is similar to walking up an incline. The maximum upward angle possible is 45 degrees, and you move at a rate equal to half your normal land speed. You can move your full land speed horizontally or up to 45 degrees downward. Unless you have \u003ci\u003emk 2 force soles\u003c/i\u003e, you must end your movement on the ground or you fall.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 93",
+    "Name": "Selective Ears",
+    "Level": "5",
+    "Price": "2,830",
+    "System": "Ears",
+    "type": "augmentations_magitech",
+    "desc": "Your ears are implanted with magical sound-dampening membranes. You can activate selective ears as a move action or as a reaction to protect yourself from dangerous sounds. When you activate your selective ears as a reaction, you can’t take a move action on your next turn. Selective ears have three modes: inactive, muffling, and silence. Your selective ears remain in their current mode until you change them. While your selective ears are in muffling mode, you take a –2 penalty to initiative checks and hearing-based Perception checks, but you can’t be deafened for more than 1 round by sonic effects and you have sonic resistance 1. While your selective ears are in silence mode, you are deafened and thus immune to sound-based sense-dependent effects, and you also have sonic resistance 5."
+  },
+  {
+    "source": "Starfinder Armory pg. 90",
+    "Name": "Charged Skin",
+    "Level": "5",
+    "Price": "3,075",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "Your skin slowly generates electricity that can be used to power devices that require power measured in charges from a battery to function, such as a powered weapon. You must be touching the item to use it. Your charged skin holds 10 such charges, which are replenished each day after a full night’s rest. You can’t charge a battery or item with your charged skin; you can spend charges directly from it only to power held devices."
+  },
+  {
+    "source": "Starfinder #33: Dominion’s End pg. 51",
+    "Name": "Rune-Etched Chitin, Mk 1",
+    "Level": "5",
+    "Price": "3,175",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "An exoskeleton covered with dimly glowing magical writing covers your skin, and you can activate these runes to cast spells. Each set of rune-etched chitin is inscribed with spells that have a combined level equal to the augmentation’s mark. You can be augmented with rune-etched chitin only if the spells inscribed onto it are spells you could learn and cast at your current level, though you don’t have to know them. You can cast each of the spells inscribed on the runeetched chitin once per day at a caster level equal to the augmentation’s level without using your own spell slots. You must have this augmentation implanted for at least 24 hours for it to function.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 93",
+    "Name": "Psychoactive Eyes, Charming",
+    "Level": "6",
+    "Price": "4,250",
+    "System": "Eyes",
+    "type": "augmentations_magitech",
+    "desc": "Your eyes are injected with nanite-controlled psychoactive dyes. Once per day as a standard action, you can activate a fascinating gaze with a duration of concentration. Creatures of your type within 30 feet that see you must succeed at a Will saving throw (DC \u003d 10 + half your character level + your Charisma modifier) or be fascinated for as long as they can see you. A creature that succeeds at this saving throw is immune to your gaze for 24 hours. If you break line of sight, the effect ends for those targets and they become immune to it for 24 hours. This is a mind-affecting gaze attack (Alien Archive 154). \u003ci\u003eCharming psychoactive eyes\u003c/i\u003e charm creatures per \u003ci\u003echarm person\u003c/i\u003e instead of fascinating them, but they otherwise function the same way as \u003ci\u003efascinating psychoactive eyes\u003c/i\u003e.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 92",
+    "Name": "Morphic Skin, Doppelganger",
+    "Level": "6",
+    "Price": "4,400",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "Your skin is linked to implanted magical glands that release mutagenic enzymes and transmutation magic. Using \u003ci\u003emorphic skin\u003c/i\u003e requires you to concentrate on the desired features during a 10-minute rest to regain Stamina Points; this is an exception to the normal rule that you can’t perform any tasks while taking a 10-minute rest to recover your Stamina Points. The change completes at the end of the rest.\n\n \u003ci\u003eBasic morphic skin\u003c/i\u003e allows you to alter your appearance and voice within the normal bounds for your species, age, weight, and sex. You can adjust your height by up to 3 inches, become broader or thinner, become lighter or darker, alter apparent musculature (although your ability scores do not change), and adjust the shape of your features and the color of your hair, scales, or similar minor features. You ignore any penalties to Disguise checks for altering these major features, but you lack enough control to precisely match a specific individual.\n\n \u003ci\u003eAdvanced morphic skin\u003c/i\u003e offers the same options as the basic model, as well as the ability to change your apparent sex and age, alter your height by up to 1 foot, and gain features of another species of the same creature type (although you don’t gain or lose abilities as a result).\n\n \u003ci\u003eDoppelganger morphic\u003c/i\u003e skin offers the same options as the advanced model, as well as the ability to assume a specific individual’s appearance within the augmentation’s limits. When mimicking an individual this way, you gain a +10 circumstance bonus to your Disguise check to alter your form and to skill checks to bypass biometric security keyed to that individual.\n"
+  },
+  {
+    "source": "Starfinder #8: Escape from the Prison Moon pg. 45",
+    "Name": "Resonant Larynx, Standard",
+    "Level": "6",
+    "Price": "4,400",
+    "System": "Throat",
+    "type": "augmentations_magitech",
+    "desc": "The \u003ci\u003eresonant larynx\u003c/i\u003e augmentation is a small resonating crystal in your throat that can amplify your voice to deafening levels. As a standard action, you can activate the resonant larynx to unleash an ear-piercing shriek in a 30-foot cone-shaped spread that doesn’t harm you. Each creature in the area must attempt a Fortitude saving throw (DC \u003d 10 + half your level + your Constitution modifier). On a failure, a creature takes 5d6 sonic damage (or 10d6 for the advanced model) and is deafened for 2d4 rounds. If a creature succeeds at the saving throw, it takes half the damage and is deafened for only 1 round. Once you have used your \u003ci\u003eresonant larynx\u003c/i\u003e, you can’t use it again until you’ve taken a 10-minute rest that would allow you to regain Stamina Points. However, you can spend 1 Resolve Point at any time to recharge the augmentation immediately.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 93",
+    "Name": "Restless Pineal Gland",
+    "Level": "7",
+    "Price": "5,500",
+    "System": "Endocrine",
+    "type": "augmentations_magitech",
+    "desc": "The melatonin produced by a restless pineal gland is supercharged with mystic energy. You need only 2 hours of sleep each day and this allows you to regain daily-use abilities and slots, but you can\u0027t regain your daily abilities spell slots more than once per day. In addition, you gain a +4 enhancement bonus to saving throws against spells and other effects that would put you to sleep. Once per day, you can wake yourself from sleeping as a full action."
+  },
+  {
+    "source": "Starfinder Armory pg. 93",
+    "Name": "Synchronous Heart",
+    "Level": "7",
+    "Price": "6,300",
+    "System": "Heart",
+    "type": "augmentations_magitech",
+    "desc": "Your heart is fitted with occult fixtures that connect its rhythm to the energy of nearby living creatures. You have blindsight (life) with a range of 30 feet, but only for dying and stable living creatures. As a reaction, you can allow an ally within 30 feet to spend your Resolve Points to stabilize or stay in the fight."
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 52",
+    "Name": "Ecstasy Mask",
+    "Level": "7",
+    "Price": "7,000",
+    "System": "Brain",
+    "type": "augmentations_magitech",
+    "desc": "Piercings of the ecstasy mask crisscross your face, and its fibers penetrate your central nervous system. When you experience pain, the augmentation also activates the pleasure center of your brain. Because this augmentation conditions your body to associate pain with pleasure, when you attempt a saving throw against an effect that has the pain descriptor, you can roll twice and take the better result."
+  },
+  {
+    "source": "Starfinder Armory pg. 91",
+    "Name": "Fluttering Heart",
+    "Level": "8",
+    "Price": "8,220",
+    "System": "Heart",
+    "type": "augmentations_magitech",
+    "desc": "Your heart has necromantic onyx implants that put your autonomous functions under limited conscious control, allowing you to make yourself look weaker than you actually are. As a full action, you can convincingly feign a display of meekness that lasts until you attack or perform some other hostile action (such as casting a harmful spell) or 10 minutes have passed, whichever comes first. During this time, hostile creatures attack other viable targets instead of you if any exist, though it is possible you might be included in area effects (foes don’t avoid targeting you, they simply prioritize other viable targets). Once you use your fluttering heart, you can’t use it again until you have rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately."
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 53",
+    "Name": "Velstrac Shackle, Acolyte",
+    "Level": "8",
+    "Price": "9,100",
+    "System": "Arm",
+    "type": "augmentations_magitech",
+    "desc": "A spiked gauntlet made of dark composite and inward pointing spikes, a \u003ci\u003evelstrac shackle\u003c/i\u003e fits over one forearm and has filaments like muscle fibers that snake up to the shoulder, connecting to dark barbs that protrude from your skin. The shackle feeds on your tissue, requiring you to eat and drink half again more than usual to sustain it, and it must be attached to flesh. Further, no matter how many arms you have, you can have only one \u003ci\u003evelstrac shackle.\u003c/i\u003e\n\n As if drawing a weapon, you can cause the shackle to extend a \u003ca style\u003d\"text-decoration:underline\" href\u003d\"WeaponDisplay.aspx?ItemName\u003dAcolyte\u0026amp;Family\u003dShadow%20Chains\"\u003eshadow chain\u003c/a\u003e of the same model name as the shackle. The shadow chain within the velstrac shackle is magical. It can also be upgraded with weapon fusions like a normal weapon of the \u003ci\u003evelstrac shackle’s\u003c/i\u003e level.\n\n Within the shackle, the chain is hidden from casual observation, although someone who searches you can discern the chain’s presence inside the shackle by succeeding at a Perception check (DC \u003d 10 + 1-1/2 × the item’s level + your key ability modifier). While you wear the shackle, you are proficient with the shadow chain within, and you cannot be disarmed of or drop the weapon. You can withdraw the chain into the shackle as a swift action or part of a full action. In addition, if the weapon takes damage, you can allocate any healing you receive to it, provided that healing restores your Hit Points.\n\n When your character level is within 2 levels of the next more powerful \u003ci\u003evelstrac shackle\u003c/i\u003e, you can upgrade the item to its next level. To do so, you must acquire magical components, including rare minerals from the Shadow Plane, worth the price of the more powerful shackle minus 25% of the value of your current shackle. You then use the components in a 1-hour ritual to upgrade the shackle to the new, higher level. You must also pay to upgrade any weapon fusions you wish to keep on the shadow chain as if transferring each of those fusions to a new higher-level weapon.\n\n Upgrading a \u003ci\u003evelstrac shackle\u003c/i\u003e via shadow magic is rumored to be a way to awaken mortal-made shackles to a true connection with velstracs. This awakening can make a shackle that was once safe a source of shadow corruption. Whispers about this dark possibility suggest virtuous users who magically upgrade a shackle are more at risk than those who already have bloodthirsty or wicked tendencies.\n"
+  },
+  {
+    "source": "Starfinder #33: Dominion’s End pg. 51",
+    "Name": "Rune-Etched Chitin, Mk 2",
+    "Level": "8",
+    "Price": "9,700",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "An exoskeleton covered with dimly glowing magical writing covers your skin, and you can activate these runes to cast spells. Each set of rune-etched chitin is inscribed with spells that have a combined level equal to the augmentation’s mark. You can be augmented with rune-etched chitin only if the spells inscribed onto it are spells you could learn and cast at your current level, though you don’t have to know them. You can cast each of the spells inscribed on the runeetched chitin once per day at a caster level equal to the augmentation’s level without using your own spell slots. You must have this augmentation implanted for at least 24 hours for it to function.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 92",
+    "Name": "Force Soles, Mk 2",
+    "Level": "8",
+    "Price": "10,700",
+    "System": "All feet",
+    "type": "augmentations_magitech",
+    "desc": "Nodes in the soles of your feet project tiny fields of force energy when you intentionally step into thin air, allowing you to walk as if you were on solid ground as long as you are not encumbered, even in zero gravity. Ascending into the air is similar to walking up an incline. The maximum upward angle possible is 45 degrees, and you move at a rate equal to half your normal land speed. You can move your full land speed horizontally or up to 45 degrees downward. Unless you have \u003ci\u003emk 2 force soles\u003c/i\u003e, you must end your movement on the ground or you fall.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 92",
+    "Name": "Gravitational Harness, Mk 2",
+    "Level": "9",
+    "Price": "12,700",
+    "System": "Spinal column",
+    "type": "augmentations_magitech",
+    "desc": "Slim neutronium-core gravitational crystals attached to your spine using intense alchemical processes allow you to manipulate gravity once per day.\n\n With a \u003ci\u003emk 1 gravitational harness\u003c/i\u003e, you can increase or lower gravity for yourself and everything you carry by one step for 2 rounds. This applies the usual effects of lower gravity, including falling more slowly and increased carrying capacity. You can activate, change, or end the effect as a standard action or reaction. If you use a reaction, you can’t take a standard action on your next turn. You can’t make gravity stronger than high gravity or weaker than light gravity. In zero gravity, activating the augmentation instead grants you a supernatural fly speed of 15 feet with perfect maneuverability. You can’t use the fly speed to run or while overburdened.\n\n A \u003ci\u003emk 2 gravitational harness\u003c/i\u003e functions as the mk 1 model, except as follows. The effect lasts for a total of 10 rounds, though you need not use them consecutively. The augmentation can increase or decrease your gravity by up to two steps or negate gravity for you in an area of standard or light gravity. While you have the augmentation active in zero gravity or while negating gravity for yourself, your fly speed is 30 feet.\n\n A \u003ci\u003emk 3 gravitation harness\u003c/i\u003e functions as the mk 2 model, except as follows. The effect lasts for a total of 10 minutes. You need not use the minutes consecutively, but you must use them in 1-minute increments. While you have the augmentation active in zero gravity or while negating gravity for yourself, your fly speed is 60 feet.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 92",
+    "Name": "Intercepting Ears, Mk 2",
+    "Level": "9",
+    "Price": "13,600",
+    "System": "Ears",
+    "type": "augmentations_magitech",
+    "desc": "Your eardrums are partially perforated with psychic crystals that resonate at the frequencies commonly used by telepathy. Whenever a creature within 30 feet of you sends or receives a telepathic message using limited telepathy or \u003ci\u003etelepathic message\u003c/i\u003e, you can overhear the message with a successful DC 25 Perception check (this requires no action). For \u003ci\u003emk 2 intercepting ears\u003c/i\u003e the Perception check DC is 20.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 90",
+    "Name": "Dispelling Hand",
+    "Level": "9",
+    "Price": "14,300",
+    "System": "Hand",
+    "type": "augmentations_magitech",
+    "desc": "Holographic mystic sigils project from your hand when you activate this implant. Your hand must be free to do so. As a reaction, you can gain a +1 insight bonus to your AC against a spell that requires a successful attack roll. Alternatively, as a standard action, you can use dispel magic as a spell-like ability with a caster level equal to your level, but it can’t counter spells and it can’t target anything other than you unless you touch the target. To affect an unwilling target, you must hit it with a melee attack against its EAC; you activate the augmentation as part of the attack roll, and you can add your key ability score modifier to this attack roll instead of your Strength modifier if it is higher. Once you use dispel magic this way, you can’t use your dispelling hand for either of its uses until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately."
+  },
+  {
+    "source": "Starfinder #31: Waking the Worldseed pg. 53",
+    "Name": "Personal Stasis Unit",
+    "Level": "9",
+    "Price": "113,000",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "You have a tiny stasis generator implanted in your body with minute emitters dotting your skin. The generator has two modes: light sleep and deep sleep. You can activate or deactivate light sleep as a move action. When you do, you become absolutely still, have a minimal heat signature, and exhibit no vital signs or need to eat, sleep, or breathe. This grants you a +4 circumstance bonus to Stealth checks. You can’t take any action other than to deactivate light sleep. You’re dimly aware of your surroundings, but you take a –10 penalty to Perception checks. You can remain in light sleep for up to 7 consecutive days; once you emerge from light sleep, this augmentation requires 24 hours to recharge before it can be used again."
+  },
+  {
+    "source": "Starfinder Armory pg. 90",
+    "Name": "Cloaking Skin, Standard",
+    "Level": "10",
+    "Price": "18,000",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "Many of your pores are replaced with magically regulated and directed holographic projectors that work together to automatically match your surrounding environment, rendering you invisible per \u003ci\u003einvisibility\u003c/i\u003e. Once per day, you can enable your cloaking skin as a standard action, turning you invisible for 10 minutes. A greater cloaking skin functions as \u003ci\u003egreater invisibility\u003c/i\u003e, but the effect lasts for only 10 rounds. You can disable either model of cloaking skin as a move action.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 92",
+    "Name": "Holographic Eyes, Mk 1",
+    "Level": "10",
+    "Price": "18,300",
+    "System": "Brain and eyes",
+    "type": "augmentations_magitech",
+    "desc": "A tiny rune is carved into your occipital lobe that is magically connected to microscopic holographic projectors implanted in your eyes. As a standard action, you can create an illusion that functions as \u003ci\u003eholographic image\u003c/i\u003e with a spell level equal to the model number of your \u003ci\u003eholographic eyes\u003c/i\u003e at any location you can see within range. You must concentrate on the illusion as a move action to maintain it, and you must keep your eyes on the illusion to concentrate, treating all other creatures as if they had concealment. Casting a spell (including creating a new illusion with your \u003ci\u003eholographic eyes\u003c/i\u003e) immediately ends your concentration. The effect’s caster level is equal to your level, and the Will save DC to disbelieve it is equal to 10 + half your level + your Intelligence modifier.\n"
+  },
+  {
+    "source": "Starfinder #33: Dominion’s End pg. 52",
+    "Name": "Wing Extensions, Mk 1",
+    "Level": "10",
+    "Price": "18,500",
+    "System": "Spinal Column",
+    "type": "augmentations_magitech",
+    "desc": "Sivv engineers inspired by a species enslaved by the sivv designed this augmentation, which consists of enchanted brass wings integrated into the subject’s spine. While the wings have an impressive wingspan when in use, they fold up neatly and can be hidden under loose clothing. When in use, wing extensions grant you a fly speed of 60 feet with average maneuverability. They do not function in a thin atmosphere or vacuum, and can be used for up to 1 hour per day, in 10-minute increments. Mk 2 wing extensions function in thin atmospheres and vacuum, and include enchantments that allow you to ignore the hazardous environmental effects of outer space and vacuum.\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 53",
+    "Name": "Velstrac Shackle, Penitent",
+    "Level": "11",
+    "Price": "25,000",
+    "System": "Arm",
+    "type": "augmentations_magitech",
+    "desc": "A spiked gauntlet made of dark composite and inward pointing spikes, a \u003ci\u003evelstrac shackle\u003c/i\u003e fits over one forearm and has filaments like muscle fibers that snake up to the shoulder, connecting to dark barbs that protrude from your skin. The shackle feeds on your tissue, requiring you to eat and drink half again more than usual to sustain it, and it must be attached to flesh. Further, no matter how many arms you have, you can have only one \u003ci\u003evelstrac shackle.\u003c/i\u003e\n\n As if drawing a weapon, you can cause the shackle to extend a \u003ca style\u003d\"text-decoration:underline\" href\u003d\"WeaponDisplay.aspx?ItemName\u003dAcolyte\u0026amp;Family\u003dShadow%20Chains\"\u003eshadow chain\u003c/a\u003e of the same model name as the shackle. The shadow chain within the velstrac shackle is magical. It can also be upgraded with weapon fusions like a normal weapon of the \u003ci\u003evelstrac shackle’s\u003c/i\u003e level.\n\n Within the shackle, the chain is hidden from casual observation, although someone who searches you can discern the chain’s presence inside the shackle by succeeding at a Perception check (DC \u003d 10 + 1-1/2 × the item’s level + your key ability modifier). While you wear the shackle, you are proficient with the shadow chain within, and you cannot be disarmed of or drop the weapon. You can withdraw the chain into the shackle as a swift action or part of a full action. In addition, if the weapon takes damage, you can allocate any healing you receive to it, provided that healing restores your Hit Points.\n\n When your character level is within 2 levels of the next more powerful \u003ci\u003evelstrac shackle\u003c/i\u003e, you can upgrade the item to its next level. To do so, you must acquire magical components, including rare minerals from the Shadow Plane, worth the price of the more powerful shackle minus 25% of the value of your current shackle. You then use the components in a 1-hour ritual to upgrade the shackle to the new, higher level. You must also pay to upgrade any weapon fusions you wish to keep on the shadow chain as if transferring each of those fusions to a new higher-level weapon.\n\n Upgrading a \u003ci\u003evelstrac shackle\u003c/i\u003e via shadow magic is rumored to be a way to awaken mortal-made shackles to a true connection with velstracs. This awakening can make a shackle that was once safe a source of shadow corruption. Whispers about this dark possibility suggest virtuous users who magically upgrade a shackle are more at risk than those who already have bloodthirsty or wicked tendencies.\n"
+  },
+  {
+    "source": "Starfinder #33: Dominion’s End pg. 51",
+    "Name": "Rune-Etched Chitin, Mk 3",
+    "Level": "11",
+    "Price": "25,200",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "An exoskeleton covered with dimly glowing magical writing covers your skin, and you can activate these runes to cast spells. Each set of rune-etched chitin is inscribed with spells that have a combined level equal to the augmentation’s mark. You can be augmented with rune-etched chitin only if the spells inscribed onto it are spells you could learn and cast at your current level, though you don’t have to know them. You can cast each of the spells inscribed on the runeetched chitin once per day at a caster level equal to the augmentation’s level without using your own spell slots. You must have this augmentation implanted for at least 24 hours for it to function.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 91",
+    "Name": "Enchanting Vocal Modulator, Monofrequency",
+    "Level": "11",
+    "Price": "25,400",
+    "System": "Throat",
+    "type": "augmentations_magitech",
+    "desc": "Your voice box has an enchanted digital modulator that can alter its frequency to be supernaturally compelling. As a move action you can calibrate it to a single creature that you have heard and understood speaking or using other sound-based communication. It remains calibrated to that target until you pick a new target. You gain a +2 insight bonus to Bluff, Diplomacy, and Intimidate checks to influence that creature using your voice (not other forms of communication). In addition, you can cast \u003ci\u003esuggestion\u003c/i\u003e once per day (DC \u003d 10 + half your character level + your Charisma modifier) as a standard action, targeting a creature your system is calibrated to.\n\n A \u003ci\u003eduofrequency enchanting vocal modulator\u003c/i\u003e can target two creatures at once. It can be calibrated to two targets with a single move action, and its suggestion function can be used to target both with a single command. Similarly, a \u003ci\u003equadfrequency enchanting vocal modulator\u003c/i\u003e can target up to four creatures.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMonofrequency\u003c/td\u003e\n   \u003ctd\u003e11\u003c/td\u003e\n   \u003ctd\u003e25,400\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eDuofrequency\u003c/td\u003e\n   \u003ctd\u003e14\u003c/td\u003e\n   \u003ctd\u003e66,500\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eQuadfrequency\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e225,000\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder #8: Escape from the Prison Moon pg. 45",
+    "Name": "Resonant Larynx, Advanced",
+    "Level": "11",
+    "Price": "25,500",
+    "System": "Throat",
+    "type": "augmentations_magitech",
+    "desc": "The \u003ci\u003eresonant larynx\u003c/i\u003e augmentation is a small resonating crystal in your throat that can amplify your voice to deafening levels. As a standard action, you can activate the resonant larynx to unleash an ear-piercing shriek in a 30-foot cone-shaped spread that doesn’t harm you. Each creature in the area must attempt a Fortitude saving throw (DC \u003d 10 + half your level + your Constitution modifier). On a failure, a creature takes 5d6 sonic damage (or 10d6 for the advanced model) and is deafened for 2d4 rounds. If a creature succeeds at the saving throw, it takes half the damage and is deafened for only 1 round. Once you have used your \u003ci\u003eresonant larynx\u003c/i\u003e, you can’t use it again until you’ve taken a 10-minute rest that would allow you to regain Stamina Points. However, you can spend 1 Resolve Point at any time to recharge the augmentation immediately.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 90",
+    "Name": "Arcane Lenses",
+    "Level": "11",
+    "Price": "25,900",
+    "System": "Eyes",
+    "type": "augmentations_magitech",
+    "desc": "Psychically active crystals replace the lenses of your eyes. You gain arcane sight, per the spell, as a continuous ability."
+  },
+  {
+    "source": "Starfinder Armory pg. 91",
+    "Name": "Divining Mirror Neurons",
+    "Level": "12",
+    "Price": "36,400",
+    "System": "Brain",
+    "type": "augmentations_magitech",
+    "desc": "Neurons in your brain are wired into a predictive AI that uses algorithms and divinations to predict a single humanoid’s actions. As a standard action, you can target any creature of your type that you are observing to gain split-second predictions for as long as you continue to observe it or until you deactivate your augmentation as a swift action. During this time, you gain a +1 insight bonus to saving throws and skill checks against that creature and against effects that creature produces. In addition, if you concentrate as a move action, you gain a +1 insight bonus to attack rolls against that creature until the beginning of your next turn. You can target only one creature at a time."
+  },
+  {
+    "source": "Starfinder Armory pg. 90",
+    "Name": "Dimensional Braces",
+    "Level": "12",
+    "Price": "38,000",
+    "System": "All legs",
+    "type": "augmentations_magitech",
+    "desc": "Your legs are fitted with braces attuned to the resonance frequency of the Astral Plane. Once per day as a standard action, you can teleport yourself, per dimension door, with a maximum range of 120 feet. You can’t bring any other creatures with you."
+  },
+  {
+    "source": "Starfinder #8: Escape from the Prison Moon pg. 44",
+    "Name": "Aeon Eye",
+    "Level": "13",
+    "Price": "46,000",
+    "System": "Eye",
+    "type": "augmentations_magitech",
+    "desc": "An aeon eye replaces one of your eyes with a specialized aeon stone connected to your ocular nerves. As a move action, you can mentally activate or deactivate this augmentation, which grants you sense through (vision) with a range of 60 feet. While the augmentation is active, you gain no benefit from other special visual senses, and you can’t see anything beyond the augmentation’s range."
+  },
+  {
+    "source": "Starfinder Armory pg. 92",
+    "Name": "Holographic Eyes, Mk 2",
+    "Level": "13",
+    "Price": "49,700",
+    "System": "Brain and eyes",
+    "type": "augmentations_magitech",
+    "desc": "A tiny rune is carved into your occipital lobe that is magically connected to microscopic holographic projectors implanted in your eyes. As a standard action, you can create an illusion that functions as \u003ci\u003eholographic image\u003c/i\u003e with a spell level equal to the model number of your \u003ci\u003eholographic eyes\u003c/i\u003e at any location you can see within range. You must concentrate on the illusion as a move action to maintain it, and you must keep your eyes on the illusion to concentrate, treating all other creatures as if they had concealment. Casting a spell (including creating a new illusion with your \u003ci\u003eholographic eyes\u003c/i\u003e) immediately ends your concentration. The effect’s caster level is equal to your level, and the Will save DC to disbelieve it is equal to 10 + half your level + your Intelligence modifier.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 91",
+    "Name": "Enchanting Vocal Modulator, Duofrequency",
+    "Level": "14",
+    "Price": "66,500",
+    "System": "Throat",
+    "type": "augmentations_magitech",
+    "desc": "Your voice box has an enchanted digital modulator that can alter its frequency to be supernaturally compelling. As a move action you can calibrate it to a single creature that you have heard and understood speaking or using other sound-based communication. It remains calibrated to that target until you pick a new target. You gain a +2 insight bonus to Bluff, Diplomacy, and Intimidate checks to influence that creature using your voice (not other forms of communication). In addition, you can cast \u003ci\u003esuggestion\u003c/i\u003e once per day (DC \u003d 10 + half your character level + your Charisma modifier) as a standard action, targeting a creature your system is calibrated to.\n\n A \u003ci\u003eduofrequency enchanting vocal modulator\u003c/i\u003e can target two creatures at once. It can be calibrated to two targets with a single move action, and its suggestion function can be used to target both with a single command. Similarly, a \u003ci\u003equadfrequency enchanting vocal modulator\u003c/i\u003e can target up to four creatures.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMonofrequency\u003c/td\u003e\n   \u003ctd\u003e11\u003c/td\u003e\n   \u003ctd\u003e25,400\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eDuofrequency\u003c/td\u003e\n   \u003ctd\u003e14\u003c/td\u003e\n   \u003ctd\u003e66,500\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eQuadfrequency\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e225,000\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 92",
+    "Name": "Force Palms",
+    "Level": "14",
+    "Price": "69,500",
+    "System": "All hands",
+    "type": "augmentations_magitech",
+    "desc": "Arcane nodes implanted in your palms can generate fields of force energy. As a full action, you can create a globe of force that functions as resilient sphere but contains only you. The effect has a duration of concentration, to a maximum of 1 minute. Alternatively, as a full action, you can attempt to place another creature that is your size or smaller within a globe of force that is just large enough for the creature to fit in without squeezing. To do so, you must hit that creature with a melee attack against its EAC; instead of adding your Strength modifier to this attack roll, you can add your key ability score modifier if it is higher. Once you use your force palms, you can’t use them again until you’ve rested for 10 minutes to regain Stamina Points."
+  },
+  {
+    "source": "Starfinder Armory pg. 93",
+    "Name": "Psychokinetic Sleeve",
+    "Level": "14",
+    "Price": "75,000",
+    "System": "Arm and hand",
+    "type": "augmentations_magitech",
+    "desc": "A mesh of starmetal-alloy fibers inserted under your skin connects to the nerves of your arm and hand. As a standard action, you can attempt a ranged attack with a range increment of 60 feet that acts as a bull rush, disarm, grapple (including pin), or trip combat maneuver. You can add your key ability score modifier to this attack roll instead of your Strength modifier if it is higher. If you successfully disarm an item, you can’t automatically catch it. If you successfully grapple a target, the condition doesn’t end if you move and the target can’t try to grapple you in return. The DC of the Acrobatics check to escape the grapple is 31. Once you use your psychokinetic sleeve, you can’t use it again until you have rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately."
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 52",
+    "Name": "Sciatic Agonizer",
+    "Level": "14",
+    "Price": "75,000",
+    "System": "All Legs",
+    "type": "augmentations_magitech",
+    "desc": "A sciatic agonizer consists of long needles driven precisely through the flesh and bone of your hips and sacral spine, connected to a series of barbell piercings running down the back of your legs with fibers running deep into the leg and through its nerves. With a twist, you can activate these piercings, blasting your nervous system with pain and shocking your legs into motion."
+  },
+  {
+    "source": "Starfinder #33: Dominion’s End pg. 51",
+    "Name": "Rune-Etched Chitin, Mk 4",
+    "Level": "14",
+    "Price": "77,000",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "An exoskeleton covered with dimly glowing magical writing covers your skin, and you can activate these runes to cast spells. Each set of rune-etched chitin is inscribed with spells that have a combined level equal to the augmentation’s mark. You can be augmented with rune-etched chitin only if the spells inscribed onto it are spells you could learn and cast at your current level, though you don’t have to know them. You can cast each of the spells inscribed on the runeetched chitin once per day at a caster level equal to the augmentation’s level without using your own spell slots. You must have this augmentation implanted for at least 24 hours for it to function.\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 53",
+    "Name": "Velstrac Shackle, Ecclesiastic",
+    "Level": "15",
+    "Price": "102,000",
+    "System": "Arm",
+    "type": "augmentations_magitech",
+    "desc": "A spiked gauntlet made of dark composite and inward pointing spikes, a \u003ci\u003evelstrac shackle\u003c/i\u003e fits over one forearm and has filaments like muscle fibers that snake up to the shoulder, connecting to dark barbs that protrude from your skin. The shackle feeds on your tissue, requiring you to eat and drink half again more than usual to sustain it, and it must be attached to flesh. Further, no matter how many arms you have, you can have only one \u003ci\u003evelstrac shackle.\u003c/i\u003e\n\n As if drawing a weapon, you can cause the shackle to extend a \u003ca style\u003d\"text-decoration:underline\" href\u003d\"WeaponDisplay.aspx?ItemName\u003dAcolyte\u0026amp;Family\u003dShadow%20Chains\"\u003eshadow chain\u003c/a\u003e of the same model name as the shackle. The shadow chain within the velstrac shackle is magical. It can also be upgraded with weapon fusions like a normal weapon of the \u003ci\u003evelstrac shackle’s\u003c/i\u003e level.\n\n Within the shackle, the chain is hidden from casual observation, although someone who searches you can discern the chain’s presence inside the shackle by succeeding at a Perception check (DC \u003d 10 + 1-1/2 × the item’s level + your key ability modifier). While you wear the shackle, you are proficient with the shadow chain within, and you cannot be disarmed of or drop the weapon. You can withdraw the chain into the shackle as a swift action or part of a full action. In addition, if the weapon takes damage, you can allocate any healing you receive to it, provided that healing restores your Hit Points.\n\n When your character level is within 2 levels of the next more powerful \u003ci\u003evelstrac shackle\u003c/i\u003e, you can upgrade the item to its next level. To do so, you must acquire magical components, including rare minerals from the Shadow Plane, worth the price of the more powerful shackle minus 25% of the value of your current shackle. You then use the components in a 1-hour ritual to upgrade the shackle to the new, higher level. You must also pay to upgrade any weapon fusions you wish to keep on the shadow chain as if transferring each of those fusions to a new higher-level weapon.\n\n Upgrading a \u003ci\u003evelstrac shackle\u003c/i\u003e via shadow magic is rumored to be a way to awaken mortal-made shackles to a true connection with velstracs. This awakening can make a shackle that was once safe a source of shadow corruption. Whispers about this dark possibility suggest virtuous users who magically upgrade a shackle are more at risk than those who already have bloodthirsty or wicked tendencies.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 90",
+    "Name": "Antimagic Skin, Mk 1",
+    "Level": "15",
+    "Price": "109,400",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "Your skin is infused with alchemical components extracted from fey, hags, and other highly magic-resistant creatures. As a move action, you can gain spell resistance according to your model of antimagic skin for 1 minute. You can also gain this spell resistance as a reaction, but you then can’t take a move action on your next turn. Once you use your \u003ci\u003eantimagic skin\u003c/i\u003e, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately. \n\n \u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eSpell Resistance\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e20\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e22\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e24\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e26\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e28\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 6\u003c/td\u003e\n   \u003ctd\u003e30\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 92",
+    "Name": "Gravitational Harness, Mk 3",
+    "Level": "15",
+    "Price": "118,500",
+    "System": "Spinal column",
+    "type": "augmentations_magitech",
+    "desc": "Slim neutronium-core gravitational crystals attached to your spine using intense alchemical processes allow you to manipulate gravity once per day.\n\n With a \u003ci\u003emk 1 gravitational harness\u003c/i\u003e, you can increase or lower gravity for yourself and everything you carry by one step for 2 rounds. This applies the usual effects of lower gravity, including falling more slowly and increased carrying capacity. You can activate, change, or end the effect as a standard action or reaction. If you use a reaction, you can’t take a standard action on your next turn. You can’t make gravity stronger than high gravity or weaker than light gravity. In zero gravity, activating the augmentation instead grants you a supernatural fly speed of 15 feet with perfect maneuverability. You can’t use the fly speed to run or while overburdened.\n\n A \u003ci\u003emk 2 gravitational harness\u003c/i\u003e functions as the mk 1 model, except as follows. The effect lasts for a total of 10 rounds, though you need not use them consecutively. The augmentation can increase or decrease your gravity by up to two steps or negate gravity for you in an area of standard or light gravity. While you have the augmentation active in zero gravity or while negating gravity for yourself, your fly speed is 30 feet.\n\n A \u003ci\u003emk 3 gravitation harness\u003c/i\u003e functions as the mk 2 model, except as follows. The effect lasts for a total of 10 minutes. You need not use the minutes consecutively, but you must use them in 1-minute increments. While you have the augmentation active in zero gravity or while negating gravity for yourself, your fly speed is 60 feet.\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 52",
+    "Name": "Heart of Darkness",
+    "Level": "16",
+    "Price": "145,000",
+    "System": "Heart",
+    "type": "augmentations_magitech",
+    "desc": "The piercing hooks of a heart of darkness augmentation hold the flesh, muscle, and ribs of your chest open, revealing a gory window to your heart. Dark fibers of the augmentation weave wisps around and drive deep into that organ, tapping its vital energies. Each day, after you finish a rest during which you could regain Resolve Points and daily abilities, you gain the benefits of \u003ca style\u003d\"text-decoration:underline\" href\u003d\"SpellDisplay.aspx?ItemName\u003dDeath%20Ward\u0026amp;Family\u003dNone\"\u003edeath ward\u003c/a\u003e. The spell has a duration of 10 minutes, but this duration starts to elapse only after the first time you use a benefit of the spell during the day. You can spend 1 Resolve Point at any time to stop the duration from elapsing, suspending the remaining duration until you use a benefit of the spell again and resume the duration."
+  },
+  {
+    "source": "Starfinder #33: Dominion’s End pg. 51",
+    "Name": "Anchored Arms",
+    "Level": "16",
+    "Price": "170,800",
+    "System": "Spinal Column",
+    "type": "augmentations_magitech",
+    "desc": "A pair of well-articulated chitinous limbs bolstered with djezet alloy is fastened to your torso, usually near the pelvis or a similar anchor point. Your insectile arms function as additional normal limbs; you can use them to hold additional equipment, but they don’t increase the number of attacks you can make in combat. The djezet alloy infused into the chitin fibers bores into your nervous system and increases your caster level by 1 when you’re determining the range and duration of your spells and for caster level checks. This benefit doesn’t stack with the benefit from djezet-enhanced armor."
+  },
+  {
+    "source": "Starfinder Armory pg. 90",
+    "Name": "Antimagic Skin, Mk 2",
+    "Level": "16",
+    "Price": "170,800",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "Your skin is infused with alchemical components extracted from fey, hags, and other highly magic-resistant creatures. As a move action, you can gain spell resistance according to your model of antimagic skin for 1 minute. You can also gain this spell resistance as a reaction, but you then can’t take a move action on your next turn. Once you use your \u003ci\u003eantimagic skin\u003c/i\u003e, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately. \n\n \u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eSpell Resistance\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e20\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e22\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e24\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e26\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e28\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 6\u003c/td\u003e\n   \u003ctd\u003e30\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder #33: Dominion’s End pg. 51",
+    "Name": "Scuttle Engine, Mk 1",
+    "Level": "16",
+    "Price": "170,800",
+    "System": "Spinal Column, All Feet, All Legs",
+    "type": "augmentations_magitech",
+    "desc": "Your legs are replaced by six fleshy, tentacular limbs, which protrude from an exoskeleton anchored to your spine and torso and are infused with alchemically treated magical alloys. The magic infused into the scuttle engine allows you to disrupt nearby magical energies before they form. As a reaction when someone within 60 feet of you casts a spell, you can violently thrash these limbs to send out disruptive vibrations. The spellcaster must succeed at a caster level check with a DC equal to 10 + the level of the triggering spell, or the spell fails. Add 5 to this DC if you are augmented with a mk 2 scuttle engine. Once you have used your scuttle engine, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately.\n"
+  },
+  {
+    "source": "Starfinder #33: Dominion’s End pg. 52",
+    "Name": "Wing Extensions, Mk 2",
+    "Level": "16",
+    "Price": "175,000",
+    "System": "Spinal Column",
+    "type": "augmentations_magitech",
+    "desc": "Sivv engineers inspired by a species enslaved by the sivv designed this augmentation, which consists of enchanted brass wings integrated into the subject’s spine. While the wings have an impressive wingspan when in use, they fold up neatly and can be hidden under loose clothing. When in use, wing extensions grant you a fly speed of 60 feet with average maneuverability. They do not function in a thin atmosphere or vacuum, and can be used for up to 1 hour per day, in 10-minute increments. Mk 2 wing extensions function in thin atmospheres and vacuum, and include enchantments that allow you to ignore the hazardous environmental effects of outer space and vacuum.\n"
+  },
+  {
+    "source": "Starfinder #8: Escape from the Prison Moon pg. 44",
+    "Name": "Aeon Gage",
+    "Level": "16",
+    "Price": "200,000",
+    "System": "Hand",
+    "type": "augmentations_magitech",
+    "desc": "An aeon gage not only functions as a \u003ca style\u003d\"text-decoration:underline\" href\u003d\"Cybernetics.aspx?ItemName\u003dPolyhand\u0026amp;Family\u003dNone\"\u003epolyhand\u003c/a\u003e, but it also has six sockets in which aeon stones can be slotted. You gain the benefit of each aeon stone slotted in your aeon gage as if the stone orbited you. If all six sockets contain aeon stones, you can also cast one or more of the spells listed below as spell-like abilities. Total the item levels of the aeon stones slotted into the aeon gage to determine the spells you have access to. While you have access to a spell, you also have access to any spell from a lower level range, as follows: 6–30, \u003ca style\u003d\"text-decoration:underline\" href\u003d\"SpellDisplay.aspx?ItemName\u003dCaustic Conversion\"\u003ecaustic conversion\u003c/a\u003e; 31-60, \u003ca style\u003d\"text-decoration:underline\" href\u003d\"SpellDisplay.aspx?ItemName\u003dArcing Surge\"\u003earcing surge\u003c/a\u003e; 61–90, \u003ca style\u003d\"text-decoration:underline\" href\u003d\"SpellDisplay.aspx?ItemName\u003dCorrosive Haze\"\u003ecorrosive haze\u003c/a\u003e; 91–120, \u003ca style\u003d\"text-decoration:underline\" href\u003d\"SpellDisplay.aspx?ItemName\u003dHeat Leech\"\u003eheat leech\u003c/a\u003e. The aeon gage has a number of charges per day equal to twice the highest level of spell it provides as a spell-like ability. Using a spell-like ability from the gage consumes a number of charges equal to that spell’s level. The caster level for these spells is 16th."
+  },
+  {
+    "source": "Starfinder Armory pg. 91",
+    "Name": "Enchanting Vocal Modulator, Quadfrequency",
+    "Level": "17",
+    "Price": "225,000",
+    "System": "Throat",
+    "type": "augmentations_magitech",
+    "desc": "Your voice box has an enchanted digital modulator that can alter its frequency to be supernaturally compelling. As a move action you can calibrate it to a single creature that you have heard and understood speaking or using other sound-based communication. It remains calibrated to that target until you pick a new target. You gain a +2 insight bonus to Bluff, Diplomacy, and Intimidate checks to influence that creature using your voice (not other forms of communication). In addition, you can cast \u003ci\u003esuggestion\u003c/i\u003e once per day (DC \u003d 10 + half your character level + your Charisma modifier) as a standard action, targeting a creature your system is calibrated to.\n\n A \u003ci\u003eduofrequency enchanting vocal modulator\u003c/i\u003e can target two creatures at once. It can be calibrated to two targets with a single move action, and its suggestion function can be used to target both with a single command. Similarly, a \u003ci\u003equadfrequency enchanting vocal modulator\u003c/i\u003e can target up to four creatures.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMonofrequency\u003c/td\u003e\n   \u003ctd\u003e11\u003c/td\u003e\n   \u003ctd\u003e25,400\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eDuofrequency\u003c/td\u003e\n   \u003ctd\u003e14\u003c/td\u003e\n   \u003ctd\u003e66,500\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eQuadfrequency\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e225,000\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 90",
+    "Name": "Antimagic Skin, Mk 3",
+    "Level": "17",
+    "Price": "263,000",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "Your skin is infused with alchemical components extracted from fey, hags, and other highly magic-resistant creatures. As a move action, you can gain spell resistance according to your model of antimagic skin for 1 minute. You can also gain this spell resistance as a reaction, but you then can’t take a move action on your next turn. Once you use your \u003ci\u003eantimagic skin\u003c/i\u003e, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately. \n\n \u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eSpell Resistance\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e20\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e22\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e24\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e26\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e28\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 6\u003c/td\u003e\n   \u003ctd\u003e30\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder #33: Dominion’s End pg. 51",
+    "Name": "Rune-Etched Chitin, Mk 5",
+    "Level": "17",
+    "Price": "263,000",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "An exoskeleton covered with dimly glowing magical writing covers your skin, and you can activate these runes to cast spells. Each set of rune-etched chitin is inscribed with spells that have a combined level equal to the augmentation’s mark. You can be augmented with rune-etched chitin only if the spells inscribed onto it are spells you could learn and cast at your current level, though you don’t have to know them. You can cast each of the spells inscribed on the runeetched chitin once per day at a caster level equal to the augmentation’s level without using your own spell slots. You must have this augmentation implanted for at least 24 hours for it to function.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 92",
+    "Name": "Holographic Eyes, Mk 3",
+    "Level": "17",
+    "Price": "266,000",
+    "System": "Brain and eyes",
+    "type": "augmentations_magitech",
+    "desc": "A tiny rune is carved into your occipital lobe that is magically connected to microscopic holographic projectors implanted in your eyes. As a standard action, you can create an illusion that functions as \u003ci\u003eholographic image\u003c/i\u003e with a spell level equal to the model number of your \u003ci\u003eholographic eyes\u003c/i\u003e at any location you can see within range. You must concentrate on the illusion as a move action to maintain it, and you must keep your eyes on the illusion to concentrate, treating all other creatures as if they had concealment. Casting a spell (including creating a new illusion with your \u003ci\u003eholographic eyes\u003c/i\u003e) immediately ends your concentration. The effect’s caster level is equal to your level, and the Will save DC to disbelieve it is equal to 10 + half your level + your Intelligence modifier.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 90",
+    "Name": "Cloaking Skin, Greater",
+    "Level": "17",
+    "Price": "270,000",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "Many of your pores are replaced with magically regulated and directed holographic projectors that work together to automatically match your surrounding environment, rendering you invisible per \u003ci\u003einvisibility\u003c/i\u003e. Once per day, you can enable your cloaking skin as a standard action, turning you invisible for 10 minutes. A greater cloaking skin functions as \u003ci\u003egreater invisibility\u003c/i\u003e, but the effect lasts for only 10 rounds. You can disable either model of cloaking skin as a move action.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 90",
+    "Name": "Control Mirror Neurons",
+    "Level": "18",
+    "Price": "365,000",
+    "System": "Brain",
+    "type": "augmentations_magitech",
+    "desc": "Neurons in your brain that would normally help you imagine what another person is experiencing are amplified magically, allowing you to decide what another creature does. As a full action, you can target any creature of your type that you are observing and attempt to control that individual. This functions as dominate person (DC \u003d 10 + half your level + your Charisma modifier) for as long as you continue to observe the target, except establishing the effect doesn’t require an attack roll, and no command you give the target can take more than a standard action to complete. Issuing a command is a move action. You can’t target a creature again for 24 hours after it succeeds at its saving throw against this effect or the duration ends. Once you use your control mirror neurons, you can’t use them again until you’ve rested to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge them immediately."
+  },
+  {
+    "source": "Starfinder Armory pg. 90",
+    "Name": "Antimagic Skin, Mk 4",
+    "Level": "18",
+    "Price": "388,000",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "Your skin is infused with alchemical components extracted from fey, hags, and other highly magic-resistant creatures. As a move action, you can gain spell resistance according to your model of antimagic skin for 1 minute. You can also gain this spell resistance as a reaction, but you then can’t take a move action on your next turn. Once you use your \u003ci\u003eantimagic skin\u003c/i\u003e, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately. \n\n \u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eSpell Resistance\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e20\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e22\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e24\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e26\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e28\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 6\u003c/td\u003e\n   \u003ctd\u003e30\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder #11: The Penumbra Protocol pg. 53",
+    "Name": "Velstrac Shackle, Devotional",
+    "Level": "19",
+    "Price": "431,000",
+    "System": "Arm",
+    "type": "augmentations_magitech",
+    "desc": "A spiked gauntlet made of dark composite and inward pointing spikes, a \u003ci\u003evelstrac shackle\u003c/i\u003e fits over one forearm and has filaments like muscle fibers that snake up to the shoulder, connecting to dark barbs that protrude from your skin. The shackle feeds on your tissue, requiring you to eat and drink half again more than usual to sustain it, and it must be attached to flesh. Further, no matter how many arms you have, you can have only one \u003ci\u003evelstrac shackle.\u003c/i\u003e\n\n As if drawing a weapon, you can cause the shackle to extend a \u003ca style\u003d\"text-decoration:underline\" href\u003d\"WeaponDisplay.aspx?ItemName\u003dAcolyte\u0026amp;Family\u003dShadow%20Chains\"\u003eshadow chain\u003c/a\u003e of the same model name as the shackle. The shadow chain within the velstrac shackle is magical. It can also be upgraded with weapon fusions like a normal weapon of the \u003ci\u003evelstrac shackle’s\u003c/i\u003e level.\n\n Within the shackle, the chain is hidden from casual observation, although someone who searches you can discern the chain’s presence inside the shackle by succeeding at a Perception check (DC \u003d 10 + 1-1/2 × the item’s level + your key ability modifier). While you wear the shackle, you are proficient with the shadow chain within, and you cannot be disarmed of or drop the weapon. You can withdraw the chain into the shackle as a swift action or part of a full action. In addition, if the weapon takes damage, you can allocate any healing you receive to it, provided that healing restores your Hit Points.\n\n When your character level is within 2 levels of the next more powerful \u003ci\u003evelstrac shackle\u003c/i\u003e, you can upgrade the item to its next level. To do so, you must acquire magical components, including rare minerals from the Shadow Plane, worth the price of the more powerful shackle minus 25% of the value of your current shackle. You then use the components in a 1-hour ritual to upgrade the shackle to the new, higher level. You must also pay to upgrade any weapon fusions you wish to keep on the shadow chain as if transferring each of those fusions to a new higher-level weapon.\n\n Upgrading a \u003ci\u003evelstrac shackle\u003c/i\u003e via shadow magic is rumored to be a way to awaken mortal-made shackles to a true connection with velstracs. This awakening can make a shackle that was once safe a source of shadow corruption. Whispers about this dark possibility suggest virtuous users who magically upgrade a shackle are more at risk than those who already have bloodthirsty or wicked tendencies.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 90",
+    "Name": "Antimagic Skin, Mk 5",
+    "Level": "19",
+    "Price": "587,000",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "Your skin is infused with alchemical components extracted from fey, hags, and other highly magic-resistant creatures. As a move action, you can gain spell resistance according to your model of antimagic skin for 1 minute. You can also gain this spell resistance as a reaction, but you then can’t take a move action on your next turn. Once you use your \u003ci\u003eantimagic skin\u003c/i\u003e, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately. \n\n \u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eSpell Resistance\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e20\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e22\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e24\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e26\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e28\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 6\u003c/td\u003e\n   \u003ctd\u003e30\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder #33: Dominion’s End pg. 51",
+    "Name": "Scuttle Engine, Mk 2",
+    "Level": "19",
+    "Price": "587,800",
+    "System": "Spinal Column, All Feet, All Legs",
+    "type": "augmentations_magitech",
+    "desc": "Your legs are replaced by six fleshy, tentacular limbs, which protrude from an exoskeleton anchored to your spine and torso and are infused with alchemically treated magical alloys. The magic infused into the scuttle engine allows you to disrupt nearby magical energies before they form. As a reaction when someone within 60 feet of you casts a spell, you can violently thrash these limbs to send out disruptive vibrations. The spellcaster must succeed at a caster level check with a DC equal to 10 + the level of the triggering spell, or the spell fails. Add 5 to this DC if you are augmented with a mk 2 scuttle engine. Once you have used your scuttle engine, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 92",
+    "Name": "Holographic Eyes, Mk 4",
+    "Level": "20",
+    "Price": "820,000",
+    "System": "Brain and eyes",
+    "type": "augmentations_magitech",
+    "desc": "A tiny rune is carved into your occipital lobe that is magically connected to microscopic holographic projectors implanted in your eyes. As a standard action, you can create an illusion that functions as \u003ci\u003eholographic image\u003c/i\u003e with a spell level equal to the model number of your \u003ci\u003eholographic eyes\u003c/i\u003e at any location you can see within range. You must concentrate on the illusion as a move action to maintain it, and you must keep your eyes on the illusion to concentrate, treating all other creatures as if they had concealment. Casting a spell (including creating a new illusion with your \u003ci\u003eholographic eyes\u003c/i\u003e) immediately ends your concentration. The effect’s caster level is equal to your level, and the Will save DC to disbelieve it is equal to 10 + half your level + your Intelligence modifier.\n"
+  },
+  {
+    "source": "Starfinder Armory pg. 90",
+    "Name": "Antimagic Skin, Mk 6",
+    "Level": "20",
+    "Price": "891,000",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "Your skin is infused with alchemical components extracted from fey, hags, and other highly magic-resistant creatures. As a move action, you can gain spell resistance according to your model of antimagic skin for 1 minute. You can also gain this spell resistance as a reaction, but you then can’t take a move action on your next turn. Once you use your \u003ci\u003eantimagic skin\u003c/i\u003e, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately. \n\n \u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eSpell Resistance\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e20\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e22\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e24\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e26\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e28\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 6\u003c/td\u003e\n   \u003ctd\u003e30\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
+  },
+  {
+    "source": "Starfinder #33: Dominion’s End pg. 51",
+    "Name": "Rune-Etched Chitin, Mk 6",
+    "Level": "20",
+    "Price": "891,000",
+    "System": "Skin",
+    "type": "augmentations_magitech",
+    "desc": "An exoskeleton covered with dimly glowing magical writing covers your skin, and you can activate these runes to cast spells. Each set of rune-etched chitin is inscribed with spells that have a combined level equal to the augmentation’s mark. You can be augmented with rune-etched chitin only if the spells inscribed onto it are spells you could learn and cast at your current level, though you don’t have to know them. You can cast each of the spells inscribed on the runeetched chitin once per day at a caster level equal to the augmentation’s level without using your own spell slots. You must have this augmentation implanted for at least 24 hours for it to function.\n"
+  },
+  {
+    "source": "Alien Archive 3 pg. 85",
+    "Name": "Seismic Spine",
+    "Level": "20",
+    "Price": "1,075,000",
+    "System": "Spine",
+    "type": "augmentations_magitech",
+    "desc": "A seismic spine gives you resistance 15 to electricity damage and sonic damage. Once per day as a standard action, you can stomp the ground or otherwise create percussion, such as by clapping your hands, to unleash a shockwave from your seismic spine. Creatures and objects within a 20-foot-radius spread of you take 10d6 electricity and sonic damage (Fortitude save for half damage; DC \u003d 10 + half your character level + your Constitution modifier). A creature that fails the saving throw is knocked prone. If a technological construct fails the save, the construct is also stunned for 1 round even if it is normally immune to being stunned. Unattended hybrid or technological objects in the area cease functioning for 1 round. Once you have used your seismic spine, you can do so again only after you have rested for 10 minutes to regain Stamina Points, and you must spend 1 Resolve Point to use your seismic spine each time after the first time per day."
+  }
+]

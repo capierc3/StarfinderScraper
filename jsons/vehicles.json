@@ -1,0 +1,466 @@
+[
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 51",
+    "Name": "Battle Chariot",
+    "Level": "1",
+    "Price": "400",
+    "type": "vehicles",
+    "desc": "Large land vehicle (5 ft. wide, 10 ft. long, 4 ft. high)"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 228",
+    "Name": "Goblin Junkcycle",
+    "Level": "1",
+    "Price": "425",
+    "type": "vehicles",
+    "desc": "Medium land vehicle (5 ft. wide, 5 ft. long, 2 ft. high)"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 228",
+    "Name": "Basic Enercycle",
+    "Level": "1",
+    "Price": "700",
+    "type": "vehicles",
+    "desc": "Large land vehicle (5 ft. wide, 10 ft. long, 3 ft. high)"
+  },
+  {
+    "source": "Starfinder #28: The Hollow Cabal pg. 45",
+    "Name": "Wingboard",
+    "Level": "1",
+    "Price": "900",
+    "type": "vehicles",
+    "desc": "Tiny air vehicle (1 ft. wide, 3 ft. long)"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 228",
+    "Name": "Exploration Buggy",
+    "Level": "1",
+    "Price": "1,000",
+    "type": "vehicles",
+    "desc": "Large land vehicle (10 ft. wide, 10 ft. long, 4 ft. high)"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 228",
+    "Name": "Torpedo Minisub",
+    "Level": "1",
+    "Price": "1,500",
+    "type": "vehicles",
+    "desc": "Large water vehicle (5 ft. wide, 10 ft. long, 3 ft. high)"
+  },
+  {
+    "source": "Starfinder #28: The Hollow Cabal pg. 45",
+    "Name": "Skyboat",
+    "Level": "2",
+    "Price": "1,400",
+    "type": "vehicles",
+    "desc": "Large air vehicle (10 ft. wide, 15 ft. long, 3 ft. high)"
+  },
+  {
+    "source": "Starfinder #7: The Reach of Empire pg. 21",
+    "Name": "Hovertrike",
+    "Level": "2",
+    "Price": "1,850",
+    "type": "vehicles",
+    "desc": "Large land vehicle (5 ft. wide, 10 ft. long, 3 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 138",
+    "Name": "Motorcycle",
+    "Level": "2",
+    "Price": "1,900",
+    "type": "vehicles",
+    "desc": "Large land vehicle (5 ft. wide, 10 ft. long, 3 ft. high)"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 228",
+    "Name": "Urban Cruiser",
+    "Level": "2",
+    "Price": "2,210",
+    "type": "vehicles",
+    "desc": "Large land vehicle (10 ft. wide, 10 ft. long, 4 ft. high)"
+  },
+  {
+    "source": "Starfinder #36: Professional Courtesy pg. 14",
+    "Name": "Submersible Tour Boat",
+    "Level": "2",
+    "Price": "2,500",
+    "type": "vehicles",
+    "desc": "Huge water vehicle (15 ft. wide, 30 ft. long, 10 ft. high)"
+  },
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 53",
+    "Name": "War Wagon",
+    "Level": "3",
+    "Price": "2,980",
+    "type": "vehicles",
+    "desc": "Huge land vehicle (10 ft. wide, 15 ft. long, 7 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 139",
+    "Name": "Ultralight Turboglider",
+    "Level": "3",
+    "Price": "3,170",
+    "type": "vehicles",
+    "desc": "Large air vehicle (10 ft. wide, 5 ft. long, 3 ft. high)"
+  },
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 51",
+    "Name": "Biped Walker",
+    "Level": "3",
+    "Price": "3,860",
+    "type": "vehicles",
+    "desc": "Large land vehicle (4 ft. wide, 4 ft. long, 7 ft. high)"
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 33",
+    "Name": "Performance Cruiser",
+    "Level": "3",
+    "Price": "4,320",
+    "type": "vehicles",
+    "desc": "Large land and air vehicle (10 ft. wide, 10 ft. long, 4 ft. high)"
+  },
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 53",
+    "Name": "Sky Chariot",
+    "Level": "4",
+    "Price": "4,350",
+    "type": "vehicles",
+    "desc": "Huge air vehicle (7 ft. wide, 10 ft. long, 4 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 139",
+    "Name": "Survey Walker",
+    "Level": "4",
+    "Price": "4,650",
+    "type": "vehicles",
+    "desc": "Huge land vehicle (10 ft. wide, 10 ft. long, 20 ft. high)"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 229",
+    "Name": "Police Cruiser",
+    "Level": "4",
+    "Price": "6,195",
+    "type": "vehicles",
+    "desc": "Large land and air vehicle (10 ft. wide, 10 ft. long, 5 ft. high)"
+  },
+  {
+    "source": "SFS Scenario #2–13: Storm of the End Times pg. 9",
+    "Name": "Cherav",
+    "Level": "4",
+    "Price": "6,600",
+    "type": "vehicles",
+    "desc": "Huge land and water vehicle (10 ft. wide, 15 ft. long, 5 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 138",
+    "Name": "Hover Truck",
+    "Level": "5",
+    "Price": "7,000",
+    "type": "vehicles",
+    "desc": "Gargantuan land and water vehicle (10 ft. wide, 30 ft. long, 12 ft. high)"
+  },
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 52",
+    "Name": "Drop Pod",
+    "Level": "5",
+    "Price": "7,800",
+    "type": "vehicles",
+    "desc": "Huge air vehicle (12 ft. wide, 12 ft. long, 15 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 137",
+    "Name": "Acid Auger",
+    "Level": "5",
+    "Price": "9,400",
+    "type": "vehicles",
+    "desc": "Large land and tunneling vehicle (5 ft. wide, 10 ft. long, 5 ft. high)"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 229",
+    "Name": "All-Terrain Transport",
+    "Level": "6",
+    "Price": "8,370",
+    "type": "vehicles",
+    "desc": "Huge land vehicle (10 ft. wide, 20 ft. long, 7 ft. high)"
+  },
+  {
+    "source": "Starfinder #28: The Hollow Cabal pg. 45",
+    "Name": "Skyacht",
+    "Level": "6",
+    "Price": "12,000",
+    "type": "vehicles",
+    "desc": "Gargantuan air vehicle (20 ft. wide, 80 ft. long, 20 ft. high)"
+  },
+  {
+    "source": "Alien Archive 3 pg. 41",
+    "Name": "Water Bear",
+    "Level": "6",
+    "Price": "12,500",
+    "type": "vehicles",
+    "desc": "Gargantuan water vehicle (20 ft. wide, 50 ft. long, 20 ft. high)"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 229",
+    "Name": "Pump-Jet Sub",
+    "Level": "6",
+    "Price": "13,150",
+    "type": "vehicles",
+    "desc": "Huge water vehicle (10 ft. wide, 20 ft. long, 7 ft. high)"
+  },
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 53",
+    "Name": "Stealth Enercycle",
+    "Level": "6",
+    "Price": "13,500",
+    "type": "vehicles",
+    "desc": "Large land vehicle (4 ft. wide, 8 ft. long, 4 ft. high)"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 229",
+    "Name": "Hover Pod",
+    "Level": "7",
+    "Price": "14,850",
+    "type": "vehicles",
+    "desc": "Large land and water vehicle (10 ft. wide, 10 ft. long, 4 ft. high)"
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 48",
+    "Name": "Sunskimmer",
+    "Level": "7",
+    "Price": "16,500",
+    "type": "vehicles",
+    "desc": "Huge air vehicle (10 ft. wide, 20 ft. long, 7 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 139",
+    "Name": "Tactical Walker",
+    "Level": "7",
+    "Price": "20,900",
+    "type": "vehicles",
+    "desc": "Huge land vehicle (10 ft. wide, 10 ft. long, 20 ft. high)"
+  },
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 53",
+    "Name": "Patrol Dirigible",
+    "Level": "7",
+    "Price": "21,000",
+    "type": "vehicles",
+    "desc": "Colossal air vehicle (60 ft. wide, 80 ft. long, 40 ft. high)"
+  },
+  {
+    "source": "Starfinder #5: The Thirteenth Gate pg. 41",
+    "Name": "Kishalee Hoverbike",
+    "Level": "8",
+    "Price": "20,000",
+    "type": "vehicles",
+    "desc": "Large land and air vehicle (5 ft. wide, 10 ft. long, 2 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 137",
+    "Name": "Armored Transport",
+    "Level": "8",
+    "Price": "22,400",
+    "type": "vehicles",
+    "desc": "Huge land vehicle (10 ft. wide, 20 ft. long, 7 ft. high)"
+  },
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 50",
+    "Name": "Aquatic Crawler",
+    "Level": "8",
+    "Price": "32,000",
+    "type": "vehicles",
+    "desc": "Huge land and water vehicle (20 ft. wide, 20 ft. long, 12 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 137",
+    "Name": "Asteroid Borer",
+    "Level": "8",
+    "Price": "32,700",
+    "type": "vehicles",
+    "desc": "Huge land, tunneling, and water vehicle (10 ft. wide, 20 ft. long, 10 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 139",
+    "Name": "Transport Walker",
+    "Level": "9",
+    "Price": "28,200",
+    "type": "vehicles",
+    "desc": "Huge land vehicle (10 ft. wide, 20 ft. long, 20 ft. high)"
+  },
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 52",
+    "Name": "Heavy Assault Buggy",
+    "Level": "9",
+    "Price": "38,200",
+    "type": "vehicles",
+    "desc": "Large land vehicle (10 ft. wide, 12 ft. long, 7 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 138",
+    "Name": "Recon Enercopter",
+    "Level": "9",
+    "Price": "43,000",
+    "type": "vehicles",
+    "desc": "Huge air vehicle (10 ft. wide, 20 ft. long, 12 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 137",
+    "Name": "Armored Null-Space Transport",
+    "Level": "10",
+    "Price": "48,800",
+    "type": "vehicles",
+    "desc": "Large land and water vehicle (10 ft. wide, 10 ft. long, 8 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 138",
+    "Name": "Stealth Sub",
+    "Level": "10",
+    "Price": "57,500",
+    "type": "vehicles",
+    "desc": "Gargantuan water vehicle (15 ft. wide, 50 ft. long, 15 ft. high)"
+  },
+  {
+    "source": "Starfinder #14: Soldiers of Brass pg. 48",
+    "Name": "Linecrawler",
+    "Level": "10",
+    "Price": "62,000",
+    "type": "vehicles",
+    "desc": "Colossal air vehicle (50 ft. wide, 70 ft. long, 50 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 139",
+    "Name": "Tactical Underminer",
+    "Level": "11",
+    "Price": "79,500",
+    "type": "vehicles",
+    "desc": "Huge land, tunneling, and water vehicle (10 ft. wide, 20 ft. long, 10 ft. high)"
+  },
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 52",
+    "Name": "Light Hover Tank",
+    "Level": "11",
+    "Price": "80,000",
+    "type": "vehicles",
+    "desc": "Huge land and water vehicle (10 ft. wide, 15 ft. long, 6 ft. high)"
+  },
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 53",
+    "Name": "Tactical Dropship",
+    "Level": "11",
+    "Price": "84,000",
+    "type": "vehicles",
+    "desc": "Huge air vehicle (15 ft. wide, 20 ft. long, 12 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 137",
+    "Name": "Assault Enercopter",
+    "Level": "12",
+    "Price": "114,500",
+    "type": "vehicles",
+    "desc": "Gargantuan air vehicle (40 ft. wide, 20 ft. long, 15 ft. high)"
+  },
+  {
+    "source": "Starfinder #17: Solar Strike pg. 44",
+    "Name": "Protector Chariot",
+    "Level": "12",
+    "Price": "120,000",
+    "type": "vehicles",
+    "desc": "Large air, land, and water vehicle (10 ft. wide, 10 ft. long, 10 ft. high)"
+  },
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 50",
+    "Name": "Airspace Defender",
+    "Level": "12",
+    "Price": "125,000",
+    "type": "vehicles",
+    "desc": "Gargantuan land and water vehicle (20 ft. wide, 30 ft. long, 15 ft. high)"
+  },
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 51",
+    "Name": "Attack Sub",
+    "Level": "12",
+    "Price": "130,000",
+    "type": "vehicles",
+    "desc": "Gargantuan water vehicle (20 ft. wide, 70 ft. long, 20 ft. high)"
+  },
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 51",
+    "Name": "Breacher",
+    "Level": "13",
+    "Price": "200,000",
+    "type": "vehicles",
+    "desc": "Gargantuan land and water vehicle (20 ft. wide, 30 ft. long, 10 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 138",
+    "Name": "Hover Tank",
+    "Level": "14",
+    "Price": "227,000",
+    "type": "vehicles",
+    "desc": "Gargantuan land and water vehicle (20 ft. wide, 20 ft. long, 8 ft. high)"
+  },
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 52",
+    "Name": "Heavy Walker",
+    "Level": "15",
+    "Price": "310,000",
+    "type": "vehicles",
+    "desc": "Gargantuan land vehicle (20 ft. wide, 40 ft. long, 30 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 138",
+    "Name": "Spy Cruiser",
+    "Level": "15",
+    "Price": "316,000",
+    "type": "vehicles",
+    "desc": "Huge air, land, and water vehicle (10 ft. wide, 15 ft. long, 5 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 138",
+    "Name": "Stealth Enercopter",
+    "Level": "16",
+    "Price": "535,000",
+    "type": "vehicles",
+    "desc": "Huge air vehicle (10 ft. wide, 20 ft. long, 7 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 137",
+    "Name": "Hover Artillery",
+    "Level": "17",
+    "Price": "780,000",
+    "type": "vehicles",
+    "desc": "Gargantuan land and water vehicle (20 ft. wide, 40 ft. long, 13 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 137",
+    "Name": "Aerial Mining Rig",
+    "Level": "18",
+    "Price": "1,080,000",
+    "type": "vehicles",
+    "desc": "Colossal air, land, and water vehicle (80 ft. wide, 80 ft. long, 40 ft. high)"
+  },
+  {
+    "source": "Starfinder #24: The God-Host Ascends pg. 52",
+    "Name": "Heavy Dropship",
+    "Level": "18",
+    "Price": "1,210,000",
+    "type": "vehicles",
+    "desc": "Colossal air vehicle (40 ft. wide, 80 ft. long, 30 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 138",
+    "Name": "Quantum Pod",
+    "Level": "19",
+    "Price": "1,630,000",
+    "type": "vehicles",
+    "desc": "Huge air, land, tunneling, and water vehicle (15 ft. wide, 15 ft. long, 15 ft. high)"
+  },
+  {
+    "source": "Starfinder Armory pg. 139",
+    "Name": "Ultimatum Hover Carrier",
+    "Level": "20",
+    "Price": "3,750,000",
+    "type": "vehicles",
+    "desc": "Colossal air, land, and water vehicle (120 ft. wide, 800 ft. long, 65 ft. high)"
+  }
+]

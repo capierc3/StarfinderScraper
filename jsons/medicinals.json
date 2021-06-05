@@ -1,0 +1,482 @@
+[
+  {
+    "source": "Starfinder Core Rulebook pg. 232",
+    "Name": "Analgesic, Tier 1",
+    "Level": "1",
+    "Price": "150",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Antibiotic, Tier 1",
+    "Level": "1",
+    "Price": "150",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 132",
+    "Name": "Antiemetic, Tier 1",
+    "Level": "1",
+    "Price": "75",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 232",
+    "Name": "Antitoxin, Tier 1",
+    "Level": "1",
+    "Price": "75",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 132",
+    "Name": "Coagulant, Tier 1",
+    "Level": "1",
+    "Price": "75",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Counteractant, Tier 1",
+    "Level": "1",
+    "Price": "150",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 79",
+    "Name": "Cytoguard, Tier 1",
+    "Level": "1",
+    "Price": "75",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 133",
+    "Name": "Excitant, Tier 1",
+    "Level": "1",
+    "Price": "75",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 7",
+    "Name": "Insulivate, Tier 1",
+    "Level": "1",
+    "Price": "75",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 79",
+    "Name": "Prismatilate, Tier 1",
+    "Level": "1",
+    "Price": "75",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 7",
+    "Name": "Revitilate, Tier 1",
+    "Level": "1",
+    "Price": "75",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Sal Volatile, Tier 1",
+    "Level": "1",
+    "Price": "150",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 232",
+    "Name": "Sedative, Tier 1",
+    "Level": "1",
+    "Price": "75",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 133",
+    "Name": "Stimulant, Tier 1",
+    "Level": "1",
+    "Price": "75",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Vaccine, Tier 1",
+    "Level": "1",
+    "Price": "150",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 232",
+    "Name": "Analgesic, Tier 2",
+    "Level": "5",
+    "Price": "3,000",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Antibiotic, Tier 2",
+    "Level": "5",
+    "Price": "3,000",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 132",
+    "Name": "Antiemetic, Tier 2",
+    "Level": "5",
+    "Price": "450",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 232",
+    "Name": "Antitoxin, Tier 2",
+    "Level": "5",
+    "Price": "450",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 132",
+    "Name": "Coagulant, Tier 2",
+    "Level": "5",
+    "Price": "450",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Counteractant, Tier 2",
+    "Level": "5",
+    "Price": "3,000",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 79",
+    "Name": "Cytoguard, Tier 2",
+    "Level": "5",
+    "Price": "450",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 133",
+    "Name": "Excitant, Tier 2",
+    "Level": "5",
+    "Price": "450",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 7",
+    "Name": "Insulivate, Tier 2",
+    "Level": "5",
+    "Price": "450",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 79",
+    "Name": "Prismatilate, Tier 2",
+    "Level": "5",
+    "Price": "450",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 7",
+    "Name": "Revitilate, Tier 2",
+    "Level": "5",
+    "Price": "450",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 232",
+    "Name": "Sedative, Tier 2",
+    "Level": "5",
+    "Price": "450",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 133",
+    "Name": "Stimulant, Tier 2",
+    "Level": "5",
+    "Price": "450",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Vaccine, Tier 2",
+    "Level": "5",
+    "Price": "3,000",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 232",
+    "Name": "Analgesic, Tier 3",
+    "Level": "10",
+    "Price": "15,000",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Antibiotic, Tier 3",
+    "Level": "10",
+    "Price": "15,000",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 132",
+    "Name": "Antiemetic, Tier 3",
+    "Level": "10",
+    "Price": "2,700",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 232",
+    "Name": "Antitoxin, Tier 3",
+    "Level": "10",
+    "Price": "2,700",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 132",
+    "Name": "Coagulant, Tier 3",
+    "Level": "10",
+    "Price": "2,700",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Counteractant, Tier 3",
+    "Level": "10",
+    "Price": "15,000",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 79",
+    "Name": "Cytoguard, Tier 3",
+    "Level": "10",
+    "Price": "2,700",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 133",
+    "Name": "Excitant, Tier 3",
+    "Level": "10",
+    "Price": "2,700",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 7",
+    "Name": "Insulivate, Tier 3",
+    "Level": "10",
+    "Price": "2,700",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 79",
+    "Name": "Prismatilate, Tier 3",
+    "Level": "10",
+    "Price": "2,700",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 7",
+    "Name": "Revitilate, Tier 3",
+    "Level": "10",
+    "Price": "2,700",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Sal Volatile, Tier 3",
+    "Level": "10",
+    "Price": "15,000",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 232",
+    "Name": "Sedative, Tier 3",
+    "Level": "10",
+    "Price": "2,700",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 133",
+    "Name": "Stimulant, Tier 3",
+    "Level": "10",
+    "Price": "2,700",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Vaccine, Tier 3",
+    "Level": "10",
+    "Price": "15,000",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 232",
+    "Name": "Analgesic, Tier 4",
+    "Level": "15",
+    "Price": "23,500",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Antibiotic, Tier 4",
+    "Level": "15",
+    "Price": "23,500",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 132",
+    "Name": "Antiemetic, Tier 4",
+    "Level": "15",
+    "Price": "16,200",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 232",
+    "Name": "Antitoxin, Tier 4",
+    "Level": "15",
+    "Price": "16,200",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 132",
+    "Name": "Coagulant, Tier 4",
+    "Level": "15",
+    "Price": "16,200",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Counteractant, Tier 4",
+    "Level": "15",
+    "Price": "23,500",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 79",
+    "Name": "Cytoguard, Tier 4",
+    "Level": "15",
+    "Price": "16,200",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 133",
+    "Name": "Excitant, Tier 4",
+    "Level": "15",
+    "Price": "16,200",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 7",
+    "Name": "Insulivate, Tier 4",
+    "Level": "15",
+    "Price": "16,200",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 79",
+    "Name": "Prismatilate, Tier 4",
+    "Level": "15",
+    "Price": "16,200",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 7",
+    "Name": "Revitilate, Tier 4",
+    "Level": "15",
+    "Price": "16,200",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Sal Volatile, Tier 2",
+    "Level": "15",
+    "Price": "3,000",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Sal Volatile, Tier 4",
+    "Level": "15",
+    "Price": "23,500",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 232",
+    "Name": "Sedative, Tier 4",
+    "Level": "15",
+    "Price": "16,200",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 133",
+    "Name": "Stimulant, Tier 4",
+    "Level": "15",
+    "Price": "16,200",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Character Operations Manual pg. 127",
+    "Name": "Vaccine, Tier 4",
+    "Level": "15",
+    "Price": "23,500",
+    "type": "Medicinals",
+    "desc": "top desc: hr"
+  }
+]

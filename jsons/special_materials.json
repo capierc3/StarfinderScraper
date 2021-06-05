@@ -1,0 +1,281 @@
+[
+  {
+    "source": "Starfinder Armory pg. 66",
+    "Name": "Ammunition (1 piece)",
+    "Family": "Abysium",
+    "Price": "+70 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 66",
+    "Name": "Raw Material (1 bulk)",
+    "Family": "Abysium",
+    "Price": "1,125 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 66",
+    "Name": "Weapon",
+    "Family": "Abysium",
+    "Price": "+4,500 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 191",
+    "Name": "Ammunition (1 piece)",
+    "Family": "Adamantine Alloy",
+    "Price": "+50 credits per cartridge",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 67",
+    "Name": "Armor",
+    "Family": "Adamantine Alloy",
+    "Price": "+2,500 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 67",
+    "Name": "Raw Material (1 bulk)",
+    "Family": "Adamantine Alloy",
+    "Price": "625 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 191",
+    "Name": "Weapon",
+    "Family": "Adamantine Alloy",
+    "Price": "+2,500 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 191",
+    "Name": "Ammunition (1 piece)",
+    "Family": "Cold Iron",
+    "Price": "+9 credits per cartridge",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 67",
+    "Name": "Raw Material (1 bulk)",
+    "Family": "Cold Iron",
+    "Price": "115 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 191",
+    "Name": "Weapon",
+    "Family": "Cold Iron",
+    "Price": "+450 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 3 pg. 19",
+    "Name": "Ammunition",
+    "Family": "Diatha",
+    "Price": "+100 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 3 pg. 19",
+    "Name": "Amplified Ammunition",
+    "Family": "Diatha",
+    "Price": "+500 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 66",
+    "Name": "Armor, Item or Weapon",
+    "Family": "Djezet",
+    "Price": "+2,000 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 66",
+    "Name": "Raw Material (1 bulk)",
+    "Family": "Djezet",
+    "Price": "500 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 66",
+    "Name": "Ammunition (1 piece)",
+    "Family": "Horacalcum",
+    "Price": "+70 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 66",
+    "Name": "Armor or Weapon",
+    "Family": "Horacalcum",
+    "Price": "+3,500 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 66",
+    "Name": "Raw Material (1 bulk)",
+    "Family": "Horacalcum",
+    "Price": "875 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 67",
+    "Name": "Ammunition (1 piece)",
+    "Family": "Inubrix",
+    "Price": "+50 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 67",
+    "Name": "Armor or Weapon",
+    "Family": "Inubrix",
+    "Price": "+2,500 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 67",
+    "Name": "Raw Material (1 bulk)",
+    "Family": "Inubrix",
+    "Price": "625 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 2 pg. 79",
+    "Name": "Khefak",
+    "Family": "Khefak Armor",
+    "Price": "+500 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 2 pg. 79",
+    "Name": "Thasteron Khefak",
+    "Family": "Khefak Armor",
+    "Price": "+2,000 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 67",
+    "Name": "Ammunition (1 piece)",
+    "Family": "Noqual",
+    "Price": "+40 credits",
+    "type": "Special Materials"
+  },
+  {
+    "source": "Starfinder Armory pg. 67",
+    "Name": "Armor",
+    "Family": "Noqual",
+    "Price": "+2,000 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 67",
+    "Name": "Raw Material (1 bulk)",
+    "Family": "Noqual",
+    "Price": "500 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder #1: Incident at Absalom Station pg. 26",
+    "Name": "Weapon (Melee)",
+    "Family": "Noqual",
+    "Price": "+2,000 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 105",
+    "Name": "Armor or Shield",
+    "Family": "Purple Cores",
+    "Price": "10% of price of equipment",
+    "type": "Special Materials",
+    "desc": "When a purple orb dies, its perfect spherical shape gradually collapses, condensing into a jagged crystalline object known as a purple core. Sapient purple orbs mourn the loss of their kind, but they reject the remnant crystals as anything other than inert (albeit magical) matter—there is no reverence for physical remains among purple orbs. However, other species have come to value the orbs’ crystalline cores for their magical properties, with some evil individuals even contracting assassins and poachers for the purpose of obtaining them."
+  },
+  {
+    "source": "Starfinder Armory pg. 67",
+    "Name": "Armor or Weapon",
+    "Family": "Siccatite",
+    "Price": "+2,500 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 67",
+    "Name": "Raw Material (1 bulk)",
+    "Family": "Siccatite",
+    "Price": "626 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 191",
+    "Name": "Ammunition (1 piece)",
+    "Family": "Silver",
+    "Price": "+6 credits per cartridge",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Armory pg. 67",
+    "Name": "Raw Material (1 bulk)",
+    "Family": "Silver",
+    "Price": "75 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Starfinder Core Rulebook pg. 191",
+    "Name": "Weapon",
+    "Family": "Silver",
+    "Price": "+300 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 41",
+    "Name": "Ammunition (1 piece)",
+    "Family": "Voidglass",
+    "Price": "+70 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 41",
+    "Name": "Armor, shield, or weapon",
+    "Family": "Voidglass",
+    "Price": "+4,500 cred",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  },
+  {
+    "source": "Alien Archive 4 pg. 41",
+    "Name": "Raw material (1 bulk)",
+    "Family": "Voidglass",
+    "Price": "1,125 credits",
+    "type": "Special Materials",
+    "desc": "top desc: hr"
+  }
+]
