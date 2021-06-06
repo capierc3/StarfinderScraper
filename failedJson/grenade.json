@@ -9,7 +9,7 @@
     "Bulk": "L",
     "Special": "explode (smoke cloud 1 minute; 20 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A smoke grenade deals no damage; instead, it releases a cloud of dense smoke. Each character who inhales smoke must succeed at a Fortitude saving throw each round (DC \u003d 15 + 1 per previous check) or spend that round choking and coughing; he can do nothing else. A character who chokes for 2 consecutive rounds takes 1d6 nonlethal damage. (Active environmental protection from a suit of armor prevents this effect altogether.) Regardless of the armor a character wears, smoke obscures vision, providing concealment."
   },
   {
     "source": "Alien Archive 4 pg. 69",
@@ -21,7 +21,7 @@
     "Bulk": "L",
     "Special": "Explode (1d4 A, dye-stained, 10 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Lumocantha dye can be weaponized easily. A creature that fails its Reflex saving throw against a dye grenade takes additional damage from laser weapons equal to half the dye grenade’s item level (minimum 1). This lasts until the dye is removed, usually by changing armor or clothing or by spending 1d4 hours cleaning off the stain."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -33,7 +33,7 @@
     "Bulk": "L",
     "Special": "explode (1d6 P; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A fragmentary, or frag, grenade explodes in a cloud of shrapnel."
   },
   {
     "source": "Holo Grenade, Mk 1",
@@ -55,7 +55,7 @@
     "Bulk": "L",
     "Special": "explode (1d8 E; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A shock grenade releases a pulse of electrical energy on impact."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -67,7 +67,7 @@
     "Bulk": "L",
     "Special": "explode (entangled 2d4 rounds; 10 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A stickybomb grenade detonates with a splash of adhesive resin."
   },
   {
     "source": "Alien Archive 3 pg. 119",
@@ -79,7 +79,7 @@
     "Bulk": "L",
     "Special": "Explode (5 ft., nanite cloud 1 minute, corrode 1)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Although tripods can use other grenades, they are infamous for the decoupler grenades they produce internally. Other creatures in the galaxy, such as the weapon-dealing drow of Apostae, have replicated this horrid tech. A decoupler grenade produces a dense cloud of dark nanites. This cloud provides concealment and corrodes creatures and materials within it. Each creature that starts its turn in the cloud must succeed at a Fortitude saving throw (DC \u003d 10 + half the grenade’s item level) or be subject to the corrode critical hit effect. A creature that inhales the nanites takes a –4 penalty to this saving throw."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -91,7 +91,7 @@
     "Bulk": "L",
     "Special": "explode (blinded 1d4 rounds; 5 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When detonated, a flash grenade releases a pulse of intense radiance."
   },
   {
     "source": "Alien Archive 4 pg. 109",
@@ -103,7 +103,7 @@
     "Bulk": "L",
     "Special": "Explode (pull 5 ft., 10 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Derived from the gravitational organs of shipkiller bulbs, gravity grenades generate a micro-singularity that pulls affected targets towards the detonation point. Creatures in the area move the listed distance toward the blast’s center if they fail a Fortitude saving throw. Unsecured, unattended items of 1 bulk or less automatically fail this save. The force is not powerful enough to move bigger objects, such as Large vehicles."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -115,7 +115,7 @@
     "Bulk": "L",
     "Special": "explode (2d6 B; 20 ft.), holy water",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Produced by priests of good-aligned deities, holy water grenades explode with a spray of consecrated water that harms undead creatures and evil outsiders while leaving other creatures and objects merely damp. This typically isn’t enough water to damage computers or other electronic or technological items."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -127,7 +127,7 @@
     "Bulk": "L",
     "Special": "explode (1d6 F; burning 1d4; 5 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Incendiary grenades detonate in a spray of superheated plasma."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -139,7 +139,7 @@
     "Bulk": "L",
     "Special": "explode (staggered; 10 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Riot grenades are standard issue among police forces, as they deal nonlethal damage and slow the movements of creatures affected by the blast."
   },
   {
     "source": "Diminisher Grenade, Mk 1",
@@ -161,7 +161,7 @@
     "Bulk": "L",
     "Special": "explode (10 ft.), extinguish",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A foam grenade explodes on impact to release a burst of fire-suppressant foam akin to that from a fire extinguisher. This foam reduces the damage from the burning condition or from the corrode critical hit effect taken by creatures within the area by the listed amount each round; this ends the burning condition or corrode effect if it reduces the amount of damage to 0. This also ends any active fires within the affected area."
   },
   {
     "source": "Solar Flare Grenade, I",
@@ -193,7 +193,7 @@
     "Bulk": "L",
     "Special": "explode (10 ft.), mire 1d4 rounds",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Developed using samples of haans’ biological webbing, a web grenade explodes to cover the area in sticky strands of hightensile fibers, making the affected area difficult terrain."
   },
   {
     "source": "SFS Scenario #1-24: Siege of Enlightenment pg. 15",
@@ -205,7 +205,7 @@
     "Bulk": "L",
     "Special": "Explode (10 ft.; see text)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A taserweb grenade is a 4th-level grenade ranged weapon with an explode radius of 10 feet. Creatures caught in its radius must succeed at a Reflex save (DC \u003d 10 + half the weapon’s item level + your Dexterity bonus) or get caught in the filaments. The electric discharge of the filaments causes a creature that fails the save to become staggered for 1 round. The electric charge dissipates quickly, leaving the area covered in sticky strands of high-tensile fibers, making the affected area difficult terrain for 1d4 rounds as though the grenade also has the mire weapon special property. Each grenade has light bulk and costs 720 credits."
   },
   {
     "source": "Alien Archive 4 pg. 69",
@@ -217,7 +217,7 @@
     "Bulk": "L",
     "Special": "Explode (2d4 A, dye-stained, 10 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Lumocantha dye can be weaponized easily. A creature that fails its Reflex saving throw against a dye grenade takes additional damage from laser weapons equal to half the dye grenade’s item level (minimum 1). This lasts until the dye is removed, usually by changing armor or clothing or by spending 1d4 hours cleaning off the stain."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -229,7 +229,7 @@
     "Bulk": "L",
     "Special": "explode (2d6 P; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A fragmentary, or frag, grenade explodes in a cloud of shrapnel."
   },
   {
     "source": "Holo Grenade, Mk 2",
@@ -251,7 +251,7 @@
     "Bulk": "L",
     "Special": "Explode (10 ft.; see text)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Though scientists understand little about how a \u0026lt;%ALIENS%Vracinea%%\u0026gt;vracinea’s\u0026lt;%END\u0026gt; paralyzing scent affects the brain, weapon designers across the galaxy have been inspired by its effects and have replicated them with custom hybrid grenades. When it bursts, a "
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -263,7 +263,7 @@
     "Bulk": "L",
     "Special": "explode (1d10 So; deafened 1d4 minutes; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When detonated, a screamer grenade releases a piercing shriek of sonic energy."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -275,7 +275,7 @@
     "Bulk": "L",
     "Special": "explode (1d12 E; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A shock grenade releases a pulse of electrical energy on impact."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -287,7 +287,7 @@
     "Bulk": "L",
     "Special": "explode (entangled 2d4 rounds; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A stickybomb grenade detonates with a splash of adhesive resin."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -299,7 +299,7 @@
     "Bulk": "L",
     "Special": "explode (4d6 B; 20 ft.), holy water",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Produced by priests of good-aligned deities, holy water grenades explode with a spray of consecrated water that harms undead creatures and evil outsiders while leaving other creatures and objects merely damp. This typically isn’t enough water to damage computers or other electronic or technological items."
   },
   {
     "source": "Starfinder #3: Splintered Worlds pg. 49",
@@ -311,7 +311,7 @@
     "Bulk": "L",
     "Special": "explode (1d8 C; 10 ft.), necrotic",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These grenades are crafted to resemble leering, pygmy-sized skulls. When a necro grenade detonates, it expels a shroud of chemical coolants from its exposed eyes and mouth. This freezing gas is laced with minor traces of negative energy, draining the living and healing undead caught in the area of effect."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -323,7 +323,7 @@
     "Bulk": "L",
     "Special": "explode (1d10 E; 20 ft.), entangle 1 round",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A pulse grenade emits a powerful EMP blast on impact whose damage and effects apply only to constructs with the technological subtype. Constructs reduced to 0 HP by a pulse grenade are not destroyed but simply nonfunctional until restored to 1 or more Hit Points. The EMP wave from a pulse grenade is not intense enough to affect augmentations, weapons, armor, or other technological gear."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -335,7 +335,7 @@
     "Bulk": "L",
     "Special": "explode (staggered; 10 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Riot grenades are standard issue among police forces, as they deal nonlethal damage and slow the movements of creatures affected by the blast."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -347,7 +347,7 @@
     "Bulk": "L",
     "Special": "explode (1d8 C; staggered 1 round; 10 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Cryo grenades release a blast of supercooled chemicals on impact, which immediately coalesce into freezing particles."
   },
   {
     "source": "Alien Archive 3 pg. 119",
@@ -359,7 +359,7 @@
     "Bulk": "L",
     "Special": "Explode (10 ft., nanite cloud 1 minute, corrode 1d4)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Although tripods can use other grenades, they are infamous for the decoupler grenades they produce internally. Other creatures in the galaxy, such as the weapon-dealing drow of Apostae, have replicated this horrid tech. A decoupler grenade produces a dense cloud of dark nanites. This cloud provides concealment and corrodes creatures and materials within it. Each creature that starts its turn in the cloud must succeed at a Fortitude saving throw (DC \u003d 10 + half the grenade’s item level) or be subject to the corrode critical hit effect. A creature that inhales the nanites takes a –4 penalty to this saving throw."
   },
   {
     "source": "Diminisher Grenade, Mk 2",
@@ -381,7 +381,7 @@
     "Bulk": "L",
     "Special": "explode (blinded 1d4 rounds; 10 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When detonated, a flash grenade releases a pulse of intense radiance."
   },
   {
     "source": "Alien Archive 4 pg. 109",
@@ -393,7 +393,7 @@
     "Bulk": "L",
     "Special": "Explode (pull 10 ft., 20 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Derived from the gravitational organs of shipkiller bulbs, gravity grenades generate a micro-singularity that pulls affected targets towards the detonation point. Creatures in the area move the listed distance toward the blast’s center if they fail a Fortitude saving throw. Unsecured, unattended items of 1 bulk or less automatically fail this save. The force is not powerful enough to move bigger objects, such as Large vehicles."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -405,7 +405,7 @@
     "Bulk": "L",
     "Special": "explode (2d6 F; burning 1d6; 10 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Incendiary grenades detonate in a spray of superheated plasma."
   },
   {
     "source": "Microbot Grenade, Mk 1",
@@ -457,7 +457,7 @@
     "Bulk": "L",
     "Special": "explode (staggered; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Riot grenades are standard issue among police forces, as they deal nonlethal damage and slow the movements of creatures affected by the blast."
   },
   {
     "source": "Starfinder #5: The Thirteenth Gate pg. 39",
@@ -469,7 +469,7 @@
     "Bulk": "L",
     "Special": "explode (2d10 So; staggered; 20 ft.), relic",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Alien Archive 4 pg. 69",
@@ -481,7 +481,7 @@
     "Bulk": "L",
     "Special": "Explode (4d4 A, dye-stained, 10 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Lumocantha dye can be weaponized easily. A creature that fails its Reflex saving throw against a dye grenade takes additional damage from laser weapons equal to half the dye grenade’s item level (minimum 1). This lasts until the dye is removed, usually by changing armor or clothing or by spending 1d4 hours cleaning off the stain."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -493,7 +493,7 @@
     "Bulk": "L",
     "Special": "explode (4d6 P; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A fragmentary, or frag, grenade explodes in a cloud of shrapnel."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -505,7 +505,7 @@
     "Bulk": "L",
     "Special": "explode (3d6 F; burning 1d6; 10 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Incendiary grenades detonate in a spray of superheated plasma."
   },
   {
     "source": "Alien Archive 3 pg. 131",
@@ -517,7 +517,7 @@
     "Bulk": "L",
     "Special": "Explode (15 ft.; see text)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Though scientists understand little about how a \u0026lt;%ALIENS%Vracinea%%\u0026gt;vracinea’s\u0026lt;%END\u0026gt; paralyzing scent affects the brain, weapon designers across the galaxy have been inspired by its effects and have replicated them with custom hybrid grenades. When it bursts, a "
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -529,7 +529,7 @@
     "Bulk": "L",
     "Special": "explode (2d10 So; deafened 1d4 minutes; 20 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When detonated, a screamer grenade releases a piercing shriek of sonic energy."
   },
   {
     "source": "Junkbot Grenade",
@@ -561,7 +561,7 @@
     "Bulk": "L",
     "Special": "explode (20 ft.), extinguish",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A foam grenade explodes on impact to release a burst of fire-suppressant foam akin to that from a fire extinguisher. This foam reduces the damage from the burning condition or from the corrode critical hit effect taken by creatures within the area by the listed amount each round; this ends the burning condition or corrode effect if it reduces the amount of damage to 0. This also ends any active fires within the affected area."
   },
   {
     "source": "Microbot Grenade, Mk 2",
@@ -583,7 +583,7 @@
     "Bulk": "L",
     "Special": "explode (2d8 C; 15 ft.), necrotic",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These grenades are crafted to resemble leering, pygmy-sized skulls. When a necro grenade detonates, it expels a shroud of chemical coolants from its exposed eyes and mouth. This freezing gas is laced with minor traces of negative energy, draining the living and healing undead caught in the area of effect."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -595,7 +595,7 @@
     "Bulk": "L",
     "Special": "explode (3d10 E; 20 ft.), entangle 1d4 rounds",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A pulse grenade emits a powerful EMP blast on impact whose damage and effects apply only to constructs with the technological subtype. Constructs reduced to 0 HP by a pulse grenade are not destroyed but simply nonfunctional until restored to 1 or more Hit Points. The EMP wave from a pulse grenade is not intense enough to affect augmentations, weapons, armor, or other technological gear."
   },
   {
     "source": "Solar Flare Grenade, III",
@@ -627,7 +627,7 @@
     "Bulk": "L",
     "Special": "explode (10 ft.), mire 2d4 rounds",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Developed using samples of haans’ biological webbing, a web grenade explodes to cover the area in sticky strands of hightensile fibers, making the affected area difficult terrain."
   },
   {
     "source": "Wonder Grenade",
@@ -649,7 +649,7 @@
     "Bulk": "L",
     "Special": "explode (2d8 C; staggered 1 round; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Cryo grenades release a blast of supercooled chemicals on impact, which immediately coalesce into freezing particles."
   },
   {
     "source": "Alien Archive 3 pg. 119",
@@ -661,7 +661,7 @@
     "Bulk": "L",
     "Special": "Explode (10 ft., nanite cloud 1 minute, corrode 2d4)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Although tripods can use other grenades, they are infamous for the decoupler grenades they produce internally. Other creatures in the galaxy, such as the weapon-dealing drow of Apostae, have replicated this horrid tech. A decoupler grenade produces a dense cloud of dark nanites. This cloud provides concealment and corrodes creatures and materials within it. Each creature that starts its turn in the cloud must succeed at a Fortitude saving throw (DC \u003d 10 + half the grenade’s item level) or be subject to the corrode critical hit effect. A creature that inhales the nanites takes a –4 penalty to this saving throw."
   },
   {
     "source": "Starfinder #5: The Thirteenth Gate pg. 39",
@@ -673,7 +673,7 @@
     "Bulk": "L",
     "Special": "explode (stunned 1 round [Fortitude negates]; 20 ft.), relic",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -685,7 +685,7 @@
     "Bulk": "L",
     "Special": "explode (6d6 P; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A fragmentary, or frag, grenade explodes in a cloud of shrapnel."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -697,7 +697,7 @@
     "Bulk": "L",
     "Special": "explode (3d12 E; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A shock grenade releases a pulse of electrical energy on impact."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -709,7 +709,7 @@
     "Bulk": "L",
     "Special": "explode (entangled 2d4 rounds; 20 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A stickybomb grenade detonates with a splash of adhesive resin."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -721,7 +721,7 @@
     "Bulk": "L",
     "Special": "explode (4d12 B; 20 ft.), holy water",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Produced by priests of good-aligned deities, holy water grenades explode with a spray of consecrated water that harms undead creatures and evil outsiders while leaving other creatures and objects merely damp. This typically isn’t enough water to damage computers or other electronic or technological items."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -733,7 +733,7 @@
     "Bulk": "L",
     "Special": "explode (1d8 S; staggered; 15 ft.), nonlethal",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Riot grenades are standard issue among police forces, as they deal nonlethal damage and slow the movements of creatures affected by the blast."
   },
   {
     "source": "Containment Grenade",
@@ -765,7 +765,7 @@
     "Bulk": "L",
     "Special": "Explode (6d4 A, dye-stained, 10 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Lumocantha dye can be weaponized easily. A creature that fails its Reflex saving throw against a dye grenade takes additional damage from laser weapons equal to half the dye grenade’s item level (minimum 1). This lasts until the dye is removed, usually by changing armor or clothing or by spending 1d4 hours cleaning off the stain."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -777,7 +777,7 @@
     "Bulk": "L",
     "Special": "explode (blinded 1d6 rounds; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When detonated, a flash grenade releases a pulse of intense radiance."
   },
   {
     "source": "Alien Archive 4 pg. 109",
@@ -789,7 +789,7 @@
     "Bulk": "L",
     "Special": "Explode (pull 15 ft., 30 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Derived from the gravitational organs of shipkiller bulbs, gravity grenades generate a micro-singularity that pulls affected targets towards the detonation point. Creatures in the area move the listed distance toward the blast’s center if they fail a Fortitude saving throw. Unsecured, unattended items of 1 bulk or less automatically fail this save. The force is not powerful enough to move bigger objects, such as Large vehicles."
   },
   {
     "source": "Starfinder Core Rulebook pg. 179",
@@ -801,7 +801,7 @@
     "Bulk": "L",
     "Special": "explode (5d6 F; burning 3d6; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Incendiary grenades detonate in a spray of superheated plasma."
   },
   {
     "source": "Microbot Grenade, Mk 3",
@@ -823,7 +823,7 @@
     "Bulk": "L",
     "Special": "Explode (20 ft.; see text)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Though scientists understand little about how a \u0026lt;%ALIENS%Vracinea%%\u0026gt;vracinea’s\u0026lt;%END\u0026gt; paralyzing scent affects the brain, weapon designers across the galaxy have been inspired by its effects and have replicated them with custom hybrid grenades. When it bursts, a "
   },
   {
     "source": "Starfinder Core Rulebook pg. 179",
@@ -835,7 +835,7 @@
     "Bulk": "L",
     "Special": "explode (4d10 So; deafened 1d4 minutes; 25 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When detonated, a screamer grenade releases a piercing shriek of sonic energy."
   },
   {
     "source": "Solar Flare Grenade, VI",
@@ -867,7 +867,7 @@
     "Bulk": "L",
     "Special": "explode (4d8 C; 20 ft.), necrotic",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These grenades are crafted to resemble leering, pygmy-sized skulls. When a necro grenade detonates, it expels a shroud of chemical coolants from its exposed eyes and mouth. This freezing gas is laced with minor traces of negative energy, draining the living and healing undead caught in the area of effect."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -879,7 +879,7 @@
     "Bulk": "L",
     "Special": "explode (15 ft.), mire 1 minute",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Developed using samples of haans’ biological webbing, a web grenade explodes to cover the area in sticky strands of hightensile fibers, making the affected area difficult terrain."
   },
   {
     "source": "Starfinder Core Rulebook pg. 179",
@@ -891,7 +891,7 @@
     "Bulk": "L",
     "Special": "explode (4d8 C; staggered 1 round; 20 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Cryo grenades release a blast of supercooled chemicals on impact, which immediately coalesce into freezing particles."
   },
   {
     "source": "Alien Archive 3 pg. 119",
@@ -903,7 +903,7 @@
     "Bulk": "L",
     "Special": "Explode (15 ft., nanite cloud 1 minute, corrode 4d4)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Although tripods can use other grenades, they are infamous for the decoupler grenades they produce internally. Other creatures in the galaxy, such as the weapon-dealing drow of Apostae, have replicated this horrid tech. A decoupler grenade produces a dense cloud of dark nanites. This cloud provides concealment and corrodes creatures and materials within it. Each creature that starts its turn in the cloud must succeed at a Fortitude saving throw (DC \u003d 10 + half the grenade’s item level) or be subject to the corrode critical hit effect. A creature that inhales the nanites takes a –4 penalty to this saving throw."
   },
   {
     "source": "Starfinder Core Rulebook pg. 179",
@@ -915,7 +915,7 @@
     "Bulk": "L",
     "Special": "explode (10d6 P; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A fragmentary, or frag, grenade explodes in a cloud of shrapnel."
   },
   {
     "source": "Starfinder Core Rulebook pg. 179",
@@ -927,7 +927,7 @@
     "Bulk": "L",
     "Special": "explode (6d12 E; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A shock grenade releases a pulse of electrical energy on impact."
   },
   {
     "source": "Diminisher Grenade, Mk 5",
@@ -949,7 +949,7 @@
     "Bulk": "L",
     "Special": "explode (30 ft.), extinguish",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A foam grenade explodes on impact to release a burst of fire-suppressant foam akin to that from a fire extinguisher. This foam reduces the damage from the burning condition or from the corrode critical hit effect taken by creatures within the area by the listed amount each round; this ends the burning condition or corrode effect if it reduces the amount of damage to 0. This also ends any active fires within the affected area."
   },
   {
     "source": "Microbot Grenade, Mk 4",
@@ -971,7 +971,7 @@
     "Bulk": "L",
     "Special": "explode (6d10 E; 20 ft.), entangle 1d4 rounds",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A pulse grenade emits a powerful EMP blast on impact whose damage and effects apply only to constructs with the technological subtype. Constructs reduced to 0 HP by a pulse grenade are not destroyed but simply nonfunctional until restored to 1 or more Hit Points. The EMP wave from a pulse grenade is not intense enough to affect augmentations, weapons, armor, or other technological gear."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -983,7 +983,7 @@
     "Bulk": "L",
     "Special": "explode (2d10 S; staggered; 20 ft.), nonlethal",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Riot grenades are standard issue among police forces, as they deal nonlethal damage and slow the movements of creatures affected by the blast."
   },
   {
     "source": "Solar Flare Grenade, V",
@@ -1015,7 +1015,7 @@
     "Bulk": "L",
     "Special": "explode (blinded 1d8 rounds; 20 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When detonated, a flash grenade releases a pulse of intense radiance."
   },
   {
     "source": "Starfinder Core Rulebook pg. 179",
@@ -1027,7 +1027,7 @@
     "Bulk": "L",
     "Special": "explode (12d6 P; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A fragmentary, or frag, grenade explodes in a cloud of shrapnel."
   },
   {
     "source": "Starfinder Core Rulebook pg. 179",
@@ -1039,7 +1039,7 @@
     "Bulk": "L",
     "Special": "explode (10d6 F; burning 5d6; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Incendiary grenades detonate in a spray of superheated plasma."
   },
   {
     "source": "Alien Archive 3 pg. 131",
@@ -1051,7 +1051,7 @@
     "Bulk": "L",
     "Special": "Explode (25 ft.; see text)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Though scientists understand little about how a \u0026lt;%ALIENS%Vracinea%%\u0026gt;vracinea’s\u0026lt;%END\u0026gt; paralyzing scent affects the brain, weapon designers across the galaxy have been inspired by its effects and have replicated them with custom hybrid grenades. When it bursts, a "
   },
   {
     "source": "Starfinder Core Rulebook pg. 179",
@@ -1063,7 +1063,7 @@
     "Bulk": "L",
     "Special": "explode (7d10 So; deafened 1d4 minutes; 30 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When detonated, a screamer grenade releases a piercing shriek of sonic energy."
   },
   {
     "source": "Starfinder #33: Dominion’s End pg. 49",
@@ -1075,7 +1075,7 @@
     "Bulk": "L",
     "Special": "Explode (11d6 A \u0026 So, degeneration 5d6, 20 ft.), hybrid",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Degeneration grenades were standard equipment among sivv soldiers. They create a powerful degeneration wave that affects creatures and objects at the subatomic level. Creatures caught in the explosion of a degeneration grenade must attempt a Fortitude saving throw as their cells begin to collapse; on a failure, the creature takes 5d6 fire damage at the beginning of each of their turns and is fatigued. At the end of each of their turns, the creature can attempt a new Fortitude save to end this effect with a cumulative +1 bonus."
   },
   {
     "source": "Starfinder #3: Splintered Worlds pg. 49",
@@ -1087,7 +1087,7 @@
     "Bulk": "L",
     "Special": "explode (6d8 C; 20 ft.), necrotic",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These grenades are crafted to resemble leering, pygmy-sized skulls. When a necro grenade detonates, it expels a shroud of chemical coolants from its exposed eyes and mouth. This freezing gas is laced with minor traces of negative energy, draining the living and healing undead caught in the area of effect."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1099,7 +1099,7 @@
     "Bulk": "L",
     "Special": "explode (14d6 E; 20 ft.), entangle 1d4 rounds",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A pulse grenade emits a powerful EMP blast on impact whose damage and effects apply only to constructs with the technological subtype. Constructs reduced to 0 HP by a pulse grenade are not destroyed but simply nonfunctional until restored to 1 or more Hit Points. The EMP wave from a pulse grenade is not intense enough to affect augmentations, weapons, armor, or other technological gear."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1111,7 +1111,7 @@
     "Bulk": "L",
     "Special": "explode (4d10 S; staggered; 20 ft.), nonlethal",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Riot grenades are standard issue among police forces, as they deal nonlethal damage and slow the movements of creatures affected by the blast."
   },
   {
     "source": "Starfinder Core Rulebook pg. 179",
@@ -1123,7 +1123,7 @@
     "Bulk": "L",
     "Special": "explode (6d8 C; staggered 1 round; 20 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Cryo grenades release a blast of supercooled chemicals on impact, which immediately coalesce into freezing particles."
   },
   {
     "source": "Alien Archive 3 pg. 119",
@@ -1135,7 +1135,7 @@
     "Bulk": "L",
     "Special": "Explode (15 ft., nanite cloud 1 minute, corrode 4d6)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Although tripods can use other grenades, they are infamous for the decoupler grenades they produce internally. Other creatures in the galaxy, such as the weapon-dealing drow of Apostae, have replicated this horrid tech. A decoupler grenade produces a dense cloud of dark nanites. This cloud provides concealment and corrodes creatures and materials within it. Each creature that starts its turn in the cloud must succeed at a Fortitude saving throw (DC \u003d 10 + half the grenade’s item level) or be subject to the corrode critical hit effect. A creature that inhales the nanites takes a –4 penalty to this saving throw."
   },
   {
     "source": "Diminisher Grenade, Mk 6",
@@ -1157,7 +1157,7 @@
     "Bulk": "L",
     "Special": "explode (16d6 P; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A fragmentary, or frag, grenade explodes in a cloud of shrapnel."
   },
   {
     "source": "Starfinder Core Rulebook pg. 179",
@@ -1169,7 +1169,7 @@
     "Bulk": "L",
     "Special": "explode (12d6 F; burning 6d6; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Incendiary grenades detonate in a spray of superheated plasma."
   },
   {
     "source": "Microbot Grenade, Mk 5",
@@ -1201,7 +1201,7 @@
     "Bulk": "L",
     "Special": "Explode (8d12 A \u0026 So, mutation [fortitude negates], 20 ft.), hybrid",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A mutation bomb is a single-use grenade that unleashes a wave of quantum degeneration, interacting with living things to cause unpredictable mutation. Mutation bombs are expensive and somewhat experimental, so even sivvs rarely used them. Creatures caught within the explosion of a mutation bomb must succeed at a Fortitude save or gain a random mutation from the mutation critical hit effect above. Mutations caused by a mutation bomb can be cured with "
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1213,7 +1213,7 @@
     "Bulk": "L",
     "Special": "explode (8d12 B; 20 ft.), holy water",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Produced by priests of good-aligned deities, holy water grenades explode with a spray of consecrated water that harms undead creatures and evil outsiders while leaving other creatures and objects merely damp. This typically isn’t enough water to damage computers or other electronic or technological items."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -1225,7 +1225,7 @@
     "Bulk": "L",
     "Special": "explode (25 ft.), mire 1 minute",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Developed using samples of haans’ biological webbing, a web grenade explodes to cover the area in sticky strands of hightensile fibers, making the affected area difficult terrain."
   },
   {
     "source": "Starfinder Core Rulebook pg. 179",
@@ -1237,7 +1237,7 @@
     "Bulk": "L",
     "Special": "explode (20d6 P; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A fragmentary, or frag, grenade explodes in a cloud of shrapnel."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1249,7 +1249,7 @@
     "Bulk": "L",
     "Special": "explode (4d12 S; staggered; 25 ft.), nonlethal",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Riot grenades are standard issue among police forces, as they deal nonlethal damage and slow the movements of creatures affected by the blast."
   },
   {
     "source": "Starfinder Core Rulebook pg. 179",
@@ -1261,6 +1261,6 @@
     "Bulk": "L",
     "Special": "explode (9d12 E; 15 ft.)",
     "type": "grenade",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A shock grenade releases a pulse of electrical energy on impact."
   }
 ]

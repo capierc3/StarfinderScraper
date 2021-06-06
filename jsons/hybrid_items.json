@@ -78,14 +78,16 @@
     "Price": "50",
     "Bulk": "2",
     "type": "Hybrid Items",
-    "desc": "top desc: hr"
+    "desc": "One of the strictest taboos for a Kalistocrat is to touch or be touched by somebody that isn’t a fellow adherent. Defensive threads were designed to be sewn into clothing to detect when the wearer is about to be touched. While active, the threads automatically move the fabric to ensure that no skin stays exposed near any appendage belonging to another creature. The mk 2 version of this item provides even more protection; when you take the total defense action, the bonus to your Armor Class increases by 1. Defensive threads can be combined with cleanliness"
   },
   {
-    "source": "Sense Silk, Mk 1",
-    "Name": "1",
-    "Level": "50",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #37: The White Glove Affair pg. 53",
+    "Name": "Sense Silk, Mk 1",
+    "Level": "1",
+    "Price": "50",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Kalistocrats have worn white since before they traveled among the stars, and certainly before those who possessed senses beyond the ones normally available to humans became Kalistocrats. This special silk can be woven into clothing to create a field around the wearer that signifies the clothing adheres to the Prophecies of Kalistrade’s standards of decency, cleanliness, and personal boundaries. This field is perceived by all the senses of living creatures within range, in much the same way that vision perceives the attire as white (a creature might sense a smell that indicates cleanliness or perceive a vibration that indicates peacefulness). Mk 1 sense silk has a range of 30 feet. Mk 2 sense silk has a range of 100 feet. Mk 3 sense silk also has a range of 100 feet, and you can communicate telepathically with any other wearer of sense silk within that range, as long as you share a language."
   },
   {
     "source": "Starfinder Armory pg. 124",
@@ -115,11 +117,13 @@
     "desc": "Speed × 1-1/2; damage 1d6"
   },
   {
-    "source": "Mindlink Circlet, Mk 1",
-    "Name": "2",
-    "Level": "1,600",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Core Rulebook pg. 226",
+    "Name": "Mindlink Circlet, Mk 1",
+    "Level": "2",
+    "Price": "1,600",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "You can telepathically communicate with any creatures within 30 feet with which you share a language. This functions like a shirren’s limited telepathy racial trait."
   },
   {
     "source": "Alien Archive pg. 37",
@@ -185,18 +189,22 @@
     "desc": "The Company recognizes the hazards involved in long distance Drift travel and the many unexpected situations that might arise. A suspension pill ensures that whether you’ve contracted radiation sickness, been exposed to an unknown plague on a remote planet, or accidentally pricked yourself with a lethal toxin, help is never more than a Drift away. Individuals who have consumed a suspension pill should be taken to Absalom Station or another world within their present planetary system for immediate medical treatment."
   },
   {
-    "source": "Animistic Tools, Mk 1",
-    "Name": "3",
-    "Level": "1,350",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 120",
+    "Name": "Animistic Tools, Mk 1",
+    "Level": "3",
+    "Price": "1,350",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "One reroll; ignore the broken condition for 1 minute"
   },
   {
-    "source": "Hivejack, Mk 1",
-    "Name": "3",
-    "Level": "1,500",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #16: The Blind City pg. 52",
+    "Name": "Hivejack, Mk 1",
+    "Level": "3",
+    "Price": "1,500",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "During the combined efforts of the Veskarium and the Pact Worlds to repel attacks from the Swarm, an enterprising research team composed mostly of shirren and vesk mechanics developed the first hivejack to allow a user to “hack” into the hive mind of the Swarm in an effort to detect and manipulate the thoughts of individual Swarm components. A "
   },
   {
     "source": "Starfinder #21: Huskworld pg. 42",
@@ -205,14 +213,16 @@
     "Price": "1,350",
     "Bulk": "L",
     "type": "Hybrid Items",
-    "desc": "top desc: hr"
+    "desc": "When shirrens first arrived in the Chuuva system, they were still plagued by fears that despite the protection of Hylax, they might be forced back into the Swarm, losing all the individuality and freedom of choice they had come to embrace. Researchers explored ways to further insulate the empathic race from the Swarm’s psychic call, ranging from the ineffective to the distasteful to some outright unethical practices. The "
   },
   {
-    "source": "Software Imp, Tier 2",
-    "Name": "3",
-    "Level": "1,400",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Software Imp, Tier 2",
+    "Level": "3",
+    "Price": "1,400",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Skill bonus +8; Will +6; one copy"
   },
   {
     "source": "Starfinder #4: The Ruined Clouds pg. 45",
@@ -278,53 +288,67 @@
     "desc": "The static charge prevalent throughout Tarchuuva’s upper atmosphere has given rise to a recreational activity called static gliding. This leisure activity is restrictive due to the costs of the equipment and travel to Tarchuuva, but competitive static gliding was one of the most widely viewed sporting activities on Ilemchuuva."
   },
   {
-    "source": "Ablative Insulation, Mk 1",
-    "Name": "4",
-    "Level": "350",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Pact Worlds pg. 202",
+    "Name": "Ablative Insulation, Mk 1",
+    "Level": "4",
+    "Price": "350",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Civilization on Verces exists on the thin line between fiery heat and frozen desolation. Verthani’s unique perspective on the elements led them to develop temperature-sensitive compounds with remarkable properties. "
   },
   {
-    "source": "Computer Idol, Mk 1",
-    "Name": "4",
-    "Level": "1,850",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 120",
+    "Name": "Computer Idol, Mk 1",
+    "Level": "4",
+    "Price": "1,850",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "One reroll"
   },
   {
-    "source": "Creator Capsule, Mk 1",
-    "Name": "4",
-    "Level": "2,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 120",
+    "Name": "Creator Capsule, Mk 1",
+    "Level": "4",
+    "Price": "2,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Combined cost up to 1,000 credits; item level no higher than 2"
   },
   {
-    "source": "Empathic Depiction, Bust",
-    "Name": "4",
-    "Level": "2,200",
-    "Price": "1",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #13: Fire Starters pg. 45",
+    "Name": "Empathic Depiction, Bust",
+    "Level": "4",
+    "Price": "2,200",
+    "Bulk": "1",
+    "type": "Hybrid Items",
+    "desc": "An empathic bust depicts an individual’s head and shoulders in actual size, or a whole body at no more than 2 to 3 feet tall. It has a range of 10 feet and a DC of 14."
   },
   {
-    "source": "Prescient Lenses, Mk 1",
-    "Name": "4",
-    "Level": "2,150",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Pact Worlds pg. 203",
+    "Name": "Prescient Lenses, Mk 1",
+    "Level": "4",
+    "Price": "2,150",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "\u003ci\u003ePrescient lenses\u003c/i\u003e"
   },
   {
-    "source": "Sense Silk, Mk 2",
-    "Name": "4",
-    "Level": "250",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #37: The White Glove Affair pg. 53",
+    "Name": "Sense Silk, Mk 2",
+    "Level": "4",
+    "Price": "250",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Kalistocrats have worn white since before they traveled among the stars, and certainly before those who possessed senses beyond the ones normally available to humans became Kalistocrats. This special silk can be woven into clothing to create a field around the wearer that signifies the clothing adheres to the Prophecies of Kalistrade’s standards of decency, cleanliness, and personal boundaries. This field is perceived by all the senses of living creatures within range, in much the same way that vision perceives the attire as white (a creature might sense a smell that indicates cleanliness or perceive a vibration that indicates peacefulness). Mk 1 sense silk has a range of 30 feet. Mk 2 sense silk has a range of 100 feet. Mk 3 sense silk also has a range of 100 feet, and you can communicate telepathically with any other wearer of sense silk within that range, as long as you share a language."
   },
   {
-    "source": "Telespectrum Circlet, Mk 1",
-    "Name": "4",
-    "Level": "2,400",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #13: Fire Starters pg. 45",
+    "Name": "Telespectrum Circlet, Mk 1",
+    "Level": "4",
+    "Price": "2,400",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Your limited telepathy range increases by 30 feet. The circlet has 3 charges."
   },
   {
     "source": "Starfinder Armory pg. 125",
@@ -381,39 +405,49 @@
     "desc": "When weapon designers couldn’t achieve an acceptable power output with their Swarm-based armaments, they created the "
   },
   {
-    "source": "Current Generator, Mk 1",
-    "Name": "5",
-    "Level": "2,750",
-    "Price": "2",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #36: Professional Courtesy pg. 50",
+    "Name": "Current Generator, Mk 1",
+    "Level": "5",
+    "Price": "2,750",
+    "Bulk": "2",
+    "type": "Hybrid Items",
+    "desc": "\u003cb\u003eCAPACITY\u003c/b\u003e"
   },
   {
-    "source": "Mnemonic Editor, Mk 1",
-    "Name": "5",
-    "Level": "500",
-    "Price": "10",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Core Rulebook pg. 226",
+    "Name": "Mnemonic Editor, Mk 1",
+    "Level": "5",
+    "Price": "500",
+    "Bulk": "10",
+    "type": "Hybrid Items",
+    "desc": "A "
   },
   {
-    "source": "Null-Space Chamber, Mk 1",
-    "Name": "5",
-    "Level": "3,050",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Core Rulebook pg. 226",
+    "Name": "Null-Space Chamber, Mk 1",
+    "Level": "5",
+    "Price": "3,050",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "You can close up to 25 bulk in this device’s pocket space, a 3-foot cube. It can hold enough air for one Medium creature or two Small creatures for 10 minutes."
   },
   {
-    "source": "Software Imp, Tier 3",
-    "Name": "5",
-    "Level": "2,800",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Software Imp, Tier 3",
+    "Level": "5",
+    "Price": "2,800",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Skill bonus +11; Will +8; one copy"
   },
   {
-    "source": "Universal Solvent, Basic",
-    "Name": "5",
-    "Level": "500",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 125",
+    "Name": "Universal Solvent, Basic",
+    "Level": "5",
+    "Price": "500",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Hardness suppression 10"
   },
   {
     "source": "Alien Archive 3 pg. 17",
@@ -452,32 +486,40 @@
     "desc": "\u003ci\u003eTactokinesis gloves\u003c/i\u003e"
   },
   {
-    "source": "Empathic Depiction, Statue",
-    "Name": "6",
-    "Level": "4,500",
-    "Price": "2",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #13: Fire Starters pg. 45",
+    "Name": "Empathic Depiction, Statue",
+    "Level": "6",
+    "Price": "4,500",
+    "Bulk": "2",
+    "type": "Hybrid Items",
+    "desc": "An empathic statue depicts an individual’s body in actual size, up to 12 feet tall. Larger individuals are depicted in miniature to the point necessary. An empathic statue has a range of 30 feet and a DC of 16."
   },
   {
-    "source": "Holding Gloves, Mk 1",
-    "Name": "6",
-    "Level": "4,250",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 122",
+    "Name": "Holding Gloves, Mk 1",
+    "Level": "6",
+    "Price": "4,250",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "\u003ci\u003eHold person\u003c/i\u003e"
   },
   {
-    "source": "Metal Nitro, Gold",
-    "Name": "6",
-    "Level": "675",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 123",
+    "Name": "Metal Nitro, Gold",
+    "Level": "6",
+    "Price": "675",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Speed × 2; damage 3d6"
   },
   {
-    "source": "Scrambler Gloves, Mk 1",
-    "Name": "6",
-    "Level": "4,500",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Scrambler Gloves, Mk 1",
+    "Level": "6",
+    "Price": "4,500",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Once per day; 1 Resolve Point"
   },
   {
     "source": "Starfinder #16: The Blind City pg. 33",
@@ -507,39 +549,49 @@
     "desc": "Sold in blister packs of four (the price and bulk listed are for a set of four), "
   },
   {
-    "source": "Animistic Tools, Mk 2",
-    "Name": "7",
-    "Level": "5,500",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 120",
+    "Name": "Animistic Tools, Mk 2",
+    "Level": "7",
+    "Price": "5,500",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Two rerolls; ignore the broken condition for 10 minutes"
   },
   {
-    "source": "Defensive Threads, Mk 2",
-    "Name": "7",
-    "Level": "7,550",
-    "Price": "2",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #37: The White Glove Affair pg. 53",
+    "Name": "Defensive Threads, Mk 2",
+    "Level": "7",
+    "Price": "7,550",
+    "Bulk": "2",
+    "type": "Hybrid Items",
+    "desc": "One of the strictest taboos for a Kalistocrat is to touch or be touched by somebody that isn’t a fellow adherent. Defensive threads were designed to be sewn into clothing to detect when the wearer is about to be touched. While active, the threads automatically move the fabric to ensure that no skin stays exposed near any appendage belonging to another creature. The mk 2 version of this item provides even more protection; when you take the total defense action, the bonus to your Armor Class increases by 1. Defensive threads can be combined with cleanliness"
   },
   {
-    "source": "Mindshield Circlet, Mk 1",
-    "Name": "7",
-    "Level": "6,250",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #21: Huskworld pg. 42",
+    "Name": "Mindshield Circlet, Mk 1",
+    "Level": "7",
+    "Price": "6,250",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "When shirrens first arrived in the Chuuva system, they were still plagued by fears that despite the protection of Hylax, they might be forced back into the Swarm, losing all the individuality and freedom of choice they had come to embrace. Researchers explored ways to further insulate the empathic race from the Swarm’s psychic call, ranging from the ineffective to the distasteful to some outright unethical practices. The "
   },
   {
-    "source": "Retrieval Charms, Mk 1",
-    "Name": "7",
-    "Level": "6,500",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Retrieval Charms, Mk 1",
+    "Level": "7",
+    "Price": "6,500",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "100 miles"
   },
   {
-    "source": "Software Imp, Tier 4",
-    "Name": "7",
-    "Level": "6,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Software Imp, Tier 4",
+    "Level": "7",
+    "Price": "6,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Skill bonus +14; Will +10; two copies"
   },
   {
     "source": "Starfinder #13: Fire Starters pg. 16",
@@ -605,53 +657,67 @@
     "desc": "Carved to resemble a grotesque, bestial head, a "
   },
   {
-    "source": "Ablative Insulation, Mk 2",
-    "Name": "8",
-    "Level": "1,500",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Pact Worlds pg. 202",
+    "Name": "Ablative Insulation, Mk 2",
+    "Level": "8",
+    "Price": "1,500",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Civilization on Verces exists on the thin line between fiery heat and frozen desolation. Verthani’s unique perspective on the elements led them to develop temperature-sensitive compounds with remarkable properties. "
   },
   {
-    "source": "Computer Idol, Mk 2",
-    "Name": "8",
-    "Level": "8,500",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 120",
+    "Name": "Computer Idol, Mk 2",
+    "Level": "8",
+    "Price": "8,500",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Two rerolls"
   },
   {
-    "source": "Creator Capsule, Mk 2",
-    "Name": "8",
-    "Level": "9,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 120",
+    "Name": "Creator Capsule, Mk 2",
+    "Level": "8",
+    "Price": "9,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Combined cost up to 4,500 credits; item level no higher than 6"
   },
   {
-    "source": "Kinetic Coverter, Mk 1",
-    "Name": "8",
-    "Level": "10,500",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 123",
+    "Name": "Kinetic Coverter, Mk 1",
+    "Level": "8",
+    "Price": "10,500",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Distance 10 feet per 5 damage; one use"
   },
   {
-    "source": "Mindlink Circlet, Mk 2",
-    "Name": "8",
-    "Level": "11,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Core Rulebook pg. 226",
+    "Name": "Mindlink Circlet, Mk 2",
+    "Level": "8",
+    "Price": "11,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "You can telepathically communicate with any creatures within 100 feet with which you share a language. This otherwise functions like a shirren’s limited telepathy racial trait."
   },
   {
-    "source": "Sense Silk, Mk 3",
-    "Name": "8",
-    "Level": "11,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #37: The White Glove Affair pg. 53",
+    "Name": "Sense Silk, Mk 3",
+    "Level": "8",
+    "Price": "11,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Kalistocrats have worn white since before they traveled among the stars, and certainly before those who possessed senses beyond the ones normally available to humans became Kalistocrats. This special silk can be woven into clothing to create a field around the wearer that signifies the clothing adheres to the Prophecies of Kalistrade’s standards of decency, cleanliness, and personal boundaries. This field is perceived by all the senses of living creatures within range, in much the same way that vision perceives the attire as white (a creature might sense a smell that indicates cleanliness or perceive a vibration that indicates peacefulness). Mk 1 sense silk has a range of 30 feet. Mk 2 sense silk has a range of 100 feet. Mk 3 sense silk also has a range of 100 feet, and you can communicate telepathically with any other wearer of sense silk within that range, as long as you share a language."
   },
   {
-    "source": "Shadowstaff, Standard",
-    "Name": "8",
-    "Level": "10,000",
-    "Price": "1",
-    "Bulk": "Hybrid Items"
+    "source": "Alien Archive pg. 37",
+    "Name": "Shadowstaff, Standard",
+    "Level": "8",
+    "Price": "10,000",
+    "Bulk": "1",
+    "type": "Hybrid Items",
+    "desc": "A "
   },
   {
     "source": "Starfinder #16: The Blind City pg. 51",
@@ -690,32 +756,40 @@
     "desc": "A "
   },
   {
-    "source": "Hivejack, Mk 2",
-    "Name": "9",
-    "Level": "13,750",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #16: The Blind City pg. 52",
+    "Name": "Hivejack, Mk 2",
+    "Level": "9",
+    "Price": "13,750",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "During the combined efforts of the Veskarium and the Pact Worlds to repel attacks from the Swarm, an enterprising research team composed mostly of shirren and vesk mechanics developed the first hivejack to allow a user to “hack” into the hive mind of the Swarm in an effort to detect and manipulate the thoughts of individual Swarm components. A "
   },
   {
-    "source": "Null-Space Chamber, Mk 2",
-    "Name": "9",
-    "Level": "12,250",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Core Rulebook pg. 226",
+    "Name": "Null-Space Chamber, Mk 2",
+    "Level": "9",
+    "Price": "12,250",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "You can close up to 50 bulk in this device’s pocket space, a 6-foot cube. It can hold enough air for one Medium creature or two Small creatures for 2 hours."
   },
   {
-    "source": "Prescient Lenses, Mk 2",
-    "Name": "9",
-    "Level": "13,900",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Pact Worlds pg. 203",
+    "Name": "Prescient Lenses, Mk 2",
+    "Level": "9",
+    "Price": "13,900",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "\u003ci\u003ePrescient lenses\u003c/i\u003e"
   },
   {
-    "source": "Software Imp, Tier 5",
-    "Name": "9",
-    "Level": "12,500",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Software Imp, Tier 5",
+    "Level": "9",
+    "Price": "12,500",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Skill bonus +17; Will +12; two copies"
   },
   {
     "source": "Starfinder #16: The Blind City pg. 34",
@@ -724,14 +798,16 @@
     "Price": "15,000",
     "Bulk": "L",
     "type": "Hybrid Items",
-    "desc": "top desc: hr"
+    "desc": "A "
   },
   {
-    "source": "Universal Solvent, Concentrated",
-    "Name": "9",
-    "Level": "2,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 125",
+    "Name": "Universal Solvent, Concentrated",
+    "Level": "9",
+    "Price": "2,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Hardness suppression 20"
   },
   {
     "source": "Starfinder #17: Solar Strike pg. 44",
@@ -806,46 +882,58 @@
     "desc": "This powder looks like shimmering iron filings, but "
   },
   {
-    "source": "Current Generator, Mk 2",
-    "Name": "10",
-    "Level": "17,000",
-    "Price": "2",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #36: Professional Courtesy pg. 50",
+    "Name": "Current Generator, Mk 2",
+    "Level": "10",
+    "Price": "17,000",
+    "Bulk": "2",
+    "type": "Hybrid Items",
+    "desc": "\u003cb\u003eCAPACITY\u003c/b\u003e"
   },
   {
-    "source": "Metal Nitro, Platinum",
-    "Name": "10",
-    "Level": "2,700",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 123",
+    "Name": "Metal Nitro, Platinum",
+    "Level": "10",
+    "Price": "2,700",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Speed × 2-1/2; damage 6d6"
   },
   {
-    "source": "Mnemonic Editor, Mk 2",
-    "Name": "10",
-    "Level": "3,000",
-    "Price": "10",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Core Rulebook pg. 226",
+    "Name": "Mnemonic Editor, Mk 2",
+    "Level": "10",
+    "Price": "3,000",
+    "Bulk": "10",
+    "type": "Hybrid Items",
+    "desc": "A "
   },
   {
-    "source": "Scrambler Gloves, Mk 2",
-    "Name": "10",
-    "Level": "18,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Scrambler Gloves, Mk 2",
+    "Level": "10",
+    "Price": "18,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Twice per day; 2 Resolve Points"
   },
   {
-    "source": "Telespectrum Circlet, Mk 2",
-    "Name": "10",
-    "Level": "20,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #13: Fire Starters pg. 45",
+    "Name": "Telespectrum Circlet, Mk 2",
+    "Level": "10",
+    "Price": "20,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Your limited telepathy range increases by 60 feet. The circlet has 9 charges."
   },
   {
-    "source": "Vital Seed, Zeolite",
-    "Name": "10",
-    "Level": "5,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 125",
+    "Name": "Vital Seed, Zeolite",
+    "Level": "10",
+    "Price": "5,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "As a standard action, you can squeeze a "
   },
   {
     "source": "Starfinder #19: Fate of the Fifth pg. 52",
@@ -875,32 +963,40 @@
     "desc": "You can wear a void hag’s robes as white carbon skin armor, or the robes can be worn as a cloak or tabard, offering no armor protection. In either case, you can treat the robe as a worn magic item. If you do so, you can use the void hag’s stardust robes special ability. Once you use a given void hag robe, you can’t use another "
   },
   {
-    "source": "Animistic Tools, Mk 3",
-    "Name": "11",
-    "Level": "22,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 120",
+    "Name": "Animistic Tools, Mk 3",
+    "Level": "11",
+    "Price": "22,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Three rerolls; ignore the broken condition for 1 hour"
   },
   {
-    "source": "Mindshield Circlet, Mk 2",
-    "Name": "11",
-    "Level": "24,500",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #21: Huskworld pg. 42",
+    "Name": "Mindshield Circlet, Mk 2",
+    "Level": "11",
+    "Price": "24,500",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "When shirrens first arrived in the Chuuva system, they were still plagued by fears that despite the protection of Hylax, they might be forced back into the Swarm, losing all the individuality and freedom of choice they had come to embrace. Researchers explored ways to further insulate the empathic race from the Swarm’s psychic call, ranging from the ineffective to the distasteful to some outright unethical practices. The "
   },
   {
-    "source": "Retrieval Charms, Mk 2",
-    "Name": "11",
-    "Level": "26,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Retrieval Charms, Mk 2",
+    "Level": "11",
+    "Price": "26,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Anywhere on the same planet"
   },
   {
-    "source": "Software Imp, Tier 6",
-    "Name": "11",
-    "Level": "25,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Software Imp, Tier 6",
+    "Level": "11",
+    "Price": "25,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Skill bonus +20; Will +14; three copies"
   },
   {
     "source": "Pact Worlds pg. 202",
@@ -939,39 +1035,49 @@
     "desc": "\u003cb\u003e\u003ci\u003eWARNING: This entry contains spoilers for the Dead Sun Adventure Path.\u003c/i\u003e\u003c/b\u003e"
   },
   {
-    "source": "Ablative Insulation, Mk 3",
-    "Name": "12",
-    "Level": "5,500",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Pact Worlds pg. 202",
+    "Name": "Ablative Insulation, Mk 3",
+    "Level": "12",
+    "Price": "5,500",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Civilization on Verces exists on the thin line between fiery heat and frozen desolation. Verthani’s unique perspective on the elements led them to develop temperature-sensitive compounds with remarkable properties. "
   },
   {
-    "source": "Computer Idol, Mk 3",
-    "Name": "12",
-    "Level": "34,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 120",
+    "Name": "Computer Idol, Mk 3",
+    "Level": "12",
+    "Price": "34,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Three rerolls"
   },
   {
-    "source": "Creator Capsule, Mk 3",
-    "Name": "12",
-    "Level": "38,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 120",
+    "Name": "Creator Capsule, Mk 3",
+    "Level": "12",
+    "Price": "38,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Combined cost up to 19,000 credits; item level no higher than 10"
   },
   {
-    "source": "Holding Gloves, Mk 2",
-    "Name": "12",
-    "Level": "35,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 122",
+    "Name": "Holding Gloves, Mk 2",
+    "Level": "12",
+    "Price": "35,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "\u003ci\u003eHold monster\u003c/i\u003e"
   },
   {
-    "source": "Kinetic Coverter, Mk 2",
-    "Name": "12",
-    "Level": "42,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 123",
+    "Name": "Kinetic Coverter, Mk 2",
+    "Level": "12",
+    "Price": "42,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Distance 5 feet per 5 damage; two uses"
   },
   {
     "source": "Alien Archive pg. 81",
@@ -1001,32 +1107,40 @@
     "desc": "\u003cb\u003eCAPACITY\u003c/b\u003e"
   },
   {
-    "source": "Captive-Star Amulet, Magnetar",
-    "Name": "13",
-    "Level": "54,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 120",
+    "Name": "Captive-Star Amulet, Magnetar",
+    "Level": "13",
+    "Price": "54,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "In addition to countering the spell, a "
   },
   {
-    "source": "Null-Space Chamber, Mk 3",
-    "Name": "13",
-    "Level": "50,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Core Rulebook pg. 226",
+    "Name": "Null-Space Chamber, Mk 3",
+    "Level": "13",
+    "Price": "50,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "You can close up to 100 bulk in this device’s pocket space, a 9-foot cube. It can hold enough air for one Medium creature or two Small creatures for 2 days."
   },
   {
-    "source": "Software Imp, Tier 7",
-    "Name": "13",
-    "Level": "50,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Software Imp, Tier 7",
+    "Level": "13",
+    "Price": "50,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Skill bonus +23; Will +16; three copies"
   },
   {
-    "source": "Universal Solvent, Forte",
-    "Name": "13",
-    "Level": "7,500",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 125",
+    "Name": "Universal Solvent, Forte",
+    "Level": "13",
+    "Price": "7,500",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Hardness suppression 30"
   },
   {
     "source": "Starfinder #16: The Blind City pg. 52",
@@ -1056,32 +1170,40 @@
     "desc": "A quantum processor can be attached to any computer with a standard action. Any task that uses the Computers skill and normally requires 2 or more full rounds to complete takes half the time when performed on a computer with a quantum processor attached. A quantum processor also can be used to hack a computer without the need for an additional hacking kit. Finally, once per day, you can reroll one Computers check while hacking a computer to which a quantum processor has been attached."
   },
   {
-    "source": "Metal Nitro, Star",
-    "Name": "14",
-    "Level": "10,800",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 123",
+    "Name": "Metal Nitro, Star",
+    "Level": "14",
+    "Price": "10,800",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Speed × 3; damage 10d6"
   },
   {
-    "source": "Mindlink Circlet, Mk 3",
-    "Name": "14",
-    "Level": "78,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Core Rulebook pg. 226",
+    "Name": "Mindlink Circlet, Mk 3",
+    "Level": "14",
+    "Price": "78,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "You can telepathically communicate with any creatures within 100 feet that are capable of understanding language, including languages you do not understand. This otherwise functions like a shirren’s limited telepathy racial trait."
   },
   {
-    "source": "Prescient Lenses, Mk 3",
-    "Name": "14",
-    "Level": "77,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Pact Worlds pg. 203",
+    "Name": "Prescient Lenses, Mk 3",
+    "Level": "14",
+    "Price": "77,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "\u003ci\u003ePrescient lenses\u003c/i\u003e"
   },
   {
-    "source": "Scrambler Gloves, Mk 3",
-    "Name": "14",
-    "Level": "73,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Scrambler Gloves, Mk 3",
+    "Level": "14",
+    "Price": "73,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Three times per day; 3 Resolve Points"
   },
   {
     "source": "Starfinder #26: Flight of the Sleepers pg. 45",
@@ -1093,53 +1215,67 @@
     "desc": "This 3-inch-long plastic tube contains an array of sentient magical computer code suspended in a gel. When the gel is squeezed directly onto a computer terminal, the code coalesces into a finger-length worm made of light. As a standard action, you can tell the worm a name or description of a person, place, thing, or event you would like it to erase. The worm then rapidly makes its way into the computer’s system, attempting to corrupt or delete any information regarding the name or description it was given."
   },
   {
-    "source": "Current Generator, Mk 3",
-    "Name": "15",
-    "Level": "95,000",
-    "Price": "2",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #36: Professional Courtesy pg. 50",
+    "Name": "Current Generator, Mk 3",
+    "Level": "15",
+    "Price": "95,000",
+    "Bulk": "2",
+    "type": "Hybrid Items",
+    "desc": "\u003cb\u003eCAPACITY\u003c/b\u003e"
   },
   {
-    "source": "Hivejack, Mk 3",
-    "Name": "15",
-    "Level": "108,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #16: The Blind City pg. 52",
+    "Name": "Hivejack, Mk 3",
+    "Level": "15",
+    "Price": "108,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "During the combined efforts of the Veskarium and the Pact Worlds to repel attacks from the Swarm, an enterprising research team composed mostly of shirren and vesk mechanics developed the first hivejack to allow a user to “hack” into the hive mind of the Swarm in an effort to detect and manipulate the thoughts of individual Swarm components. A "
   },
   {
-    "source": "Mindshield Circlet, Mk 3",
-    "Name": "15",
-    "Level": "107,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #21: Huskworld pg. 42",
+    "Name": "Mindshield Circlet, Mk 3",
+    "Level": "15",
+    "Price": "107,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "When shirrens first arrived in the Chuuva system, they were still plagued by fears that despite the protection of Hylax, they might be forced back into the Swarm, losing all the individuality and freedom of choice they had come to embrace. Researchers explored ways to further insulate the empathic race from the Swarm’s psychic call, ranging from the ineffective to the distasteful to some outright unethical practices. The "
   },
   {
-    "source": "Mnemonic Editor, Mk 3",
-    "Name": "15",
-    "Level": "20,000",
-    "Price": "10",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Core Rulebook pg. 226",
+    "Name": "Mnemonic Editor, Mk 3",
+    "Level": "15",
+    "Price": "20,000",
+    "Bulk": "10",
+    "type": "Hybrid Items",
+    "desc": "A "
   },
   {
-    "source": "Retrieval Charms, Mk 3",
-    "Name": "15",
-    "Level": "105,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Retrieval Charms, Mk 3",
+    "Level": "15",
+    "Price": "105,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Anywhere on the same plane"
   },
   {
-    "source": "Software Imp, Tier 8",
-    "Name": "15",
-    "Level": "100,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Software Imp, Tier 8",
+    "Level": "15",
+    "Price": "100,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Skill bonus +26; Will +18; four copies"
   },
   {
-    "source": "Soul Projector, Returner",
-    "Name": "15",
-    "Level": "120,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #16: The Blind City pg. 34",
+    "Name": "Soul Projector, Returner",
+    "Level": "15",
+    "Price": "120,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "A "
   },
   {
     "source": "Starfinder #33: Dominion’s End pg. 53",
@@ -1151,25 +1287,31 @@
     "desc": "Sivv physicians pioneered a ghoulish medical technique which drained, transferred, and suspended the life force of enslaved species into a magical liquid known as life fluid. This fluid could then be used to flood entire medical facilities, creating a restorative environment for sivv patients whose natural healing was stimulated by the drained life force. Life fluid can be concentrated, making an excellent emergency medicine for the treatment of disease, poison, or wounds."
   },
   {
-    "source": "Kinetic Coverter, Mk 3",
-    "Name": "16",
-    "Level": "172,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 123",
+    "Name": "Kinetic Coverter, Mk 3",
+    "Level": "16",
+    "Price": "172,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Distance 5 feet per 10 damage; three uses"
   },
   {
-    "source": "Rel-Battery, Mk 1",
-    "Name": "16",
-    "Level": "150,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #33: Dominion’s End pg. 53",
+    "Name": "Rel-Battery, Mk 1",
+    "Level": "16",
+    "Price": "150,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "This tiny hybrid device can be attached to any technological device that uses a battery and has an item level equal to or less than its own, drawing infinite energy from rel-state and providing unlimited charges."
   },
   {
-    "source": "Telespectrum Circlet, Mk 3",
-    "Name": "16",
-    "Level": "160,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #13: Fire Starters pg. 45",
+    "Name": "Telespectrum Circlet, Mk 3",
+    "Level": "16",
+    "Price": "160,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "Your limited telepathy range increases by 90 feet. The circlet has 15 charges."
   },
   {
     "source": "Starfinder #33: Dominion’s End pg. 52",
@@ -1181,53 +1323,67 @@
     "desc": "A domination visor is a method of mental control used by sivvs on species they had enslaved. The visor looks like a pair of virtual reality goggles marked by glowing magical runes. A domination visor must be programmed or reprogrammed by someone trained in both Computers and Mysticism in a process requiring 1 day of work. The visor requires a full action to put on, and the subject must be helpless, unconscious, or willing."
   },
   {
-    "source": "Captive-Star Amulet, Pulsar",
-    "Name": "17",
-    "Level": "270,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 120",
+    "Name": "Captive-Star Amulet, Pulsar",
+    "Level": "17",
+    "Price": "270,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "A "
   },
   {
-    "source": "Null-Space Chamber, Mk 4",
-    "Name": "17",
-    "Level": "250,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Core Rulebook pg. 226",
+    "Name": "Null-Space Chamber, Mk 4",
+    "Level": "17",
+    "Price": "250,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "You can close up to 200 bulk in this device’s pocket space, a 12-foot cube. It can hold enough air for one Medium creature or two Small creatures for 1 week."
   },
   {
-    "source": "Rel-Battery, Mk 2",
-    "Name": "17",
-    "Level": "225,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #33: Dominion’s End pg. 53",
+    "Name": "Rel-Battery, Mk 2",
+    "Level": "17",
+    "Price": "225,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "This tiny hybrid device can be attached to any technological device that uses a battery and has an item level equal to or less than its own, drawing infinite energy from rel-state and providing unlimited charges."
   },
   {
-    "source": "Software Imp, Tier 9",
-    "Name": "17",
-    "Level": "225,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Software Imp, Tier 9",
+    "Level": "17",
+    "Price": "225,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Skill bonus +29; Will +20; four copies"
   },
   {
-    "source": "Universal Solvent, Regia",
-    "Name": "17",
-    "Level": "36,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 125",
+    "Name": "Universal Solvent, Regia",
+    "Level": "17",
+    "Price": "36,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Hardness suppression 40"
   },
   {
-    "source": "Vital Seed, Regrower",
-    "Name": "17",
-    "Level": "40,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 125",
+    "Name": "Vital Seed, Regrower",
+    "Level": "17",
+    "Price": "40,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "As a standard action, you can swallow a "
   },
   {
-    "source": "Rel-Battery, Mk 3",
-    "Name": "18",
-    "Level": "325,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #33: Dominion’s End pg. 53",
+    "Name": "Rel-Battery, Mk 3",
+    "Level": "18",
+    "Price": "325,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "This tiny hybrid device can be attached to any technological device that uses a battery and has an item level equal to or less than its own, drawing infinite energy from rel-state and providing unlimited charges."
   },
   {
     "source": "Starfinder Armory pg. 121",
@@ -1248,32 +1404,40 @@
     "desc": "\u003cb\u003eCAPACITY\u003c/b\u003e"
   },
   {
-    "source": "Mindshield Circlet, Mk 4",
-    "Name": "19",
-    "Level": "550,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #21: Huskworld pg. 42",
+    "Name": "Mindshield Circlet, Mk 4",
+    "Level": "19",
+    "Price": "550,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "When shirrens first arrived in the Chuuva system, they were still plagued by fears that despite the protection of Hylax, they might be forced back into the Swarm, losing all the individuality and freedom of choice they had come to embrace. Researchers explored ways to further insulate the empathic race from the Swarm’s psychic call, ranging from the ineffective to the distasteful to some outright unethical practices. The "
   },
   {
-    "source": "Rel-Battery, Mk 4",
-    "Name": "19",
-    "Level": "500,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #33: Dominion’s End pg. 53",
+    "Name": "Rel-Battery, Mk 4",
+    "Level": "19",
+    "Price": "500,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "This tiny hybrid device can be attached to any technological device that uses a battery and has an item level equal to or less than its own, drawing infinite energy from rel-state and providing unlimited charges."
   },
   {
-    "source": "Retrieval Charms, Mk 4",
-    "Name": "19",
-    "Level": "480,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Retrieval Charms, Mk 4",
+    "Level": "19",
+    "Price": "480,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "From another plane"
   },
   {
-    "source": "Software Imp, Tier 10",
-    "Name": "19",
-    "Level": "550,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Armory pg. 124",
+    "Name": "Software Imp, Tier 10",
+    "Level": "19",
+    "Price": "550,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "Skill bonus +32; Will +21; five copies"
   },
   {
     "source": "Starfinder #33: Dominion’s End pg. 53",
@@ -1294,24 +1458,30 @@
     "desc": "A "
   },
   {
-    "source": "Mnemonic Editor, Mk 4",
-    "Name": "20",
-    "Level": "125,000",
-    "Price": "10",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder Core Rulebook pg. 226",
+    "Name": "Mnemonic Editor, Mk 4",
+    "Level": "20",
+    "Price": "125,000",
+    "Bulk": "10",
+    "type": "Hybrid Items",
+    "desc": "A "
   },
   {
-    "source": "Rel-Battery, Mk 5",
-    "Name": "20",
-    "Level": "725,000",
-    "Price": "—",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #33: Dominion’s End pg. 53",
+    "Name": "Rel-Battery, Mk 5",
+    "Level": "20",
+    "Price": "725,000",
+    "Bulk": "—",
+    "type": "Hybrid Items",
+    "desc": "This tiny hybrid device can be attached to any technological device that uses a battery and has an item level equal to or less than its own, drawing infinite energy from rel-state and providing unlimited charges."
   },
   {
-    "source": "Soul Projector, Awakener",
-    "Name": "20",
-    "Level": "900,000",
-    "Price": "L",
-    "Bulk": "Hybrid Items"
+    "source": "Starfinder #16: The Blind City pg. 34",
+    "Name": "Soul Projector, Awakener",
+    "Level": "20",
+    "Price": "900,000",
+    "Bulk": "L",
+    "type": "Hybrid Items",
+    "desc": "A "
   }
 ]

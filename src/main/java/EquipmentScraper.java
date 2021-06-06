@@ -13,6 +13,7 @@ import org.jsoup.select.Elements;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
+
 import java.util.ArrayList;
 
 public class EquipmentScraper {
@@ -20,7 +21,6 @@ public class EquipmentScraper {
     private Elements page;
     private String pageName;
     private Document webDoc;
-    //private MongoUtils mongo;
 
     /**
      * creates json files from the equipment pages on aonsrd.com.
@@ -34,9 +34,10 @@ public class EquipmentScraper {
                 page = element.children();
                 pageName = element.nodeName();
                 //todo: remove after debugging
-                if (pageName.equalsIgnoreCase("advanced_melee"))
-                read();
-                //System.out.println(pageName + ".json created");
+                //if (pageName.equalsIgnoreCase("basic_melee")) {
+                    read();
+                //}
+                System.out.println(pageName + ".json created");
             }
         } catch (IOException e) {
             e.printStackTrace();
@@ -162,18 +163,29 @@ public class EquipmentScraper {
             Elements sections = spans.get(0).getElementsByTag("h2");
             Elements h1Sections = spans.get(0).getElementsByTag("h1");
             String desc = "";
+            int spanNum = 0;
+            //error tends to be on MK # items where there is a table or information throwing things off.
+            while (sections.size() == 0 && h1Sections.size() == 0) {
+                spanNum ++;
+                sections = spans.get(spanNum).getElementsByTag("h2");
+                h1Sections = spans.get(spanNum).getElementsByTag("h1");
+                if (spans.size() < spanNum) {
+                    spanNum = 0;
+                    break;
+                }
+            }
             for (Element section : sections) {
                 if (section.nextElementSibling().tagName().equalsIgnoreCase("h1")) {
                     section = section.nextElementSibling();
                 }
                 if (section.text().equalsIgnoreCase(item)) {
-                    desc = searchInfo(section, row, spans, item);
+                    desc = searchInfo(section, row, spans, item, spanNum);
                 }
             }
             if (desc.equalsIgnoreCase("")) {
                 for (Element section : h1Sections) {
                     if (section.text().equalsIgnoreCase(item)) {
-                        desc = searchInfo(section, row, spans, item);
+                        desc = searchInfo(section, row, spans, item, spanNum);
                     }
                 }
             }
@@ -185,11 +197,9 @@ public class EquipmentScraper {
             System.out.println("\tNo extra details added for: " + item);
         }
         return "";
-
-
     }
 
-    private String searchInfo(Element section, ArrayList<String> row, Elements spans, String item) {
+    private String searchInfo(Element section, ArrayList<String> row, Elements spans, String item, int spanNum) {
         Element currentElm = section.nextElementSibling().nextElementSibling();
         String source = currentElm.text();
         row.add(source);
@@ -201,7 +211,7 @@ public class EquipmentScraper {
                 System.out.println("error: " + item);
                 return "error, looping till null";
             } else if (currentElm.tagName().equalsIgnoreCase("hr")) {
-                Element heading = spans.get(0).getElementsByTag("h1").get(0);
+                Element heading = spans.get(spanNum).getElementsByTag("h1").get(0);
                 return heading.nextSibling().toString();
             } else if (currentElm.tagName().equalsIgnoreCase("h3")) {
                 //todo: get all text after breaks.
@@ -209,8 +219,10 @@ public class EquipmentScraper {
             } else if (currentElm.tagName().equalsIgnoreCase("h2")) {
                 //System.out.println("top desc: h2");
                 return "top desc: h2";
+            } else if (currentElm.nextElementSibling() == null) {
+                System.out.println(item);
+                return "";
             }
-            //System.out.println(currentElm.tagName());
         }
         //Finds descriptions that contains <i> tags and loops to get all information.
         if (currentElm.nextElementSibling() != null && currentElm.nextElementSibling().tagName().equalsIgnoreCase("i")) {
@@ -227,7 +239,7 @@ public class EquipmentScraper {
                 && currentElm.tagName().equalsIgnoreCase(currentElm.nextElementSibling().tagName())) {
             //if nothing is between the <br> tags then the desc is at the top of the span
             if (currentElm.nextSibling().toString().equalsIgnoreCase("<br>")) {
-                Elements h1 = spans.get(0).getElementsByTag("h1");
+                Elements h1 = spans.get(spanNum).getElementsByTag("h1");
                 Node node = h1.get(0).nextSibling();
                 StringBuilder descBuilder = new StringBuilder();
                 while (!node.toString().contains("<h2 ")) {

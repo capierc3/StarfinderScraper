@@ -13,7 +13,7 @@
     "Bulk": "L",
     "Special": "analog, injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A favorite of assassins and battlefield medics alike, the needler pistol uses magnetic fields or pressurized gas to launch darts that inject a substance into the target. This injection gun can be fitted with cartridges containing medicine or poison."
   },
   {
     "source": "Character Operations Manual pg. 122",
@@ -29,7 +29,7 @@
     "Bulk": "L",
     "Special": "Injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Much of the design of this pistol-like weapon is based off the biological systems of the disintegration lash class of small arms, though a caustoject’s more traditional appearance is in stark contrast to its techno-organic inspiration. Caustojects create an injectable field that transforms ordinary matter into an acidic compound, disintegrating their targets from the inside. Syringes can be loaded into these weapons, allowing other materials to be quickly injected instead of an acidic discharge (in which case only the injection effect occurs—no acid damage is dealt)."
   },
   {
     "source": "Character Operations Manual pg. 123",
@@ -45,7 +45,7 @@
     "Bulk": "—",
     "Special": "Conceal, punch gun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This weapon consists of a black leather glove that is mounted with a small, single-round firearm. Unlike most firearms, the weapon is designed to fire when pressure is placed upon its barrel rather than using a hand-based triggering mechanism. As a result, wielders must press a cestus pistol up against whatever they intend to shoot in order to discharge the weapon’s round, giving the weapon limited range."
   },
   {
     "source": "Character Operations Manual pg. 123",
@@ -61,7 +61,7 @@
     "Bulk": "1",
     "Special": "Analog, injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A favorite of assassins and battlefield medics alike, the needler pistol uses magnetic fields or pressurized gas to launch darts that inject a substance into the target. This injection gun can be fitted with cartridges containing medicine or poison."
   },
   {
     "source": "Near Space pg. 150",
@@ -77,7 +77,7 @@
     "Bulk": "L",
     "Special": "Teleportive",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The maggedli of the Helfen-Thel system manufacture these firearms and imbue them with their magical expertise. Although the pistols use a clip of ordinary rounds, the pistol imbues teleportation magic into the ammunition as it’s fired. A skipshot pistol is a hybrid item."
   },
   {
     "source": "Character Operations Manual pg. 122",
@@ -93,7 +93,7 @@
     "Bulk": "—",
     "Special": "Conceal, injection, punch gun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Featuring a hand-mounted firing device that injects its target with acidic compounds, this weapon resembles a cross between a caustoject and cestus pistol. By default, the weapon uses a miniature battery to create caustic fields to inject into foes, but it can launch syringes of other substances when properly loaded with them (in which case only the injection effect occurs—no acid damage is dealt)."
   },
   {
     "source": "Starfinder #19: Fate of the Fifth pg. 53",
@@ -109,7 +109,7 @@
     "Bulk": "L",
     "Special": "Living, Swarm",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Despite its name, derived from Swarm conventions and suggesting a heavier armament, the lightweight acid cannon is a derivation of the Swarm corrovox’s arm-mounted weapon modified to be a stand-alone pistol-sized firearm. The weapon uses small amounts of power to produce caustic fluid. The trigger administers a jolt of electricity to the device, causing a reflexive constriction that forces blobs of this acid out of the weapon’s throatlike barrel."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -125,7 +125,7 @@
     "Bulk": "2",
     "Special": "gravitation (10 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Many security forces and peacekeepers employ graviton pistols, since these weapons deal no damage but instead push or pull a target. Long rods running in parallel lines form a barrel-like structure that makes such a pistol easy to identify. The available models of graviton pistols start at linear, with vector, tensor, and chiral models are able to move a target increasing distances."
   },
   {
     "source": "Near Space pg. 150",
@@ -141,7 +141,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Produced in prison-factories on Embroi, this short pistol uses clips of magnesium flares to deliver shots of scorching fire. The fire from this weapon seems to dance briefly over the target, lunging out toward other creatures."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -157,7 +157,7 @@
     "Bulk": "L",
     "Special": "analog, injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Popular among the drow on Apostae, this needle gun can deliver deadly poisons. The weapon is so small you gain a +2 bonus to Sleight of Hand checks to hide it on your person."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 48",
@@ -173,7 +173,7 @@
     "Bulk": "1",
     "Special": "Bright, force, hybrid, living, polarize 1d4",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Certain elven and gnome families have long cultivated magical trees that draw power from the First World, and living branches of these magnificent trees can be fashioned into weapons known as moon splinters. Through some sort of interplanar connection, a moon splinter absorbs cold and moisture from the First World to create glowing shards of ice that vibrate with extradimensional energy. Its wielders can then stimulate the wood’s telekinetic magic with a battery, propelling the ice with supernatural force; with each successive strike, the strength of the vibrations increases."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -189,7 +189,7 @@
     "Bulk": "2",
     "Special": "shield 1d4, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A shield projector is a heavy weapon that encases its target in a short-duration force field, akin to that produced by an armor upgrade. Such force fields are of limited strength, but higherpaizo power shield projectors can create a stronger protective barrier around the target. Shield projectors see the most use among security forces assigned to protect diplomats and high-profile celebrities. Available models—from the least to most powerful— include sentry, defender, guardian, and warden shield projectors."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -205,7 +205,7 @@
     "Bulk": "L",
     "Special": "living",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Sting pistols are living weapons based on samples of Swarm technology recovered during the last century. The chitinous weapon converts power to internally generate and shoot acidslicked needles that can cause lasting damage to the target. Ant models are sturdy and commonplace, though yellow jacket and wasp sting pistols are more powerful. Hornet models are the heaviest and most potent of these weapons."
   },
   {
     "source": "SFS Scenario #2–08: The Stumbling Society, Part 2: Sangoro’s Gifts pg. 23",
@@ -221,7 +221,7 @@
     "Bulk": "L",
     "Special": "Force",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A neutriad pistol is a 5th level small-arm ranged weapon that deals 1d6 bludgeoning damage and has the pulse (1d6) critical hit effect. It has a range of 60 feet and a capacity of 20 charges (1 usage). It has the force special property and light bulk, and it costs 3,200 credits."
   },
   {
     "source": "Starfinder #26: Flight of the Sleepers pg. 45",
@@ -237,7 +237,7 @@
     "Bulk": "L",
     "Special": "Force, stun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Gray guards positioned around secret labs often wield these devices to contain rogue specimens. They fire a sphere‑shaped matrix of energy that electrically adheres to other matter, interfering with mobility. Creatures report a sticky, tingling sensation when struck with these weapons and often find strange markings on their flesh from where the energy matrix attached."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -253,7 +253,7 @@
     "Bulk": "2",
     "Special": "gravitation (15 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Many security forces and peacekeepers employ graviton pistols, since these weapons deal no damage but instead push or pull a target. Long rods running in parallel lines form a barrel-like structure that makes such a pistol easy to identify. The available models of graviton pistols start at linear, with vector, tensor, and chiral models are able to move a target increasing distances."
   },
   {
     "source": "Character Operations Manual pg. 123",
@@ -269,7 +269,7 @@
     "Bulk": "1",
     "Special": "Analog, injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A favorite of assassins and battlefield medics alike, the needler pistol uses magnetic fields or pressurized gas to launch darts that inject a substance into the target. This injection gun can be fitted with cartridges containing medicine or poison."
   },
   {
     "source": "Character Operations Manual pg. 122",
@@ -285,7 +285,7 @@
     "Bulk": "L",
     "Special": "Injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Much of the design of this pistol-like weapon is based off the biological systems of the disintegration lash class of small arms, though a caustoject’s more traditional appearance is in stark contrast to its techno-organic inspiration. Caustojects create an injectable field that transforms ordinary matter into an acidic compound, disintegrating their targets from the inside. Syringes can be loaded into these weapons, allowing other materials to be quickly injected instead of an acidic discharge (in which case only the injection effect occurs—no acid damage is dealt)."
   },
   {
     "source": "Character Operations Manual pg. 123",
@@ -301,7 +301,7 @@
     "Bulk": "—",
     "Special": "Conceal, punch gun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This weapon consists of a black leather glove that is mounted with a small, single-round firearm. Unlike most firearms, the weapon is designed to fire when pressure is placed upon its barrel rather than using a hand-based triggering mechanism. As a result, wielders must press a cestus pistol up against whatever they intend to shoot in order to discharge the weapon’s round, giving the weapon limited range."
   },
   {
     "source": "Near Space pg. 150",
@@ -317,7 +317,7 @@
     "Bulk": "L",
     "Special": "Teleportive",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The maggedli of the Helfen-Thel system manufacture these firearms and imbue them with their magical expertise. Although the pistols use a clip of ordinary rounds, the pistol imbues teleportation magic into the ammunition as it’s fired. A skipshot pistol is a hybrid item."
   },
   {
     "source": "Starfinder #26: Flight of the Sleepers pg. 45",
@@ -333,7 +333,7 @@
     "Bulk": "1",
     "Special": "Mind-affecting, stun, subtle",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Grays often fire on escaped abductees with these pistols, which can scramble the thoughts of those targeted, muddling recent memories and causing erratic behavior. Targets who are hit with these weapons multiple times often lose connection with reality altogether."
   },
   {
     "source": "Starfinder #19: Fate of the Fifth pg. 53",
@@ -349,7 +349,7 @@
     "Bulk": "L",
     "Special": "Living, Swarm",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Despite its name, derived from Swarm conventions and suggesting a heavier armament, the lightweight acid cannon is a derivation of the Swarm corrovox’s arm-mounted weapon modified to be a stand-alone pistol-sized firearm. The weapon uses small amounts of power to produce caustic fluid. The trigger administers a jolt of electricity to the device, causing a reflexive constriction that forces blobs of this acid out of the weapon’s throatlike barrel."
   },
   {
     "source": "Character Operations Manual pg. 122",
@@ -365,7 +365,7 @@
     "Bulk": "—",
     "Special": "Conceal, injection, punch gun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Featuring a hand-mounted firing device that injects its target with acidic compounds, this weapon resembles a cross between a caustoject and cestus pistol. By default, the weapon uses a miniature battery to create caustic fields to inject into foes, but it can launch syringes of other substances when properly loaded with them (in which case only the injection effect occurs—no acid damage is dealt)."
   },
   {
     "source": "Near Space pg. 150",
@@ -381,7 +381,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Produced in prison-factories on Embroi, this short pistol uses clips of magnesium flares to deliver shots of scorching fire. The fire from this weapon seems to dance briefly over the target, lunging out toward other creatures."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -397,7 +397,7 @@
     "Bulk": "L",
     "Special": "force",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Tetrad rings deal lighter damage than weapons of a similar class, but the device launches a bolt of force that bypasses many common defenses. The design of tetrad rings is proprietary witchwyrd technology, which makes them expensive and difficult to find. They are manufactured in only three models: tactical, advanced, and elite. All three are elaborate sets of rings covered in delicate carvings, with a wire mesh to house the battery. Advanced and elite models have finer decorations."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -413,7 +413,7 @@
     "Bulk": "2",
     "Special": "gravitation (20 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Many security forces and peacekeepers employ graviton pistols, since these weapons deal no damage but instead push or pull a target. Long rods running in parallel lines form a barrel-like structure that makes such a pistol easy to identify. The available models of graviton pistols start at linear, with vector, tensor, and chiral models are able to move a target increasing distances."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -429,7 +429,7 @@
     "Bulk": "L",
     "Special": "analog, injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Popular among the drow on Apostae, this needle gun can deliver deadly poisons. The weapon is so small you gain a +2 bonus to Sleight of Hand checks to hide it on your person."
   },
   {
     "source": "Starfinder #26: Flight of the Sleepers pg. 45",
@@ -445,7 +445,7 @@
     "Bulk": "L",
     "Special": "Force, stun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Gray guards positioned around secret labs often wield these devices to contain rogue specimens. They fire a sphere‑shaped matrix of energy that electrically adheres to other matter, interfering with mobility. Creatures report a sticky, tingling sensation when struck with these weapons and often find strange markings on their flesh from where the energy matrix attached."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 48",
@@ -461,7 +461,7 @@
     "Bulk": "1",
     "Special": "Bright, force, hybrid, living, polarize 1d6",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Certain elven and gnome families have long cultivated magical trees that draw power from the First World, and living branches of these magnificent trees can be fashioned into weapons known as moon splinters. Through some sort of interplanar connection, a moon splinter absorbs cold and moisture from the First World to create glowing shards of ice that vibrate with extradimensional energy. Its wielders can then stimulate the wood’s telekinetic magic with a battery, propelling the ice with supernatural force; with each successive strike, the strength of the vibrations increases."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -477,7 +477,7 @@
     "Bulk": "2",
     "Special": "shield 2d6, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A shield projector is a heavy weapon that encases its target in a short-duration force field, akin to that produced by an armor upgrade. Such force fields are of limited strength, but higherpaizo power shield projectors can create a stronger protective barrier around the target. Shield projectors see the most use among security forces assigned to protect diplomats and high-profile celebrities. Available models—from the least to most powerful— include sentry, defender, guardian, and warden shield projectors."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 48",
@@ -493,7 +493,7 @@
     "Bulk": "1",
     "Special": "Bright, force, hybrid, living, polarize 1d8",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Certain elven and gnome families have long cultivated magical trees that draw power from the First World, and living branches of these magnificent trees can be fashioned into weapons known as moon splinters. Through some sort of interplanar connection, a moon splinter absorbs cold and moisture from the First World to create glowing shards of ice that vibrate with extradimensional energy. Its wielders can then stimulate the wood’s telekinetic magic with a battery, propelling the ice with supernatural force; with each successive strike, the strength of the vibrations increases."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 48",
@@ -509,7 +509,7 @@
     "Bulk": "1",
     "Special": "Bright, force, hybrid, living, polarize 1d8",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Certain elven and gnome families have long cultivated magical trees that draw power from the First World, and living branches of these magnificent trees can be fashioned into weapons known as moon splinters. Through some sort of interplanar connection, a moon splinter absorbs cold and moisture from the First World to create glowing shards of ice that vibrate with extradimensional energy. Its wielders can then stimulate the wood’s telekinetic magic with a battery, propelling the ice with supernatural force; with each successive strike, the strength of the vibrations increases."
   },
   {
     "source": "Character Operations Manual pg. 123",
@@ -525,7 +525,7 @@
     "Bulk": "1",
     "Special": "Analog, injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A favorite of assassins and battlefield medics alike, the needler pistol uses magnetic fields or pressurized gas to launch darts that inject a substance into the target. This injection gun can be fitted with cartridges containing medicine or poison."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -541,7 +541,7 @@
     "Bulk": "L",
     "Special": "living",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Sting pistols are living weapons based on samples of Swarm technology recovered during the last century. The chitinous weapon converts power to internally generate and shoot acidslicked needles that can cause lasting damage to the target. Ant models are sturdy and commonplace, though yellow jacket and wasp sting pistols are more powerful. Hornet models are the heaviest and most potent of these weapons."
   },
   {
     "source": "Character Operations Manual pg. 123",
@@ -557,7 +557,7 @@
     "Bulk": "—",
     "Special": "Conceal, punch gun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This weapon consists of a black leather glove that is mounted with a small, single-round firearm. Unlike most firearms, the weapon is designed to fire when pressure is placed upon its barrel rather than using a hand-based triggering mechanism. As a result, wielders must press a cestus pistol up against whatever they intend to shoot in order to discharge the weapon’s round, giving the weapon limited range."
   },
   {
     "source": "Near Space pg. 150",
@@ -573,7 +573,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Produced in prison-factories on Embroi, this short pistol uses clips of magnesium flares to deliver shots of scorching fire. The fire from this weapon seems to dance briefly over the target, lunging out toward other creatures."
   },
   {
     "source": "Starfinder #19: Fate of the Fifth pg. 53",
@@ -589,7 +589,7 @@
     "Bulk": "L",
     "Special": "Living, Swarm",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Despite its name, derived from Swarm conventions and suggesting a heavier armament, the lightweight acid cannon is a derivation of the Swarm corrovox’s arm-mounted weapon modified to be a stand-alone pistol-sized firearm. The weapon uses small amounts of power to produce caustic fluid. The trigger administers a jolt of electricity to the device, causing a reflexive constriction that forces blobs of this acid out of the weapon’s throatlike barrel."
   },
   {
     "source": "Character Operations Manual pg. 122",
@@ -605,7 +605,7 @@
     "Bulk": "L",
     "Special": "Injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Much of the design of this pistol-like weapon is based off the biological systems of the disintegration lash class of small arms, though a caustoject’s more traditional appearance is in stark contrast to its techno-organic inspiration. Caustojects create an injectable field that transforms ordinary matter into an acidic compound, disintegrating their targets from the inside. Syringes can be loaded into these weapons, allowing other materials to be quickly injected instead of an acidic discharge (in which case only the injection effect occurs—no acid damage is dealt)."
   },
   {
     "source": "Near Space pg. 150",
@@ -621,7 +621,7 @@
     "Bulk": "L",
     "Special": "Teleportive",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The maggedli of the Helfen-Thel system manufacture these firearms and imbue them with their magical expertise. Although the pistols use a clip of ordinary rounds, the pistol imbues teleportation magic into the ammunition as it’s fired. A skipshot pistol is a hybrid item."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -637,7 +637,7 @@
     "Bulk": "L",
     "Special": "force",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Tetrad rings deal lighter damage than weapons of a similar class, but the device launches a bolt of force that bypasses many common defenses. The design of tetrad rings is proprietary witchwyrd technology, which makes them expensive and difficult to find. They are manufactured in only three models: tactical, advanced, and elite. All three are elaborate sets of rings covered in delicate carvings, with a wire mesh to house the battery. Advanced and elite models have finer decorations."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -653,7 +653,7 @@
     "Bulk": "2",
     "Special": "gravitation (25 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Many security forces and peacekeepers employ graviton pistols, since these weapons deal no damage but instead push or pull a target. Long rods running in parallel lines form a barrel-like structure that makes such a pistol easy to identify. The available models of graviton pistols start at linear, with vector, tensor, and chiral models are able to move a target increasing distances."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -669,7 +669,7 @@
     "Bulk": "L",
     "Special": "analog, injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Popular among the drow on Apostae, this needle gun can deliver deadly poisons. The weapon is so small you gain a +2 bonus to Sleight of Hand checks to hide it on your person."
   },
   {
     "source": "Character Operations Manual pg. 122",
@@ -685,7 +685,7 @@
     "Bulk": "—",
     "Special": "Conceal, injection, punch gun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Featuring a hand-mounted firing device that injects its target with acidic compounds, this weapon resembles a cross between a caustoject and cestus pistol. By default, the weapon uses a miniature battery to create caustic fields to inject into foes, but it can launch syringes of other substances when properly loaded with them (in which case only the injection effect occurs—no acid damage is dealt)."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -701,7 +701,7 @@
     "Bulk": "2",
     "Special": "shield 2d12, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A shield projector is a heavy weapon that encases its target in a short-duration force field, akin to that produced by an armor upgrade. Such force fields are of limited strength, but higherpaizo power shield projectors can create a stronger protective barrier around the target. Shield projectors see the most use among security forces assigned to protect diplomats and high-profile celebrities. Available models—from the least to most powerful— include sentry, defender, guardian, and warden shield projectors."
   },
   {
     "source": "Near Space pg. 150",
@@ -717,7 +717,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Produced in prison-factories on Embroi, this short pistol uses clips of magnesium flares to deliver shots of scorching fire. The fire from this weapon seems to dance briefly over the target, lunging out toward other creatures."
   },
   {
     "source": "Character Operations Manual pg. 123",
@@ -733,7 +733,7 @@
     "Bulk": "1",
     "Special": "Analog, injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A favorite of assassins and battlefield medics alike, the needler pistol uses magnetic fields or pressurized gas to launch darts that inject a substance into the target. This injection gun can be fitted with cartridges containing medicine or poison."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -749,7 +749,7 @@
     "Bulk": "L",
     "Special": "living",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Sting pistols are living weapons based on samples of Swarm technology recovered during the last century. The chitinous weapon converts power to internally generate and shoot acidslicked needles that can cause lasting damage to the target. Ant models are sturdy and commonplace, though yellow jacket and wasp sting pistols are more powerful. Hornet models are the heaviest and most potent of these weapons."
   },
   {
     "source": "Character Operations Manual pg. 123",
@@ -765,7 +765,7 @@
     "Bulk": "—",
     "Special": "Conceal, punch gun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This weapon consists of a black leather glove that is mounted with a small, single-round firearm. Unlike most firearms, the weapon is designed to fire when pressure is placed upon its barrel rather than using a hand-based triggering mechanism. As a result, wielders must press a cestus pistol up against whatever they intend to shoot in order to discharge the weapon’s round, giving the weapon limited range."
   },
   {
     "source": "Starfinder #19: Fate of the Fifth pg. 53",
@@ -781,7 +781,7 @@
     "Bulk": "L",
     "Special": "Living, Swarm",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Despite its name, derived from Swarm conventions and suggesting a heavier armament, the lightweight acid cannon is a derivation of the Swarm corrovox’s arm-mounted weapon modified to be a stand-alone pistol-sized firearm. The weapon uses small amounts of power to produce caustic fluid. The trigger administers a jolt of electricity to the device, causing a reflexive constriction that forces blobs of this acid out of the weapon’s throatlike barrel."
   },
   {
     "source": "Near Space pg. 150",
@@ -797,7 +797,7 @@
     "Bulk": "L",
     "Special": "Teleportive",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The maggedli of the Helfen-Thel system manufacture these firearms and imbue them with their magical expertise. Although the pistols use a clip of ordinary rounds, the pistol imbues teleportation magic into the ammunition as it’s fired. A skipshot pistol is a hybrid item."
   },
   {
     "source": "Character Operations Manual pg. 123",
@@ -813,7 +813,7 @@
     "Bulk": "L",
     "Special": "Injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Much of the design of this pistol-like weapon is based off the biological systems of the disintegration lash class of small arms, though a caustoject’s more traditional appearance is in stark contrast to its techno-organic inspiration. Caustojects create an injectable field that transforms ordinary matter into an acidic compound, disintegrating their targets from the inside. Syringes can be loaded into these weapons, allowing other materials to be quickly injected instead of an acidic discharge (in which case only the injection effect occurs—no acid damage is dealt)."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -829,7 +829,7 @@
     "Bulk": "L",
     "Special": "analog, injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Popular among the drow on Apostae, this needle gun can deliver deadly poisons. The weapon is so small you gain a +2 bonus to Sleight of Hand checks to hide it on your person."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -845,7 +845,7 @@
     "Bulk": "L",
     "Special": "living",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Sting pistols are living weapons based on samples of Swarm technology recovered during the last century. The chitinous weapon converts power to internally generate and shoot acidslicked needles that can cause lasting damage to the target. Ant models are sturdy and commonplace, though yellow jacket and wasp sting pistols are more powerful. Hornet models are the heaviest and most potent of these weapons."
   },
   {
     "source": "Near Space pg. 150",
@@ -861,7 +861,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Produced in prison-factories on Embroi, this short pistol uses clips of magnesium flares to deliver shots of scorching fire. The fire from this weapon seems to dance briefly over the target, lunging out toward other creatures."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -877,7 +877,7 @@
     "Bulk": "2",
     "Special": "shield 4d12, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A shield projector is a heavy weapon that encases its target in a short-duration force field, akin to that produced by an armor upgrade. Such force fields are of limited strength, but higherpaizo power shield projectors can create a stronger protective barrier around the target. Shield projectors see the most use among security forces assigned to protect diplomats and high-profile celebrities. Available models—from the least to most powerful— include sentry, defender, guardian, and warden shield projectors."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -893,7 +893,7 @@
     "Bulk": "L",
     "Special": "force",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Tetrad rings deal lighter damage than weapons of a similar class, but the device launches a bolt of force that bypasses many common defenses. The design of tetrad rings is proprietary witchwyrd technology, which makes them expensive and difficult to find. They are manufactured in only three models: tactical, advanced, and elite. All three are elaborate sets of rings covered in delicate carvings, with a wire mesh to house the battery. Advanced and elite models have finer decorations."
   },
   {
     "source": "Character Operations Manual pg. 123",
@@ -909,7 +909,7 @@
     "Bulk": "—",
     "Special": "Conceal, injection, punch gun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Featuring a hand-mounted firing device that injects its target with acidic compounds, this weapon resembles a cross between a caustoject and cestus pistol. By default, the weapon uses a miniature battery to create caustic fields to inject into foes, but it can launch syringes of other substances when properly loaded with them (in which case only the injection effect occurs—no acid damage is dealt)."
   },
   {
     "source": "Character Operations Manual pg. 123",
@@ -925,7 +925,7 @@
     "Bulk": "1",
     "Special": "Analog, injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A favorite of assassins and battlefield medics alike, the needler pistol uses magnetic fields or pressurized gas to launch darts that inject a substance into the target. This injection gun can be fitted with cartridges containing medicine or poison."
   },
   {
     "source": "Starfinder Armory pg. 34",
@@ -941,7 +941,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A hail pistol includes a chamber behind the barrel that circulates supercooled vapor and causes it to coalesce into razor-edged shards of ice that leave foes with rime-edged bleeding wounds. Subzero, gelid, ultracold, and absolute-zero hail pistols each produce progressively larger and more jagged shards."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -957,7 +957,7 @@
     "Bulk": "L",
     "Special": "nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A subduer resembles a hollow rod with internal coolant reserves, and it relies on the user’s forceful movements to spray the coolant forward. Employed primarily by kasathan security forces to prevent suspects from fleeing, subduers coat their targets in a thin layer of expelled coolants that cause temporary painful freezing of the target’s skin that deals little lasting damage. On a lucky shot, the frozen layer also interferes with the target’s ability to function. Frost and rime subduers are often employed by peacekeeping forces, while sleet and glacier subduers typically see use only by pirates or mercenary groups."
   },
   {
     "source": "Starfinder Armory pg. 34",
@@ -973,7 +973,7 @@
     "Bulk": "L",
     "Special": "antibiological",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Usually crafted from bone and gristle, these pistols are prized by the Corpse Fleet and members of the Urgathoan church, but they have also been found in reaches of the galaxy untouched by Eoxian influence. The energy blasts from a bone pistol are a special blend of cold and negative energy that passes harmlessly over the nonliving. Bone pistols are commonly categorized as grave-class, crypt-class, sepulcher-class, and vault-class."
   },
   {
     "source": "Starfinder #3: Splintered Worlds pg. 49",
@@ -989,7 +989,7 @@
     "Bulk": "L",
     "Special": "necrotic",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A rib cage of ossified injectors covers the casing of these pistols, corrupting the internal coolant supply with negative energy. These pistols deliver chilling blasts of concentrated entropy at close range."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -1005,7 +1005,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Inspired by the Shadow Plane—or, some say, followers of Zon-Kuthon—a shadow pistol replicates the energy of the Plane of Shadow to momentarily separate the target from the thermodynamic energy of the universe, damaging it with the instantaneous change in temperature. With their shadowy appearance, the caliginous and sable models resemble guns cut from polished obsidian, while the more advanced tenebrous and umbral models look more like they were cut from the blackness of space."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -1021,7 +1021,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Zero pistols have a weighted grip to balance their unusually heavy barrels. A cylindrical canister over the barrel contains and directs the coolants."
   },
   {
     "source": "Starfinder Armory pg. 34",
@@ -1037,7 +1037,7 @@
     "Bulk": "L",
     "Special": "antibiological",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Usually crafted from bone and gristle, these pistols are prized by the Corpse Fleet and members of the Urgathoan church, but they have also been found in reaches of the galaxy untouched by Eoxian influence. The energy blasts from a bone pistol are a special blend of cold and negative energy that passes harmlessly over the nonliving. Bone pistols are commonly categorized as grave-class, crypt-class, sepulcher-class, and vault-class."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -1053,7 +1053,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Inspired by the Shadow Plane—or, some say, followers of Zon-Kuthon—a shadow pistol replicates the energy of the Plane of Shadow to momentarily separate the target from the thermodynamic energy of the universe, damaging it with the instantaneous change in temperature. With their shadowy appearance, the caliginous and sable models resemble guns cut from polished obsidian, while the more advanced tenebrous and umbral models look more like they were cut from the blackness of space."
   },
   {
     "source": "Starfinder Armory pg. 34",
@@ -1069,7 +1069,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A hail pistol includes a chamber behind the barrel that circulates supercooled vapor and causes it to coalesce into razor-edged shards of ice that leave foes with rime-edged bleeding wounds. Subzero, gelid, ultracold, and absolute-zero hail pistols each produce progressively larger and more jagged shards."
   },
   {
     "source": "Starfinder #3: Splintered Worlds pg. 49",
@@ -1085,7 +1085,7 @@
     "Bulk": "L",
     "Special": "necrotic",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A rib cage of ossified injectors covers the casing of these pistols, corrupting the internal coolant supply with negative energy. These pistols deliver chilling blasts of concentrated entropy at close range."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -1101,7 +1101,7 @@
     "Bulk": "L",
     "Special": "nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A subduer resembles a hollow rod with internal coolant reserves, and it relies on the user’s forceful movements to spray the coolant forward. Employed primarily by kasathan security forces to prevent suspects from fleeing, subduers coat their targets in a thin layer of expelled coolants that cause temporary painful freezing of the target’s skin that deals little lasting damage. On a lucky shot, the frozen layer also interferes with the target’s ability to function. Frost and rime subduers are often employed by peacekeeping forces, while sleet and glacier subduers typically see use only by pirates or mercenary groups."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -1117,7 +1117,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Zero pistols have a weighted grip to balance their unusually heavy barrels. A cylindrical canister over the barrel contains and directs the coolants."
   },
   {
     "source": "Starfinder Armory pg. 34",
@@ -1133,7 +1133,7 @@
     "Bulk": "L",
     "Special": "antibiological",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Usually crafted from bone and gristle, these pistols are prized by the Corpse Fleet and members of the Urgathoan church, but they have also been found in reaches of the galaxy untouched by Eoxian influence. The energy blasts from a bone pistol are a special blend of cold and negative energy that passes harmlessly over the nonliving. Bone pistols are commonly categorized as grave-class, crypt-class, sepulcher-class, and vault-class."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -1149,7 +1149,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Inspired by the Shadow Plane—or, some say, followers of Zon-Kuthon—a shadow pistol replicates the energy of the Plane of Shadow to momentarily separate the target from the thermodynamic energy of the universe, damaging it with the instantaneous change in temperature. With their shadowy appearance, the caliginous and sable models resemble guns cut from polished obsidian, while the more advanced tenebrous and umbral models look more like they were cut from the blackness of space."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -1165,7 +1165,7 @@
     "Bulk": "L",
     "Special": "nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A subduer resembles a hollow rod with internal coolant reserves, and it relies on the user’s forceful movements to spray the coolant forward. Employed primarily by kasathan security forces to prevent suspects from fleeing, subduers coat their targets in a thin layer of expelled coolants that cause temporary painful freezing of the target’s skin that deals little lasting damage. On a lucky shot, the frozen layer also interferes with the target’s ability to function. Frost and rime subduers are often employed by peacekeeping forces, while sleet and glacier subduers typically see use only by pirates or mercenary groups."
   },
   {
     "source": "Starfinder #3: Splintered Worlds pg. 49",
@@ -1181,7 +1181,7 @@
     "Bulk": "L",
     "Special": "necrotic",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A rib cage of ossified injectors covers the casing of these pistols, corrupting the internal coolant supply with negative energy. These pistols deliver chilling blasts of concentrated entropy at close range."
   },
   {
     "source": "Starfinder Armory pg. 34",
@@ -1197,7 +1197,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A hail pistol includes a chamber behind the barrel that circulates supercooled vapor and causes it to coalesce into razor-edged shards of ice that leave foes with rime-edged bleeding wounds. Subzero, gelid, ultracold, and absolute-zero hail pistols each produce progressively larger and more jagged shards."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -1213,7 +1213,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Zero pistols have a weighted grip to balance their unusually heavy barrels. A cylindrical canister over the barrel contains and directs the coolants."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -1229,7 +1229,7 @@
     "Bulk": "L",
     "Special": "nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A subduer resembles a hollow rod with internal coolant reserves, and it relies on the user’s forceful movements to spray the coolant forward. Employed primarily by kasathan security forces to prevent suspects from fleeing, subduers coat their targets in a thin layer of expelled coolants that cause temporary painful freezing of the target’s skin that deals little lasting damage. On a lucky shot, the frozen layer also interferes with the target’s ability to function. Frost and rime subduers are often employed by peacekeeping forces, while sleet and glacier subduers typically see use only by pirates or mercenary groups."
   },
   {
     "source": "Starfinder Armory pg. 34",
@@ -1245,7 +1245,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A hail pistol includes a chamber behind the barrel that circulates supercooled vapor and causes it to coalesce into razor-edged shards of ice that leave foes with rime-edged bleeding wounds. Subzero, gelid, ultracold, and absolute-zero hail pistols each produce progressively larger and more jagged shards."
   },
   {
     "source": "Starfinder Armory pg. 34",
@@ -1261,7 +1261,7 @@
     "Bulk": "L",
     "Special": "antibiological",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Usually crafted from bone and gristle, these pistols are prized by the Corpse Fleet and members of the Urgathoan church, but they have also been found in reaches of the galaxy untouched by Eoxian influence. The energy blasts from a bone pistol are a special blend of cold and negative energy that passes harmlessly over the nonliving. Bone pistols are commonly categorized as grave-class, crypt-class, sepulcher-class, and vault-class."
   },
   {
     "source": "Starfinder #3: Splintered Worlds pg. 49",
@@ -1277,7 +1277,7 @@
     "Bulk": "L",
     "Special": "necrotic",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A rib cage of ossified injectors covers the casing of these pistols, corrupting the internal coolant supply with negative energy. These pistols deliver chilling blasts of concentrated entropy at close range."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -1293,7 +1293,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Zero pistols have a weighted grip to balance their unusually heavy barrels. A cylindrical canister over the barrel contains and directs the coolants."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -1309,7 +1309,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Inspired by the Shadow Plane—or, some say, followers of Zon-Kuthon—a shadow pistol replicates the energy of the Plane of Shadow to momentarily separate the target from the thermodynamic energy of the universe, damaging it with the instantaneous change in temperature. With their shadowy appearance, the caliginous and sable models resemble guns cut from polished obsidian, while the more advanced tenebrous and umbral models look more like they were cut from the blackness of space."
   },
   {
     "source": "Starfinder #33: Dominion’s End pg. 49",
@@ -1325,7 +1325,7 @@
     "Bulk": "L",
     "Special": "Hybrid",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Once a common sidearm among sivv officers, law enforcement officials, and citizenry, the degenerator pistol is a light, handy weapon that inflicts catastrophic cellular damage at a quantum level. Many sivvs augmented their degenerator pistols with a rel-battery, eliminating power concerns."
   },
   {
     "source": "Starfinder #33: Dominion’s End pg. 49",
@@ -1341,7 +1341,7 @@
     "Bulk": "L",
     "Special": "Hybrid",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Once a common sidearm among sivv officers, law enforcement officials, and citizenry, the degenerator pistol is a light, handy weapon that inflicts catastrophic cellular damage at a quantum level. Many sivvs augmented their degenerator pistols with a rel-battery, eliminating power concerns."
   },
   {
     "source": "Starfinder #5: The Thirteenth Gate pg. 39",
@@ -1357,7 +1357,7 @@
     "Bulk": "L",
     "Special": "boost 1d6, relic",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eDimensional Disruption Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder #5: The Thirteenth Gate pg. 39",
@@ -1373,7 +1373,7 @@
     "Bulk": "L",
     "Special": "boost 2d6, relic",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eDimensional Disruption Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder Armory pg. 36",
@@ -1389,7 +1389,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Some manufacturers have streamlined the disintegrator pistol’s design to create a more affordable option; the result of their efforts is referred to simply as a decoupler. A decoupler is smaller and lighter than a disintegrator pistol, trading some of its outright destructive power for the ability to deal superficial pain that can leave targets shaking in their boots. In the Apostaean city of Nightarch, the ruling House Zeizerer issues decouplers to its enforcers, many of whom refer to the weapons as “facilitators.” Manufacturers typically produce bruiser, pusher, and screamer decouplers."
   },
   {
     "source": "Starfinder Armory pg. 36",
@@ -1405,7 +1405,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Some manufacturers have streamlined the disintegrator pistol’s design to create a more affordable option; the result of their efforts is referred to simply as a decoupler. A decoupler is smaller and lighter than a disintegrator pistol, trading some of its outright destructive power for the ability to deal superficial pain that can leave targets shaking in their boots. In the Apostaean city of Nightarch, the ruling House Zeizerer issues decouplers to its enforcers, many of whom refer to the weapons as “facilitators.” Manufacturers typically produce bruiser, pusher, and screamer decouplers."
   },
   {
     "source": "Starfinder Armory pg. 36",
@@ -1421,7 +1421,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "top desc: hr"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eDisintegrator Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder #2: Temple of the Twelve pg. 52",
@@ -1437,7 +1437,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "top desc: hr"
+    "desc": "This hefty pistol has two small internal tanks that generate the energy needed to deliquesce the wielder’s targets. Disintegrator pistols come in liquidator, decimator, executioner, and eradicator models."
   },
   {
     "source": "Starfinder Armory pg. 36",
@@ -1453,7 +1453,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Some manufacturers have streamlined the disintegrator pistol’s design to create a more affordable option; the result of their efforts is referred to simply as a decoupler. A decoupler is smaller and lighter than a disintegrator pistol, trading some of its outright destructive power for the ability to deal superficial pain that can leave targets shaking in their boots. In the Apostaean city of Nightarch, the ruling House Zeizerer issues decouplers to its enforcers, many of whom refer to the weapons as “facilitators.” Manufacturers typically produce bruiser, pusher, and screamer decouplers."
   },
   {
     "source": "Starfinder Armory pg. 36",
@@ -1469,7 +1469,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "top desc: hr"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eDisintegrator Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder #2: Temple of the Twelve pg. 52",
@@ -1485,7 +1485,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "top desc: hr"
+    "desc": "This hefty pistol has two small internal tanks that generate the energy needed to deliquesce the wielder’s targets. Disintegrator pistols come in liquidator, decimator, executioner, and eradicator models."
   },
   {
     "source": "Starfinder Armory pg. 36",
@@ -1501,7 +1501,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eDisintegrator Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder #2: Temple of the Twelve pg. 52",
@@ -1517,7 +1517,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This hefty pistol has two small internal tanks that generate the energy needed to deliquesce the wielder’s targets. Disintegrator pistols come in liquidator, decimator, executioner, and eradicator models."
   },
   {
     "source": "Starfinder Armory pg. 36",
@@ -1533,7 +1533,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eDisintegrator Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder #2: Temple of the Twelve pg. 52",
@@ -1549,7 +1549,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This hefty pistol has two small internal tanks that generate the energy needed to deliquesce the wielder’s targets. Disintegrator pistols come in liquidator, decimator, executioner, and eradicator models."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -1565,7 +1565,7 @@
     "Bulk": "L",
     "Special": "analog, bright",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A survival flare gun is used to signal danger or call for help. Though not designed for combat, survival flare guns can deal fire damage at close range."
   },
   {
     "source": "Starfinder #13: Fire Starters pg. 52",
@@ -1581,7 +1581,7 @@
     "Bulk": "L",
     "Special": "Nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Mercy pistols are the nonlethal firearms of choice for many guardians of Sarenite temples (including the Radiant Cathedral). The weapon fires a concentrated blast of light waves at a target, delivering an intense thrust of heat that eaves little to no mark or permanent damage."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -1597,7 +1597,7 @@
     "Bulk": "L",
     "Special": "Analog, line, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A flame pistol shoots a line of ignited petrol from its barrel."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1613,7 +1613,7 @@
     "Bulk": "L",
     "Special": "modal (sonic)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The frequency of a wave modulator’s output can be adjusted to either burn a target or bombard it with damaging sonic bursts. Shirrens favor these boxy pistols because of the thrill of choosing the damage type of every shot fired. Wave modulators come in numbered models."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1629,7 +1629,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A bulky weapon favored by scrappy fighters with limited resources, this oversized pistol uses scattergun shells as ammunition but creates a short-range tongue of flame. Thought to be inspired by the longer gulchgun, the shellgun is also a favorite of ysoki. Available models include the bombard shellgun, the blaze shellgun, and the fury shellgun."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1645,7 +1645,7 @@
     "Bulk": "L",
     "Special": "stun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Common in areas where petrol’s flammability is a liability, such as in the protected jungles of Castrovel, scorchguns employ a microwave emitter to burn targets. The emitter is generally a squat cylinder positioned above the pistol’s trigger, and its adjustable output allows a wielder to deal either lethal or nonlethal damage. The original design, the microwave scorchgun, is the most widely used, and later designs focus on a specific bandwidth, with S-band, C-band, K-band, and X-band scorchguns achieving progressively more power and precision."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1661,7 +1661,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A dragon pistol features a wide muzzle that is often shaped like a dragon’s maw. The weapon discharges discrete orbs of flaming petrol that can cling to targets. A wyrmling dragon pistol casts small petrol globules, while drake and wyvern dragon pistols have increased outputs. The true dragon pistol is as devastating as it is rare."
   },
   {
     "source": "Starfinder #8: Escape from the Prison Moon pg. 45",
@@ -1677,7 +1677,7 @@
     "Bulk": "L",
     "Special": "aeon",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Members of the Aeon Guard who function in support roles or who are assigned to missions where subtlety is key favor the unique design of the trilaser. The weapon is more effective than but just as light as typical laser small arms, and even more so with a slotted "
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1693,7 +1693,7 @@
     "Bulk": "L",
     "Special": "modal (sonic)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The frequency of a wave modulator’s output can be adjusted to either burn a target or bombard it with damaging sonic bursts. Shirrens favor these boxy pistols because of the thrill of choosing the damage type of every shot fired. Wave modulators come in numbered models."
   },
   {
     "source": "Starfinder #13: Fire Starters pg. 52",
@@ -1709,7 +1709,7 @@
     "Bulk": "L",
     "Special": "Nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Mercy pistols are the nonlethal firearms of choice for many guardians of Sarenite temples (including the Radiant Cathedral). The weapon fires a concentrated blast of light waves at a target, delivering an intense thrust of heat that eaves little to no mark or permanent damage."
   },
   {
     "source": "Starfinder Armory pg. 38",
@@ -1725,7 +1725,7 @@
     "Bulk": "L",
     "Special": "radioactive",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Banned in most civilized regions of the Pact Worlds, radshots are known for the reckless amount of radiation they generate. Despite the objections of the living, radshots’ signature short barrels and bulky containment sheaths can often be seen in the markets of Eox or at the hip of a Corpse Fleet officer. They are named for the type of radiation waves they emit: electromagnetic, neutron, and rapid-decay."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1741,7 +1741,7 @@
     "Bulk": "L",
     "Special": "line, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Inventive manufacturers have developed more effective versions of the classic flame pistol, resulting in the blaze, inferno, and solar flare models. Like other flame pistols, the more advanced models fire lines of ignited petrol from their barrels, but they work at higher pressure and include nanotechnology that breaks down the petrol into more volatile compounds as the weapon is fired."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1757,7 +1757,7 @@
     "Bulk": "L",
     "Special": "stun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Common in areas where petrol’s flammability is a liability, such as in the protected jungles of Castrovel, scorchguns employ a microwave emitter to burn targets. The emitter is generally a squat cylinder positioned above the pistol’s trigger, and its adjustable output allows a wielder to deal either lethal or nonlethal damage. The original design, the microwave scorchgun, is the most widely used, and later designs focus on a specific bandwidth, with S-band, C-band, K-band, and X-band scorchguns achieving progressively more power and precision."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1773,7 +1773,7 @@
     "Bulk": "L",
     "Special": "modal (sonic)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The frequency of a wave modulator’s output can be adjusted to either burn a target or bombard it with damaging sonic bursts. Shirrens favor these boxy pistols because of the thrill of choosing the damage type of every shot fired. Wave modulators come in numbered models."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1789,7 +1789,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A bulky weapon favored by scrappy fighters with limited resources, this oversized pistol uses scattergun shells as ammunition but creates a short-range tongue of flame. Thought to be inspired by the longer gulchgun, the shellgun is also a favorite of ysoki. Available models include the bombard shellgun, the blaze shellgun, and the fury shellgun."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1805,7 +1805,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A dragon pistol features a wide muzzle that is often shaped like a dragon’s maw. The weapon discharges discrete orbs of flaming petrol that can cling to targets. A wyrmling dragon pistol casts small petrol globules, while drake and wyvern dragon pistols have increased outputs. The true dragon pistol is as devastating as it is rare."
   },
   {
     "source": "Starfinder #8: Escape from the Prison Moon pg. 45",
@@ -1821,7 +1821,7 @@
     "Bulk": "L",
     "Special": "aeon",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Members of the Aeon Guard who function in support roles or who are assigned to missions where subtlety is key favor the unique design of the trilaser. The weapon is more effective than but just as light as typical laser small arms, and even more so with a slotted "
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1837,7 +1837,7 @@
     "Bulk": "L",
     "Special": "line, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Inventive manufacturers have developed more effective versions of the classic flame pistol, resulting in the blaze, inferno, and solar flare models. Like other flame pistols, the more advanced models fire lines of ignited petrol from their barrels, but they work at higher pressure and include nanotechnology that breaks down the petrol into more volatile compounds as the weapon is fired."
   },
   {
     "source": "Starfinder #13: Fire Starters pg. 52",
@@ -1853,7 +1853,7 @@
     "Bulk": "L",
     "Special": "Nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Mercy pistols are the nonlethal firearms of choice for many guardians of Sarenite temples (including the Radiant Cathedral). The weapon fires a concentrated blast of light waves at a target, delivering an intense thrust of heat that eaves little to no mark or permanent damage."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1869,7 +1869,7 @@
     "Bulk": "L",
     "Special": "modal (sonic)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The frequency of a wave modulator’s output can be adjusted to either burn a target or bombard it with damaging sonic bursts. Shirrens favor these boxy pistols because of the thrill of choosing the damage type of every shot fired. Wave modulators come in numbered models."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1885,7 +1885,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A bulky weapon favored by scrappy fighters with limited resources, this oversized pistol uses scattergun shells as ammunition but creates a short-range tongue of flame. Thought to be inspired by the longer gulchgun, the shellgun is also a favorite of ysoki. Available models include the bombard shellgun, the blaze shellgun, and the fury shellgun."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1901,7 +1901,7 @@
     "Bulk": "L",
     "Special": "stun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Common in areas where petrol’s flammability is a liability, such as in the protected jungles of Castrovel, scorchguns employ a microwave emitter to burn targets. The emitter is generally a squat cylinder positioned above the pistol’s trigger, and its adjustable output allows a wielder to deal either lethal or nonlethal damage. The original design, the microwave scorchgun, is the most widely used, and later designs focus on a specific bandwidth, with S-band, C-band, K-band, and X-band scorchguns achieving progressively more power and precision."
   },
   {
     "source": "Starfinder Armory pg. 38",
@@ -1917,7 +1917,7 @@
     "Bulk": "L",
     "Special": "radioactive",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Banned in most civilized regions of the Pact Worlds, radshots are known for the reckless amount of radiation they generate. Despite the objections of the living, radshots’ signature short barrels and bulky containment sheaths can often be seen in the markets of Eox or at the hip of a Corpse Fleet officer. They are named for the type of radiation waves they emit: electromagnetic, neutron, and rapid-decay."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1933,7 +1933,7 @@
     "Bulk": "L",
     "Special": "modal (sonic)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The frequency of a wave modulator’s output can be adjusted to either burn a target or bombard it with damaging sonic bursts. Shirrens favor these boxy pistols because of the thrill of choosing the damage type of every shot fired. Wave modulators come in numbered models."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1949,7 +1949,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A dragon pistol features a wide muzzle that is often shaped like a dragon’s maw. The weapon discharges discrete orbs of flaming petrol that can cling to targets. A wyrmling dragon pistol casts small petrol globules, while drake and wyvern dragon pistols have increased outputs. The true dragon pistol is as devastating as it is rare."
   },
   {
     "source": "Starfinder #8: Escape from the Prison Moon pg. 45",
@@ -1965,7 +1965,7 @@
     "Bulk": "L",
     "Special": "aeon",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Members of the Aeon Guard who function in support roles or who are assigned to missions where subtlety is key favor the unique design of the trilaser. The weapon is more effective than but just as light as typical laser small arms, and even more so with a slotted "
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1981,7 +1981,7 @@
     "Bulk": "L",
     "Special": "stun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Common in areas where petrol’s flammability is a liability, such as in the protected jungles of Castrovel, scorchguns employ a microwave emitter to burn targets. The emitter is generally a squat cylinder positioned above the pistol’s trigger, and its adjustable output allows a wielder to deal either lethal or nonlethal damage. The original design, the microwave scorchgun, is the most widely used, and later designs focus on a specific bandwidth, with S-band, C-band, K-band, and X-band scorchguns achieving progressively more power and precision."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -1997,7 +1997,7 @@
     "Bulk": "L",
     "Special": "modal (sonic)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The frequency of a wave modulator’s output can be adjusted to either burn a target or bombard it with damaging sonic bursts. Shirrens favor these boxy pistols because of the thrill of choosing the damage type of every shot fired. Wave modulators come in numbered models."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -2013,7 +2013,7 @@
     "Bulk": "L",
     "Special": "line, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Inventive manufacturers have developed more effective versions of the classic flame pistol, resulting in the blaze, inferno, and solar flare models. Like other flame pistols, the more advanced models fire lines of ignited petrol from their barrels, but they work at higher pressure and include nanotechnology that breaks down the petrol into more volatile compounds as the weapon is fired."
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -2029,7 +2029,7 @@
     "Bulk": "L",
     "Special": "stun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Common in areas where petrol’s flammability is a liability, such as in the protected jungles of Castrovel, scorchguns employ a microwave emitter to burn targets. The emitter is generally a squat cylinder positioned above the pistol’s trigger, and its adjustable output allows a wielder to deal either lethal or nonlethal damage. The original design, the microwave scorchgun, is the most widely used, and later designs focus on a specific bandwidth, with S-band, C-band, K-band, and X-band scorchguns achieving progressively more power and precision."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -2045,7 +2045,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A dragon pistol features a wide muzzle that is often shaped like a dragon’s maw. The weapon discharges discrete orbs of flaming petrol that can cling to targets. A wyrmling dragon pistol casts small petrol globules, while drake and wyvern dragon pistols have increased outputs. The true dragon pistol is as devastating as it is rare."
   },
   {
     "source": "Starfinder Armory pg. 38",
@@ -2061,7 +2061,7 @@
     "Bulk": "L",
     "Special": "radioactive",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Banned in most civilized regions of the Pact Worlds, radshots are known for the reckless amount of radiation they generate. Despite the objections of the living, radshots’ signature short barrels and bulky containment sheaths can often be seen in the markets of Eox or at the hip of a Corpse Fleet officer. They are named for the type of radiation waves they emit: electromagnetic, neutron, and rapid-decay."
   },
   {
     "source": "Starfinder #8: Escape from the Prison Moon pg. 45",
@@ -2077,7 +2077,7 @@
     "Bulk": "L",
     "Special": "aeon",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Members of the Aeon Guard who function in support roles or who are assigned to missions where subtlety is key favor the unique design of the trilaser. The weapon is more effective than but just as light as typical laser small arms, and even more so with a slotted "
   },
   {
     "source": "Starfinder Armory pg. 39",
@@ -2093,7 +2093,7 @@
     "Bulk": "L",
     "Special": "modal (sonic)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The frequency of a wave modulator’s output can be adjusted to either burn a target or bombard it with damaging sonic bursts. Shirrens favor these boxy pistols because of the thrill of choosing the damage type of every shot fired. Wave modulators come in numbered models."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -2109,7 +2109,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The laser pistol is possibly the most common small arm used by explorers, guards, mercenaries, and traders. Laser pistols are light and reliable, yet they still deal a respectable amount of damage."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -2125,7 +2125,7 @@
     "Bulk": "L",
     "Special": "integrated (1 slot)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This laser weapon has a smooth, curved housing and an eyelike aperture, and it can be installed in an armor upgrade slot, leaving the wielder’s hands free for other tasks. As the name implies, most users mount the eyelike aperture over one shoulder, but it can work just as easily mounted on the torso or a forearm. Many shoulder laser users are androids who integrate them into their bodies as emergency weapons. Azimuth, corona, aphelion, and perihelion shoulder lasers are available in most areas."
   },
   {
     "source": "SFS Scenario #1-03: Yesteryear\u0027s Truth pg. 15",
@@ -2141,7 +2141,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The original name of these pistols is forgotten, as the membrane ghibranis use them only in the direst circumstances. Under casual inspection, this pistol appears to be a sturdy laser weapon."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -2157,7 +2157,7 @@
     "Bulk": "L",
     "Special": "nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "With a wider beam than typical lasers, the compliance ray is designed for crowd control and other nonmilitary uses. Although these rays are legal for civilians to own, most models are themed to fit in with the local constabulary’s armor; the Stewards’ blue-and-gold models are common throughout the Pact Worlds. Shots from these pistols cause intense discomfort, and a hit to the eyes can cause temporary blindness. Models begin with the flash designation and increase in intensity as follows: flare, strobe, starburst, and sunspot."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -2173,7 +2173,7 @@
     "Bulk": "L",
     "Special": "unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The lenses of this laser pistol reconfigure themselves for optimal focus between every shot, resulting in a more powerfully focused laser at a slower rate of fire. Cylindrical lens pistols and lenticular lens pistols focus their lasers using specially shaped lenses, while electron lens pistols and sunglass lens pistols are made of rarer materials and incorporate fine electronics."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -2189,7 +2189,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The laser pistol is possibly the most common small arm used by explorers, guards, mercenaries, and traders. Laser pistols are light and reliable, yet they still deal a respectable amount of damage."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -2205,7 +2205,7 @@
     "Bulk": "L",
     "Special": "nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "With a wider beam than typical lasers, the compliance ray is designed for crowd control and other nonmilitary uses. Although these rays are legal for civilians to own, most models are themed to fit in with the local constabulary’s armor; the Stewards’ blue-and-gold models are common throughout the Pact Worlds. Shots from these pistols cause intense discomfort, and a hit to the eyes can cause temporary blindness. Models begin with the flash designation and increase in intensity as follows: flare, strobe, starburst, and sunspot."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -2221,7 +2221,7 @@
     "Bulk": "L",
     "Special": "integrated (1 slot)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This laser weapon has a smooth, curved housing and an eyelike aperture, and it can be installed in an armor upgrade slot, leaving the wielder’s hands free for other tasks. As the name implies, most users mount the eyelike aperture over one shoulder, but it can work just as easily mounted on the torso or a forearm. Many shoulder laser users are androids who integrate them into their bodies as emergency weapons. Azimuth, corona, aphelion, and perihelion shoulder lasers are available in most areas."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -2237,7 +2237,7 @@
     "Bulk": "L",
     "Special": "boost 1d4",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The laser pistol is possibly the most common small arm used by explorers, guards, mercenaries, and traders. Laser pistols are light and reliable, yet they still deal a respectable amount of damage."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -2253,7 +2253,7 @@
     "Bulk": "L",
     "Special": "unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The lenses of this laser pistol reconfigure themselves for optimal focus between every shot, resulting in a more powerfully focused laser at a slower rate of fire. Cylindrical lens pistols and lenticular lens pistols focus their lasers using specially shaped lenses, while electron lens pistols and sunglass lens pistols are made of rarer materials and incorporate fine electronics."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -2269,7 +2269,7 @@
     "Bulk": "L",
     "Special": "nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "With a wider beam than typical lasers, the compliance ray is designed for crowd control and other nonmilitary uses. Although these rays are legal for civilians to own, most models are themed to fit in with the local constabulary’s armor; the Stewards’ blue-and-gold models are common throughout the Pact Worlds. Shots from these pistols cause intense discomfort, and a hit to the eyes can cause temporary blindness. Models begin with the flash designation and increase in intensity as follows: flare, strobe, starburst, and sunspot."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -2285,7 +2285,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The laser pistol is possibly the most common small arm used by explorers, guards, mercenaries, and traders. Laser pistols are light and reliable, yet they still deal a respectable amount of damage."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -2301,7 +2301,7 @@
     "Bulk": "L",
     "Special": "integrated (1 slot)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This laser weapon has a smooth, curved housing and an eyelike aperture, and it can be installed in an armor upgrade slot, leaving the wielder’s hands free for other tasks. As the name implies, most users mount the eyelike aperture over one shoulder, but it can work just as easily mounted on the torso or a forearm. Many shoulder laser users are androids who integrate them into their bodies as emergency weapons. Azimuth, corona, aphelion, and perihelion shoulder lasers are available in most areas."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -2317,7 +2317,7 @@
     "Bulk": "L",
     "Special": "boost 2d4",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The laser pistol is possibly the most common small arm used by explorers, guards, mercenaries, and traders. Laser pistols are light and reliable, yet they still deal a respectable amount of damage."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -2333,7 +2333,7 @@
     "Bulk": "L",
     "Special": "nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "With a wider beam than typical lasers, the compliance ray is designed for crowd control and other nonmilitary uses. Although these rays are legal for civilians to own, most models are themed to fit in with the local constabulary’s armor; the Stewards’ blue-and-gold models are common throughout the Pact Worlds. Shots from these pistols cause intense discomfort, and a hit to the eyes can cause temporary blindness. Models begin with the flash designation and increase in intensity as follows: flare, strobe, starburst, and sunspot."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -2349,7 +2349,7 @@
     "Bulk": "L",
     "Special": "unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The lenses of this laser pistol reconfigure themselves for optimal focus between every shot, resulting in a more powerfully focused laser at a slower rate of fire. Cylindrical lens pistols and lenticular lens pistols focus their lasers using specially shaped lenses, while electron lens pistols and sunglass lens pistols are made of rarer materials and incorporate fine electronics."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -2365,7 +2365,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The laser pistol is possibly the most common small arm used by explorers, guards, mercenaries, and traders. Laser pistols are light and reliable, yet they still deal a respectable amount of damage."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -2381,7 +2381,7 @@
     "Bulk": "L",
     "Special": "integrated (1 slot)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This laser weapon has a smooth, curved housing and an eyelike aperture, and it can be installed in an armor upgrade slot, leaving the wielder’s hands free for other tasks. As the name implies, most users mount the eyelike aperture over one shoulder, but it can work just as easily mounted on the torso or a forearm. Many shoulder laser users are androids who integrate them into their bodies as emergency weapons. Azimuth, corona, aphelion, and perihelion shoulder lasers are available in most areas."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -2397,7 +2397,7 @@
     "Bulk": "L",
     "Special": "nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "With a wider beam than typical lasers, the compliance ray is designed for crowd control and other nonmilitary uses. Although these rays are legal for civilians to own, most models are themed to fit in with the local constabulary’s armor; the Stewards’ blue-and-gold models are common throughout the Pact Worlds. Shots from these pistols cause intense discomfort, and a hit to the eyes can cause temporary blindness. Models begin with the flash designation and increase in intensity as follows: flare, strobe, starburst, and sunspot."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -2413,7 +2413,7 @@
     "Bulk": "L",
     "Special": "unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The lenses of this laser pistol reconfigure themselves for optimal focus between every shot, resulting in a more powerfully focused laser at a slower rate of fire. Cylindrical lens pistols and lenticular lens pistols focus their lasers using specially shaped lenses, while electron lens pistols and sunglass lens pistols are made of rarer materials and incorporate fine electronics."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -2429,7 +2429,7 @@
     "Bulk": "L",
     "Special": "living",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The Xenowardens bioengineered these large arthropod claws based on a creature from a lost world in the Vast—the claws create a burst of plasma as they snap shut. The organic plasma claw and biodynamic plasma claw models function most similarly to the original creature. Other manufacturers have created the slightly different electrocellular and synthecite models, which are less powerful versions of the two earlier models."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -2445,7 +2445,7 @@
     "Bulk": "L",
     "Special": "boost 1",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Plasma builds up and arcs between the two long, notched tines of this pistol, amplifying in power as the stream travels the length of the weapon. Forked pistols are named for the number of notches in their plasma-generating forks, as each notch contributes to a more powerful blast. Pistols are typically available in 6-notch, 8-notch, 9-notch, and 10-notch models."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -2461,7 +2461,7 @@
     "Bulk": "L",
     "Special": "unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A series of prongs takes the place of this pistol’s barrel; firing the weapon causes a small sphere of energy to form at their center and launch forward at speed. If the wielder times the shot perfectly, the plasma sphere pulses just as it hits the target, dealing damage to nearby creatures, but most find the feat difficult to replicate consistently. A vapor cavitation pistol creates a very focused sphere, while the inertial cavitation pistol creates one that implodes on impact. Hydrodynamic and thermodynamic cavitation pistols use more complex reactions that carry significantly more destructive power."
   },
   {
     "source": "Starfinder Armory pg. 43",
@@ -2477,7 +2477,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Plasma rings are relatively flat, circular weapons with an easily grippable interior, allowing them to be used in a variety of orientations. Plasma cycles through a channel within the ring at high speeds, and a release valve allows a stream of plasma to escape in a directed jet. Single-valve plasma rings produce a small discharge, while dual-valve plasma rings have a synchronized pair of valves to produce a larger discharge. Multichannel plasma rings build plasma in a series of parallel rings that vent into a single release valve for an extremely powerful blast."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -2493,7 +2493,7 @@
     "Bulk": "L",
     "Special": "living",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The Xenowardens bioengineered these large arthropod claws based on a creature from a lost world in the Vast—the claws create a burst of plasma as they snap shut. The organic plasma claw and biodynamic plasma claw models function most similarly to the original creature. Other manufacturers have created the slightly different electrocellular and synthecite models, which are less powerful versions of the two earlier models."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -2509,7 +2509,7 @@
     "Bulk": "L",
     "Special": "boost 1d4",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Plasma builds up and arcs between the two long, notched tines of this pistol, amplifying in power as the stream travels the length of the weapon. Forked pistols are named for the number of notches in their plasma-generating forks, as each notch contributes to a more powerful blast. Pistols are typically available in 6-notch, 8-notch, 9-notch, and 10-notch models."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -2525,7 +2525,7 @@
     "Bulk": "L",
     "Special": "line, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Plasma pistols fire a line of ionized plasma out to a relatively short range. The plasma can continue to burn after contact."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -2541,7 +2541,7 @@
     "Bulk": "L",
     "Special": "unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A series of prongs takes the place of this pistol’s barrel; firing the weapon causes a small sphere of energy to form at their center and launch forward at speed. If the wielder times the shot perfectly, the plasma sphere pulses just as it hits the target, dealing damage to nearby creatures, but most find the feat difficult to replicate consistently. A vapor cavitation pistol creates a very focused sphere, while the inertial cavitation pistol creates one that implodes on impact. Hydrodynamic and thermodynamic cavitation pistols use more complex reactions that carry significantly more destructive power."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -2557,7 +2557,7 @@
     "Bulk": "L",
     "Special": "boost 1d4",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This small, brutish sidearm fires a surprisingly large globule of plasma that stretches into a rope as it travels, sometimes inflicting terrible wounds on its target. It is a perennial favorite of officers in the Veskarium; those seeking to surprise and intimidate their foes use the weapon’s reputation to their advantage. Although the first persuaders date back to the Silent War and are considered rare collectibles in the Pact Worlds, dozens of manufacturers make their own modern versions."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -2573,7 +2573,7 @@
     "Bulk": "L",
     "Special": "living",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The Xenowardens bioengineered these large arthropod claws based on a creature from a lost world in the Vast—the claws create a burst of plasma as they snap shut. The organic plasma claw and biodynamic plasma claw models function most similarly to the original creature. Other manufacturers have created the slightly different electrocellular and synthecite models, which are less powerful versions of the two earlier models."
   },
   {
     "source": "Starfinder Armory pg. 43",
@@ -2589,7 +2589,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Plasma rings are relatively flat, circular weapons with an easily grippable interior, allowing them to be used in a variety of orientations. Plasma cycles through a channel within the ring at high speeds, and a release valve allows a stream of plasma to escape in a directed jet. Single-valve plasma rings produce a small discharge, while dual-valve plasma rings have a synchronized pair of valves to produce a larger discharge. Multichannel plasma rings build plasma in a series of parallel rings that vent into a single release valve for an extremely powerful blast."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -2605,7 +2605,7 @@
     "Bulk": "L",
     "Special": "line, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Plasma pistols fire a line of ionized plasma out to a relatively short range. The plasma can continue to burn after contact."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -2621,7 +2621,7 @@
     "Bulk": "L",
     "Special": "boost 2d4",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Plasma builds up and arcs between the two long, notched tines of this pistol, amplifying in power as the stream travels the length of the weapon. Forked pistols are named for the number of notches in their plasma-generating forks, as each notch contributes to a more powerful blast. Pistols are typically available in 6-notch, 8-notch, 9-notch, and 10-notch models."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -2637,7 +2637,7 @@
     "Bulk": "L",
     "Special": "unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A series of prongs takes the place of this pistol’s barrel; firing the weapon causes a small sphere of energy to form at their center and launch forward at speed. If the wielder times the shot perfectly, the plasma sphere pulses just as it hits the target, dealing damage to nearby creatures, but most find the feat difficult to replicate consistently. A vapor cavitation pistol creates a very focused sphere, while the inertial cavitation pistol creates one that implodes on impact. Hydrodynamic and thermodynamic cavitation pistols use more complex reactions that carry significantly more destructive power."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -2653,7 +2653,7 @@
     "Bulk": "L",
     "Special": "line, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Plasma pistols fire a line of ionized plasma out to a relatively short range. The plasma can continue to burn after contact."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -2669,7 +2669,7 @@
     "Bulk": "L",
     "Special": "living",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The Xenowardens bioengineered these large arthropod claws based on a creature from a lost world in the Vast—the claws create a burst of plasma as they snap shut. The organic plasma claw and biodynamic plasma claw models function most similarly to the original creature. Other manufacturers have created the slightly different electrocellular and synthecite models, which are less powerful versions of the two earlier models."
   },
   {
     "source": "Starfinder Armory pg. 43",
@@ -2685,7 +2685,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Plasma rings are relatively flat, circular weapons with an easily grippable interior, allowing them to be used in a variety of orientations. Plasma cycles through a channel within the ring at high speeds, and a release valve allows a stream of plasma to escape in a directed jet. Single-valve plasma rings produce a small discharge, while dual-valve plasma rings have a synchronized pair of valves to produce a larger discharge. Multichannel plasma rings build plasma in a series of parallel rings that vent into a single release valve for an extremely powerful blast."
   },
   {
     "source": "Starfinder Armory pg. 43",
@@ -2701,7 +2701,7 @@
     "Bulk": "L",
     "Special": "unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A series of prongs takes the place of this pistol’s barrel; firing the weapon causes a small sphere of energy to form at their center and launch forward at speed. If the wielder times the shot perfectly, the plasma sphere pulses just as it hits the target, dealing damage to nearby creatures, but most find the feat difficult to replicate consistently. A vapor cavitation pistol creates a very focused sphere, while the inertial cavitation pistol creates one that implodes on impact. Hydrodynamic and thermodynamic cavitation pistols use more complex reactions that carry significantly more destructive power."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -2717,7 +2717,7 @@
     "Bulk": "L",
     "Special": "line, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Plasma pistols fire a line of ionized plasma out to a relatively short range. The plasma can continue to burn after contact."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -2733,7 +2733,7 @@
     "Bulk": "L",
     "Special": "boost 5d4",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Plasma builds up and arcs between the two long, notched tines of this pistol, amplifying in power as the stream travels the length of the weapon. Forked pistols are named for the number of notches in their plasma-generating forks, as each notch contributes to a more powerful blast. Pistols are typically available in 6-notch, 8-notch, 9-notch, and 10-notch models."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -2749,7 +2749,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The semiautomatic mechanism of this pistol discharges spent cartridges and reloads fresh ones in the barrel, provided a cartridge remains in the magazine."
   },
   {
     "source": "Starfinder #13: Fire Starters pg. 52",
@@ -2765,7 +2765,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Lighter and more mobile versions of cinder rifles, these pistols are standard issue to the Dawn Patrol and many Sarenite authorities across the galaxy. The piercing rounds are shot from the bulky pistol at white-hot temperatures and can set their targets on fire. They are still thought of as a humane weapon by some, as the searing bullets often cauterize the wounds that they make."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -2781,7 +2781,7 @@
     "Bulk": "1",
     "Special": "analog, free hands (1), unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Handcannons are popular with those who want to impress or intimidate their foes through the sheer presence of their armament without having to invest in the training required to master longarms or heavy weaponry. Its oversized barrel and muzzle are somewhat precariously balanced on a one-handed grip, though most wielders use both hands to make the weapon more manageable in combat situations. The various model names of this weapon—bravado, swagger, bombast, braggadocio, and gasconade—were originally facetious references to the character of those who tend to favor them, though many users embrace the names unironically."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -2797,7 +2797,7 @@
     "Bulk": "L",
     "Special": "injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Manufacturers worked to the specifications of xenobiologists to design and produce these firearms, which use magnetic fields to accelerate darts loaded with various substances for injection into the target. They do so far less gently than the smaller needler pistol, however, and they have become a popular tool for poisoners, slavers, and others with less scientific intentions. Medic and zoologist injector pistols are often used by xenobiologists studying unintelligent species; poacher, subjugation, and elite injector pistols are generally regarded as illicit since they more often used to target sentient species, though most markets nevertheless carry the weapons."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -2813,7 +2813,7 @@
     "Bulk": "L",
     "Special": "analog, conceal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A rotating pistol is a modern execution of an ancient design found on Golarion and several other worlds. The multiple barrels on this pistol rotate while firing to dissipate heat, which allows a more powerful shot without melting the weapon. The rotating pistol’s shots deal significant damage to their target, but the weapon requires frequent reloading. Rotating pistols are available in tactical, advanced, and elite models."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -2829,7 +2829,7 @@
     "Bulk": "L",
     "Special": "injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Manufacturers worked to the specifications of xenobiologists to design and produce these firearms, which use magnetic fields to accelerate darts loaded with various substances for injection into the target. They do so far less gently than the smaller needler pistol, however, and they have become a popular tool for poisoners, slavers, and others with less scientific intentions. Medic and zoologist injector pistols are often used by xenobiologists studying unintelligent species; poacher, subjugation, and elite injector pistols are generally regarded as illicit since they more often used to target sentient species, though most markets nevertheless carry the weapons."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -2845,7 +2845,7 @@
     "Bulk": "1",
     "Special": "analog, free hands (1), unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Handcannons are popular with those who want to impress or intimidate their foes through the sheer presence of their armament without having to invest in the training required to master longarms or heavy weaponry. Its oversized barrel and muzzle are somewhat precariously balanced on a one-handed grip, though most wielders use both hands to make the weapon more manageable in combat situations. The various model names of this weapon—bravado, swagger, bombast, braggadocio, and gasconade—were originally facetious references to the character of those who tend to favor them, though many users embrace the names unironically."
   },
   {
     "source": "Starfinder #13: Fire Starters pg. 52",
@@ -2861,7 +2861,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Lighter and more mobile versions of cinder rifles, these pistols are standard issue to the Dawn Patrol and many Sarenite authorities across the galaxy. The piercing rounds are shot from the bulky pistol at white-hot temperatures and can set their targets on fire. They are still thought of as a humane weapon by some, as the searing bullets often cauterize the wounds that they make."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -2877,7 +2877,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The semiautomatic mechanism of this pistol discharges spent cartridges and reloads fresh ones in the barrel, provided a cartridge remains in the magazine."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -2893,7 +2893,7 @@
     "Bulk": "L",
     "Special": "injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Manufacturers worked to the specifications of xenobiologists to design and produce these firearms, which use magnetic fields to accelerate darts loaded with various substances for injection into the target. They do so far less gently than the smaller needler pistol, however, and they have become a popular tool for poisoners, slavers, and others with less scientific intentions. Medic and zoologist injector pistols are often used by xenobiologists studying unintelligent species; poacher, subjugation, and elite injector pistols are generally regarded as illicit since they more often used to target sentient species, though most markets nevertheless carry the weapons."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -2909,7 +2909,7 @@
     "Bulk": "1",
     "Special": "analog, free hands (1), unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Handcannons are popular with those who want to impress or intimidate their foes through the sheer presence of their armament without having to invest in the training required to master longarms or heavy weaponry. Its oversized barrel and muzzle are somewhat precariously balanced on a one-handed grip, though most wielders use both hands to make the weapon more manageable in combat situations. The various model names of this weapon—bravado, swagger, bombast, braggadocio, and gasconade—were originally facetious references to the character of those who tend to favor them, though many users embrace the names unironically."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -2925,7 +2925,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The semiautomatic mechanism of this pistol discharges spent cartridges and reloads fresh ones in the barrel, provided a cartridge remains in the magazine."
   },
   {
     "source": "Starfinder #13: Fire Starters pg. 52",
@@ -2941,7 +2941,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Lighter and more mobile versions of cinder rifles, these pistols are standard issue to the Dawn Patrol and many Sarenite authorities across the galaxy. The piercing rounds are shot from the bulky pistol at white-hot temperatures and can set their targets on fire. They are still thought of as a humane weapon by some, as the searing bullets often cauterize the wounds that they make."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -2957,7 +2957,7 @@
     "Bulk": "L",
     "Special": "analog, conceal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A rotating pistol is a modern execution of an ancient design found on Golarion and several other worlds. The multiple barrels on this pistol rotate while firing to dissipate heat, which allows a more powerful shot without melting the weapon. The rotating pistol’s shots deal significant damage to their target, but the weapon requires frequent reloading. Rotating pistols are available in tactical, advanced, and elite models."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -2973,7 +2973,7 @@
     "Bulk": "1",
     "Special": "analog, free hands (1), unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Handcannons are popular with those who want to impress or intimidate their foes through the sheer presence of their armament without having to invest in the training required to master longarms or heavy weaponry. Its oversized barrel and muzzle are somewhat precariously balanced on a one-handed grip, though most wielders use both hands to make the weapon more manageable in combat situations. The various model names of this weapon—bravado, swagger, bombast, braggadocio, and gasconade—were originally facetious references to the character of those who tend to favor them, though many users embrace the names unironically."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -2989,7 +2989,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The semiautomatic mechanism of this pistol discharges spent cartridges and reloads fresh ones in the barrel, provided a cartridge remains in the magazine."
   },
   {
     "source": "Starfinder #13: Fire Starters pg. 52",
@@ -3005,7 +3005,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Lighter and more mobile versions of cinder rifles, these pistols are standard issue to the Dawn Patrol and many Sarenite authorities across the galaxy. The piercing rounds are shot from the bulky pistol at white-hot temperatures and can set their targets on fire. They are still thought of as a humane weapon by some, as the searing bullets often cauterize the wounds that they make."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -3021,7 +3021,7 @@
     "Bulk": "L",
     "Special": "injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Manufacturers worked to the specifications of xenobiologists to design and produce these firearms, which use magnetic fields to accelerate darts loaded with various substances for injection into the target. They do so far less gently than the smaller needler pistol, however, and they have become a popular tool for poisoners, slavers, and others with less scientific intentions. Medic and zoologist injector pistols are often used by xenobiologists studying unintelligent species; poacher, subjugation, and elite injector pistols are generally regarded as illicit since they more often used to target sentient species, though most markets nevertheless carry the weapons."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -3037,7 +3037,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Gyrojet pistols fire mini-rockets that can hit with a force great enough to knock down targets. Gyrojet pistols are slightly larger than semiautomatic pistols, and they have a reinforced barrel."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -3053,7 +3053,7 @@
     "Bulk": "L",
     "Special": "analog, conceal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A rotating pistol is a modern execution of an ancient design found on Golarion and several other worlds. The multiple barrels on this pistol rotate while firing to dissipate heat, which allows a more powerful shot without melting the weapon. The rotating pistol’s shots deal significant damage to their target, but the weapon requires frequent reloading. Rotating pistols are available in tactical, advanced, and elite models."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -3069,7 +3069,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Gyrojet pistols fire mini-rockets that can hit with a force great enough to knock down targets. Gyrojet pistols are slightly larger than semiautomatic pistols, and they have a reinforced barrel."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -3085,7 +3085,7 @@
     "Bulk": "1",
     "Special": "analog, free hands (1), unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Handcannons are popular with those who want to impress or intimidate their foes through the sheer presence of their armament without having to invest in the training required to master longarms or heavy weaponry. Its oversized barrel and muzzle are somewhat precariously balanced on a one-handed grip, though most wielders use both hands to make the weapon more manageable in combat situations. The various model names of this weapon—bravado, swagger, bombast, braggadocio, and gasconade—were originally facetious references to the character of those who tend to favor them, though many users embrace the names unironically."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -3101,7 +3101,7 @@
     "Bulk": "L",
     "Special": "injection",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Manufacturers worked to the specifications of xenobiologists to design and produce these firearms, which use magnetic fields to accelerate darts loaded with various substances for injection into the target. They do so far less gently than the smaller needler pistol, however, and they have become a popular tool for poisoners, slavers, and others with less scientific intentions. Medic and zoologist injector pistols are often used by xenobiologists studying unintelligent species; poacher, subjugation, and elite injector pistols are generally regarded as illicit since they more often used to target sentient species, though most markets nevertheless carry the weapons."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -3117,7 +3117,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Gyrojet pistols fire mini-rockets that can hit with a force great enough to knock down targets. Gyrojet pistols are slightly larger than semiautomatic pistols, and they have a reinforced barrel."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -3133,7 +3133,7 @@
     "Bulk": "L",
     "Special": "nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A smaller version of an arc pistol, the pulsecaster sends a lowenergy blast at its target. This blast stuns the target without dealing serious damage."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -3149,7 +3149,7 @@
     "Bulk": "L",
     "Special": "stun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Arc pistols fire deadly, stunning blasts of electricity at ranged targets. They have a two-pronged emitter that directs the electrical blast and a bulky chamber that holds the capacitor."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3165,7 +3165,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An ultraminiaturized version of the coilguns used on starships, this weapon has a short range but a powerful effect. Some of the first versions were produced by starship manufacturers and were accompanied by a promotional campaign suggesting that a starship’s crew should match the starship itself, complete with flight suits to match a given ship’s paint job. Most manufacturers still use the model classification set forth in those early campaigns: explorer, fighter, pilot, and capital handcoils."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -3181,7 +3181,7 @@
     "Bulk": "L",
     "Special": "nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Blasts from this electromagnetic pistol create a magnetic field that hampers a foe’s movement. Barathus working on Liavara developed these weapons, as the magnetic fields ensnare a target without causing it to fall—a useful feature when confronting the operators of illicit harvesting endeavors on a gas giant. Many parts of an anchor pistol are grown from living organisms, resulting in a lightweight pistol that gleams like mother-of-pearl. Voltaic anchor pistols employ typical electromagnetism, while the emergent and inductive anchor pistols use higher symmetries to produce aperiodic force. The flux anchor pistol relies on quantum-phase factors to generate extraordinarily powerful blasts."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3197,7 +3197,7 @@
     "Bulk": "L",
     "Special": "line, stun, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When fired, this weapon erupts with a long, crackling bolt of electricity reminiscent of lightning. Sheet lightning pistols and ribbon lightning pistols are relatively common, but rocket and smooth-channel lightning pistols typically require a special license to carry legally."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3213,7 +3213,7 @@
     "Bulk": "L",
     "Special": "integrated (2 slots), unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The ionizer’s beam ionizes a path to its target, which serves as a route for the ensuing electric charge. There are several different elemental ions used in constructing ionizers, with the strength of the output based on the metal used. The most common are cupric, ferric, chromic, and stannic ionizers. Generally, the weapon’s hardware is stored in two upgrade slots of a piece of armor, while a connected wand-like barrel extends from an extremity. Aballon’s anacites designed the first ionizers, but they have long since spread throughout the Pact Worlds and beyond."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3229,7 +3229,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An ultraminiaturized version of the coilguns used on starships, this weapon has a short range but a powerful effect. Some of the first versions were produced by starship manufacturers and were accompanied by a promotional campaign suggesting that a starship’s crew should match the starship itself, complete with flight suits to match a given ship’s paint job. Most manufacturers still use the model classification set forth in those early campaigns: explorer, fighter, pilot, and capital handcoils."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3245,7 +3245,7 @@
     "Bulk": "L",
     "Special": "line, stun, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When fired, this weapon erupts with a long, crackling bolt of electricity reminiscent of lightning. Sheet lightning pistols and ribbon lightning pistols are relatively common, but rocket and smooth-channel lightning pistols typically require a special license to carry legally."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -3261,7 +3261,7 @@
     "Bulk": "L",
     "Special": "nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Blasts from this electromagnetic pistol create a magnetic field that hampers a foe’s movement. Barathus working on Liavara developed these weapons, as the magnetic fields ensnare a target without causing it to fall—a useful feature when confronting the operators of illicit harvesting endeavors on a gas giant. Many parts of an anchor pistol are grown from living organisms, resulting in a lightweight pistol that gleams like mother-of-pearl. Voltaic anchor pistols employ typical electromagnetism, while the emergent and inductive anchor pistols use higher symmetries to produce aperiodic force. The flux anchor pistol relies on quantum-phase factors to generate extraordinarily powerful blasts."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3277,7 +3277,7 @@
     "Bulk": "L",
     "Special": "integrated (2 slots), unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The ionizer’s beam ionizes a path to its target, which serves as a route for the ensuing electric charge. There are several different elemental ions used in constructing ionizers, with the strength of the output based on the metal used. The most common are cupric, ferric, chromic, and stannic ionizers. Generally, the weapon’s hardware is stored in two upgrade slots of a piece of armor, while a connected wand-like barrel extends from an extremity. Aballon’s anacites designed the first ionizers, but they have long since spread throughout the Pact Worlds and beyond."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3293,7 +3293,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An ultraminiaturized version of the coilguns used on starships, this weapon has a short range but a powerful effect. Some of the first versions were produced by starship manufacturers and were accompanied by a promotional campaign suggesting that a starship’s crew should match the starship itself, complete with flight suits to match a given ship’s paint job. Most manufacturers still use the model classification set forth in those early campaigns: explorer, fighter, pilot, and capital handcoils."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3309,7 +3309,7 @@
     "Bulk": "L",
     "Special": "line, stun, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When fired, this weapon erupts with a long, crackling bolt of electricity reminiscent of lightning. Sheet lightning pistols and ribbon lightning pistols are relatively common, but rocket and smooth-channel lightning pistols typically require a special license to carry legally."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -3325,7 +3325,7 @@
     "Bulk": "L",
     "Special": "stun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Arc pistols fire deadly, stunning blasts of electricity at ranged targets. They have a two-pronged emitter that directs the electrical blast and a bulky chamber that holds the capacitor."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3341,7 +3341,7 @@
     "Bulk": "L",
     "Special": "integrated (2 slots), unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The ionizer’s beam ionizes a path to its target, which serves as a route for the ensuing electric charge. There are several different elemental ions used in constructing ionizers, with the strength of the output based on the metal used. The most common are cupric, ferric, chromic, and stannic ionizers. Generally, the weapon’s hardware is stored in two upgrade slots of a piece of armor, while a connected wand-like barrel extends from an extremity. Aballon’s anacites designed the first ionizers, but they have long since spread throughout the Pact Worlds and beyond."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -3357,7 +3357,7 @@
     "Bulk": "L",
     "Special": "nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Blasts from this electromagnetic pistol create a magnetic field that hampers a foe’s movement. Barathus working on Liavara developed these weapons, as the magnetic fields ensnare a target without causing it to fall—a useful feature when confronting the operators of illicit harvesting endeavors on a gas giant. Many parts of an anchor pistol are grown from living organisms, resulting in a lightweight pistol that gleams like mother-of-pearl. Voltaic anchor pistols employ typical electromagnetism, while the emergent and inductive anchor pistols use higher symmetries to produce aperiodic force. The flux anchor pistol relies on quantum-phase factors to generate extraordinarily powerful blasts."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3373,7 +3373,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An ultraminiaturized version of the coilguns used on starships, this weapon has a short range but a powerful effect. Some of the first versions were produced by starship manufacturers and were accompanied by a promotional campaign suggesting that a starship’s crew should match the starship itself, complete with flight suits to match a given ship’s paint job. Most manufacturers still use the model classification set forth in those early campaigns: explorer, fighter, pilot, and capital handcoils."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3389,7 +3389,7 @@
     "Bulk": "L",
     "Special": "line, stun, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When fired, this weapon erupts with a long, crackling bolt of electricity reminiscent of lightning. Sheet lightning pistols and ribbon lightning pistols are relatively common, but rocket and smooth-channel lightning pistols typically require a special license to carry legally."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -3405,7 +3405,7 @@
     "Bulk": "L",
     "Special": "stun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Arc pistols fire deadly, stunning blasts of electricity at ranged targets. They have a two-pronged emitter that directs the electrical blast and a bulky chamber that holds the capacitor."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3421,7 +3421,7 @@
     "Bulk": "L",
     "Special": "integrated (2 slots), unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The ionizer’s beam ionizes a path to its target, which serves as a route for the ensuing electric charge. There are several different elemental ions used in constructing ionizers, with the strength of the output based on the metal used. The most common are cupric, ferric, chromic, and stannic ionizers. Generally, the weapon’s hardware is stored in two upgrade slots of a piece of armor, while a connected wand-like barrel extends from an extremity. Aballon’s anacites designed the first ionizers, but they have long since spread throughout the Pact Worlds and beyond."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -3437,7 +3437,7 @@
     "Bulk": "L",
     "Special": "nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Blasts from this electromagnetic pistol create a magnetic field that hampers a foe’s movement. Barathus working on Liavara developed these weapons, as the magnetic fields ensnare a target without causing it to fall—a useful feature when confronting the operators of illicit harvesting endeavors on a gas giant. Many parts of an anchor pistol are grown from living organisms, resulting in a lightweight pistol that gleams like mother-of-pearl. Voltaic anchor pistols employ typical electromagnetism, while the emergent and inductive anchor pistols use higher symmetries to produce aperiodic force. The flux anchor pistol relies on quantum-phase factors to generate extraordinarily powerful blasts."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3453,7 +3453,7 @@
     "Bulk": "L",
     "Special": "antibiological",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The oscillating sonic waves discharged from a dirge pistol work like those fired from a dirge cannon. Raiders and hijackers prize these weapons for their effect against living targets, which can leave many valuables unharmed. Harmonic and resonant dirge pistols generate stable oscillations, while the anharmonic, parametric, and radial dirge pistols have concentric generator cylinders to produce dissonant and more harmful output."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3469,7 +3469,7 @@
     "Bulk": "L",
     "Special": "penetrating",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eSonic Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder Armory pg. 51",
@@ -3485,7 +3485,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A sonic suppressor noiselessly creates a static energy field that absorbs and amplifies sound, focusing the captured frequencies back upon the target in a damaging burst. Drow, assassins, and other covert killers favor the weapon because no sound escapes this bubble, resulting in a silent attack and, sometimes, a soundless takedown. The suppressor’s sonic cascade can have an anomalously large initial area, which crashes in from a wider radius, absorbing sound from and damaging those nearby while brutally affecting the intended target. Most manufacturers produce four suppressor models, including the murmur, whisper, hush, and repose."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -3501,7 +3501,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Sonic pistols have a stocky barrel capped with a concave resonating chamber that amplifies and directs its sonic blast. They use high-intensity sound to shake molecules apart."
   },
   {
     "source": "Starfinder Armory pg. 51",
@@ -3517,7 +3517,7 @@
     "Bulk": "L",
     "Special": "living, thought, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Lashunta biologists genetically engineered the shrieking larva from a creature found in Castrovel’s jungles. This living weapon is dormant until fed power through a manual trigger. A telepathic user can mentally trigger the larva to siphon energy as needed, causing the weapon to fire faster than by trigger. When powered, the stimulated larva shrieks. This simultaneously shrill and oscillating outburst forms a coherent beam emitted in the direction the larva is pointed."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3533,7 +3533,7 @@
     "Bulk": "L",
     "Special": "antibiological",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The oscillating sonic waves discharged from a dirge pistol work like those fired from a dirge cannon. Raiders and hijackers prize these weapons for their effect against living targets, which can leave many valuables unharmed. Harmonic and resonant dirge pistols generate stable oscillations, while the anharmonic, parametric, and radial dirge pistols have concentric generator cylinders to produce dissonant and more harmful output."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3549,7 +3549,7 @@
     "Bulk": "L",
     "Special": "boost 1d6",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The crystalline structure inside a resonant pistol comes from the same synthetic material used in the resonant gauntlet. An electrical current can be directed through a long, conical barrel fitted with layers of the crystal, causing the material to reverberate with a devastating ultrasonic frequency. These weapons are noted for their ease of use, since they create no recoil. The only indication that these weapons have fired is a faint, high-pitched beep. Resonant pistols using a crystal lattice are more common and less expensive than those that contain a crystal matrix."
   },
   {
     "source": "Starfinder Armory pg. 51",
@@ -3565,7 +3565,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A sonic suppressor noiselessly creates a static energy field that absorbs and amplifies sound, focusing the captured frequencies back upon the target in a damaging burst. Drow, assassins, and other covert killers favor the weapon because no sound escapes this bubble, resulting in a silent attack and, sometimes, a soundless takedown. The suppressor’s sonic cascade can have an anomalously large initial area, which crashes in from a wider radius, absorbing sound from and damaging those nearby while brutally affecting the intended target. Most manufacturers produce four suppressor models, including the murmur, whisper, hush, and repose."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3581,7 +3581,7 @@
     "Bulk": "L",
     "Special": "penetrating",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eSonic Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3597,7 +3597,7 @@
     "Bulk": "L",
     "Special": "antibiological",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The oscillating sonic waves discharged from a dirge pistol work like those fired from a dirge cannon. Raiders and hijackers prize these weapons for their effect against living targets, which can leave many valuables unharmed. Harmonic and resonant dirge pistols generate stable oscillations, while the anharmonic, parametric, and radial dirge pistols have concentric generator cylinders to produce dissonant and more harmful output."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -3613,7 +3613,7 @@
     "Bulk": "L",
     "Special": "boost 1d6",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Sonic pistols have a stocky barrel capped with a concave resonating chamber that amplifies and directs its sonic blast. They use high-intensity sound to shake molecules apart."
   },
   {
     "source": "Starfinder Armory pg. 51",
@@ -3629,7 +3629,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A sonic suppressor noiselessly creates a static energy field that absorbs and amplifies sound, focusing the captured frequencies back upon the target in a damaging burst. Drow, assassins, and other covert killers favor the weapon because no sound escapes this bubble, resulting in a silent attack and, sometimes, a soundless takedown. The suppressor’s sonic cascade can have an anomalously large initial area, which crashes in from a wider radius, absorbing sound from and damaging those nearby while brutally affecting the intended target. Most manufacturers produce four suppressor models, including the murmur, whisper, hush, and repose."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3645,7 +3645,7 @@
     "Bulk": "L",
     "Special": "penetrating",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eSonic Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -3661,7 +3661,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Sonic pistols have a stocky barrel capped with a concave resonating chamber that amplifies and directs its sonic blast. They use high-intensity sound to shake molecules apart."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3677,7 +3677,7 @@
     "Bulk": "L",
     "Special": "antibiological",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The oscillating sonic waves discharged from a dirge pistol work like those fired from a dirge cannon. Raiders and hijackers prize these weapons for their effect against living targets, which can leave many valuables unharmed. Harmonic and resonant dirge pistols generate stable oscillations, while the anharmonic, parametric, and radial dirge pistols have concentric generator cylinders to produce dissonant and more harmful output."
   },
   {
     "source": "Starfinder Core Rulebook pg. 173",
@@ -3693,7 +3693,7 @@
     "Bulk": "L",
     "Special": "boost 1d10",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Sonic pistols have a stocky barrel capped with a concave resonating chamber that amplifies and directs its sonic blast. They use high-intensity sound to shake molecules apart."
   },
   {
     "source": "Starfinder Armory pg. 51",
@@ -3709,7 +3709,7 @@
     "Bulk": "L",
     "Special": "—",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A sonic suppressor noiselessly creates a static energy field that absorbs and amplifies sound, focusing the captured frequencies back upon the target in a damaging burst. Drow, assassins, and other covert killers favor the weapon because no sound escapes this bubble, resulting in a silent attack and, sometimes, a soundless takedown. The suppressor’s sonic cascade can have an anomalously large initial area, which crashes in from a wider radius, absorbing sound from and damaging those nearby while brutally affecting the intended target. Most manufacturers produce four suppressor models, including the murmur, whisper, hush, and repose."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3725,7 +3725,7 @@
     "Bulk": "L",
     "Special": "boost 2d6",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The crystalline structure inside a resonant pistol comes from the same synthetic material used in the resonant gauntlet. An electrical current can be directed through a long, conical barrel fitted with layers of the crystal, causing the material to reverberate with a devastating ultrasonic frequency. These weapons are noted for their ease of use, since they create no recoil. The only indication that these weapons have fired is a faint, high-pitched beep. Resonant pistols using a crystal lattice are more common and less expensive than those that contain a crystal matrix."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3741,7 +3741,7 @@
     "Bulk": "L",
     "Special": "antibiological",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The oscillating sonic waves discharged from a dirge pistol work like those fired from a dirge cannon. Raiders and hijackers prize these weapons for their effect against living targets, which can leave many valuables unharmed. Harmonic and resonant dirge pistols generate stable oscillations, while the anharmonic, parametric, and radial dirge pistols have concentric generator cylinders to produce dissonant and more harmful output."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3757,6 +3757,6 @@
     "Bulk": "L",
     "Special": "penetrating",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eSonic Weapons\u003c/h3\u003e"
   }
 ]

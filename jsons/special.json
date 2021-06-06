@@ -13,7 +13,7 @@
     "Bulk": "—",
     "Special": "Analog, quick reload, thrown",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The four-armed kasathas favor thrown weapons, so they are the most common users of these finely edged projectiles. Users of thrown weapons appreciate the light weight and keen edges of carbonedge shuriken."
   },
   {
     "source": "Starfinder Core Rulebook pg. 179",
@@ -29,7 +29,7 @@
     "Bulk": "1",
     "Special": "Analog, entangle, thrown",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Created from specialized nylon fibers that contract in response to struggle, nyfiber nets are weighted along the edges to more effectively entangle their targets. Attacks with the net target KAC."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -45,7 +45,7 @@
     "Bulk": "L",
     "Special": "injection, quick reload, thrown",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Shuriken are bladed thrown weapons most common in the carbonedge form kasathas favor. However, these weapons are versatile and come in various forms for improved cutting power or specialized use. Additionally, the size of shuriken makes them easy to hide and carry. They are ideal for hit-and-run attacks and situations where it might not be prudent to retrieve a thrown weapon. "
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -61,7 +61,7 @@
     "Bulk": "L",
     "Special": "quick reload, thrown",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Shuriken are bladed thrown weapons most common in the carbonedge form kasathas favor. However, these weapons are versatile and come in various forms for improved cutting power or specialized use. Additionally, the size of shuriken makes them easy to hide and carry. They are ideal for hit-and-run attacks and situations where it might not be prudent to retrieve a thrown weapon. "
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -77,7 +77,7 @@
     "Bulk": "L",
     "Special": "quick reload, thrown",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Shuriken are bladed thrown weapons most common in the carbonedge form kasathas favor. However, these weapons are versatile and come in various forms for improved cutting power or specialized use. Additionally, the size of shuriken makes them easy to hide and carry. They are ideal for hit-and-run attacks and situations where it might not be prudent to retrieve a thrown weapon. "
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -93,7 +93,7 @@
     "Bulk": "L",
     "Special": "quick reload, thrown",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Shuriken are bladed thrown weapons most common in the carbonedge form kasathas favor. However, these weapons are versatile and come in various forms for improved cutting power or specialized use. Additionally, the size of shuriken makes them easy to hide and carry. They are ideal for hit-and-run attacks and situations where it might not be prudent to retrieve a thrown weapon. "
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -109,7 +109,7 @@
     "Bulk": "L",
     "Special": "quick reload, thrown",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Shuriken are bladed thrown weapons most common in the carbonedge form kasathas favor. However, these weapons are versatile and come in various forms for improved cutting power or specialized use. Additionally, the size of shuriken makes them easy to hide and carry. They are ideal for hit-and-run attacks and situations where it might not be prudent to retrieve a thrown weapon. "
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -125,7 +125,7 @@
     "Bulk": "L",
     "Special": "quick reload, thrown",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Shuriken are bladed thrown weapons most common in the carbonedge form kasathas favor. However, these weapons are versatile and come in various forms for improved cutting power or specialized use. Additionally, the size of shuriken makes them easy to hide and carry. They are ideal for hit-and-run attacks and situations where it might not be prudent to retrieve a thrown weapon. "
   },
   {
     "source": "Starfinder Core Rulebook pg. 179",
@@ -141,7 +141,7 @@
     "Bulk": "1",
     "Special": "Analog, quick reload",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Modern compound bows are made of aluminum alloys, for superior lightness and durability. The string is made of highperformance polyethylene. Bows fire arrows as ammunition, and they can also be used with grenade arrows for more customized damage and effects."
   },
   {
     "source": "Starfinder #4: The Ruined Clouds pg. 44",
@@ -157,7 +157,7 @@
     "Bulk": "1",
     "Special": "analog, archaic, quick reload",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These compound bows are made of materials scavenged from the ruins of kishalee civilization, giving the bowstrings incredibly high tensile strength. Battlebows can be used to fire arrows and grenade arrows."
   },
   {
     "source": "Starfinder #4: The Ruined Clouds pg. 44",
@@ -173,7 +173,7 @@
     "Bulk": "1",
     "Special": "analog, archaic, quick reload",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These compound bows are made of materials scavenged from the ruins of kishalee civilization, giving the bowstrings incredibly high tensile strength. Battlebows can be used to fire arrows and grenade arrows."
   },
   {
     "source": "Starfinder #4: The Ruined Clouds pg. 44",
@@ -189,7 +189,7 @@
     "Bulk": "1",
     "Special": "analog, archaic, quick reload",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These compound bows are made of materials scavenged from the ruins of kishalee civilization, giving the bowstrings incredibly high tensile strength. Battlebows can be used to fire arrows and grenade arrows."
   },
   {
     "source": "Starfinder #4: The Ruined Clouds pg. 44",
@@ -205,6 +205,6 @@
     "Bulk": "1",
     "Special": "analog, archaic, quick reload",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These compound bows are made of materials scavenged from the ruins of kishalee civilization, giving the bowstrings incredibly high tensile strength. Battlebows can be used to fire arrows and grenade arrows."
   }
 ]

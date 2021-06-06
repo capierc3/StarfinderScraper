@@ -13,7 +13,7 @@
     "Bulk": "2",
     "Special": "Unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Kaions’ ability to reel in all manner of prey has led to emulations of their effective hunting strategy. A sclerite harpooner is inlaid with spirals of kaion shell and magnetically fires either harvested or manufactured kaion sclerites along two rails; this ammunition is available in the same quantities and at the same price as darts. As a reaction, the weapon can be activated to reel in a target affected by its embed critical hit effect. The target must attempt a Reflex save (DC \u003d 10 + 1/2 the harpooner’s item level + the wielder’s Strength modifier) or be pulled 30 feet toward the wielder; this movement does not provoke attacks of opportunity. Huge or larger creatures are not affected."
   },
   {
     "source": "Alien Archive 4 pg. 29",
@@ -29,7 +29,7 @@
     "Bulk": "2",
     "Special": "explode (5 ft.), force, gravitation (5 ft.), unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "By capturing, studying, and dissecting deadfall stalkers—all at considerable cost in blood and credits—the drow manufacturer Arabani Arms Ltd. has created powerful cannons able to create gravitational singularities at a distant point. These instantaneous black holes tear apart nearby matter and, in the process, hurl away any victims who can’t clear the area. The singularity typically lasts for a split-second, yet slivers of the microscopic black hole can adhere to unlucky targets, painfully anchoring their bodies in place."
   },
   {
     "source": "Alien Archive 4 pg. 59",
@@ -45,7 +45,7 @@
     "Bulk": "2",
     "Special": "Unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Kaions’ ability to reel in all manner of prey has led to emulations of their effective hunting strategy. A sclerite harpooner is inlaid with spirals of kaion shell and magnetically fires either harvested or manufactured kaion sclerites along two rails; this ammunition is available in the same quantities and at the same price as darts. As a reaction, the weapon can be activated to reel in a target affected by its embed critical hit effect. The target must attempt a Reflex save (DC \u003d 10 + 1/2 the harpooner’s item level + the wielder’s Strength modifier) or be pulled 30 feet toward the wielder; this movement does not provoke attacks of opportunity. Huge or larger creatures are not affected."
   },
   {
     "source": "Alien Archive 4 pg. 29",
@@ -61,7 +61,7 @@
     "Bulk": "2",
     "Special": "explode (5 ft.), force, gravitation (10 ft.), unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "By capturing, studying, and dissecting deadfall stalkers—all at considerable cost in blood and credits—the drow manufacturer Arabani Arms Ltd. has created powerful cannons able to create gravitational singularities at a distant point. These instantaneous black holes tear apart nearby matter and, in the process, hurl away any victims who can’t clear the area. The singularity typically lasts for a split-second, yet slivers of the microscopic black hole can adhere to unlucky targets, painfully anchoring their bodies in place."
   },
   {
     "source": "Alien Archive 4 pg. 59",
@@ -77,7 +77,7 @@
     "Bulk": "3",
     "Special": "Unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Kaions’ ability to reel in all manner of prey has led to emulations of their effective hunting strategy. A sclerite harpooner is inlaid with spirals of kaion shell and magnetically fires either harvested or manufactured kaion sclerites along two rails; this ammunition is available in the same quantities and at the same price as darts. As a reaction, the weapon can be activated to reel in a target affected by its embed critical hit effect. The target must attempt a Reflex save (DC \u003d 10 + 1/2 the harpooner’s item level + the wielder’s Strength modifier) or be pulled 30 feet toward the wielder; this movement does not provoke attacks of opportunity. Huge or larger creatures are not affected."
   },
   {
     "source": "Alien Archive 4 pg. 29",
@@ -93,7 +93,7 @@
     "Bulk": "3",
     "Special": "explode (10 ft.), force, gravitation (15 ft.), unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "By capturing, studying, and dissecting deadfall stalkers—all at considerable cost in blood and credits—the drow manufacturer Arabani Arms Ltd. has created powerful cannons able to create gravitational singularities at a distant point. These instantaneous black holes tear apart nearby matter and, in the process, hurl away any victims who can’t clear the area. The singularity typically lasts for a split-second, yet slivers of the microscopic black hole can adhere to unlucky targets, painfully anchoring their bodies in place."
   },
   {
     "source": "Alien Archive 4 pg. 29",
@@ -109,7 +109,7 @@
     "Bulk": "3",
     "Special": "explode (10 ft.), force, gravitation (20 ft.), unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "By capturing, studying, and dissecting deadfall stalkers—all at considerable cost in blood and credits—the drow manufacturer Arabani Arms Ltd. has created powerful cannons able to create gravitational singularities at a distant point. These instantaneous black holes tear apart nearby matter and, in the process, hurl away any victims who can’t clear the area. The singularity typically lasts for a split-second, yet slivers of the microscopic black hole can adhere to unlucky targets, painfully anchoring their bodies in place."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -125,7 +125,7 @@
     "Bulk": "2",
     "Special": "—",
     "type": "Two-Handed Weapons",
-    "desc": "top desc: hr"
+    "desc": "NIL (an acronym for “neutronic individual launcher”) grenade launchers are the most common grenade launcher available on the market. NILs can be fitted with any sort of grenade as ammunition. Grenades are loaded individually, rather than in magazines. You can load different types of grenades into a NIL grenade launcher, and you can select which grenade to fire as part of the action used to make an attack."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -141,7 +141,7 @@
     "Bulk": "2",
     "Special": "Modal (cryo), professional (miner), shatter, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Molecular borers are bleeding-edge tools that function by slowing molecular action and then, with a modal change, exciting the molecules to cause sheering force, resulting in quicker excavation. Instead of damaging valuable ores, the molecular borer allows a miner to detect different materials by their variable response to the borer’s energy loop. Rescue operations make good use of utility borers, which easily penetrates penetrating the lighter materials used for public doorways and vehicles. Industrial borers routinely remove typical mining materials, such as limestone. Advanced and elite models cut through plate steel or airlocks. The paragon model has tested favorably against pure plate adamantine."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -157,7 +157,7 @@
     "Bulk": "2",
     "Special": "blast, living, mind-affecting, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Unlike weapons that rely on physical projectiles or various energy forms to damage a target, a psychic-wave cannon targets a creature’s mind. The cannon contains an organic neural matrix that converts charges into a mental blast, damaging creatures with overwhelming psychic output. The numeral of a psychicwave cannon’s model indicates the strength of its output, but the weapon can’t harm objects and mindless creatures, as well as those immune to mind-affecting effects."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -173,7 +173,7 @@
     "Bulk": "2",
     "Special": "mine",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A specialized form of grenade launcher, a minelayer surrounds its ordnance with a cushioning magnetic field. Grenades must be loaded into a minelayer individually, and a user can decide which grenade to fire with each shot. A merc minelayer holds up to 8 grenades at once, a squad model holds 12, a platoon version can carry up to 16, and the command minelayer can hold an impressive 20 grenades."
   },
   {
     "source": "Alien Archive pg. 109",
@@ -189,7 +189,7 @@
     "Bulk": "2",
     "Special": "analog, boost 1d4, line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "In addition to collecting the valuable composites the creature leaves behind, some entrepreneurs enter surnochs’ territory to hunt and kill them for their acid-producing glands and spines. These components can be made into heavy weapons known as acid lancers, which shoot jets of caustic fluid. A wielder of an acid lancer can squeeze the gland located near the trigger to give her next shot an extra boost of damaging acid. Acid lancers use a special synthetic acid called caustrol for ammunition, which has the same price and comes in the same size containers as petrol."
   },
   {
     "source": "Near Space pg. 149",
@@ -205,7 +205,7 @@
     "Bulk": "2",
     "Special": "Bright, penetrating, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Few damai are brave enough to confront the titanic colossi that roam the devastated world of Daimalko, but some have no choice. This plasma weapon not only delivers a powerful blast capable of penetrating a colossus’s thick hide, but it delivers a blast of light and noise drawing the target’s attention from others. Some desperation cannons are used in only one battle, unless they’re later recovered from wreckage by scavengers."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 48",
@@ -221,7 +221,7 @@
     "Bulk": "2",
     "Special": "Line, living, mire 1 round, regrowth, stun, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Lethal Innovations developed this weapon with assistance from a barathu consulting firm. An electrogel jet is a bulbous, blue creature with pulsing veins and soft tentacles that grasp the wielder’s arm to help support the weapon’s heavy weight. The creature’s bulbous sacs synthesize an electrical gel that shocks and burns targets before falling to the ground, where it forms a sticky layer. Owners who wish to refill an electrogel jet without waiting for the weapon to grow its own fuel can substitute caustrol, a synthetic acid with the same price and container size as petrol."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -237,7 +237,7 @@
     "Bulk": "2",
     "Special": "blast, living, mind-affecting, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Unlike weapons that rely on physical projectiles or various energy forms to damage a target, a psychic-wave cannon targets a creature’s mind. The cannon contains an organic neural matrix that converts charges into a mental blast, damaging creatures with overwhelming psychic output. The numeral of a psychicwave cannon’s model indicates the strength of its output, but the weapon can’t harm objects and mindless creatures, as well as those immune to mind-affecting effects."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -253,7 +253,7 @@
     "Bulk": "2",
     "Special": "cluster (5 ft.)",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The cluster launcher fires multiple grenades as a single shot, granting those grenades increased range and a larger blast radius. Each of the models—tactical, advanced, elite, and paragon—features an increase in range, capacity, and overall explosive power."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -269,7 +269,7 @@
     "Bulk": "2",
     "Special": "Modal (cryo), professional (miner), shatter, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Molecular borers are bleeding-edge tools that function by slowing molecular action and then, with a modal change, exciting the molecules to cause sheering force, resulting in quicker excavation. Instead of damaging valuable ores, the molecular borer allows a miner to detect different materials by their variable response to the borer’s energy loop. Rescue operations make good use of utility borers, which easily penetrates penetrating the lighter materials used for public doorways and vehicles. Industrial borers routinely remove typical mining materials, such as limestone. Advanced and elite models cut through plate steel or airlocks. The paragon model has tested favorably against pure plate adamantine."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 48",
@@ -285,7 +285,7 @@
     "Bulk": "1",
     "Special": "Line, living, mire 1 round, regrowth, stun, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Lethal Innovations developed this weapon with assistance from a barathu consulting firm. An electrogel jet is a bulbous, blue creature with pulsing veins and soft tentacles that grasp the wielder’s arm to help support the weapon’s heavy weight. The creature’s bulbous sacs synthesize an electrical gel that shocks and burns targets before falling to the ground, where it forms a sticky layer. Owners who wish to refill an electrogel jet without waiting for the weapon to grow its own fuel can substitute caustrol, a synthetic acid with the same price and container size as petrol."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -301,7 +301,7 @@
     "Bulk": "2",
     "Special": "mine",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A specialized form of grenade launcher, a minelayer surrounds its ordnance with a cushioning magnetic field. Grenades must be loaded into a minelayer individually, and a user can decide which grenade to fire with each shot. A merc minelayer holds up to 8 grenades at once, a squad model holds 12, a platoon version can carry up to 16, and the command minelayer can hold an impressive 20 grenades."
   },
   {
     "source": "Starfinder #19: Fate of the Fifth pg. 53",
@@ -317,7 +317,7 @@
     "Bulk": "L",
     "Special": "Blast, living, Swarm, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Inspired by the horrific spewing capability of its namesake Swarm component, and much like the acid cannon, the dissolver has two biological glands that use power to produce a couple of highly reactive chemicals. These two chemicals are stable when separate. However, as with the corrovox’s weapon, when an electric jolt causes the dissolver to constrict and release these chemicals, they converge just outside the weapon’s maw, creating an acidic flash fire in a broad arc."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -333,7 +333,7 @@
     "Bulk": "3",
     "Special": "—",
     "type": "Two-Handed Weapons",
-    "desc": "top desc: hr"
+    "desc": "NIL (an acronym for “neutronic individual launcher”) grenade launchers are the most common grenade launcher available on the market. NILs can be fitted with any sort of grenade as ammunition. Grenades are loaded individually, rather than in magazines. You can load different types of grenades into a NIL grenade launcher, and you can select which grenade to fire as part of the action used to make an attack."
   },
   {
     "source": "Alien Archive pg. 109",
@@ -349,7 +349,7 @@
     "Bulk": "2",
     "Special": "analog, boost 1d6, line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "In addition to collecting the valuable composites the creature leaves behind, some entrepreneurs enter surnochs’ territory to hunt and kill them for their acid-producing glands and spines. These components can be made into heavy weapons known as acid lancers, which shoot jets of caustic fluid. A wielder of an acid lancer can squeeze the gland located near the trigger to give her next shot an extra boost of damaging acid. Acid lancers use a special synthetic acid called caustrol for ammunition, which has the same price and comes in the same size containers as petrol."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -381,7 +381,7 @@
     "Bulk": "2",
     "Special": "Bright, penetrating, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Few damai are brave enough to confront the titanic colossi that roam the devastated world of Daimalko, but some have no choice. This plasma weapon not only delivers a powerful blast capable of penetrating a colossus’s thick hide, but it delivers a blast of light and noise drawing the target’s attention from others. Some desperation cannons are used in only one battle, unless they’re later recovered from wreckage by scavengers."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -397,7 +397,7 @@
     "Bulk": "2",
     "Special": "Modal (cryo), professional (miner), shatter, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Molecular borers are bleeding-edge tools that function by slowing molecular action and then, with a modal change, exciting the molecules to cause sheering force, resulting in quicker excavation. Instead of damaging valuable ores, the molecular borer allows a miner to detect different materials by their variable response to the borer’s energy loop. Rescue operations make good use of utility borers, which easily penetrates penetrating the lighter materials used for public doorways and vehicles. Industrial borers routinely remove typical mining materials, such as limestone. Advanced and elite models cut through plate steel or airlocks. The paragon model has tested favorably against pure plate adamantine."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 48",
@@ -413,7 +413,7 @@
     "Bulk": "1",
     "Special": "Line, living, mire 1 round, regrowth, stun, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Lethal Innovations developed this weapon with assistance from a barathu consulting firm. An electrogel jet is a bulbous, blue creature with pulsing veins and soft tentacles that grasp the wielder’s arm to help support the weapon’s heavy weight. The creature’s bulbous sacs synthesize an electrical gel that shocks and burns targets before falling to the ground, where it forms a sticky layer. Owners who wish to refill an electrogel jet without waiting for the weapon to grow its own fuel can substitute caustrol, a synthetic acid with the same price and container size as petrol."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -429,7 +429,7 @@
     "Bulk": "2",
     "Special": "blast, living, mind-affecting, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Unlike weapons that rely on physical projectiles or various energy forms to damage a target, a psychic-wave cannon targets a creature’s mind. The cannon contains an organic neural matrix that converts charges into a mental blast, damaging creatures with overwhelming psychic output. The numeral of a psychicwave cannon’s model indicates the strength of its output, but the weapon can’t harm objects and mindless creatures, as well as those immune to mind-affecting effects."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -445,7 +445,7 @@
     "Bulk": "3",
     "Special": "cluster (10 ft.)",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The cluster launcher fires multiple grenades as a single shot, granting those grenades increased range and a larger blast radius. Each of the models—tactical, advanced, elite, and paragon—features an increase in range, capacity, and overall explosive power."
   },
   {
     "source": "Starfinder #19: Fate of the Fifth pg. 53",
@@ -461,7 +461,7 @@
     "Bulk": "L",
     "Special": "Blast, living, Swarm, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Inspired by the horrific spewing capability of its namesake Swarm component, and much like the acid cannon, the dissolver has two biological glands that use power to produce a couple of highly reactive chemicals. These two chemicals are stable when separate. However, as with the corrovox’s weapon, when an electric jolt causes the dissolver to constrict and release these chemicals, they converge just outside the weapon’s maw, creating an acidic flash fire in a broad arc."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -477,7 +477,7 @@
     "Bulk": "2",
     "Special": "mine",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A specialized form of grenade launcher, a minelayer surrounds its ordnance with a cushioning magnetic field. Grenades must be loaded into a minelayer individually, and a user can decide which grenade to fire with each shot. A merc minelayer holds up to 8 grenades at once, a squad model holds 12, a platoon version can carry up to 16, and the command minelayer can hold an impressive 20 grenades."
   },
   {
     "source": "Alien Archive pg. 109",
@@ -493,7 +493,7 @@
     "Bulk": "2",
     "Special": "analog, boost 1d8, line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "In addition to collecting the valuable composites the creature leaves behind, some entrepreneurs enter surnochs’ territory to hunt and kill them for their acid-producing glands and spines. These components can be made into heavy weapons known as acid lancers, which shoot jets of caustic fluid. A wielder of an acid lancer can squeeze the gland located near the trigger to give her next shot an extra boost of damaging acid. Acid lancers use a special synthetic acid called caustrol for ammunition, which has the same price and comes in the same size containers as petrol."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -509,7 +509,7 @@
     "Bulk": "2",
     "Special": "Modal (cryo), professional (miner), shatter, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Molecular borers are bleeding-edge tools that function by slowing molecular action and then, with a modal change, exciting the molecules to cause sheering force, resulting in quicker excavation. Instead of damaging valuable ores, the molecular borer allows a miner to detect different materials by their variable response to the borer’s energy loop. Rescue operations make good use of utility borers, which easily penetrates penetrating the lighter materials used for public doorways and vehicles. Industrial borers routinely remove typical mining materials, such as limestone. Advanced and elite models cut through plate steel or airlocks. The paragon model has tested favorably against pure plate adamantine."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -525,7 +525,7 @@
     "Bulk": "3",
     "Special": "cluster (10 ft.)",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The cluster launcher fires multiple grenades as a single shot, granting those grenades increased range and a larger blast radius. Each of the models—tactical, advanced, elite, and paragon—features an increase in range, capacity, and overall explosive power."
   },
   {
     "source": "Near Space pg. 149",
@@ -541,7 +541,7 @@
     "Bulk": "2",
     "Special": "Bright, penetrating, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Few damai are brave enough to confront the titanic colossi that roam the devastated world of Daimalko, but some have no choice. This plasma weapon not only delivers a powerful blast capable of penetrating a colossus’s thick hide, but it delivers a blast of light and noise drawing the target’s attention from others. Some desperation cannons are used in only one battle, unless they’re later recovered from wreckage by scavengers."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 48",
@@ -557,7 +557,7 @@
     "Bulk": "1",
     "Special": "Line, living, mire 1 round, regrowth, stun, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Lethal Innovations developed this weapon with assistance from a barathu consulting firm. An electrogel jet is a bulbous, blue creature with pulsing veins and soft tentacles that grasp the wielder’s arm to help support the weapon’s heavy weight. The creature’s bulbous sacs synthesize an electrical gel that shocks and burns targets before falling to the ground, where it forms a sticky layer. Owners who wish to refill an electrogel jet without waiting for the weapon to grow its own fuel can substitute caustrol, a synthetic acid with the same price and container size as petrol."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -573,7 +573,7 @@
     "Bulk": "2",
     "Special": "blast, living, mind-affecting, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Unlike weapons that rely on physical projectiles or various energy forms to damage a target, a psychic-wave cannon targets a creature’s mind. The cannon contains an organic neural matrix that converts charges into a mental blast, damaging creatures with overwhelming psychic output. The numeral of a psychicwave cannon’s model indicates the strength of its output, but the weapon can’t harm objects and mindless creatures, as well as those immune to mind-affecting effects."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -589,7 +589,7 @@
     "Bulk": "2",
     "Special": "mine",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A specialized form of grenade launcher, a minelayer surrounds its ordnance with a cushioning magnetic field. Grenades must be loaded into a minelayer individually, and a user can decide which grenade to fire with each shot. A merc minelayer holds up to 8 grenades at once, a squad model holds 12, a platoon version can carry up to 16, and the command minelayer can hold an impressive 20 grenades."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -605,7 +605,7 @@
     "Bulk": "3",
     "Special": "cluster (15 ft.)",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The cluster launcher fires multiple grenades as a single shot, granting those grenades increased range and a larger blast radius. Each of the models—tactical, advanced, elite, and paragon—features an increase in range, capacity, and overall explosive power."
   },
   {
     "source": "Starfinder #19: Fate of the Fifth pg. 53",
@@ -621,7 +621,7 @@
     "Bulk": "L",
     "Special": "Blast, living, Swarm, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Inspired by the horrific spewing capability of its namesake Swarm component, and much like the acid cannon, the dissolver has two biological glands that use power to produce a couple of highly reactive chemicals. These two chemicals are stable when separate. However, as with the corrovox’s weapon, when an electric jolt causes the dissolver to constrict and release these chemicals, they converge just outside the weapon’s maw, creating an acidic flash fire in a broad arc."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -637,7 +637,7 @@
     "Bulk": "2",
     "Special": "Modal (cryo), professional (miner), shatter, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Molecular borers are bleeding-edge tools that function by slowing molecular action and then, with a modal change, exciting the molecules to cause sheering force, resulting in quicker excavation. Instead of damaging valuable ores, the molecular borer allows a miner to detect different materials by their variable response to the borer’s energy loop. Rescue operations make good use of utility borers, which easily penetrates penetrating the lighter materials used for public doorways and vehicles. Industrial borers routinely remove typical mining materials, such as limestone. Advanced and elite models cut through plate steel or airlocks. The paragon model has tested favorably against pure plate adamantine."
   },
   {
     "source": "Alien Archive pg. 109",
@@ -653,7 +653,7 @@
     "Bulk": "2",
     "Special": "analog, boost 1d10, line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "In addition to collecting the valuable composites the creature leaves behind, some entrepreneurs enter surnochs’ territory to hunt and kill them for their acid-producing glands and spines. These components can be made into heavy weapons known as acid lancers, which shoot jets of caustic fluid. A wielder of an acid lancer can squeeze the gland located near the trigger to give her next shot an extra boost of damaging acid. Acid lancers use a special synthetic acid called caustrol for ammunition, which has the same price and comes in the same size containers as petrol."
   },
   {
     "source": "Near Space pg. 149",
@@ -669,7 +669,7 @@
     "Bulk": "2",
     "Special": "Bright, penetrating, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Few damai are brave enough to confront the titanic colossi that roam the devastated world of Daimalko, but some have no choice. This plasma weapon not only delivers a powerful blast capable of penetrating a colossus’s thick hide, but it delivers a blast of light and noise drawing the target’s attention from others. Some desperation cannons are used in only one battle, unless they’re later recovered from wreckage by scavengers."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -685,7 +685,7 @@
     "Bulk": "2",
     "Special": "blast, living, mind-affecting, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Unlike weapons that rely on physical projectiles or various energy forms to damage a target, a psychic-wave cannon targets a creature’s mind. The cannon contains an organic neural matrix that converts charges into a mental blast, damaging creatures with overwhelming psychic output. The numeral of a psychicwave cannon’s model indicates the strength of its output, but the weapon can’t harm objects and mindless creatures, as well as those immune to mind-affecting effects."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -701,7 +701,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eCryo Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -717,7 +717,7 @@
     "Bulk": "3",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A decidedly unsubtle weapon, an ice launcher fires a huge block of ice at an opponent. The weapon is heavy and slow to fire, but the weight of the supercooled ice can knock an opponent to the ground and deal extensive cold damage. Aufeis and iceberg launchers produce small enough quantities of ice that it can be stored in the weapon’s square barrel, sometimes making them appear more like bulky appliance than weapons. The more complex floe, glacier, and icecap ice launchers generate a large amount of ice in front of the barrel proper, steadying the mass with clawed protrusions before firing."
   },
   {
     "source": "Starfinder Armory pg. 34",
@@ -733,7 +733,7 @@
     "Bulk": "3",
     "Special": "blast, entangle (1d4 rounds), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Coolant sprayers were designed following the principles of a flamethrower, but with an eye more toward hindrance than sheer damage. Experts can easily identify a coolant sprayer by the bulky insulation surrounding the sprayer’s coolant reservoir. The weapon expels a cone of activated coolant that stiffens and freezes living tissue. While not harmless, the effect is somewhat less deadly than most energy weapons. Hiemal, algid, glacial, and isothermal coolant sprayers all function in similar ways, though their destructive potential varies from one model to another."
   },
   {
     "source": "Starfinder Armory pg. 34",
@@ -749,7 +749,7 @@
     "Bulk": "3",
     "Special": "explode (10 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Boxy devices covered with various gauges and protruding antennae, energy converters resemble dangerously experimental pieces of hardware. These devices invert matter-antimatter annihilation; instead of generating massive amounts of heat from a tiny speck of matter, an energy converter generates a tiny speck of matter by drawing an incredible amount of heat energy from a nearby area. Tactical, advanced, and elite energy converters each create relatively larger flecks of matter, drawing their energy from a larger area in order to do so."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -765,7 +765,7 @@
     "Bulk": "3",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A decidedly unsubtle weapon, an ice launcher fires a huge block of ice at an opponent. The weapon is heavy and slow to fire, but the weight of the supercooled ice can knock an opponent to the ground and deal extensive cold damage. Aufeis and iceberg launchers produce small enough quantities of ice that it can be stored in the weapon’s square barrel, sometimes making them appear more like bulky appliance than weapons. The more complex floe, glacier, and icecap ice launchers generate a large amount of ice in front of the barrel proper, steadying the mass with clawed protrusions before firing."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -781,7 +781,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eCryo Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder Armory pg. 34",
@@ -797,7 +797,7 @@
     "Bulk": "3",
     "Special": "blast, entangle (1d4 rounds), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Coolant sprayers were designed following the principles of a flamethrower, but with an eye more toward hindrance than sheer damage. Experts can easily identify a coolant sprayer by the bulky insulation surrounding the sprayer’s coolant reservoir. The weapon expels a cone of activated coolant that stiffens and freezes living tissue. While not harmless, the effect is somewhat less deadly than most energy weapons. Hiemal, algid, glacial, and isothermal coolant sprayers all function in similar ways, though their destructive potential varies from one model to another."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -813,7 +813,7 @@
     "Bulk": "3",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A decidedly unsubtle weapon, an ice launcher fires a huge block of ice at an opponent. The weapon is heavy and slow to fire, but the weight of the supercooled ice can knock an opponent to the ground and deal extensive cold damage. Aufeis and iceberg launchers produce small enough quantities of ice that it can be stored in the weapon’s square barrel, sometimes making them appear more like bulky appliance than weapons. The more complex floe, glacier, and icecap ice launchers generate a large amount of ice in front of the barrel proper, steadying the mass with clawed protrusions before firing."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -829,7 +829,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eCryo Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder Armory pg. 34",
@@ -845,7 +845,7 @@
     "Bulk": "3",
     "Special": "explode (15 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Boxy devices covered with various gauges and protruding antennae, energy converters resemble dangerously experimental pieces of hardware. These devices invert matter-antimatter annihilation; instead of generating massive amounts of heat from a tiny speck of matter, an energy converter generates a tiny speck of matter by drawing an incredible amount of heat energy from a nearby area. Tactical, advanced, and elite energy converters each create relatively larger flecks of matter, drawing their energy from a larger area in order to do so."
   },
   {
     "source": "Starfinder #3: Splintered Worlds pg. 49",
@@ -861,7 +861,7 @@
     "Bulk": "2",
     "Special": "line, necrotic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The frailty cannon line produces a jet of necromantically fueled coolant. More easily controlled than their zero cannon counterparts, these weapons are used to bring down enemies as much as they’re used to invigorate nearby undead."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -877,7 +877,7 @@
     "Bulk": "2",
     "Special": "line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Zero cannons project a freezing line straight out from a generator, affecting any targets within the line. A pair of tanks in the cannon’s heavy stock contain chemical coolants that produce a violent endothermic reaction when mixed in the insulated barrel."
   },
   {
     "source": "Starfinder Armory pg. 34",
@@ -893,7 +893,7 @@
     "Bulk": "3",
     "Special": "blast, entangle (2d4 rounds), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Coolant sprayers were designed following the principles of a flamethrower, but with an eye more toward hindrance than sheer damage. Experts can easily identify a coolant sprayer by the bulky insulation surrounding the sprayer’s coolant reservoir. The weapon expels a cone of activated coolant that stiffens and freezes living tissue. While not harmless, the effect is somewhat less deadly than most energy weapons. Hiemal, algid, glacial, and isothermal coolant sprayers all function in similar ways, though their destructive potential varies from one model to another."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -909,7 +909,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eCryo Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -925,7 +925,7 @@
     "Bulk": "2",
     "Special": "line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Zero cannons project a freezing line straight out from a generator, affecting any targets within the line. A pair of tanks in the cannon’s heavy stock contain chemical coolants that produce a violent endothermic reaction when mixed in the insulated barrel."
   },
   {
     "source": "Starfinder #3: Splintered Worlds pg. 49",
@@ -941,7 +941,7 @@
     "Bulk": "2",
     "Special": "line, necrotic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The frailty cannon line produces a jet of necromantically fueled coolant. More easily controlled than their zero cannon counterparts, these weapons are used to bring down enemies as much as they’re used to invigorate nearby undead."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -957,7 +957,7 @@
     "Bulk": "3",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A decidedly unsubtle weapon, an ice launcher fires a huge block of ice at an opponent. The weapon is heavy and slow to fire, but the weight of the supercooled ice can knock an opponent to the ground and deal extensive cold damage. Aufeis and iceberg launchers produce small enough quantities of ice that it can be stored in the weapon’s square barrel, sometimes making them appear more like bulky appliance than weapons. The more complex floe, glacier, and icecap ice launchers generate a large amount of ice in front of the barrel proper, steadying the mass with clawed protrusions before firing."
   },
   {
     "source": "Starfinder Armory pg. 34",
@@ -973,7 +973,7 @@
     "Bulk": "3",
     "Special": "explode (20 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Boxy devices covered with various gauges and protruding antennae, energy converters resemble dangerously experimental pieces of hardware. These devices invert matter-antimatter annihilation; instead of generating massive amounts of heat from a tiny speck of matter, an energy converter generates a tiny speck of matter by drawing an incredible amount of heat energy from a nearby area. Tactical, advanced, and elite energy converters each create relatively larger flecks of matter, drawing their energy from a larger area in order to do so."
   },
   {
     "source": "Starfinder Armory pg. 34",
@@ -989,7 +989,7 @@
     "Bulk": "3",
     "Special": "blast, entangle (2d4 rounds), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Coolant sprayers were designed following the principles of a flamethrower, but with an eye more toward hindrance than sheer damage. Experts can easily identify a coolant sprayer by the bulky insulation surrounding the sprayer’s coolant reservoir. The weapon expels a cone of activated coolant that stiffens and freezes living tissue. While not harmless, the effect is somewhat less deadly than most energy weapons. Hiemal, algid, glacial, and isothermal coolant sprayers all function in similar ways, though their destructive potential varies from one model to another."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1005,7 +1005,7 @@
     "Bulk": "2",
     "Special": "line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Zero cannons project a freezing line straight out from a generator, affecting any targets within the line. A pair of tanks in the cannon’s heavy stock contain chemical coolants that produce a violent endothermic reaction when mixed in the insulated barrel."
   },
   {
     "source": "Starfinder #3: Splintered Worlds pg. 49",
@@ -1021,7 +1021,7 @@
     "Bulk": "2",
     "Special": "line, necrotic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The frailty cannon line produces a jet of necromantically fueled coolant. More easily controlled than their zero cannon counterparts, these weapons are used to bring down enemies as much as they’re used to invigorate nearby undead."
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -1037,7 +1037,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eCryo Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder Armory pg. 35",
@@ -1053,7 +1053,7 @@
     "Bulk": "3",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A decidedly unsubtle weapon, an ice launcher fires a huge block of ice at an opponent. The weapon is heavy and slow to fire, but the weight of the supercooled ice can knock an opponent to the ground and deal extensive cold damage. Aufeis and iceberg launchers produce small enough quantities of ice that it can be stored in the weapon’s square barrel, sometimes making them appear more like bulky appliance than weapons. The more complex floe, glacier, and icecap ice launchers generate a large amount of ice in front of the barrel proper, steadying the mass with clawed protrusions before firing."
   },
   {
     "source": "Starfinder #33: Dominion’s End pg. 49",
@@ -1069,7 +1069,7 @@
     "Bulk": "3",
     "Special": "Antibiological, hybrid",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An experimental weapon, the mutation gun modifies the traditional degeneration beam projected by most sivv firearms into a form that rapidly destabilizes organic matter, sometimes resulting in random cellular mutations in the victims. This intimidating weapon was used during revolts by those enslaved, and its reputation alone quelled potential uprisings."
   },
   {
     "source": "Starfinder #33: Dominion’s End pg. 49",
@@ -1085,7 +1085,7 @@
     "Bulk": "4",
     "Special": "Hybrid",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The heavy degenerator is a squad-level support weapon carried into battle by sivv warmasters and other elite soldiers. The high power requirements of such a weapon virtually require the use of a rel-battery, which draws infinite energy from rel-state."
   },
   {
     "source": "Starfinder Armory pg. 36",
@@ -1100,7 +1100,8 @@
     "Usage": "4",
     "Bulk": "3",
     "Special": "line, unwieldy",
-    "type": "Two-Handed Weapons"
+    "type": "Two-Handed Weapons",
+    "desc": "This wide-barreled cannon emits a stream of red-tinged energy that originates from the weapon’s heavy proton tank, affecting all enemies in a line. Like most disintegrator weapons, they are available in liquidator, decimator, executioner, and eradicator models."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1116,7 +1117,7 @@
     "Bulk": "3",
     "Special": "explode (10 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "While most disintegrator weapons produce a stream of energy that strikes a single target, a nanite decoupler programs nanites to replicate a disintegrator’s destructive energies over a set area. The integrated generators used to overcharge the nanites for the desired effect make a nanite decoupler a heavy, bulky weapon that requires a skilled user. The caustic nanite decoupler and the vitriolic nanite decoupler are both deadly, destructive weapons."
   },
   {
     "source": "Starfinder Armory pg. 36",
@@ -1131,7 +1132,8 @@
     "Usage": "4",
     "Bulk": "3",
     "Special": "line, unwieldy",
-    "type": "Two-Handed Weapons"
+    "type": "Two-Handed Weapons",
+    "desc": "This wide-barreled cannon emits a stream of red-tinged energy that originates from the weapon’s heavy proton tank, affecting all enemies in a line. Like most disintegrator weapons, they are available in liquidator, decimator, executioner, and eradicator models."
   },
   {
     "source": "Starfinder Armory pg. 36",
@@ -1146,7 +1148,8 @@
     "Usage": "8",
     "Bulk": "3",
     "Special": "line, unwieldy",
-    "type": "Two-Handed Weapons"
+    "type": "Two-Handed Weapons",
+    "desc": "This wide-barreled cannon emits a stream of red-tinged energy that originates from the weapon’s heavy proton tank, affecting all enemies in a line. Like most disintegrator weapons, they are available in liquidator, decimator, executioner, and eradicator models."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1162,7 +1165,7 @@
     "Bulk": "3",
     "Special": "explode (20 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "While most disintegrator weapons produce a stream of energy that strikes a single target, a nanite decoupler programs nanites to replicate a disintegrator’s destructive energies over a set area. The integrated generators used to overcharge the nanites for the desired effect make a nanite decoupler a heavy, bulky weapon that requires a skilled user. The caustic nanite decoupler and the vitriolic nanite decoupler are both deadly, destructive weapons."
   },
   {
     "source": "Starfinder Armory pg. 36",
@@ -1177,7 +1180,8 @@
     "Usage": "8",
     "Bulk": "3",
     "Special": "line, unwieldy",
-    "type": "Two-Handed Weapons"
+    "type": "Two-Handed Weapons",
+    "desc": "This wide-barreled cannon emits a stream of red-tinged energy that originates from the weapon’s heavy proton tank, affecting all enemies in a line. Like most disintegrator weapons, they are available in liquidator, decimator, executioner, and eradicator models."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1193,7 +1197,7 @@
     "Bulk": "2",
     "Special": "boost 1d4",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An agitator is a portable generator of microwave radiation that rapidly heats up targets to create internal bubbles of steam or makes targets burst into flames. The longer the weapon is focused, the more intense the agitation becomes, making it a favored by the defenders of bunkers, guard posts, and other emplacements. Ember agitators and blaze agitators rely on individual generators, taking the form of a bulky cylinder in the middle of the gun that hums ominously as the weapon fires, but miniaturization technology allows inferno agitators and solar flare agitators to include multiple smaller generators for increased effect."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1209,7 +1213,7 @@
     "Bulk": "2",
     "Special": "analog, blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These portable flamethrowers consist of a heavy rifle-like design with an oversized petrol tank integrated into the weapon’s stock."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1225,7 +1229,7 @@
     "Bulk": "2",
     "Special": "line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Indistinguishable from a flamethrower to the lay observer, a burner uses petrol as fuel to produce a strong jet of flame. However, the subtly narrower nozzle and recoil-suppressing gyros allow a burner to fire streams of petrol with more control and focus than its traditional cousin. Ifrit-, salamander-, hellhound-, firedrake-, and phoenix-class burners are all widely available."
   },
   {
     "source": "Starfinder Armory pg. 38",
@@ -1241,7 +1245,7 @@
     "Bulk": "2",
     "Special": "blast, radioactive, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Radcannons are large, dangerous-to-wield weapons typically employed by desperate, reckless, or unliving users. A radcannon’s high-voltage capacitors channel energy through a magnetron and transformer to generate massive blasts of radioactive waves, burning targets and typically exposing the target—and potentially the user—to dangerous levels of radiation. Devourer cultists often employ electromagnetic radcannons, neutron radcannons, and even rapid-decay radcannons, unfazed by the weapons’ danger."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1257,7 +1261,7 @@
     "Bulk": "2",
     "Special": "explode (10 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Flame launchers sling large globules of aerated petrol with carefully timed ignition. The resulting explosion is usually well contained and can be placed with surprising precision. Although fed by the same sort of petrol tank found in burners and flamethrowers, the weapon is a complicated mess of air tanks, exposed circuitry, and tubing, all required to achieve the perfect mixture for controlled explosions. Fireball flame launchers are the weakest version of this weapon, outpowered by immolation flame launchers and the exceptionally powerful supernova flame launchers."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1273,7 +1277,7 @@
     "Bulk": "2",
     "Special": "boost 1d6",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An agitator is a portable generator of microwave radiation that rapidly heats up targets to create internal bubbles of steam or makes targets burst into flames. The longer the weapon is focused, the more intense the agitation becomes, making it a favored by the defenders of bunkers, guard posts, and other emplacements. Ember agitators and blaze agitators rely on individual generators, taking the form of a bulky cylinder in the middle of the gun that hums ominously as the weapon fires, but miniaturization technology allows inferno agitators and solar flare agitators to include multiple smaller generators for increased effect."
   },
   {
     "source": "SFS Scenario #1-11: In Pursuit of the Scoured Past pg. 18",
@@ -1289,7 +1293,7 @@
     "Bulk": "2",
     "Special": "analog, blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These portable flamethrowers consist of a heavy rifle-like design with an oversized petrol tank integrated into the weapon’s stock."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1305,7 +1309,7 @@
     "Bulk": "2",
     "Special": "line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Indistinguishable from a flamethrower to the lay observer, a burner uses petrol as fuel to produce a strong jet of flame. However, the subtly narrower nozzle and recoil-suppressing gyros allow a burner to fire streams of petrol with more control and focus than its traditional cousin. Ifrit-, salamander-, hellhound-, firedrake-, and phoenix-class burners are all widely available."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1321,7 +1325,7 @@
     "Bulk": "2",
     "Special": "analog, blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These portable flamethrowers consist of a heavy rifle-like design with an oversized petrol tank integrated into the weapon’s stock."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1337,7 +1341,7 @@
     "Bulk": "2",
     "Special": "explode (10 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Flame launchers sling large globules of aerated petrol with carefully timed ignition. The resulting explosion is usually well contained and can be placed with surprising precision. Although fed by the same sort of petrol tank found in burners and flamethrowers, the weapon is a complicated mess of air tanks, exposed circuitry, and tubing, all required to achieve the perfect mixture for controlled explosions. Fireball flame launchers are the weakest version of this weapon, outpowered by immolation flame launchers and the exceptionally powerful supernova flame launchers."
   },
   {
     "source": "Starfinder Armory pg. 38",
@@ -1353,7 +1357,7 @@
     "Bulk": "2",
     "Special": "blast, radioactive, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Radcannons are large, dangerous-to-wield weapons typically employed by desperate, reckless, or unliving users. A radcannon’s high-voltage capacitors channel energy through a magnetron and transformer to generate massive blasts of radioactive waves, burning targets and typically exposing the target—and potentially the user—to dangerous levels of radiation. Devourer cultists often employ electromagnetic radcannons, neutron radcannons, and even rapid-decay radcannons, unfazed by the weapons’ danger."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1369,7 +1373,7 @@
     "Bulk": "2",
     "Special": "line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Indistinguishable from a flamethrower to the lay observer, a burner uses petrol as fuel to produce a strong jet of flame. However, the subtly narrower nozzle and recoil-suppressing gyros allow a burner to fire streams of petrol with more control and focus than its traditional cousin. Ifrit-, salamander-, hellhound-, firedrake-, and phoenix-class burners are all widely available."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1385,7 +1389,7 @@
     "Bulk": "2",
     "Special": "analog, blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These portable flamethrowers consist of a heavy rifle-like design with an oversized petrol tank integrated into the weapon’s stock."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1401,7 +1405,7 @@
     "Bulk": "2",
     "Special": "boost 2d6",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An agitator is a portable generator of microwave radiation that rapidly heats up targets to create internal bubbles of steam or makes targets burst into flames. The longer the weapon is focused, the more intense the agitation becomes, making it a favored by the defenders of bunkers, guard posts, and other emplacements. Ember agitators and blaze agitators rely on individual generators, taking the form of a bulky cylinder in the middle of the gun that hums ominously as the weapon fires, but miniaturization technology allows inferno agitators and solar flare agitators to include multiple smaller generators for increased effect."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1417,7 +1421,7 @@
     "Bulk": "2",
     "Special": "explode (10 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Flame launchers sling large globules of aerated petrol with carefully timed ignition. The resulting explosion is usually well contained and can be placed with surprising precision. Although fed by the same sort of petrol tank found in burners and flamethrowers, the weapon is a complicated mess of air tanks, exposed circuitry, and tubing, all required to achieve the perfect mixture for controlled explosions. Fireball flame launchers are the weakest version of this weapon, outpowered by immolation flame launchers and the exceptionally powerful supernova flame launchers."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1433,7 +1437,7 @@
     "Bulk": "2",
     "Special": "analog, blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These portable flamethrowers consist of a heavy rifle-like design with an oversized petrol tank integrated into the weapon’s stock."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1449,7 +1453,7 @@
     "Bulk": "2",
     "Special": "line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Indistinguishable from a flamethrower to the lay observer, a burner uses petrol as fuel to produce a strong jet of flame. However, the subtly narrower nozzle and recoil-suppressing gyros allow a burner to fire streams of petrol with more control and focus than its traditional cousin. Ifrit-, salamander-, hellhound-, firedrake-, and phoenix-class burners are all widely available."
   },
   {
     "source": "Starfinder Armory pg. 38",
@@ -1465,7 +1469,7 @@
     "Bulk": "2",
     "Special": "blast, radioactive, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Radcannons are large, dangerous-to-wield weapons typically employed by desperate, reckless, or unliving users. A radcannon’s high-voltage capacitors channel energy through a magnetron and transformer to generate massive blasts of radioactive waves, burning targets and typically exposing the target—and potentially the user—to dangerous levels of radiation. Devourer cultists often employ electromagnetic radcannons, neutron radcannons, and even rapid-decay radcannons, unfazed by the weapons’ danger."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1481,7 +1485,7 @@
     "Bulk": "2",
     "Special": "analog, blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These portable flamethrowers consist of a heavy rifle-like design with an oversized petrol tank integrated into the weapon’s stock."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1497,7 +1501,7 @@
     "Bulk": "2",
     "Special": "boost 5d6",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An agitator is a portable generator of microwave radiation that rapidly heats up targets to create internal bubbles of steam or makes targets burst into flames. The longer the weapon is focused, the more intense the agitation becomes, making it a favored by the defenders of bunkers, guard posts, and other emplacements. Ember agitators and blaze agitators rely on individual generators, taking the form of a bulky cylinder in the middle of the gun that hums ominously as the weapon fires, but miniaturization technology allows inferno agitators and solar flare agitators to include multiple smaller generators for increased effect."
   },
   {
     "source": "Starfinder Armory pg. 37",
@@ -1513,7 +1517,7 @@
     "Bulk": "2",
     "Special": "line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Indistinguishable from a flamethrower to the lay observer, a burner uses petrol as fuel to produce a strong jet of flame. However, the subtly narrower nozzle and recoil-suppressing gyros allow a burner to fire streams of petrol with more control and focus than its traditional cousin. Ifrit-, salamander-, hellhound-, firedrake-, and phoenix-class burners are all widely available."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1529,7 +1533,7 @@
     "Bulk": "3",
     "Special": "penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Artillery lasers are heavy weapons designed to be effective against hardened targets such as vehicles and enemy bunkers."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -1545,7 +1549,7 @@
     "Bulk": "2",
     "Special": "Automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A rotolaser uses much of the same technology as autobeam artillery, but in addition to directing its beam through a rotating array of lenses, it also uses a rotating array of barrels that creates a series of short laser blasts. This rotating assembly helps the weapon to survive the heat and stress of rapid fire. Rotolasers come in tactical and advanced versions."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -1561,7 +1565,7 @@
     "Bulk": "2",
     "Special": "nonlethal",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Dazzlers are a form of crowd control used primarily for civil peacekeeping. While the weapons use lasers to damage and sometimes blind targets, the beams are carefully calibrated to avoid inflicting lethal injury. Built on similar principles to the smaller compliance ray, dazzlers also tend to bear the colors of local law-enforcement groups. However, the similarities end there, as the dazzler is a bulky device usually carried with the help of a shoulder strap, with its business end covered by dozens of glassy bulbs surrounded by a conical shield. Downplaying this somewhat disturbing appearance, dazzler manufacturer ATech holds up the weapons as an important tool for safe peacekeeping and spreads the weapons wherever AbadarCorp is found. Dazzlers come in flash, strobe, and sunspot models."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -1577,7 +1581,7 @@
     "Bulk": "2",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "For those seeking efficient laser attacks in a reliable, relatively lightweight format, the convergent laser is an ideal weapon. The weapon’s smaller lasers synchronize and focus their output on a single target to deal more damage than any single beam could deal alone; however, the need to carefully aim and adjust the weapon makes it somewhat slower to fire than its single-beam counterparts. Typically, the different beams originate from the corners of a square or triangular barrel, angling in to join at a single point on the target. A single-wave convergent laser emits a single wavelength, with all its beams sharing a color. Multiwave convergent lasers produce different wavelengths for each beam, using computer assistance to continually adjust the output, while a wide-spectrum convergent laser increases the number of beams until their joining point on the target is a white so brilliant that it’s painful to look at."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -1593,7 +1597,7 @@
     "Bulk": "2",
     "Special": "blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Originally developed alongside convergent lasers, divergent lasers use multiple laser beams emitting from a blocky casing to produce a cone-shaped output. This weapon’s damage is significantly less than that achieved by the convergent lasers, but the same systems that synchronize wavelengths in a convergent laser allow the divergent laser to focus on multiple targets. The single-color beam of a single-wave divergent laser sets it apart from the shimmering colors of a multiwave divergent laser. A wide-spectrum divergent laser has a nearly white beam and could be mistaken for a spotlight at a glance—though not by a target struck by one!"
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1609,7 +1613,7 @@
     "Bulk": "3",
     "Special": "penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Artillery lasers are heavy weapons designed to be effective against hardened targets such as vehicles and enemy bunkers."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -1625,7 +1629,7 @@
     "Bulk": "2",
     "Special": "Automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A rotolaser uses much of the same technology as autobeam artillery, but in addition to directing its beam through a rotating array of lenses, it also uses a rotating array of barrels that creates a series of short laser blasts. This rotating assembly helps the weapon to survive the heat and stress of rapid fire. Rotolasers come in tactical and advanced versions."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -1641,7 +1645,7 @@
     "Bulk": "2",
     "Special": "nonlethal",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Dazzlers are a form of crowd control used primarily for civil peacekeeping. While the weapons use lasers to damage and sometimes blind targets, the beams are carefully calibrated to avoid inflicting lethal injury. Built on similar principles to the smaller compliance ray, dazzlers also tend to bear the colors of local law-enforcement groups. However, the similarities end there, as the dazzler is a bulky device usually carried with the help of a shoulder strap, with its business end covered by dozens of glassy bulbs surrounded by a conical shield. Downplaying this somewhat disturbing appearance, dazzler manufacturer ATech holds up the weapons as an important tool for safe peacekeeping and spreads the weapons wherever AbadarCorp is found. Dazzlers come in flash, strobe, and sunspot models."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1657,7 +1661,7 @@
     "Bulk": "3",
     "Special": "penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Artillery lasers are heavy weapons designed to be effective against hardened targets such as vehicles and enemy bunkers."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1673,7 +1677,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Though it lacks the penetrating power of an artillery laser, an autobeam artillery delivers sustained laser fire. It uses a rotating array of lenses to prevent the intense heat of sustained fire from melting the weapon’s housing."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -1689,7 +1693,7 @@
     "Bulk": "2",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "For those seeking efficient laser attacks in a reliable, relatively lightweight format, the convergent laser is an ideal weapon. The weapon’s smaller lasers synchronize and focus their output on a single target to deal more damage than any single beam could deal alone; however, the need to carefully aim and adjust the weapon makes it somewhat slower to fire than its single-beam counterparts. Typically, the different beams originate from the corners of a square or triangular barrel, angling in to join at a single point on the target. A single-wave convergent laser emits a single wavelength, with all its beams sharing a color. Multiwave convergent lasers produce different wavelengths for each beam, using computer assistance to continually adjust the output, while a wide-spectrum convergent laser increases the number of beams until their joining point on the target is a white so brilliant that it’s painful to look at."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -1705,7 +1709,7 @@
     "Bulk": "2",
     "Special": "blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Originally developed alongside convergent lasers, divergent lasers use multiple laser beams emitting from a blocky casing to produce a cone-shaped output. This weapon’s damage is significantly less than that achieved by the convergent lasers, but the same systems that synchronize wavelengths in a convergent laser allow the divergent laser to focus on multiple targets. The single-color beam of a single-wave divergent laser sets it apart from the shimmering colors of a multiwave divergent laser. A wide-spectrum divergent laser has a nearly white beam and could be mistaken for a spotlight at a glance—though not by a target struck by one!"
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1721,7 +1725,7 @@
     "Bulk": "3",
     "Special": "penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Artillery lasers are heavy weapons designed to be effective against hardened targets such as vehicles and enemy bunkers."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -1737,7 +1741,7 @@
     "Bulk": "2",
     "Special": "nonlethal",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Dazzlers are a form of crowd control used primarily for civil peacekeeping. While the weapons use lasers to damage and sometimes blind targets, the beams are carefully calibrated to avoid inflicting lethal injury. Built on similar principles to the smaller compliance ray, dazzlers also tend to bear the colors of local law-enforcement groups. However, the similarities end there, as the dazzler is a bulky device usually carried with the help of a shoulder strap, with its business end covered by dozens of glassy bulbs surrounded by a conical shield. Downplaying this somewhat disturbing appearance, dazzler manufacturer ATech holds up the weapons as an important tool for safe peacekeeping and spreads the weapons wherever AbadarCorp is found. Dazzlers come in flash, strobe, and sunspot models."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -1753,7 +1757,7 @@
     "Bulk": "2",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "For those seeking efficient laser attacks in a reliable, relatively lightweight format, the convergent laser is an ideal weapon. The weapon’s smaller lasers synchronize and focus their output on a single target to deal more damage than any single beam could deal alone; however, the need to carefully aim and adjust the weapon makes it somewhat slower to fire than its single-beam counterparts. Typically, the different beams originate from the corners of a square or triangular barrel, angling in to join at a single point on the target. A single-wave convergent laser emits a single wavelength, with all its beams sharing a color. Multiwave convergent lasers produce different wavelengths for each beam, using computer assistance to continually adjust the output, while a wide-spectrum convergent laser increases the number of beams until their joining point on the target is a white so brilliant that it’s painful to look at."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1769,7 +1773,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Though it lacks the penetrating power of an artillery laser, an autobeam artillery delivers sustained laser fire. It uses a rotating array of lenses to prevent the intense heat of sustained fire from melting the weapon’s housing."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1785,7 +1789,7 @@
     "Bulk": "3",
     "Special": "penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Artillery lasers are heavy weapons designed to be effective against hardened targets such as vehicles and enemy bunkers."
   },
   {
     "source": "Starfinder Armory pg. 40",
@@ -1801,7 +1805,7 @@
     "Bulk": "2",
     "Special": "blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Originally developed alongside convergent lasers, divergent lasers use multiple laser beams emitting from a blocky casing to produce a cone-shaped output. This weapon’s damage is significantly less than that achieved by the convergent lasers, but the same systems that synchronize wavelengths in a convergent laser allow the divergent laser to focus on multiple targets. The single-color beam of a single-wave divergent laser sets it apart from the shimmering colors of a multiwave divergent laser. A wide-spectrum divergent laser has a nearly white beam and could be mistaken for a spotlight at a glance—though not by a target struck by one!"
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1817,7 +1821,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Though it lacks the penetrating power of an artillery laser, an autobeam artillery delivers sustained laser fire. It uses a rotating array of lenses to prevent the intense heat of sustained fire from melting the weapon’s housing."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1833,7 +1837,7 @@
     "Bulk": "3",
     "Special": "penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Artillery lasers are heavy weapons designed to be effective against hardened targets such as vehicles and enemy bunkers."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -1849,7 +1853,7 @@
     "Bulk": "3",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Conquerors are perhaps the largest and most difficult to handle of the plasma weapon category. A conquerer can deliver a single devastating blast of plasma, but the weapon is rather front-heavy and difficult to maneuver. Some vesk take up the weapon as a sign of their patron deity, Damoritosh, viewing it as the ranged spiritual equivalent of the doshko. In addition to the red star, yellow star, white star, and blue star models, the particularly powerful violet star conqueror has recently made its way onto the market."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -1865,7 +1869,7 @@
     "Bulk": "2",
     "Special": "blast, shape 1, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Rather than firing a single burst of plasma, a hydra cannon generates countless discrete plasma filaments that spread outward in a pattern reminiscent of crawling serpents. The spread of these filaments can be somewhat controlled, allowing a proficient user to avoid hitting a limited number of creatures within the weapon’s area of effect. Python-series hydra cannons offer the least control, while viper-series, asp-series, and cobraseries hydra cannons offer increasingly fine-tuned control over their target areas."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -1881,7 +1885,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A retractable coarse mesh of electromagnetically protected wire covers the wide muzzle of a plasma array; this mesh breaks apart plasma into a flurry of discrete charges. Plasma arrays are manufactured in the typical classifications for plasma weapons: red star, yellow star, white star, and blue star."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -1897,7 +1901,7 @@
     "Bulk": "2",
     "Special": "bright, explode (5 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Followers of Sarenrae designed these very bright weapons to defend isolated solar outposts from Corpse Fleet marauders."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -1913,7 +1917,7 @@
     "Bulk": "3",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Conquerors are perhaps the largest and most difficult to handle of the plasma weapon category. A conquerer can deliver a single devastating blast of plasma, but the weapon is rather front-heavy and difficult to maneuver. Some vesk take up the weapon as a sign of their patron deity, Damoritosh, viewing it as the ranged spiritual equivalent of the doshko. In addition to the red star, yellow star, white star, and blue star models, the particularly powerful violet star conqueror has recently made its way onto the market."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -1929,7 +1933,7 @@
     "Bulk": "2",
     "Special": "aurora",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The aurora cannon is a variant plasma cannon with holding chambers that overcharge the plasma generated within the weapon. The walls of these chambers are typically translucent, allowing a veiled view of the shifting plasma. The aurora cannon’s modified plasma blasts cause creatures it hits to glow with a surprisingly beautiful aura, making it difficult for them to hide. Aurora cannons are categorized according to the primary composition of these auroras, from the hydrogen aurora cannon to the electron and proton models."
   },
   {
     "source": "Starfinder #8: Escape from the Prison Moon pg. 45",
@@ -1945,7 +1949,7 @@
     "Bulk": "2",
     "Special": "bright, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Azlanti arms scientists developed the plasma flare as a assault weapon and a tactical aid. The weapon hurls bright balls of plasma at foes, scorching them and illuminating the area for better target designation in situations of diminished light. The Aeon Guard also finds the radiance to be an effective intimidation tactic, especially against civilizations that have yet to develop advanced technology."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -1961,7 +1965,7 @@
     "Bulk": "2",
     "Special": "blast, shape 2, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Rather than firing a single burst of plasma, a hydra cannon generates countless discrete plasma filaments that spread outward in a pattern reminiscent of crawling serpents. The spread of these filaments can be somewhat controlled, allowing a proficient user to avoid hitting a limited number of creatures within the weapon’s area of effect. Python-series hydra cannons offer the least control, while viper-series, asp-series, and cobraseries hydra cannons offer increasingly fine-tuned control over their target areas."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -1977,7 +1981,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A retractable coarse mesh of electromagnetically protected wire covers the wide muzzle of a plasma array; this mesh breaks apart plasma into a flurry of discrete charges. Plasma arrays are manufactured in the typical classifications for plasma weapons: red star, yellow star, white star, and blue star."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -1993,7 +1997,7 @@
     "Bulk": "2",
     "Special": "explode (5 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Plasma cannons shoot large, explosive blasts of ionized plasma. They are difficult to use and have a relatively short range for a heavy weapon, but their impact has devastating effect."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -2009,7 +2013,7 @@
     "Bulk": "2",
     "Special": "bright, explode (10 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Followers of Sarenrae designed these very bright weapons to defend isolated solar outposts from Corpse Fleet marauders."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -2025,7 +2029,7 @@
     "Bulk": "3",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Conquerors are perhaps the largest and most difficult to handle of the plasma weapon category. A conquerer can deliver a single devastating blast of plasma, but the weapon is rather front-heavy and difficult to maneuver. Some vesk take up the weapon as a sign of their patron deity, Damoritosh, viewing it as the ranged spiritual equivalent of the doshko. In addition to the red star, yellow star, white star, and blue star models, the particularly powerful violet star conqueror has recently made its way onto the market."
   },
   {
     "source": "Starfinder #8: Escape from the Prison Moon pg. 45",
@@ -2041,7 +2045,7 @@
     "Bulk": "2",
     "Special": "bright, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Azlanti arms scientists developed the plasma flare as a assault weapon and a tactical aid. The weapon hurls bright balls of plasma at foes, scorching them and illuminating the area for better target designation in situations of diminished light. The Aeon Guard also finds the radiance to be an effective intimidation tactic, especially against civilizations that have yet to develop advanced technology."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -2057,7 +2061,7 @@
     "Bulk": "2",
     "Special": "aurora",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The aurora cannon is a variant plasma cannon with holding chambers that overcharge the plasma generated within the weapon. The walls of these chambers are typically translucent, allowing a veiled view of the shifting plasma. The aurora cannon’s modified plasma blasts cause creatures it hits to glow with a surprisingly beautiful aura, making it difficult for them to hide. Aurora cannons are categorized according to the primary composition of these auroras, from the hydrogen aurora cannon to the electron and proton models."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -2073,7 +2077,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A retractable coarse mesh of electromagnetically protected wire covers the wide muzzle of a plasma array; this mesh breaks apart plasma into a flurry of discrete charges. Plasma arrays are manufactured in the typical classifications for plasma weapons: red star, yellow star, white star, and blue star."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -2089,7 +2093,7 @@
     "Bulk": "2",
     "Special": "blast, shape 3, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Rather than firing a single burst of plasma, a hydra cannon generates countless discrete plasma filaments that spread outward in a pattern reminiscent of crawling serpents. The spread of these filaments can be somewhat controlled, allowing a proficient user to avoid hitting a limited number of creatures within the weapon’s area of effect. Python-series hydra cannons offer the least control, while viper-series, asp-series, and cobraseries hydra cannons offer increasingly fine-tuned control over their target areas."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -2105,7 +2109,7 @@
     "Bulk": "3",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Conquerors are perhaps the largest and most difficult to handle of the plasma weapon category. A conquerer can deliver a single devastating blast of plasma, but the weapon is rather front-heavy and difficult to maneuver. Some vesk take up the weapon as a sign of their patron deity, Damoritosh, viewing it as the ranged spiritual equivalent of the doshko. In addition to the red star, yellow star, white star, and blue star models, the particularly powerful violet star conqueror has recently made its way onto the market."
   },
   {
     "source": "Starfinder #8: Escape from the Prison Moon pg. 45",
@@ -2121,7 +2125,7 @@
     "Bulk": "2",
     "Special": "bright, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Azlanti arms scientists developed the plasma flare as a assault weapon and a tactical aid. The weapon hurls bright balls of plasma at foes, scorching them and illuminating the area for better target designation in situations of diminished light. The Aeon Guard also finds the radiance to be an effective intimidation tactic, especially against civilizations that have yet to develop advanced technology."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -2137,7 +2141,7 @@
     "Bulk": "2",
     "Special": "bright, explode (10 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Followers of Sarenrae designed these very bright weapons to defend isolated solar outposts from Corpse Fleet marauders."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2153,7 +2157,7 @@
     "Bulk": "2",
     "Special": "explode (5 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Plasma cannons shoot large, explosive blasts of ionized plasma. They are difficult to use and have a relatively short range for a heavy weapon, but their impact has devastating effect."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -2169,7 +2173,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A retractable coarse mesh of electromagnetically protected wire covers the wide muzzle of a plasma array; this mesh breaks apart plasma into a flurry of discrete charges. Plasma arrays are manufactured in the typical classifications for plasma weapons: red star, yellow star, white star, and blue star."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2185,7 +2189,7 @@
     "Bulk": "2",
     "Special": "explode (5 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Plasma cannons shoot large, explosive blasts of ionized plasma. They are difficult to use and have a relatively short range for a heavy weapon, but their impact has devastating effect."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -2201,7 +2205,7 @@
     "Bulk": "2",
     "Special": "aurora",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The aurora cannon is a variant plasma cannon with holding chambers that overcharge the plasma generated within the weapon. The walls of these chambers are typically translucent, allowing a veiled view of the shifting plasma. The aurora cannon’s modified plasma blasts cause creatures it hits to glow with a surprisingly beautiful aura, making it difficult for them to hide. Aurora cannons are categorized according to the primary composition of these auroras, from the hydrogen aurora cannon to the electron and proton models."
   },
   {
     "source": "Starfinder #8: Escape from the Prison Moon pg. 45",
@@ -2217,7 +2221,7 @@
     "Bulk": "2",
     "Special": "bright, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Azlanti arms scientists developed the plasma flare as a assault weapon and a tactical aid. The weapon hurls bright balls of plasma at foes, scorching them and illuminating the area for better target designation in situations of diminished light. The Aeon Guard also finds the radiance to be an effective intimidation tactic, especially against civilizations that have yet to develop advanced technology."
   },
   {
     "source": "Starfinder Armory pg. 41",
@@ -2233,7 +2237,7 @@
     "Bulk": "3",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Conquerors are perhaps the largest and most difficult to handle of the plasma weapon category. A conquerer can deliver a single devastating blast of plasma, but the weapon is rather front-heavy and difficult to maneuver. Some vesk take up the weapon as a sign of their patron deity, Damoritosh, viewing it as the ranged spiritual equivalent of the doshko. In addition to the red star, yellow star, white star, and blue star models, the particularly powerful violet star conqueror has recently made its way onto the market."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -2249,7 +2253,7 @@
     "Bulk": "2",
     "Special": "bright, explode (15 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Followers of Sarenrae designed these very bright weapons to defend isolated solar outposts from Corpse Fleet marauders."
   },
   {
     "source": "Starfinder Armory pg. 42",
@@ -2265,7 +2269,7 @@
     "Bulk": "2",
     "Special": "blast, shape 4, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Rather than firing a single burst of plasma, a hydra cannon generates countless discrete plasma filaments that spread outward in a pattern reminiscent of crawling serpents. The spread of these filaments can be somewhat controlled, allowing a proficient user to avoid hitting a limited number of creatures within the weapon’s area of effect. Python-series hydra cannons offer the least control, while viper-series, asp-series, and cobraseries hydra cannons offer increasingly fine-tuned control over their target areas."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2281,7 +2285,7 @@
     "Bulk": "2",
     "Special": "explode (10 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Plasma cannons shoot large, explosive blasts of ionized plasma. They are difficult to use and have a relatively short range for a heavy weapon, but their impact has devastating effect."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2297,7 +2301,7 @@
     "Bulk": "3",
     "Special": "penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An ancient yet still popular vesk weapon, the reaction cannon uses advanced materials and technology to redirect the recoil of a projectile back into the projectile itself, making it an extremely damaging heavy weapon."
   },
   {
     "source": "Starfinder Armory pg. 43",
@@ -2313,7 +2317,7 @@
     "Bulk": "2",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When Akiton’s economy began to collapse in the wake of the thasteron bust, scrappy frontier townspeople were left to cobble together their necessities from whatever they had on hand and defend what resources they had from outside raiders. Dart cannons were created by these inventive souls, who reconfigured their depreciated mining equipment and less critical medical supplies into a weapon to stave off looters and thieves. These wide-barreled cannons fire a barrage of magnetically accelerated darts that contain barbed cores rather than toxins or medicinals. While this prevents the darts from being used to inject substances, the barbs can lodge in a target’s body, dealing lasting damage. Dart cannons tend to see use in environments with some level of gravity, as no one wants to deal with the aftermath of a dart cannon’s discharge in a zero-g environment. This weapon is available in light, tactical, heavy, advanced, elite, and paragon models."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -2329,7 +2333,7 @@
     "Bulk": "2",
     "Special": "line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Rail cannons are scaled-up versions of rail guns, and like rail guns, they use magnetic fields to rapidly accelerate ammunition. A rail cannon generates such phenomenal force that its rounds can pass entirely through multiple targets, allowing the user to hit multiple targets in a line. Tactical rail cannons are precise and effective, while advanced rail cannons offer more firepower; elite and paragon rail cannons are generally used only by heavyweapons specialists in professional military groups."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2345,7 +2349,7 @@
     "Bulk": "2",
     "Special": "analog, automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The most basic and portable machine guns are known as squad guns for their popularity among mercenary groups. Light, medium, and heavy machine guns remain reliable heavy weapons for their automatic fire and damage capability."
   },
   {
     "source": "Starfinder Armory pg. 43",
@@ -2361,7 +2365,7 @@
     "Bulk": "2",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When Akiton’s economy began to collapse in the wake of the thasteron bust, scrappy frontier townspeople were left to cobble together their necessities from whatever they had on hand and defend what resources they had from outside raiders. Dart cannons were created by these inventive souls, who reconfigured their depreciated mining equipment and less critical medical supplies into a weapon to stave off looters and thieves. These wide-barreled cannons fire a barrage of magnetically accelerated darts that contain barbed cores rather than toxins or medicinals. While this prevents the darts from being used to inject substances, the barbs can lodge in a target’s body, dealing lasting damage. Dart cannons tend to see use in environments with some level of gravity, as no one wants to deal with the aftermath of a dart cannon’s discharge in a zero-g environment. This weapon is available in light, tactical, heavy, advanced, elite, and paragon models."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2377,7 +2381,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "X-gen guns are named for their external generator—a power pack that drives the automatic feed of the weapon. They are common on fortified bases and in large armed encampments."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2393,7 +2397,7 @@
     "Bulk": "3",
     "Special": "penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An ancient yet still popular vesk weapon, the reaction cannon uses advanced materials and technology to redirect the recoil of a projectile back into the projectile itself, making it an extremely damaging heavy weapon."
   },
   {
     "source": "Starfinder Armory pg. 43",
@@ -2409,7 +2413,7 @@
     "Bulk": "2",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When Akiton’s economy began to collapse in the wake of the thasteron bust, scrappy frontier townspeople were left to cobble together their necessities from whatever they had on hand and defend what resources they had from outside raiders. Dart cannons were created by these inventive souls, who reconfigured their depreciated mining equipment and less critical medical supplies into a weapon to stave off looters and thieves. These wide-barreled cannons fire a barrage of magnetically accelerated darts that contain barbed cores rather than toxins or medicinals. While this prevents the darts from being used to inject substances, the barbs can lodge in a target’s body, dealing lasting damage. Dart cannons tend to see use in environments with some level of gravity, as no one wants to deal with the aftermath of a dart cannon’s discharge in a zero-g environment. This weapon is available in light, tactical, heavy, advanced, elite, and paragon models."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2425,7 +2429,7 @@
     "Bulk": "2",
     "Special": "analog, automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The most basic and portable machine guns are known as squad guns for their popularity among mercenary groups. Light, medium, and heavy machine guns remain reliable heavy weapons for their automatic fire and damage capability."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2441,7 +2445,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "X-gen guns are named for their external generator—a power pack that drives the automatic feed of the weapon. They are common on fortified bases and in large armed encampments."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2457,7 +2461,7 @@
     "Bulk": "3",
     "Special": "penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An ancient yet still popular vesk weapon, the reaction cannon uses advanced materials and technology to redirect the recoil of a projectile back into the projectile itself, making it an extremely damaging heavy weapon."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2473,7 +2477,7 @@
     "Bulk": "2",
     "Special": "blast",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A stellar cannon is a portable, handheld cannon that fires exploding shells filled with dense flechettes that shred nearby targets. Stellar cannons have a limited range, but they deal traumatic damage to large areas."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2489,7 +2493,7 @@
     "Bulk": "2",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This weapon resembles a rifle with a crossbeam near the end of the barrel. A crossbolter uses mechanical power to fire arrows along the barrel. Grenade arrows can also be fired with a crossbolter."
   },
   {
     "source": "Starfinder Armory pg. 43",
@@ -2505,7 +2509,7 @@
     "Bulk": "2",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When Akiton’s economy began to collapse in the wake of the thasteron bust, scrappy frontier townspeople were left to cobble together their necessities from whatever they had on hand and defend what resources they had from outside raiders. Dart cannons were created by these inventive souls, who reconfigured their depreciated mining equipment and less critical medical supplies into a weapon to stave off looters and thieves. These wide-barreled cannons fire a barrage of magnetically accelerated darts that contain barbed cores rather than toxins or medicinals. While this prevents the darts from being used to inject substances, the barbs can lodge in a target’s body, dealing lasting damage. Dart cannons tend to see use in environments with some level of gravity, as no one wants to deal with the aftermath of a dart cannon’s discharge in a zero-g environment. This weapon is available in light, tactical, heavy, advanced, elite, and paragon models."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2521,7 +2525,7 @@
     "Bulk": "2",
     "Special": "analog, automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The most basic and portable machine guns are known as squad guns for their popularity among mercenary groups. Light, medium, and heavy machine guns remain reliable heavy weapons for their automatic fire and damage capability."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -2537,7 +2541,7 @@
     "Bulk": "2",
     "Special": "line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Rail cannons are scaled-up versions of rail guns, and like rail guns, they use magnetic fields to rapidly accelerate ammunition. A rail cannon generates such phenomenal force that its rounds can pass entirely through multiple targets, allowing the user to hit multiple targets in a line. Tactical rail cannons are precise and effective, while advanced rail cannons offer more firepower; elite and paragon rail cannons are generally used only by heavyweapons specialists in professional military groups."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2553,7 +2557,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "X-gen guns are named for their external generator—a power pack that drives the automatic feed of the weapon. They are common on fortified bases and in large armed encampments."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2569,7 +2573,7 @@
     "Bulk": "2",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This weapon resembles a rifle with a crossbeam near the end of the barrel. A crossbolter uses mechanical power to fire arrows along the barrel. Grenade arrows can also be fired with a crossbolter."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2585,7 +2589,7 @@
     "Bulk": "3",
     "Special": "penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An ancient yet still popular vesk weapon, the reaction cannon uses advanced materials and technology to redirect the recoil of a projectile back into the projectile itself, making it an extremely damaging heavy weapon."
   },
   {
     "source": "Starfinder Armory pg. 43",
@@ -2601,7 +2605,7 @@
     "Bulk": "2",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When Akiton’s economy began to collapse in the wake of the thasteron bust, scrappy frontier townspeople were left to cobble together their necessities from whatever they had on hand and defend what resources they had from outside raiders. Dart cannons were created by these inventive souls, who reconfigured their depreciated mining equipment and less critical medical supplies into a weapon to stave off looters and thieves. These wide-barreled cannons fire a barrage of magnetically accelerated darts that contain barbed cores rather than toxins or medicinals. While this prevents the darts from being used to inject substances, the barbs can lodge in a target’s body, dealing lasting damage. Dart cannons tend to see use in environments with some level of gravity, as no one wants to deal with the aftermath of a dart cannon’s discharge in a zero-g environment. This weapon is available in light, tactical, heavy, advanced, elite, and paragon models."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2617,7 +2621,7 @@
     "Bulk": "2",
     "Special": "blast",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A stellar cannon is a portable, handheld cannon that fires exploding shells filled with dense flechettes that shred nearby targets. Stellar cannons have a limited range, but they deal traumatic damage to large areas."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -2633,7 +2637,7 @@
     "Bulk": "2",
     "Special": "line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Rail cannons are scaled-up versions of rail guns, and like rail guns, they use magnetic fields to rapidly accelerate ammunition. A rail cannon generates such phenomenal force that its rounds can pass entirely through multiple targets, allowing the user to hit multiple targets in a line. Tactical rail cannons are precise and effective, while advanced rail cannons offer more firepower; elite and paragon rail cannons are generally used only by heavyweapons specialists in professional military groups."
   },
   {
     "source": "Starfinder Core Rulebook pg. 177",
@@ -2649,7 +2653,7 @@
     "Bulk": "2",
     "Special": "analog, automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The most basic and portable machine guns are known as squad guns for their popularity among mercenary groups. Light, medium, and heavy machine guns remain reliable heavy weapons for their automatic fire and damage capability."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -2665,7 +2669,7 @@
     "Bulk": "3",
     "Special": "penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An ancient yet still popular vesk weapon, the reaction cannon uses advanced materials and technology to redirect the recoil of a projectile back into the projectile itself, making it an extremely damaging heavy weapon."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -2681,7 +2685,7 @@
     "Bulk": "2",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This weapon resembles a rifle with a crossbeam near the end of the barrel. A crossbolter uses mechanical power to fire arrows along the barrel. Grenade arrows can also be fired with a crossbolter."
   },
   {
     "source": "Starfinder Armory pg. 43",
@@ -2697,7 +2701,7 @@
     "Bulk": "2",
     "Special": "unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When Akiton’s economy began to collapse in the wake of the thasteron bust, scrappy frontier townspeople were left to cobble together their necessities from whatever they had on hand and defend what resources they had from outside raiders. Dart cannons were created by these inventive souls, who reconfigured their depreciated mining equipment and less critical medical supplies into a weapon to stave off looters and thieves. These wide-barreled cannons fire a barrage of magnetically accelerated darts that contain barbed cores rather than toxins or medicinals. While this prevents the darts from being used to inject substances, the barbs can lodge in a target’s body, dealing lasting damage. Dart cannons tend to see use in environments with some level of gravity, as no one wants to deal with the aftermath of a dart cannon’s discharge in a zero-g environment. This weapon is available in light, tactical, heavy, advanced, elite, and paragon models."
   },
   {
     "source": "Starfinder Armory pg. 44",
@@ -2713,7 +2717,7 @@
     "Bulk": "2",
     "Special": "line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Rail cannons are scaled-up versions of rail guns, and like rail guns, they use magnetic fields to rapidly accelerate ammunition. A rail cannon generates such phenomenal force that its rounds can pass entirely through multiple targets, allowing the user to hit multiple targets in a line. Tactical rail cannons are precise and effective, while advanced rail cannons offer more firepower; elite and paragon rail cannons are generally used only by heavyweapons specialists in professional military groups."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -2729,7 +2733,7 @@
     "Bulk": "3",
     "Special": "penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An ancient yet still popular vesk weapon, the reaction cannon uses advanced materials and technology to redirect the recoil of a projectile back into the projectile itself, making it an extremely damaging heavy weapon."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -2745,7 +2749,7 @@
     "Bulk": "2",
     "Special": "automatic",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "X-gen guns are named for their external generator—a power pack that drives the automatic feed of the weapon. They are common on fortified bases and in large armed encampments."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -2761,7 +2765,7 @@
     "Bulk": "2",
     "Special": "first arc 1d6, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Flanked by large handles, an arc caster bristles with capacitors and antennae that release more energy than it can realistically control. While many shock weapons have a chance to arc to a second target on a hit, the arc caster is designed to achieve that feat on every shot, and particularly well-aimed strikes can sometimes arc twice. The storm and tempest models feature improvements that build upon the capabilities of static and aurora arc casters. Since there is little way to control which creatures are struck on the subsequent arcs, arc casters are generally used only by solo combatants or those with little regard for their allies’ well-being. More rarely, party members may take particular precautions against electricity damage, such as with a resistant armor spell or an electrostatic field armor upgrade, to protect themselves from an ally wielding an arc caster."
   },
   {
     "source": "Starfinder Armory pg. 48",
@@ -2777,7 +2781,7 @@
     "Bulk": "2",
     "Special": "flexible line, living, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Some barathu researchers who intensively study the titanic lightning storms found on their home world become obsessed with the phenomenon. The efforts of such scientists led to the creation of the stormcaller, a living weapon that generates a line of electricity originating not from the wielder but from a single point within the weapon’s relatively short range. Like most barathu creations, stormcallers are living creatures, and their massive shells are large enough to require two hands to wield, aided by the stormcaller wrapping its translucent tentacles around the user’s appendages. Sheet and ribbon stormcallers are powerful weapons in their own right, while rocket and smooth-channel stormcallers can summon electrical currents that live up to the weapons’ namesake."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -2793,7 +2797,7 @@
     "Bulk": "2",
     "Special": "line, lockdown, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This heavy weapon was designed by Aballonian law-enforcement agencies for capturing criminal constructs without completely destroying them."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -2809,7 +2813,7 @@
     "Bulk": "3",
     "Special": "boost 1d8",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Where massive creatures roam, those who fight against them for survival develop colossal weapons. Such is the case with the colossus coil, a weapon said to have been developed to hunt colossi on the planet Daimalko. It has since spread to many systems, including the Pact Worlds. This heavy firearm has a barrel sporting a series of toroidal high-voltage generators that collectively produce powerful arcs of electricity, and it can be overcharged to deliver even more destructive blasts. The electric blast sometimes overwhelms its target, branching off to hit another. The corona colossus coil produces a ring of electricity, while a brush colossus coil produces a more diffuse field. A streamer arc colossus coil produces a traditional arc of electricity, while the multistream colossus coil generates multiple such streams for a devastating blast."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -2825,7 +2829,7 @@
     "Bulk": "2",
     "Special": "unwieldy, wide line",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eShock Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -2841,7 +2845,7 @@
     "Bulk": "2",
     "Special": "first arc 1d6, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Flanked by large handles, an arc caster bristles with capacitors and antennae that release more energy than it can realistically control. While many shock weapons have a chance to arc to a second target on a hit, the arc caster is designed to achieve that feat on every shot, and particularly well-aimed strikes can sometimes arc twice. The storm and tempest models feature improvements that build upon the capabilities of static and aurora arc casters. Since there is little way to control which creatures are struck on the subsequent arcs, arc casters are generally used only by solo combatants or those with little regard for their allies’ well-being. More rarely, party members may take particular precautions against electricity damage, such as with a resistant armor spell or an electrostatic field armor upgrade, to protect themselves from an ally wielding an arc caster."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -2857,7 +2861,7 @@
     "Bulk": "2",
     "Special": "explode (10 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Shock casters fire a blast of electrical energy that explodes when it impacts, creating an electrical storm that can damage and stun anyone within its radius."
   },
   {
     "source": "Starfinder Armory pg. 48",
@@ -2873,7 +2877,7 @@
     "Bulk": "2",
     "Special": "flexible line, living, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Some barathu researchers who intensively study the titanic lightning storms found on their home world become obsessed with the phenomenon. The efforts of such scientists led to the creation of the stormcaller, a living weapon that generates a line of electricity originating not from the wielder but from a single point within the weapon’s relatively short range. Like most barathu creations, stormcallers are living creatures, and their massive shells are large enough to require two hands to wield, aided by the stormcaller wrapping its translucent tentacles around the user’s appendages. Sheet and ribbon stormcallers are powerful weapons in their own right, while rocket and smooth-channel stormcallers can summon electrical currents that live up to the weapons’ namesake."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -2889,7 +2893,7 @@
     "Bulk": "2",
     "Special": "line, lockdown, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This heavy weapon was designed by Aballonian law-enforcement agencies for capturing criminal constructs without completely destroying them."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -2905,7 +2909,7 @@
     "Bulk": "2",
     "Special": "unwieldy, wide line",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eShock Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -2921,7 +2925,7 @@
     "Bulk": "3",
     "Special": "boost 1d8",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Where massive creatures roam, those who fight against them for survival develop colossal weapons. Such is the case with the colossus coil, a weapon said to have been developed to hunt colossi on the planet Daimalko. It has since spread to many systems, including the Pact Worlds. This heavy firearm has a barrel sporting a series of toroidal high-voltage generators that collectively produce powerful arcs of electricity, and it can be overcharged to deliver even more destructive blasts. The electric blast sometimes overwhelms its target, branching off to hit another. The corona colossus coil produces a ring of electricity, while a brush colossus coil produces a more diffuse field. A streamer arc colossus coil produces a traditional arc of electricity, while the multistream colossus coil generates multiple such streams for a devastating blast."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -2937,7 +2941,7 @@
     "Bulk": "2",
     "Special": "explode (15 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Shock casters fire a blast of electrical energy that explodes when it impacts, creating an electrical storm that can damage and stun anyone within its radius."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -2953,7 +2957,7 @@
     "Bulk": "2",
     "Special": "first arc 2d6, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Flanked by large handles, an arc caster bristles with capacitors and antennae that release more energy than it can realistically control. While many shock weapons have a chance to arc to a second target on a hit, the arc caster is designed to achieve that feat on every shot, and particularly well-aimed strikes can sometimes arc twice. The storm and tempest models feature improvements that build upon the capabilities of static and aurora arc casters. Since there is little way to control which creatures are struck on the subsequent arcs, arc casters are generally used only by solo combatants or those with little regard for their allies’ well-being. More rarely, party members may take particular precautions against electricity damage, such as with a resistant armor spell or an electrostatic field armor upgrade, to protect themselves from an ally wielding an arc caster."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -2969,7 +2973,7 @@
     "Bulk": "2",
     "Special": "unwieldy, wide line",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eShock Weapons\u003c/h3\u003e"
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -2985,7 +2989,7 @@
     "Bulk": "2",
     "Special": "line, lockdown, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This heavy weapon was designed by Aballonian law-enforcement agencies for capturing criminal constructs without completely destroying them."
   },
   {
     "source": "Starfinder Armory pg. 48",
@@ -3001,7 +3005,7 @@
     "Bulk": "2",
     "Special": "flexible line, living, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Some barathu researchers who intensively study the titanic lightning storms found on their home world become obsessed with the phenomenon. The efforts of such scientists led to the creation of the stormcaller, a living weapon that generates a line of electricity originating not from the wielder but from a single point within the weapon’s relatively short range. Like most barathu creations, stormcallers are living creatures, and their massive shells are large enough to require two hands to wield, aided by the stormcaller wrapping its translucent tentacles around the user’s appendages. Sheet and ribbon stormcallers are powerful weapons in their own right, while rocket and smooth-channel stormcallers can summon electrical currents that live up to the weapons’ namesake."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3017,7 +3021,7 @@
     "Bulk": "3",
     "Special": "boost 2d8",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Where massive creatures roam, those who fight against them for survival develop colossal weapons. Such is the case with the colossus coil, a weapon said to have been developed to hunt colossi on the planet Daimalko. It has since spread to many systems, including the Pact Worlds. This heavy firearm has a barrel sporting a series of toroidal high-voltage generators that collectively produce powerful arcs of electricity, and it can be overcharged to deliver even more destructive blasts. The electric blast sometimes overwhelms its target, branching off to hit another. The corona colossus coil produces a ring of electricity, while a brush colossus coil produces a more diffuse field. A streamer arc colossus coil produces a traditional arc of electricity, while the multistream colossus coil generates multiple such streams for a devastating blast."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3033,7 +3037,7 @@
     "Bulk": "2",
     "Special": "unwieldy, wide line",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eShock Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -3049,7 +3053,7 @@
     "Bulk": "2",
     "Special": "explode (20 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Shock casters fire a blast of electrical energy that explodes when it impacts, creating an electrical storm that can damage and stun anyone within its radius."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3065,7 +3069,7 @@
     "Bulk": "2",
     "Special": "first arc 4d6, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Flanked by large handles, an arc caster bristles with capacitors and antennae that release more energy than it can realistically control. While many shock weapons have a chance to arc to a second target on a hit, the arc caster is designed to achieve that feat on every shot, and particularly well-aimed strikes can sometimes arc twice. The storm and tempest models feature improvements that build upon the capabilities of static and aurora arc casters. Since there is little way to control which creatures are struck on the subsequent arcs, arc casters are generally used only by solo combatants or those with little regard for their allies’ well-being. More rarely, party members may take particular precautions against electricity damage, such as with a resistant armor spell or an electrostatic field armor upgrade, to protect themselves from an ally wielding an arc caster."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -3081,7 +3085,7 @@
     "Bulk": "2",
     "Special": "line, lockdown, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This heavy weapon was designed by Aballonian law-enforcement agencies for capturing criminal constructs without completely destroying them."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3097,7 +3101,7 @@
     "Bulk": "2",
     "Special": "unwieldy, wide line",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003ch3 class\u003d\"framing\"\u003eShock Weapons\u003c/h3\u003e"
   },
   {
     "source": "Starfinder Armory pg. 48",
@@ -3113,7 +3117,7 @@
     "Bulk": "2",
     "Special": "flexible line, living, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Some barathu researchers who intensively study the titanic lightning storms found on their home world become obsessed with the phenomenon. The efforts of such scientists led to the creation of the stormcaller, a living weapon that generates a line of electricity originating not from the wielder but from a single point within the weapon’s relatively short range. Like most barathu creations, stormcallers are living creatures, and their massive shells are large enough to require two hands to wield, aided by the stormcaller wrapping its translucent tentacles around the user’s appendages. Sheet and ribbon stormcallers are powerful weapons in their own right, while rocket and smooth-channel stormcallers can summon electrical currents that live up to the weapons’ namesake."
   },
   {
     "source": "Starfinder Armory pg. 45",
@@ -3129,7 +3133,7 @@
     "Bulk": "3",
     "Special": "boost 3d8",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Where massive creatures roam, those who fight against them for survival develop colossal weapons. Such is the case with the colossus coil, a weapon said to have been developed to hunt colossi on the planet Daimalko. It has since spread to many systems, including the Pact Worlds. This heavy firearm has a barrel sporting a series of toroidal high-voltage generators that collectively produce powerful arcs of electricity, and it can be overcharged to deliver even more destructive blasts. The electric blast sometimes overwhelms its target, branching off to hit another. The corona colossus coil produces a ring of electricity, while a brush colossus coil produces a more diffuse field. A streamer arc colossus coil produces a traditional arc of electricity, while the multistream colossus coil generates multiple such streams for a devastating blast."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -3145,7 +3149,7 @@
     "Bulk": "2",
     "Special": "explode (20 ft.), unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Shock casters fire a blast of electrical energy that explodes when it impacts, creating an electrical storm that can damage and stun anyone within its radius."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3161,7 +3165,7 @@
     "Bulk": "2",
     "Special": "explode (10 ft.), integrated (2 slots), nonlethal, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Shout projectors amplify your speech to overwhelming or destructive volume, and then project it in a cone. Words and sheer sonic pressure in this cone can’t be ignored. All shout projectors can be installed as armor upgrades (taking one upgrade slot per hand needed to wield the weapon), allowing the projectors to be used hands-free. That way, a user can carry lethal weaponry, safety gear, or protest signage. Exhorter shout projectors can be useful for crowd control with a lighter touch. Damper and pacifier models are ostensibly for nonlethal but more coercive applications, while the riot and crackdown projectors are for heavy-handed use."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -3177,7 +3181,7 @@
     "Bulk": "3",
     "Special": "antibiological, blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Pirates are the most common users of dirge cannons. The potbellied, shoulder-resting weapons cause a brief but intense sound burst at frequencies and pressure sufficient to rupture living cells while leaving inorganic objects unharmed. The result is a weapon that can eliminate a starship’s crew without causing any damage to the vessel or its cargo. Those who prefer lighter damage favor harmonic and resonant cannons, leaving anharmonic and parametric models for situations that call for carnage."
   },
   {
     "source": "Starfinder Armory pg. 51",
@@ -3193,7 +3197,7 @@
     "Bulk": "2",
     "Special": "antibiological, line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The sound waves a sonic bolter produces tightly focus in a brief but coherent line. This concentrated, low-frequency vibration damages the body and jostles internal organs, causing dizziness, pain, and slight nausea. Members of the Android Abolitionist Front developed the light model upon discovering the effect of a similar beam. Heavy, assault, and devastator bolters can generate sufficient sound pressure to damage artificial and unliving creatures."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3209,7 +3213,7 @@
     "Bulk": "2",
     "Special": "boost 1d8, penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A resonator is a boxy device with a terminal along the top and a series of concentric rings of metal and crystal in front to focus the weapon’s harmonics. A shoulder strap helps offset the weapon’s considerable weight, allowing the use of a top handle to direct output while freeing up the other hand to operate the controls. A resonator generates sonic waves at frequencies set to resound within the targeted material, allowing the weapon to deal precise damage regardless of the target’s composition or protection. If the integrated probing function is employed before firing, the resonator’s sonic frequencies can be precisely tuned. Diffraction and refraction resonators align sonic waves in specific patterns, while linear and phased resonators focus the sonic energy through specialized matrices for amplified output."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -3225,7 +3229,7 @@
     "Bulk": "2",
     "Special": "blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A screamer is a circular metal device with two handles on the back. The front of a screamer projects a cone of sonic energy that can damage and deafen anyone within the weapon’s area of effect."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3241,7 +3245,7 @@
     "Bulk": "2",
     "Special": "explode (10 ft.), integrated (2 slots), nonlethal, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Shout projectors amplify your speech to overwhelming or destructive volume, and then project it in a cone. Words and sheer sonic pressure in this cone can’t be ignored. All shout projectors can be installed as armor upgrades (taking one upgrade slot per hand needed to wield the weapon), allowing the projectors to be used hands-free. That way, a user can carry lethal weaponry, safety gear, or protest signage. Exhorter shout projectors can be useful for crowd control with a lighter touch. Damper and pacifier models are ostensibly for nonlethal but more coercive applications, while the riot and crackdown projectors are for heavy-handed use."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -3257,7 +3261,7 @@
     "Bulk": "3",
     "Special": "antibiological, blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Pirates are the most common users of dirge cannons. The potbellied, shoulder-resting weapons cause a brief but intense sound burst at frequencies and pressure sufficient to rupture living cells while leaving inorganic objects unharmed. The result is a weapon that can eliminate a starship’s crew without causing any damage to the vessel or its cargo. Those who prefer lighter damage favor harmonic and resonant cannons, leaving anharmonic and parametric models for situations that call for carnage."
   },
   {
     "source": "Starfinder Armory pg. 51",
@@ -3273,7 +3277,7 @@
     "Bulk": "2",
     "Special": "antibiological, line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The sound waves a sonic bolter produces tightly focus in a brief but coherent line. This concentrated, low-frequency vibration damages the body and jostles internal organs, causing dizziness, pain, and slight nausea. Members of the Android Abolitionist Front developed the light model upon discovering the effect of a similar beam. Heavy, assault, and devastator bolters can generate sufficient sound pressure to damage artificial and unliving creatures."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -3289,7 +3293,7 @@
     "Bulk": "2",
     "Special": "blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A screamer is a circular metal device with two handles on the back. The front of a screamer projects a cone of sonic energy that can damage and deafen anyone within the weapon’s area of effect."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3305,7 +3309,7 @@
     "Bulk": "2",
     "Special": "boost 2d8, penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A resonator is a boxy device with a terminal along the top and a series of concentric rings of metal and crystal in front to focus the weapon’s harmonics. A shoulder strap helps offset the weapon’s considerable weight, allowing the use of a top handle to direct output while freeing up the other hand to operate the controls. A resonator generates sonic waves at frequencies set to resound within the targeted material, allowing the weapon to deal precise damage regardless of the target’s composition or protection. If the integrated probing function is employed before firing, the resonator’s sonic frequencies can be precisely tuned. Diffraction and refraction resonators align sonic waves in specific patterns, while linear and phased resonators focus the sonic energy through specialized matrices for amplified output."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3321,7 +3325,7 @@
     "Bulk": "2",
     "Special": "explode (15 ft.), integrated (2 slots), nonlethal, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Shout projectors amplify your speech to overwhelming or destructive volume, and then project it in a cone. Words and sheer sonic pressure in this cone can’t be ignored. All shout projectors can be installed as armor upgrades (taking one upgrade slot per hand needed to wield the weapon), allowing the projectors to be used hands-free. That way, a user can carry lethal weaponry, safety gear, or protest signage. Exhorter shout projectors can be useful for crowd control with a lighter touch. Damper and pacifier models are ostensibly for nonlethal but more coercive applications, while the riot and crackdown projectors are for heavy-handed use."
   },
   {
     "source": "Starfinder Armory pg. 51",
@@ -3337,7 +3341,7 @@
     "Bulk": "2",
     "Special": "antibiological, line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The sound waves a sonic bolter produces tightly focus in a brief but coherent line. This concentrated, low-frequency vibration damages the body and jostles internal organs, causing dizziness, pain, and slight nausea. Members of the Android Abolitionist Front developed the light model upon discovering the effect of a similar beam. Heavy, assault, and devastator bolters can generate sufficient sound pressure to damage artificial and unliving creatures."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -3353,7 +3357,7 @@
     "Bulk": "3",
     "Special": "antibiological, blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Pirates are the most common users of dirge cannons. The potbellied, shoulder-resting weapons cause a brief but intense sound burst at frequencies and pressure sufficient to rupture living cells while leaving inorganic objects unharmed. The result is a weapon that can eliminate a starship’s crew without causing any damage to the vessel or its cargo. Those who prefer lighter damage favor harmonic and resonant cannons, leaving anharmonic and parametric models for situations that call for carnage."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3369,7 +3373,7 @@
     "Bulk": "2",
     "Special": "boost 3d8, penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A resonator is a boxy device with a terminal along the top and a series of concentric rings of metal and crystal in front to focus the weapon’s harmonics. A shoulder strap helps offset the weapon’s considerable weight, allowing the use of a top handle to direct output while freeing up the other hand to operate the controls. A resonator generates sonic waves at frequencies set to resound within the targeted material, allowing the weapon to deal precise damage regardless of the target’s composition or protection. If the integrated probing function is employed before firing, the resonator’s sonic frequencies can be precisely tuned. Diffraction and refraction resonators align sonic waves in specific patterns, while linear and phased resonators focus the sonic energy through specialized matrices for amplified output."
   },
   {
     "source": "Starfinder Core Rulebook pg. 178",
@@ -3385,7 +3389,7 @@
     "Bulk": "2",
     "Special": "blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A screamer is a circular metal device with two handles on the back. The front of a screamer projects a cone of sonic energy that can damage and deafen anyone within the weapon’s area of effect."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -3401,7 +3405,7 @@
     "Bulk": "3",
     "Special": "antibiological, blast, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Pirates are the most common users of dirge cannons. The potbellied, shoulder-resting weapons cause a brief but intense sound burst at frequencies and pressure sufficient to rupture living cells while leaving inorganic objects unharmed. The result is a weapon that can eliminate a starship’s crew without causing any damage to the vessel or its cargo. Those who prefer lighter damage favor harmonic and resonant cannons, leaving anharmonic and parametric models for situations that call for carnage."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3417,7 +3421,7 @@
     "Bulk": "2",
     "Special": "explode (15 ft.), integrated (2 slots), nonlethal, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Shout projectors amplify your speech to overwhelming or destructive volume, and then project it in a cone. Words and sheer sonic pressure in this cone can’t be ignored. All shout projectors can be installed as armor upgrades (taking one upgrade slot per hand needed to wield the weapon), allowing the projectors to be used hands-free. That way, a user can carry lethal weaponry, safety gear, or protest signage. Exhorter shout projectors can be useful for crowd control with a lighter touch. Damper and pacifier models are ostensibly for nonlethal but more coercive applications, while the riot and crackdown projectors are for heavy-handed use."
   },
   {
     "source": "Starfinder Armory pg. 51",
@@ -3433,7 +3437,7 @@
     "Bulk": "2",
     "Special": "antibiological, line, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The sound waves a sonic bolter produces tightly focus in a brief but coherent line. This concentrated, low-frequency vibration damages the body and jostles internal organs, causing dizziness, pain, and slight nausea. Members of the Android Abolitionist Front developed the light model upon discovering the effect of a similar beam. Heavy, assault, and devastator bolters can generate sufficient sound pressure to damage artificial and unliving creatures."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3449,7 +3453,7 @@
     "Bulk": "2",
     "Special": "boost 5d8, penetrating",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A resonator is a boxy device with a terminal along the top and a series of concentric rings of metal and crystal in front to focus the weapon’s harmonics. A shoulder strap helps offset the weapon’s considerable weight, allowing the use of a top handle to direct output while freeing up the other hand to operate the controls. A resonator generates sonic waves at frequencies set to resound within the targeted material, allowing the weapon to deal precise damage regardless of the target’s composition or protection. If the integrated probing function is employed before firing, the resonator’s sonic frequencies can be precisely tuned. Diffraction and refraction resonators align sonic waves in specific patterns, while linear and phased resonators focus the sonic energy through specialized matrices for amplified output."
   },
   {
     "source": "Starfinder Armory pg. 50",
@@ -3465,6 +3469,6 @@
     "Bulk": "2",
     "Special": "explode (20 ft.), integrated (2 slots), nonlethal, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Shout projectors amplify your speech to overwhelming or destructive volume, and then project it in a cone. Words and sheer sonic pressure in this cone can’t be ignored. All shout projectors can be installed as armor upgrades (taking one upgrade slot per hand needed to wield the weapon), allowing the projectors to be used hands-free. That way, a user can carry lethal weaponry, safety gear, or protest signage. Exhorter shout projectors can be useful for crowd control with a lighter touch. Damper and pacifier models are ostensibly for nonlethal but more coercive applications, while the riot and crackdown projectors are for heavy-handed use."
   }
 ]

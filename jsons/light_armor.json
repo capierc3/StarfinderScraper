@@ -12,7 +12,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Many types of reinforced clothing afford protection without sacrificing comfort or fashion. The prevalence of this kind of light armor on Absalom Station has led to the colloquial term “stationwear.” Stationwear ranges in style from casual wear to business suits and more formal garb. The usual environmental protections of armor are concealed in the design of these outfits. The grades of armor—business, casual, elite, and flight suit—refer to the quality of the garments, not the style."
   },
   {
     "source": "Starfinder Armory pg. 71",
@@ -27,7 +27,7 @@
     "Upgrade Slots": "0",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -42,7 +42,7 @@
     "Upgrade Slots": "2",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "When a task requires skillful work in a harsh environment with no tolerance for a flimsy space suit, the EJ utility suit is the answer. Flexible and durable, this coverall provides protection and comfort, and with room for upgrades, it’s adaptable to a variety of jobs."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 49",
@@ -57,7 +57,7 @@
     "Upgrade Slots": "1",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Barathus designed flight skins to help them move comfortably in the cramped spaces favored by many terrestrial species, but the modular design proved easy to adapt to other species. A flight skin comprises redundant layers of light, airy material that lie nearly flat and resemble rubber or soft cloth but, buttressed by bio-psychic force fields, briefly inflate to reduce sudden impact. Flight skin environmental protections take the form of a thin membrane that, when activated, envelops exposed skin."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -87,7 +87,7 @@
     "Upgrade Slots": "2",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Estex is a thick, durable fabric most often used to make flight suits and environmental suits. Estex suits cover the wearer from the neck down and can be modified with armor upgrades as needed. Higher-quality estex suits grant a better level of protection and allow for more upgrades, though they are often bulkier than comparable suits of light armor."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -102,7 +102,7 @@
     "Upgrade Slots": "0",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "These suits of ribbed protective fabric are slightly less advanced than comparable light armor but still provide good-quality protection at an affordable price. Kasatha-made microcord suits are typically one-piece outfits of dark colors, sometimes with glowing trim, but other manufacturers produce such suits in a variety of colors and styles."
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -117,7 +117,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Pact Worlds pg. 196",
@@ -147,7 +147,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Popularized by the Free Captains of the Diaspora, freebooter armor features an armored jacket or breastplate, heavy boots and gloves, numerous straps and hidden weapons, and a helmet. Novice explorers and mercenaries beginning their career sometimes choose freebooter armor for the air of rakish experience this light armor lends its wearer."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -162,7 +162,7 @@
     "Upgrade Slots": "2",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "When a task requires skillful work in a harsh environment with no tolerance for a flimsy space suit, the EJ utility suit is the answer. Flexible and durable, this coverall provides protection and comfort, and with room for upgrades, it’s adaptable to a variety of jobs."
   },
   {
     "source": "Starfinder Armory pg. 71",
@@ -177,7 +177,7 @@
     "Upgrade Slots": "1",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The core of vesk brigandine is a lightweight breastplate made of interlocking polymer hexagons. It flexes almost as well as fabric under normal use, but it becomes rigid as steel in response to impact. Its slim profile lets it be worn either over or under clothing. More advanced brigandine designs incorporate inertial dampeners to enhance protection. Vesk who prize mobility over maximum protection favor this style of light armor, and its use has spread throughout the Pact Worlds to the degree that any similar design is often referred to as vesk brigandine."
   },
   {
     "source": "Pact Worlds pg. 196",
@@ -206,7 +206,8 @@
     "Speed Adjustment": "—",
     "Upgrade Slots": "0",
     "Bulk": "L",
-    "type": "light_armor"
+    "type": "light_armor",
+    "desc": "This armor is made from the harvested hides of the remains of destroyed undead, making it resemble a macabre skinsuit. Ossified studs and embellishments reinforce the alchemically treated skin, which is otherwise designed to support Corpse Fleet agents favoring speed and stealth."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -221,7 +222,7 @@
     "Upgrade Slots": "1",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Though these suits of light armor appear to be made of stiff fabric, they are actually woven from carbon fibers. Higher-quality carbon skins are reinforced with carbon allotypes, such as white carbon or diamond, and the heightened sheen of the fabric hints at their expensive construction."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -236,7 +237,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Many types of reinforced clothing afford protection without sacrificing comfort or fashion. The prevalence of this kind of light armor on Absalom Station has led to the colloquial term “stationwear.” Stationwear ranges in style from casual wear to business suits and more formal garb. The usual environmental protections of armor are concealed in the design of these outfits. The grades of armor—business, casual, elite, and flight suit—refer to the quality of the garments, not the style."
   },
   {
     "source": "Starfinder Armory pg. 68",
@@ -251,7 +252,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The formfitting fabric of clearweave light armor is completely transparent to better display the fashion choices beneath it. Discrete force field generators along each side resemble intricate tattoos as much as they resemble circuitry. Clearweave darkens automatically when exposed to harmful solar radiation or laser fire."
   },
   {
     "source": "Starfinder Armory pg. 71",
@@ -266,7 +267,7 @@
     "Upgrade Slots": "1",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Regimental dress is the light armor counterpart to ceremonial plate. Often stylized to the extreme, regimental dress comes in as many variations as there are military forces, militias, and private security details. Regimental dress uses advanced fibers and strategically placed ceramic plates to avoid ruining the design lines of the uniforms. A force field projector concealed in the collar activates as needed to provide life support and protection for the head. Integrated holographic imaging projects rank insignia, medals, and ribbons, and supports gesture-activated informational displays for each honor."
   },
   {
     "source": "Starfinder Armory pg. 71",
@@ -281,7 +282,7 @@
     "Upgrade Slots": "1",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -296,7 +297,7 @@
     "Upgrade Slots": "1",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Lashuntas developed tempweave light armor by threading temperature-regulating wires through reinforced clothing. The result is a protective, flexible outfit that maintains a comfortable temperature for the wearer. Most tempweave outfits feature a fitted tunic over breeches, making them a popular choice for explorers venturing to hot or humid environments."
   },
   {
     "source": "Near Space pg. 152",
@@ -311,7 +312,7 @@
     "Upgrade Slots": "1",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The Veskarium’s occupation forces often wear these suits of lightweight armor designed to create a visually homogenized police force to help maintain order in newly acquired territory. It is a symbol of both authority and allegiance to the Veskarium. Each suit is visually identical, and peacekeeping forces are prohibited from adding personalized decorations or adornment."
   },
   {
     "source": "Starfinder #4: The Ruined Clouds pg. 44",
@@ -326,7 +327,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Crafted from the hides of acrochors—serpentine predators that crush their prey (see page 55)—these suits of light armor offer both protection and flexibility. Acrochor hide has the archaic armor special property."
   },
   {
     "source": "Starfinder Armory pg. 68",
@@ -341,7 +342,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The utilitarian grave mantle is common both on Eox and among the Eoxian expatriates of the Corpse Fleet. The base model worn by rankand- file troops consists of a tabard of ballistic fabric worn over plastic mesh, with additional layers of fabric reinforcing the joints. More expensive models enhance the mesh with nanowire and place ceramic plates beneath the tabard. Despite Eoxian armies having no need for air, grave mantles retain life support systems as a defense against corrosive atmospheres and related hazards."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -371,7 +372,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Many types of reinforced clothing afford protection without sacrificing comfort or fashion. The prevalence of this kind of light armor on Absalom Station has led to the colloquial term “stationwear.” Stationwear ranges in style from casual wear to business suits and more formal garb. The usual environmental protections of armor are concealed in the design of these outfits. The grades of armor—business, casual, elite, and flight suit—refer to the quality of the garments, not the style."
   },
   {
     "source": "Starfinder Armory pg. 71",
@@ -386,7 +387,7 @@
     "Upgrade Slots": "2",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The core of vesk brigandine is a lightweight breastplate made of interlocking polymer hexagons. It flexes almost as well as fabric under normal use, but it becomes rigid as steel in response to impact. Its slim profile lets it be worn either over or under clothing. More advanced brigandine designs incorporate inertial dampeners to enhance protection. Vesk who prize mobility over maximum protection favor this style of light armor, and its use has spread throughout the Pact Worlds to the degree that any similar design is often referred to as vesk brigandine."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -401,7 +402,7 @@
     "Upgrade Slots": "3",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Estex is a thick, durable fabric most often used to make flight suits and environmental suits. Estex suits cover the wearer from the neck down and can be modified with armor upgrades as needed. Higher-quality estex suits grant a better level of protection and allow for more upgrades, though they are often bulkier than comparable suits of light armor."
   },
   {
     "source": "Near Space pg. 152",
@@ -416,7 +417,7 @@
     "Upgrade Slots": "2",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The lush forests of Ghorus Prime are host to all manner of flora, and ghoran biochemists have learned to cultivate the natural defense mechanisms of many plants to their advantage. A plexigrass bodysuit consists of millions of densely woven blades of a bioengineered plant with incredibly tough fibers that have a tensile strength that rivals most alloys."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -431,7 +432,7 @@
     "Upgrade Slots": "1",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Disembarkment suits, or d-suits, are designed for spacefarers who expect to leave their ship and visit a planet’s surface. Most d-suits are jumpsuits or flight suits worn under reinforced breeches, heavy boots, and a thick jacket. A helmet or rebreather and a utility belt with an attached holster complete the outfit."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 49",
@@ -446,7 +447,7 @@
     "Upgrade Slots": "3",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Barathus designed flight skins to help them move comfortably in the cramped spaces favored by many terrestrial species, but the modular design proved easy to adapt to other species. A flight skin comprises redundant layers of light, airy material that lie nearly flat and resemble rubber or soft cloth but, buttressed by bio-psychic force fields, briefly inflate to reduce sudden impact. Flight skin environmental protections take the form of a thin membrane that, when activated, envelops exposed skin."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -461,7 +462,7 @@
     "Upgrade Slots": "1",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "These suits of ribbed protective fabric are slightly less advanced than comparable light armor but still provide good-quality protection at an affordable price. Kasatha-made microcord suits are typically one-piece outfits of dark colors, sometimes with glowing trim, but other manufacturers produce such suits in a variety of colors and styles."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -476,7 +477,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Many types of reinforced clothing afford protection without sacrificing comfort or fashion. The prevalence of this kind of light armor on Absalom Station has led to the colloquial term “stationwear.” Stationwear ranges in style from casual wear to business suits and more formal garb. The usual environmental protections of armor are concealed in the design of these outfits. The grades of armor—business, casual, elite, and flight suit—refer to the quality of the garments, not the style."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -506,7 +507,7 @@
     "Upgrade Slots": "1",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Crafted by the talented smiths of the drow of Apostae, this armor is designed to be light and supple. Its refractive planes are all at the molecular level, resulting in armor that appears to almost absorb light. House Zeizerer is the main distributor of this armor to the rest of the Pact Worlds, but other drow houses have been known to manufacture their own versions."
   },
   {
     "source": "Starfinder #15: Sun Divers pg. 44",
@@ -521,7 +522,7 @@
     "Upgrade Slots": "2",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Polyplate is flexible armor composed of interlocking scales that protects its wearer against trauma, absorbing blows and distributing the force across a wide area to lessen its impact. By default, the armor protects against bludgeoning damage, providing DR against that damage equal to half the armor’s item level. As a move action, a creature wearing polyplate can swipe a limb across the armor, changing its DR to protect against piercing or slashing damage, or back to bludgeoning. Polyplate is also highly adaptable, easily incorporating armor upgrades."
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -536,7 +537,7 @@
     "Upgrade Slots": "2",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Each link in a suit of mind mail is a nanotechnological marvel: a psychically active circuit reactive to the thoughts of its wearer. When donned, mind mail floats just above the skin and alternates between rigidity and supple motion in response to its wearer’s thoughts and movement, with hundreds of tiny force fields filling the gaps between links as needed. The mail covers the entire body except for the face. The coif retracts into the collar at a mental command, and the mesh gloves likewise unlink and recede into the sleeves when a delicate touch is required. Mind mail offers a comfortable alternative to climate control in tropical environs such as Castrovel, as the armor does not make direct contact with the body and the open mesh provides ample airflow. The wearers of mind mail often personalize their armor with intricate designs woven with varicolored metals into the pattern of the mail. These designs can be altered with an Engineering check at the same DC as a check for adjusting armor."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -551,7 +552,7 @@
     "Upgrade Slots": "1",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Popularized by the Free Captains of the Diaspora, freebooter armor features an armored jacket or breastplate, heavy boots and gloves, numerous straps and hidden weapons, and a helmet. Novice explorers and mercenaries beginning their career sometimes choose freebooter armor for the air of rakish experience this light armor lends its wearer."
   },
   {
     "source": "Alien Archive 2 pg. 47",
@@ -566,7 +567,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "In Fullbright, some brave—or perhaps foolish—game hunters in the Outlaw Kingdoms pursue dust mantas for their desert-adapted hides, despite the inherent danger in doing so. Those fortunate enough to survive their hunts craft suits of light armor from the hides, using nanocarbon filaments to stitch the armor together."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -581,7 +582,7 @@
     "Upgrade Slots": "4",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Estex is a thick, durable fabric most often used to make flight suits and environmental suits. Estex suits cover the wearer from the neck down and can be modified with armor upgrades as needed. Higher-quality estex suits grant a better level of protection and allow for more upgrades, though they are often bulkier than comparable suits of light armor."
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -596,7 +597,7 @@
     "Upgrade Slots": "1",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -611,7 +612,7 @@
     "Upgrade Slots": "2",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Disembarkment suits, or d-suits, are designed for spacefarers who expect to leave their ship and visit a planet’s surface. Most d-suits are jumpsuits or flight suits worn under reinforced breeches, heavy boots, and a thick jacket. A helmet or rebreather and a utility belt with an attached holster complete the outfit."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -626,7 +627,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "AbadarCorp executives popularized these light armor business suits for boardrooms and diplomatic meetings. Contingent force fields and concealed rebreathers protect the wearer in hostile environmental conditions. Higher grades of travel suits offer more protection—along with a designer label."
   },
   {
     "source": "Alien Archive pg. 7",
@@ -671,7 +672,7 @@
     "Upgrade Slots": "3",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The Veskarium’s occupation forces often wear these suits of lightweight armor designed to create a visually homogenized police force to help maintain order in newly acquired territory. It is a symbol of both authority and allegiance to the Veskarium. Each suit is visually identical, and peacekeeping forces are prohibited from adding personalized decorations or adornment."
   },
   {
     "source": "Starfinder #4: The Ruined Clouds pg. 44",
@@ -686,7 +687,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Crafted from the hides of acrochors—serpentine predators that crush their prey (see page 55)—these suits of light armor offer both protection and flexibility. Acrochor hide has the archaic armor special property."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -701,7 +702,7 @@
     "Upgrade Slots": "3",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Lashuntas developed tempweave light armor by threading temperature-regulating wires through reinforced clothing. The result is a protective, flexible outfit that maintains a comfortable temperature for the wearer. Most tempweave outfits feature a fitted tunic over breeches, making them a popular choice for explorers venturing to hot or humid environments."
   },
   {
     "source": "Starfinder Armory pg. 71",
@@ -716,7 +717,7 @@
     "Upgrade Slots": "2",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Armory pg. 71",
@@ -731,7 +732,7 @@
     "Upgrade Slots": "2",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The core of vesk brigandine is a lightweight breastplate made of interlocking polymer hexagons. It flexes almost as well as fabric under normal use, but it becomes rigid as steel in response to impact. Its slim profile lets it be worn either over or under clothing. More advanced brigandine designs incorporate inertial dampeners to enhance protection. Vesk who prize mobility over maximum protection favor this style of light armor, and its use has spread throughout the Pact Worlds to the degree that any similar design is often referred to as vesk brigandine."
   },
   {
     "source": "Alien Archive 3 pg. 13",
@@ -746,7 +747,7 @@
     "Upgrade Slots": "2",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Even juvenile defrex hide has layers of cartilaginous fibers that resist tearing, allowing for basic defrex hide. Adult defrex hide contains osteoderms that can deflect high-speed projectiles. Chemical treatments and modern materials can reinforce the hide to an even stronger degree. "
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -761,7 +762,7 @@
     "Upgrade Slots": "2",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "These suits of ribbed protective fabric are slightly less advanced than comparable light armor but still provide good-quality protection at an affordable price. Kasatha-made microcord suits are typically one-piece outfits of dark colors, sometimes with glowing trim, but other manufacturers produce such suits in a variety of colors and styles."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -776,7 +777,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "AbadarCorp executives popularized these light armor business suits for boardrooms and diplomatic meetings. Contingent force fields and concealed rebreathers protect the wearer in hostile environmental conditions. Higher grades of travel suits offer more protection—along with a designer label."
   },
   {
     "source": "Alien Archive 2 pg. 23",
@@ -790,7 +791,8 @@
     "Speed Adjustment": "—",
     "Upgrade Slots": "2",
     "Bulk": "L",
-    "type": "light_armor"
+    "type": "light_armor",
+    "desc": "This armor is made from the harvested hides of the remains of destroyed undead, making it resemble a macabre skinsuit. Ossified studs and embellishments reinforce the alchemically treated skin, which is otherwise designed to support Corpse Fleet agents favoring speed and stealth."
   },
   {
     "source": "Alien Archive 4 pg. 129",
@@ -805,7 +807,7 @@
     "Upgrade Slots": "1",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Some of the most intrepid hunters seek out ursikkas—and wily scavengers often search the tundra for fallen ursikka bodies—to harvest their hides. Ursikka hides are light, supple, and have an insulating quality that traps body heat, making them an ideal material for cold weather gear and clothes. Talented armorsmiths can create flexible light armor from this leather, which grants cold resistance in addition to the benefits listed on the table below. Basic ursikka hide armor provides cold resistance 10, and the resistance increases to 15 and 20 for advanced and elite suits respectively."
   },
   {
     "source": "Pact Worlds pg. 196",
@@ -820,7 +822,7 @@
     "Upgrade Slots": "2",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Crafted by the talented smiths of the drow of Apostae, this armor is designed to be light and supple. Its refractive planes are all at the molecular level, resulting in armor that appears to almost absorb light. House Zeizerer is the main distributor of this armor to the rest of the Pact Worlds, but other drow houses have been known to manufacture their own versions."
   },
   {
     "source": "Starfinder Armory pg. 68",
@@ -835,7 +837,7 @@
     "Upgrade Slots": "2",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The formfitting fabric of clearweave light armor is completely transparent to better display the fashion choices beneath it. Discrete force field generators along each side resemble intricate tattoos as much as they resemble circuitry. Clearweave darkens automatically when exposed to harmful solar radiation or laser fire."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -850,7 +852,7 @@
     "Upgrade Slots": "3",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Disembarkment suits, or d-suits, are designed for spacefarers who expect to leave their ship and visit a planet’s surface. Most d-suits are jumpsuits or flight suits worn under reinforced breeches, heavy boots, and a thick jacket. A helmet or rebreather and a utility belt with an attached holster complete the outfit."
   },
   {
     "source": "Near Space pg. 152",
@@ -865,7 +867,7 @@
     "Upgrade Slots": "3",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The lush forests of Ghorus Prime are host to all manner of flora, and ghoran biochemists have learned to cultivate the natural defense mechanisms of many plants to their advantage. A plexigrass bodysuit consists of millions of densely woven blades of a bioengineered plant with incredibly tough fibers that have a tensile strength that rivals most alloys."
   },
   {
     "source": "Starfinder Armory pg. 71",
@@ -880,7 +882,7 @@
     "Upgrade Slots": "2",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Developed by the reptoids for their agents, shiftskin comes in a variety of designs styled to resemble normal clothing, uniforms, and even other light armors. Each suit of shiftskin is designed to accommodate both its owner’s natural form and one other specific assumed form of another race, shifting and reshaping as needed when the reptoid changes shape. Thus a suit of shiftskin can be adjusted to accommodate two different forms, rather than fitting only one form at a time."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 49",
@@ -895,7 +897,7 @@
     "Upgrade Slots": "4",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Barathus designed flight skins to help them move comfortably in the cramped spaces favored by many terrestrial species, but the modular design proved easy to adapt to other species. A flight skin comprises redundant layers of light, airy material that lie nearly flat and resemble rubber or soft cloth but, buttressed by bio-psychic force fields, briefly inflate to reduce sudden impact. Flight skin environmental protections take the form of a thin membrane that, when activated, envelops exposed skin."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -910,7 +912,7 @@
     "Upgrade Slots": "3",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Popularized by the Free Captains of the Diaspora, freebooter armor features an armored jacket or breastplate, heavy boots and gloves, numerous straps and hidden weapons, and a helmet. Novice explorers and mercenaries beginning their career sometimes choose freebooter armor for the air of rakish experience this light armor lends its wearer."
   },
   {
     "source": "Starfinder #15: Sun Divers pg. 44",
@@ -925,7 +927,7 @@
     "Upgrade Slots": "3",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Polyplate is flexible armor composed of interlocking scales that protects its wearer against trauma, absorbing blows and distributing the force across a wide area to lessen its impact. By default, the armor protects against bludgeoning damage, providing DR against that damage equal to half the armor’s item level. As a move action, a creature wearing polyplate can swipe a limb across the armor, changing its DR to protect against piercing or slashing damage, or back to bludgeoning. Polyplate is also highly adaptable, easily incorporating armor upgrades."
   },
   {
     "source": "Starfinder Armory pg. 68",
@@ -940,7 +942,7 @@
     "Upgrade Slots": "2",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The utilitarian grave mantle is common both on Eox and among the Eoxian expatriates of the Corpse Fleet. The base model worn by rankand- file troops consists of a tabard of ballistic fabric worn over plastic mesh, with additional layers of fabric reinforcing the joints. More expensive models enhance the mesh with nanowire and place ceramic plates beneath the tabard. Despite Eoxian armies having no need for air, grave mantles retain life support systems as a defense against corrosive atmospheres and related hazards."
   },
   {
     "source": "Starfinder Armory pg. 71",
@@ -955,7 +957,7 @@
     "Upgrade Slots": "2",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Regimental dress is the light armor counterpart to ceremonial plate. Often stylized to the extreme, regimental dress comes in as many variations as there are military forces, militias, and private security details. Regimental dress uses advanced fibers and strategically placed ceramic plates to avoid ruining the design lines of the uniforms. A force field projector concealed in the collar activates as needed to provide life support and protection for the head. Integrated holographic imaging projects rank insignia, medals, and ribbons, and supports gesture-activated informational displays for each honor."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -970,7 +972,7 @@
     "Upgrade Slots": "3",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Though these suits of light armor appear to be made of stiff fabric, they are actually woven from carbon fibers. Higher-quality carbon skins are reinforced with carbon allotypes, such as white carbon or diamond, and the heightened sheen of the fabric hints at their expensive construction."
   },
   {
     "source": "Alien Archive 3 pg. 121",
@@ -1000,7 +1002,7 @@
     "Upgrade Slots": "3",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The core of vesk brigandine is a lightweight breastplate made of interlocking polymer hexagons. It flexes almost as well as fabric under normal use, but it becomes rigid as steel in response to impact. Its slim profile lets it be worn either over or under clothing. More advanced brigandine designs incorporate inertial dampeners to enhance protection. Vesk who prize mobility over maximum protection favor this style of light armor, and its use has spread throughout the Pact Worlds to the degree that any similar design is often referred to as vesk brigandine."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1015,7 +1017,7 @@
     "Upgrade Slots": "3",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "These suits of ribbed protective fabric are slightly less advanced than comparable light armor but still provide good-quality protection at an affordable price. Kasatha-made microcord suits are typically one-piece outfits of dark colors, sometimes with glowing trim, but other manufacturers produce such suits in a variety of colors and styles."
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -1030,7 +1032,7 @@
     "Upgrade Slots": "2",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Each link in a suit of mind mail is a nanotechnological marvel: a psychically active circuit reactive to the thoughts of its wearer. When donned, mind mail floats just above the skin and alternates between rigidity and supple motion in response to its wearer’s thoughts and movement, with hundreds of tiny force fields filling the gaps between links as needed. The mail covers the entire body except for the face. The coif retracts into the collar at a mental command, and the mesh gloves likewise unlink and recede into the sleeves when a delicate touch is required. Mind mail offers a comfortable alternative to climate control in tropical environs such as Castrovel, as the armor does not make direct contact with the body and the open mesh provides ample airflow. The wearers of mind mail often personalize their armor with intricate designs woven with varicolored metals into the pattern of the mail. These designs can be altered with an Engineering check at the same DC as a check for adjusting armor."
   },
   {
     "source": "Starfinder #4: The Ruined Clouds pg. 44",
@@ -1045,7 +1047,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Crafted from the hides of acrochors—serpentine predators that crush their prey (see page 55)—these suits of light armor offer both protection and flexibility. Acrochor hide has the archaic armor special property."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1060,7 +1062,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "AbadarCorp executives popularized these light armor business suits for boardrooms and diplomatic meetings. Contingent force fields and concealed rebreathers protect the wearer in hostile environmental conditions. Higher grades of travel suits offer more protection—along with a designer label."
   },
   {
     "source": "Alien Archive 3 pg. 13",
@@ -1075,7 +1077,7 @@
     "Upgrade Slots": "3",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Even juvenile defrex hide has layers of cartilaginous fibers that resist tearing, allowing for basic defrex hide. Adult defrex hide contains osteoderms that can deflect high-speed projectiles. Chemical treatments and modern materials can reinforce the hide to an even stronger degree. "
   },
   {
     "source": "Near Space pg. 152",
@@ -1090,7 +1092,7 @@
     "Upgrade Slots": "3",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The Veskarium’s occupation forces often wear these suits of lightweight armor designed to create a visually homogenized police force to help maintain order in newly acquired territory. It is a symbol of both authority and allegiance to the Veskarium. Each suit is visually identical, and peacekeeping forces are prohibited from adding personalized decorations or adornment."
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -1105,7 +1107,7 @@
     "Upgrade Slots": "3",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1120,7 +1122,7 @@
     "Upgrade Slots": "4",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The last word in light infantry armor, hardlight series armor features an inflexible, lightweight breastplate, limb guards, and a helmet over a smooth and formfitting jumpsuit. Manufacturers often make custom armor for military organizations, but off-therack armor of differing qualities is also available to mercenaries and explorers."
   },
   {
     "source": "Alien Archive 2 pg. 47",
@@ -1135,7 +1137,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "In Fullbright, some brave—or perhaps foolish—game hunters in the Outlaw Kingdoms pursue dust mantas for their desert-adapted hides, despite the inherent danger in doing so. Those fortunate enough to survive their hunts craft suits of light armor from the hides, using nanocarbon filaments to stitch the armor together."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1150,7 +1152,7 @@
     "Upgrade Slots": "4",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Disembarkment suits, or d-suits, are designed for spacefarers who expect to leave their ship and visit a planet’s surface. Most d-suits are jumpsuits or flight suits worn under reinforced breeches, heavy boots, and a thick jacket. A helmet or rebreather and a utility belt with an attached holster complete the outfit."
   },
   {
     "source": "Alien Archive 4 pg. 129",
@@ -1165,7 +1167,7 @@
     "Upgrade Slots": "2",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Some of the most intrepid hunters seek out ursikkas—and wily scavengers often search the tundra for fallen ursikka bodies—to harvest their hides. Ursikka hides are light, supple, and have an insulating quality that traps body heat, making them an ideal material for cold weather gear and clothes. Talented armorsmiths can create flexible light armor from this leather, which grants cold resistance in addition to the benefits listed on the table below. Basic ursikka hide armor provides cold resistance 10, and the resistance increases to 15 and 20 for advanced and elite suits respectively."
   },
   {
     "source": "Starfinder Armory pg. 71",
@@ -1180,7 +1182,7 @@
     "Upgrade Slots": "3",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Pact Worlds pg. 196",
@@ -1195,7 +1197,7 @@
     "Upgrade Slots": "3",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Crafted by the talented smiths of the drow of Apostae, this armor is designed to be light and supple. Its refractive planes are all at the molecular level, resulting in armor that appears to almost absorb light. House Zeizerer is the main distributor of this armor to the rest of the Pact Worlds, but other drow houses have been known to manufacture their own versions."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1210,7 +1212,7 @@
     "Upgrade Slots": "6",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Estex is a thick, durable fabric most often used to make flight suits and environmental suits. Estex suits cover the wearer from the neck down and can be modified with armor upgrades as needed. Higher-quality estex suits grant a better level of protection and allow for more upgrades, though they are often bulkier than comparable suits of light armor."
   },
   {
     "source": "Near Space pg. 152",
@@ -1225,7 +1227,7 @@
     "Upgrade Slots": "4",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The lush forests of Ghorus Prime are host to all manner of flora, and ghoran biochemists have learned to cultivate the natural defense mechanisms of many plants to their advantage. A plexigrass bodysuit consists of millions of densely woven blades of a bioengineered plant with incredibly tough fibers that have a tensile strength that rivals most alloys."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1240,7 +1242,7 @@
     "Upgrade Slots": "4",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Popularized by the Free Captains of the Diaspora, freebooter armor features an armored jacket or breastplate, heavy boots and gloves, numerous straps and hidden weapons, and a helmet. Novice explorers and mercenaries beginning their career sometimes choose freebooter armor for the air of rakish experience this light armor lends its wearer."
   },
   {
     "source": "Starfinder #15: Sun Divers pg. 44",
@@ -1255,7 +1257,7 @@
     "Upgrade Slots": "4",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Polyplate is flexible armor composed of interlocking scales that protects its wearer against trauma, absorbing blows and distributing the force across a wide area to lessen its impact. By default, the armor protects against bludgeoning damage, providing DR against that damage equal to half the armor’s item level. As a move action, a creature wearing polyplate can swipe a limb across the armor, changing its DR to protect against piercing or slashing damage, or back to bludgeoning. Polyplate is also highly adaptable, easily incorporating armor upgrades."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1270,7 +1272,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Modeled after the universe’s most cutting-edge fashions, this lightly armored clothing is available in daring modern designs, using force fields and the highest-tech fibers to create any sort of outfit imaginable. Bespoke echelon fashions are often tailormade for the orderer and meant to look unique."
   },
   {
     "source": "Starfinder Armory pg. 71",
@@ -1285,7 +1287,7 @@
     "Upgrade Slots": "3",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Developed by the reptoids for their agents, shiftskin comes in a variety of designs styled to resemble normal clothing, uniforms, and even other light armors. Each suit of shiftskin is designed to accommodate both its owner’s natural form and one other specific assumed form of another race, shifting and reshaping as needed when the reptoid changes shape. Thus a suit of shiftskin can be adjusted to accommodate two different forms, rather than fitting only one form at a time."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 49",
@@ -1300,7 +1302,7 @@
     "Upgrade Slots": "5",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Barathus designed flight skins to help them move comfortably in the cramped spaces favored by many terrestrial species, but the modular design proved easy to adapt to other species. A flight skin comprises redundant layers of light, airy material that lie nearly flat and resemble rubber or soft cloth but, buttressed by bio-psychic force fields, briefly inflate to reduce sudden impact. Flight skin environmental protections take the form of a thin membrane that, when activated, envelops exposed skin."
   },
   {
     "source": "Alien Archive 3 pg. 121",
@@ -1345,7 +1347,7 @@
     "Upgrade Slots": "4",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The core of vesk brigandine is a lightweight breastplate made of interlocking polymer hexagons. It flexes almost as well as fabric under normal use, but it becomes rigid as steel in response to impact. Its slim profile lets it be worn either over or under clothing. More advanced brigandine designs incorporate inertial dampeners to enhance protection. Vesk who prize mobility over maximum protection favor this style of light armor, and its use has spread throughout the Pact Worlds to the degree that any similar design is often referred to as vesk brigandine."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1360,7 +1362,7 @@
     "Upgrade Slots": "4",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The last word in light infantry armor, hardlight series armor features an inflexible, lightweight breastplate, limb guards, and a helmet over a smooth and formfitting jumpsuit. Manufacturers often make custom armor for military organizations, but off-therack armor of differing qualities is also available to mercenaries and explorers."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1375,7 +1377,7 @@
     "Upgrade Slots": "4",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Though these suits of light armor appear to be made of stiff fabric, they are actually woven from carbon fibers. Higher-quality carbon skins are reinforced with carbon allotypes, such as white carbon or diamond, and the heightened sheen of the fabric hints at their expensive construction."
   },
   {
     "source": "Alien Archive 3 pg. 13",
@@ -1390,7 +1392,7 @@
     "Upgrade Slots": "4",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Even juvenile defrex hide has layers of cartilaginous fibers that resist tearing, allowing for basic defrex hide. Adult defrex hide contains osteoderms that can deflect high-speed projectiles. Chemical treatments and modern materials can reinforce the hide to an even stronger degree. "
   },
   {
     "source": "Alien Archive 2 pg. 23",
@@ -1404,7 +1406,8 @@
     "Speed Adjustment": "—",
     "Upgrade Slots": "4",
     "Bulk": "L",
-    "type": "light_armor"
+    "type": "light_armor",
+    "desc": "This armor is made from the harvested hides of the remains of destroyed undead, making it resemble a macabre skinsuit. Ossified studs and embellishments reinforce the alchemically treated skin, which is otherwise designed to support Corpse Fleet agents favoring speed and stealth."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1434,7 +1437,7 @@
     "Upgrade Slots": "3",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Each link in a suit of mind mail is a nanotechnological marvel: a psychically active circuit reactive to the thoughts of its wearer. When donned, mind mail floats just above the skin and alternates between rigidity and supple motion in response to its wearer’s thoughts and movement, with hundreds of tiny force fields filling the gaps between links as needed. The mail covers the entire body except for the face. The coif retracts into the collar at a mental command, and the mesh gloves likewise unlink and recede into the sleeves when a delicate touch is required. Mind mail offers a comfortable alternative to climate control in tropical environs such as Castrovel, as the armor does not make direct contact with the body and the open mesh provides ample airflow. The wearers of mind mail often personalize their armor with intricate designs woven with varicolored metals into the pattern of the mail. These designs can be altered with an Engineering check at the same DC as a check for adjusting armor."
   },
   {
     "source": "Alien Archive 4 pg. 129",
@@ -1449,7 +1452,7 @@
     "Upgrade Slots": "3",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Some of the most intrepid hunters seek out ursikkas—and wily scavengers often search the tundra for fallen ursikka bodies—to harvest their hides. Ursikka hides are light, supple, and have an insulating quality that traps body heat, making them an ideal material for cold weather gear and clothes. Talented armorsmiths can create flexible light armor from this leather, which grants cold resistance in addition to the benefits listed on the table below. Basic ursikka hide armor provides cold resistance 10, and the resistance increases to 15 and 20 for advanced and elite suits respectively."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1464,7 +1467,7 @@
     "Upgrade Slots": "5",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Disembarkment suits, or d-suits, are designed for spacefarers who expect to leave their ship and visit a planet’s surface. Most d-suits are jumpsuits or flight suits worn under reinforced breeches, heavy boots, and a thick jacket. A helmet or rebreather and a utility belt with an attached holster complete the outfit."
   },
   {
     "source": "Starfinder Armory pg. 68",
@@ -1479,7 +1482,7 @@
     "Upgrade Slots": "3",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The utilitarian grave mantle is common both on Eox and among the Eoxian expatriates of the Corpse Fleet. The base model worn by rankand- file troops consists of a tabard of ballistic fabric worn over plastic mesh, with additional layers of fabric reinforcing the joints. More expensive models enhance the mesh with nanowire and place ceramic plates beneath the tabard. Despite Eoxian armies having no need for air, grave mantles retain life support systems as a defense against corrosive atmospheres and related hazards."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1494,7 +1497,7 @@
     "Upgrade Slots": "0",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Modeled after the universe’s most cutting-edge fashions, this lightly armored clothing is available in daring modern designs, using force fields and the highest-tech fibers to create any sort of outfit imaginable. Bespoke echelon fashions are often tailormade for the orderer and meant to look unique."
   },
   {
     "source": "Pact Worlds pg. 196",
@@ -1509,7 +1512,7 @@
     "Upgrade Slots": "4",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Crafted by the talented smiths of the drow of Apostae, this armor is designed to be light and supple. Its refractive planes are all at the molecular level, resulting in armor that appears to almost absorb light. House Zeizerer is the main distributor of this armor to the rest of the Pact Worlds, but other drow houses have been known to manufacture their own versions."
   },
   {
     "source": "Starfinder #15: Sun Divers pg. 44",
@@ -1524,7 +1527,7 @@
     "Upgrade Slots": "5",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Polyplate is flexible armor composed of interlocking scales that protects its wearer against trauma, absorbing blows and distributing the force across a wide area to lessen its impact. By default, the armor protects against bludgeoning damage, providing DR against that damage equal to half the armor’s item level. As a move action, a creature wearing polyplate can swipe a limb across the armor, changing its DR to protect against piercing or slashing damage, or back to bludgeoning. Polyplate is also highly adaptable, easily incorporating armor upgrades."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1539,7 +1542,7 @@
     "Upgrade Slots": "5",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Popularized by the Free Captains of the Diaspora, freebooter armor features an armored jacket or breastplate, heavy boots and gloves, numerous straps and hidden weapons, and a helmet. Novice explorers and mercenaries beginning their career sometimes choose freebooter armor for the air of rakish experience this light armor lends its wearer."
   },
   {
     "source": "Alien Archive 3 pg. 121",
@@ -1569,7 +1572,7 @@
     "Upgrade Slots": "4",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Regimental dress is the light armor counterpart to ceremonial plate. Often stylized to the extreme, regimental dress comes in as many variations as there are military forces, militias, and private security details. Regimental dress uses advanced fibers and strategically placed ceramic plates to avoid ruining the design lines of the uniforms. A force field projector concealed in the collar activates as needed to provide life support and protection for the head. Integrated holographic imaging projects rank insignia, medals, and ribbons, and supports gesture-activated informational displays for each honor."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 49",
@@ -1584,7 +1587,7 @@
     "Upgrade Slots": "6",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Barathus designed flight skins to help them move comfortably in the cramped spaces favored by many terrestrial species, but the modular design proved easy to adapt to other species. A flight skin comprises redundant layers of light, airy material that lie nearly flat and resemble rubber or soft cloth but, buttressed by bio-psychic force fields, briefly inflate to reduce sudden impact. Flight skin environmental protections take the form of a thin membrane that, when activated, envelops exposed skin."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1599,7 +1602,7 @@
     "Upgrade Slots": "6",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Disembarkment suits, or d-suits, are designed for spacefarers who expect to leave their ship and visit a planet’s surface. Most d-suits are jumpsuits or flight suits worn under reinforced breeches, heavy boots, and a thick jacket. A helmet or rebreather and a utility belt with an attached holster complete the outfit."
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -1614,7 +1617,7 @@
     "Upgrade Slots": "5",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Each link in a suit of mind mail is a nanotechnological marvel: a psychically active circuit reactive to the thoughts of its wearer. When donned, mind mail floats just above the skin and alternates between rigidity and supple motion in response to its wearer’s thoughts and movement, with hundreds of tiny force fields filling the gaps between links as needed. The mail covers the entire body except for the face. The coif retracts into the collar at a mental command, and the mesh gloves likewise unlink and recede into the sleeves when a delicate touch is required. Mind mail offers a comfortable alternative to climate control in tropical environs such as Castrovel, as the armor does not make direct contact with the body and the open mesh provides ample airflow. The wearers of mind mail often personalize their armor with intricate designs woven with varicolored metals into the pattern of the mail. These designs can be altered with an Engineering check at the same DC as a check for adjusting armor."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1629,7 +1632,7 @@
     "Upgrade Slots": "6",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Though these suits of light armor appear to be made of stiff fabric, they are actually woven from carbon fibers. Higher-quality carbon skins are reinforced with carbon allotypes, such as white carbon or diamond, and the heightened sheen of the fabric hints at their expensive construction."
   },
   {
     "source": "Starfinder Armory pg. 71",
@@ -1644,7 +1647,7 @@
     "Upgrade Slots": "5",
     "Bulk": "1",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "Developed by the reptoids for their agents, shiftskin comes in a variety of designs styled to resemble normal clothing, uniforms, and even other light armors. Each suit of shiftskin is designed to accommodate both its owner’s natural form and one other specific assumed form of another race, shifting and reshaping as needed when the reptoid changes shape. Thus a suit of shiftskin can be adjusted to accommodate two different forms, rather than fitting only one form at a time."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -1659,6 +1662,6 @@
     "Upgrade Slots": "6",
     "Bulk": "L",
     "type": "light_armor",
-    "desc": "top desc: hr"
+    "desc": "The last word in light infantry armor, hardlight series armor features an inflexible, lightweight breastplate, limb guards, and a helmet over a smooth and formfitting jumpsuit. Manufacturers often make custom armor for military organizations, but off-therack armor of differing qualities is also available to mercenaries and explorers."
   }
 ]

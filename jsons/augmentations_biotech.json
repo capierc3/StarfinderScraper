@@ -126,18 +126,22 @@
     "desc": "A translucent tendril emerges from your back. You can retract or extend this tendril as a move action. It isn’t prehensile, but you can touch it to a willing or unconscious creature within your reach as a standard action in order to fortify the target’s health. If the creature is dying, you automatically stabilize it. If the target is stable but unconscious, you can spend 1 Resolve Point to restore 1 Hit Point to the target. If the creature is diseased, infested, or poisoned, you grant it increased resistance but expose yourself to the affliction and must attempt a saving throw against it. If you succeed, the target of your healing tendril gains a +4 circumstance bonus to its next saving throw against the affliction and you don’t contract the affliction yourself. If you fail, the target of your healing tendril gains a +2 bonus to its next saving throw against the affliction and you contract the affliction yourself. You can use your healing tendril once per day. You cannot use your healing tendril on yourself.\n When you use a rejuvenating or melding tendril, the target regains HP equal to your level + your Constitution modifier. A melding tendril can also be used as a unity tendril of the same mark. When used as a unity tendril, your melding tendril does not stabilize, heal, or grant the target a bonus against afflictions. However, if you have already attached your melding tendril to a creature, you can take a standard action to use the healing properties of your tendril on it.\n"
   },
   {
-    "source": "Resistant Hide, Mk 2",
-    "Name": "4",
-    "Level": "1,900",
-    "Price": "Skin",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Armory pg. 87",
+    "Name": "Resistant Hide, Mk 2",
+    "Level": "4",
+    "Price": "1,900",
+    "System": "Skin",
+    "type": "augmentations_biotech",
+    "desc": "Your skin is reinforced with fur, scales, or other genetically engineered tissue. Select one type of energy (acid, cold, electricity, fire, or sonic); you gain an amount of resistance to that energy type based on the model of your resistant hide. If you have a racial trait that provides resistance to the selected energy type that’s equal to or greater than that of your resistant hide (and doesn’t explicitly stack with other sources of energy resistance), adding resistant hide increases the value of the energy resistance from the trait by 2. If you have a racial trait that provides resistance to the selected energy type of a value less than that of your resistant hide, the value of the resistance from your resistant hide increases by 2. \u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eResistance\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n   \u003ctd\u003e700\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e4\u003c/td\u003e\n   \u003ctd\u003e1,900\u003c/td\u003e\n   \u003ctd\u003e4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e7\u003c/td\u003e\n   \u003ctd\u003e5,890\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n   \u003ctd\u003e17,000\u003c/td\u003e\n   \u003ctd\u003e8\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e13\u003c/td\u003e\n   \u003ctd\u003e46,350\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 6\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e230,850\u003c/td\u003e\n   \u003ctd\u003e12\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Focusing Membrane, Mk 1",
-    "Name": "4",
-    "Level": "1,925",
-    "Price": "Eyes",
-    "System": "augmentations_biotech"
+    "source": "Alien Archive 2 pg. 125",
+    "Name": "Focusing Membrane, Mk 1",
+    "Level": "4",
+    "Price": "1,925",
+    "System": "Eyes",
+    "type": "augmentations_biotech",
+    "desc": "The biological tissue a tashtari uses to produce its muzzle beam, a focusing membrane must be installed as part of an \u003ca style\u003d\"text-decoration:underline\" href\u003d\"Cybernetics.aspx?ItemName\u003dAzimuth\u0026amp;Family\u003dOptical%20Laser\"\u003eoptical laser cybernetic augmentation\u003c/a\u003e of its item level or higher, adding to that augmentation’s cost but allowing two augmentations in one system. An optical laser modified with a focusing membrane treats a target’s fire resistance as if it were 5 lower (10 lower for mk 2). This benefit does not apply to the laser’s burn critical hit effect.\n"
   },
   {
     "source": "Alien Archive 2 pg. 65",
@@ -210,18 +214,22 @@
     "desc": "Your bones are laced with dangerous spines that can be extended to harm foes who get too close. You can retract or harmlessly extend your spines as a standard action. You can\u0027t extend bone spines while wearing armor not fitted to you. If your bone spines are extended and an opponent within 5 feet hits you with a melee attack, you can use your reaction to deal the listed piercing damage to that attacker. If your opponent\u0027s attack roll is a natural 20, the attacker also gains the bleeding condition equal to the item level of your spines. If you have natural weapons and those weapons are magical, the damage dealt by your bone spines is also magical. \u003ctable class\u003d\"inner\"\u003e \n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDamage\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eBristling\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n   \u003ctd\u003e2,900\u003c/td\u003e\n   \u003ctd\u003e1d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eWarding\u003c/td\u003e\n   \u003ctd\u003e9\u003c/td\u003e\n   \u003ctd\u003e12,900\u003c/td\u003e\n   \u003ctd\u003e2d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003ePunishing\u003c/td\u003e\n   \u003ctd\u003e13\u003c/td\u003e\n   \u003ctd\u003e47,900\u003c/td\u003e\n   \u003ctd\u003e4d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eRebuking\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e242,900\u003c/td\u003e\n   \u003ctd\u003e8d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Regenerative Blood, Mk 1",
-    "Name": "5",
-    "Level": "3,250",
-    "Price": "Heart",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Armory pg. 86",
+    "Name": "Regenerative Blood, Mk 1",
+    "Level": "5",
+    "Price": "3,250",
+    "System": "Heart",
+    "type": "augmentations_biotech",
+    "desc": "Your heart is genetically engineered to release regenerative chemicals that can heal physical trauma. Whenever you take a 10-minute rest and spend a Resolve Point to regain Stamina Points, you also regain a number of Hit Points. Similarly, when you spend Resolve Points to stay in the fight, you regain additional Hit Points. The amount of Hit Points you regain is based on the augmentation’s model.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eHit Points\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n   \u003ctd\u003e3,250\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e8\u003c/td\u003e\n   \u003ctd\u003e10,100\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e12\u003c/td\u003e\n   \u003ctd\u003e38,500\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e122,000\u003c/td\u003e\n   \u003ctd\u003e20\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e19\u003c/td\u003e\n   \u003ctd\u003e605,000\u003c/td\u003e\n   \u003ctd\u003e25\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Filament Mesh, Mk 1",
-    "Name": "5",
-    "Level": "3,450",
-    "Price": "Skin",
-    "System": "augmentations_biotech"
+    "source": "Alien Archive 2 pg. 125",
+    "Name": "Filament Mesh, Mk 1",
+    "Level": "5",
+    "Price": "3,450",
+    "System": "Skin",
+    "type": "augmentations_biotech",
+    "desc": "A network of tashtari filaments implanted under the topmost layers of your skin allows you to harness and release energy from solar radiation. As a standard action, provided you have spent 4 hours of the past 24-hour period in bright light or direct sunlight, you can spend 1 Resolve Point to cause your filaments to glow with intense light. Any creature (other than you) that can see this light and is within 60 feet of you must succeed at a Fortitude save (DC \u003d 10 + half your level + your Constitution modifier) or be dazzled for 1d4 rounds. Mk 2 filament mesh causes all creatures that fail the Fortitude save to instead be blinded for 1d4 rounds. When exposed to bright light, filament mesh is faintly visible as a reflective tracery under your skin. This augmentation can’t absorb or release light if your skin is completely covered with protective gear that doesn’t allow light through. You must have armor adjusted to accommodate this augmentation. Normal clothing allows enough solar radiation through to charge the augmentation.\n"
   },
   {
     "source": "Alien Archive 4 pg. 93",
@@ -287,18 +295,22 @@
     "desc": "Your arm is replaced with a long, boneless tentacle. Your reach with your grasping tentacle (including attacks made with weapons you wield with your tentacle) is 5 feet more than your natural reach. When you use the tentacle to perform a disarm, grapple, or trip combat maneuver, you gain a +2 circumstance bonus to your attack roll."
   },
   {
-    "source": "Unity Tendril, Mk 1",
-    "Name": "6",
-    "Level": "4,200",
-    "Price": "Spinal Column",
-    "System": "augmentations_biotech"
+    "source": "Starfinder #29: The Cradle Infestation pg. 51",
+    "Name": "Unity Tendril, Mk 1",
+    "Level": "6",
+    "Price": "4,200",
+    "System": "Spinal Column",
+    "type": "augmentations_biotech",
+    "desc": "A green tendril emerges from the back of your neck. You can retract or extend it as a move action. It’s not prehensile, but you can use a standard action to touch it to another willing creature and connect your minds. Your tentacle remains in contact with this creature until they’re no longer in your reach or you use a move action to detach the tentacle. During contact, you and the target can communicate with each other as if you both had telepathy. When you and the target are connected by the tendril, you both automatically succeed at attempts to aid another and provide covering fire, but only when doing so for each other.\u003ctable class\u003d\"inner\"\u003e \n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMODEL\u003c/td\u003e\n   \u003ctd\u003eLEVEL\u003c/td\u003e\n   \u003ctd\u003ePRICE\u003c/td\u003e\n   \u003ctd\u003eREACH\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n   \u003ctd\u003e4,200\u003c/td\u003e\n   \u003ctd\u003e5 ft.\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n   \u003ctd\u003e17,300\u003c/td\u003e\n   \u003ctd\u003e10 ft\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e14\u003c/td\u003e\n   \u003ctd\u003e63,000\u003c/td\u003e\n   \u003ctd\u003e15 ft.\u003c/td\u003e\n  \u003c/tr\u003e \n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Resistant Hide, Mk 3",
-    "Name": "7",
-    "Level": "5,890",
-    "Price": "Skin",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Armory pg. 87",
+    "Name": "Resistant Hide, Mk 3",
+    "Level": "7",
+    "Price": "5,890",
+    "System": "Skin",
+    "type": "augmentations_biotech",
+    "desc": "Your skin is reinforced with fur, scales, or other genetically engineered tissue. Select one type of energy (acid, cold, electricity, fire, or sonic); you gain an amount of resistance to that energy type based on the model of your resistant hide. If you have a racial trait that provides resistance to the selected energy type that’s equal to or greater than that of your resistant hide (and doesn’t explicitly stack with other sources of energy resistance), adding resistant hide increases the value of the energy resistance from the trait by 2. If you have a racial trait that provides resistance to the selected energy type of a value less than that of your resistant hide, the value of the resistance from your resistant hide increases by 2. \u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eResistance\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n   \u003ctd\u003e700\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e4\u003c/td\u003e\n   \u003ctd\u003e1,900\u003c/td\u003e\n   \u003ctd\u003e4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e7\u003c/td\u003e\n   \u003ctd\u003e5,890\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n   \u003ctd\u003e17,000\u003c/td\u003e\n   \u003ctd\u003e8\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e13\u003c/td\u003e\n   \u003ctd\u003e46,350\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 6\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e230,850\u003c/td\u003e\n   \u003ctd\u003e12\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
     "source": "Starfinder Armory pg. 87",
@@ -310,11 +322,13 @@
     "desc": "A set of wings that can fold up tightly is attached to your shoulder blades. You can deploy or fold up the wings as a move action. When deployed, the wings provide you with an extraordinary fly speed with clumsy maneuverability according to the model of ultralight wings you have. You can’t deploy your ultralight wings unless your shoulders are bare or you are wearing custom clothing, and you can’t use your wings to fly if you are encumbered, overburdened, or wearing more than light armor. Ultralight wings integrate into your natural shoulders and can be installed into prosthetic arms.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eFly Speed\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eStrix\u003c/td\u003e\n   \u003ctd\u003e7\u003c/td\u003e\n   \u003ctd\u003e6,400\u003c/td\u003e\n   \u003ctd\u003e40 ft.\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAngel\u003c/td\u003e\n   \u003ctd\u003e11\u003c/td\u003e\n   \u003ctd\u003e28,600\u003c/td\u003e\n   \u003ctd\u003e60 ft.\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eDragon\u003c/td\u003e\n   \u003ctd\u003e14\u003c/td\u003e\n   \u003ctd\u003e80,300\u003c/td\u003e\n   \u003ctd\u003e90 ft.\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Healing Tendril, Rejuvenating",
-    "Name": "7",
-    "Level": "6,600",
-    "Price": "Spinal Column",
-    "System": "augmentations_biotech"
+    "source": "Starfinder #29: The Cradle Infestation pg. 50",
+    "Name": "Healing Tendril, Rejuvenating",
+    "Level": "7",
+    "Price": "6,600",
+    "System": "Spinal Column",
+    "type": "augmentations_biotech",
+    "desc": "A translucent tendril emerges from your back. You can retract or extend this tendril as a move action. It isn’t prehensile, but you can touch it to a willing or unconscious creature within your reach as a standard action in order to fortify the target’s health. If the creature is dying, you automatically stabilize it. If the target is stable but unconscious, you can spend 1 Resolve Point to restore 1 Hit Point to the target. If the creature is diseased, infested, or poisoned, you grant it increased resistance but expose yourself to the affliction and must attempt a saving throw against it. If you succeed, the target of your healing tendril gains a +4 circumstance bonus to its next saving throw against the affliction and you don’t contract the affliction yourself. If you fail, the target of your healing tendril gains a +2 bonus to its next saving throw against the affliction and you contract the affliction yourself. You can use your healing tendril once per day. You cannot use your healing tendril on yourself.\n When you use a rejuvenating or melding tendril, the target regains HP equal to your level + your Constitution modifier. A melding tendril can also be used as a unity tendril of the same mark. When used as a unity tendril, your melding tendril does not stabilize, heal, or grant the target a bonus against afflictions. However, if you have already attached your melding tendril to a creature, you can take a standard action to use the healing properties of your tendril on it.\n"
   },
   {
     "source": "Alien Archive 2 pg. 85",
@@ -326,11 +340,13 @@
     "desc": "This implant can be used to produce light like a flashlight with a 30-foot cone, drawing power from you. In addition, as a standard action, you can raise your augmented hand and create a blinding burst of light in a 30-foot cone-shaped burst extending from your hand. A creature that can see in the burst must succeed at a Fortitude save (DC \u003d 10 + half your level + your Constitution modifier) or be blinded for 1d4 rounds. Once you activate this ability, you can’t activate it again that day unless you spend 1 Resolve Point to recharge it."
   },
   {
-    "source": "Ascendance Sac, Wind Rider",
-    "Name": "8",
-    "Level": "8,800",
-    "Price": "Spinal Column",
-    "System": "augmentations_biotech"
+    "source": "Starfinder #29: The Cradle Infestation pg. 50",
+    "Name": "Ascendance Sac, Wind Rider",
+    "Level": "8",
+    "Price": "8,800",
+    "System": "Spinal Column",
+    "type": "augmentations_biotech",
+    "desc": "You have an organ, attached to your spine with muscle groups and tendons, that can quickly expand into a sphere as large as your space; this sac fills the space directly above you as it inflates with a gas that provides lift. You can inflate or deflate the sac as a move action, but you can’t deploy the sac while wearing armor not fitted to you.\n While the sac is inflated and you are in an atmosphere and in at least light gravity, you use the rules for moving in zero gravity, but you experience gravity normally in all other ways; for example, the range increment and maximum range of your weapons do not change. In addition, on subsequent turns while the sac is inflated, you can rise up to 30 feet or descend up to 60 feet by taking a move action. If you are using a wind rider ascendance sac and are not overburdened, you gain a fly speed of 30 feet when you are in an atmosphere and at least light gravity.\n If you deploy any ascendance sac underwater and in at least light gravity, you become buoyant and rise 15 feet toward the surface at the end of your turn each round.\n Ascendance sacs are popular among non-barathus who have immigrated to Bretheda, Liavara, or other gas giants.\n"
   },
   {
     "source": "Starfinder #28: The Hollow Cabal pg. 52",
@@ -360,18 +376,22 @@
     "desc": "A lobe grafted onto your throat processes toxins your body would normally struggle to remove. Whenever you attempt a saving throw against a drug or poison, your neutralizer lobe automatically attempts a Medicine check to treat drugs or poison, using a modifier equal to your level + 2. If this Medicine check is successful, the neutralizer lobe grants you a +4 bonus to your subsequent saving throw."
   },
   {
-    "source": "Regenerative Blood, Mk 2",
-    "Name": "8",
-    "Level": "10,100",
-    "Price": "Heart",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Armory pg. 86",
+    "Name": "Regenerative Blood, Mk 2",
+    "Level": "8",
+    "Price": "10,100",
+    "System": "Heart",
+    "type": "augmentations_biotech",
+    "desc": "Your heart is genetically engineered to release regenerative chemicals that can heal physical trauma. Whenever you take a 10-minute rest and spend a Resolve Point to regain Stamina Points, you also regain a number of Hit Points. Similarly, when you spend Resolve Points to stay in the fight, you regain additional Hit Points. The amount of Hit Points you regain is based on the augmentation’s model.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eHit Points\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n   \u003ctd\u003e3,250\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e8\u003c/td\u003e\n   \u003ctd\u003e10,100\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e12\u003c/td\u003e\n   \u003ctd\u003e38,500\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e122,000\u003c/td\u003e\n   \u003ctd\u003e20\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e19\u003c/td\u003e\n   \u003ctd\u003e605,000\u003c/td\u003e\n   \u003ctd\u003e25\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Bone Spines, Warding",
-    "Name": "9",
-    "Level": "12,900",
-    "Price": "Spinal Column",
-    "System": "augmentations_biotech"
+    "source": "Starfinder #29: The Cradle Infestation pg. 50",
+    "Name": "Bone Spines, Warding",
+    "Level": "9",
+    "Price": "12,900",
+    "System": "Spinal Column",
+    "type": "augmentations_biotech",
+    "desc": "Your bones are laced with dangerous spines that can be extended to harm foes who get too close. You can retract or harmlessly extend your spines as a standard action. You can\u0027t extend bone spines while wearing armor not fitted to you. If your bone spines are extended and an opponent within 5 feet hits you with a melee attack, you can use your reaction to deal the listed piercing damage to that attacker. If your opponent\u0027s attack roll is a natural 20, the attacker also gains the bleeding condition equal to the item level of your spines. If you have natural weapons and those weapons are magical, the damage dealt by your bone spines is also magical. \u003ctable class\u003d\"inner\"\u003e \n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDamage\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eBristling\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n   \u003ctd\u003e2,900\u003c/td\u003e\n   \u003ctd\u003e1d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eWarding\u003c/td\u003e\n   \u003ctd\u003e9\u003c/td\u003e\n   \u003ctd\u003e12,900\u003c/td\u003e\n   \u003ctd\u003e2d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003ePunishing\u003c/td\u003e\n   \u003ctd\u003e13\u003c/td\u003e\n   \u003ctd\u003e47,900\u003c/td\u003e\n   \u003ctd\u003e4d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eRebuking\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e242,900\u003c/td\u003e\n   \u003ctd\u003e8d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
     "source": "Alien Archive 4 pg. 85",
@@ -383,18 +403,22 @@
     "desc": "Designed from a synthetic protoplasm that deadens and bends sonic vibrations, this skin graft gives you sonic resistance 5. In addition, you can activate the graft to emit constant, erratic vibrations that interfere with blindsense (sound) and blindsight (sound). While activated, creatures can detect you with blindsense (sound) at only one-third the normal range, whereas creatures with blindsight (sound) gain only the benefits of blindsense when detecting you. The graft remains activated for 5 minutes or until deactivated, after which it can’t be activated again until you rest for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point to recharge it immediately."
   },
   {
-    "source": "Focusing Membrane, Mk 2",
-    "Name": "9",
-    "Level": "13,260",
-    "Price": "Eyes",
-    "System": "augmentations_biotech"
+    "source": "Alien Archive 2 pg. 125",
+    "Name": "Focusing Membrane, Mk 2",
+    "Level": "9",
+    "Price": "13,260",
+    "System": "Eyes",
+    "type": "augmentations_biotech",
+    "desc": "The biological tissue a tashtari uses to produce its muzzle beam, a focusing membrane must be installed as part of an \u003ca style\u003d\"text-decoration:underline\" href\u003d\"Cybernetics.aspx?ItemName\u003dAzimuth\u0026amp;Family\u003dOptical%20Laser\"\u003eoptical laser cybernetic augmentation\u003c/a\u003e of its item level or higher, adding to that augmentation’s cost but allowing two augmentations in one system. An optical laser modified with a focusing membrane treats a target’s fire resistance as if it were 5 lower (10 lower for mk 2). This benefit does not apply to the laser’s burn critical hit effect.\n"
   },
   {
-    "source": "Healing Tendril, Mk 1 melding",
-    "Name": "9",
-    "Level": "13,800",
-    "Price": "Spinal Column",
-    "System": "augmentations_biotech"
+    "source": "Starfinder #29: The Cradle Infestation pg. 50",
+    "Name": "Healing Tendril, Mk 1 melding",
+    "Level": "9",
+    "Price": "13,800",
+    "System": "Spinal Column",
+    "type": "augmentations_biotech",
+    "desc": "A translucent tendril emerges from your back. You can retract or extend this tendril as a move action. It isn’t prehensile, but you can touch it to a willing or unconscious creature within your reach as a standard action in order to fortify the target’s health. If the creature is dying, you automatically stabilize it. If the target is stable but unconscious, you can spend 1 Resolve Point to restore 1 Hit Point to the target. If the creature is diseased, infested, or poisoned, you grant it increased resistance but expose yourself to the affliction and must attempt a saving throw against it. If you succeed, the target of your healing tendril gains a +4 circumstance bonus to its next saving throw against the affliction and you don’t contract the affliction yourself. If you fail, the target of your healing tendril gains a +2 bonus to its next saving throw against the affliction and you contract the affliction yourself. You can use your healing tendril once per day. You cannot use your healing tendril on yourself.\n When you use a rejuvenating or melding tendril, the target regains HP equal to your level + your Constitution modifier. A melding tendril can also be used as a unity tendril of the same mark. When used as a unity tendril, your melding tendril does not stabilize, heal, or grant the target a bonus against afflictions. However, if you have already attached your melding tendril to a creature, you can take a standard action to use the healing properties of your tendril on it.\n"
   },
   {
     "source": "Starfinder Armory pg. 87",
@@ -406,25 +430,31 @@
     "desc": "When you attack with this bioelectric organ implanted in the palm of your hand, your unarmed strike loses the archaic and nonlethal properties. You deal only the amount of damage listed for the augmentation’s model (plus additional damage from Weapon Specialization, if applicable), even if you have other abilities that increase your unarmed strike damage (such as natural weapons or the Improved Unarmed Strike feat). You don’t threaten squares within your natural reach unless you have some other way to do so (such as natural weapons or the Improved Unarmed Strike feat). The hand in which this augmentation is installed must be free to make an attack with it. Once you’ve used the shock fist for a single attack, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDamage\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eCritical\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eStatic\u003c/td\u003e\n   \u003ctd\u003e9\u003c/td\u003e\n   \u003ctd\u003e15,600\u003c/td\u003e\n   \u003ctd\u003e1d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 1d4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAurora\u003c/td\u003e\n   \u003ctd\u003e12\u003c/td\u003e\n   \u003ctd\u003e41,400\u003c/td\u003e\n   \u003ctd\u003e2d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 2d4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eStorm\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e297,000\u003c/td\u003e\n   \u003ctd\u003e4d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 3d4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eTempest\u003c/td\u003e\n   \u003ctd\u003e20\u003c/td\u003e\n   \u003ctd\u003e1,075,000\u003c/td\u003e\n   \u003ctd\u003e6d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 6d4\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Resistant Hide, Mk 4",
-    "Name": "10",
-    "Level": "17,000",
-    "Price": "Skin",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Armory pg. 87",
+    "Name": "Resistant Hide, Mk 4",
+    "Level": "10",
+    "Price": "17,000",
+    "System": "Skin",
+    "type": "augmentations_biotech",
+    "desc": "Your skin is reinforced with fur, scales, or other genetically engineered tissue. Select one type of energy (acid, cold, electricity, fire, or sonic); you gain an amount of resistance to that energy type based on the model of your resistant hide. If you have a racial trait that provides resistance to the selected energy type that’s equal to or greater than that of your resistant hide (and doesn’t explicitly stack with other sources of energy resistance), adding resistant hide increases the value of the energy resistance from the trait by 2. If you have a racial trait that provides resistance to the selected energy type of a value less than that of your resistant hide, the value of the resistance from your resistant hide increases by 2. \u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eResistance\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n   \u003ctd\u003e700\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e4\u003c/td\u003e\n   \u003ctd\u003e1,900\u003c/td\u003e\n   \u003ctd\u003e4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e7\u003c/td\u003e\n   \u003ctd\u003e5,890\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n   \u003ctd\u003e17,000\u003c/td\u003e\n   \u003ctd\u003e8\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e13\u003c/td\u003e\n   \u003ctd\u003e46,350\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 6\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e230,850\u003c/td\u003e\n   \u003ctd\u003e12\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Unity Tendril, Mk 2",
-    "Name": "10",
-    "Level": "17,300",
-    "Price": "Spinal Column",
-    "System": "augmentations_biotech"
+    "source": "Starfinder #29: The Cradle Infestation pg. 51",
+    "Name": "Unity Tendril, Mk 2",
+    "Level": "10",
+    "Price": "17,300",
+    "System": "Spinal Column",
+    "type": "augmentations_biotech",
+    "desc": "A green tendril emerges from the back of your neck. You can retract or extend it as a move action. It’s not prehensile, but you can use a standard action to touch it to another willing creature and connect your minds. Your tentacle remains in contact with this creature until they’re no longer in your reach or you use a move action to detach the tentacle. During contact, you and the target can communicate with each other as if you both had telepathy. When you and the target are connected by the tendril, you both automatically succeed at attempts to aid another and provide covering fire, but only when doing so for each other.\u003ctable class\u003d\"inner\"\u003e \n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMODEL\u003c/td\u003e\n   \u003ctd\u003eLEVEL\u003c/td\u003e\n   \u003ctd\u003ePRICE\u003c/td\u003e\n   \u003ctd\u003eREACH\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n   \u003ctd\u003e4,200\u003c/td\u003e\n   \u003ctd\u003e5 ft.\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n   \u003ctd\u003e17,300\u003c/td\u003e\n   \u003ctd\u003e10 ft\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e14\u003c/td\u003e\n   \u003ctd\u003e63,000\u003c/td\u003e\n   \u003ctd\u003e15 ft.\u003c/td\u003e\n  \u003c/tr\u003e \n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Filament Mesh, Mk 2",
-    "Name": "10",
-    "Level": "17,500",
-    "Price": "Skin",
-    "System": "augmentations_biotech"
+    "source": "Alien Archive 2 pg. 125",
+    "Name": "Filament Mesh, Mk 2",
+    "Level": "10",
+    "Price": "17,500",
+    "System": "Skin",
+    "type": "augmentations_biotech",
+    "desc": "A network of tashtari filaments implanted under the topmost layers of your skin allows you to harness and release energy from solar radiation. As a standard action, provided you have spent 4 hours of the past 24-hour period in bright light or direct sunlight, you can spend 1 Resolve Point to cause your filaments to glow with intense light. Any creature (other than you) that can see this light and is within 60 feet of you must succeed at a Fortitude save (DC \u003d 10 + half your level + your Constitution modifier) or be dazzled for 1d4 rounds. Mk 2 filament mesh causes all creatures that fail the Fortitude save to instead be blinded for 1d4 rounds. When exposed to bright light, filament mesh is faintly visible as a reflective tracery under your skin. This augmentation can’t absorb or release light if your skin is completely covered with protective gear that doesn’t allow light through. You must have armor adjusted to accommodate this augmentation. Normal clothing allows enough solar radiation through to charge the augmentation.\n"
   },
   {
     "source": "Starfinder Armory pg. 86",
@@ -454,11 +484,13 @@
     "desc": "These small tubes implanted into the sublingual salivary glands recreate a zernivian’s natural herbicide, mixing it with saliva to coat the inside of the mouth and esophagus with antifungal properties. You have a +2 circumstance bonus to saving throws against plant-related effects that are inhaled or ingested, such as corpseflower pollen, hyperleaf, id moss, or a ksarik’s carrion spores. In addition, once per day as a standard action, you can make a ranged spit attack that deals 5d6 acid damage against a creature within 15 feet."
   },
   {
-    "source": "Dragon Gland, Standard",
-    "Name": "10",
-    "Level": "19,125",
-    "Price": "Throat",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Core Rulebook pg. 211",
+    "Name": "Dragon Gland, Standard",
+    "Level": "10",
+    "Price": "19,125",
+    "System": "Throat",
+    "type": "augmentations_biotech",
+    "desc": "You implant an arcanicus gland modified to function for a creature of your race at the back of your throat. You can trigger this gland as a standard action to expel a breath weapon in a 15- foot cone as an extraordinary ability. Choose the damage type when the organ is biocrafted, picking from the following list: acid, cold, electricity, or fire. You are not harmed by using your own breath weapon. Once you’ve used your breath weapon, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately.\n\n A wyrmling dragon gland deals 3d6 damage, a standard gland deals 9d6 damage, and a wyrm gland deals 18d6 damage. Targets in the area can attempt a Reflex save (DC \u003d 10 + half your level + your Constitution modifier) to take only half damage.\n"
   },
   {
     "source": "Starfinder Armory pg. 86",
@@ -479,11 +511,13 @@
     "desc": "A set of translucent nictitating membranes is implanted within your visual sensors. When the membranes are open, they can be spotted as small, lavender, triangular muscles just inside the corner of your visual sensors with a successful DC 21 Perception check. When the membranes are closed, you see the world through a dark-purple haze that softens the edges of the figures you see but outlines them with a series of complex equations and algorithmic formulae that define their relationships with the world. In essence, you see the world almost as if you were viewing it as lines upon lines of computer code, allowing you some small insight into the way the future may resolve."
   },
   {
-    "source": "Ultralight Wings, Angel",
-    "Name": "11",
-    "Level": "28,600",
-    "Price": "All arms",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Armory pg. 87",
+    "Name": "Ultralight Wings, Angel",
+    "Level": "11",
+    "Price": "28,600",
+    "System": "All arms",
+    "type": "augmentations_biotech",
+    "desc": "A set of wings that can fold up tightly is attached to your shoulder blades. You can deploy or fold up the wings as a move action. When deployed, the wings provide you with an extraordinary fly speed with clumsy maneuverability according to the model of ultralight wings you have. You can’t deploy your ultralight wings unless your shoulders are bare or you are wearing custom clothing, and you can’t use your wings to fly if you are encumbered, overburdened, or wearing more than light armor. Ultralight wings integrate into your natural shoulders and can be installed into prosthetic arms.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eFly Speed\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eStrix\u003c/td\u003e\n   \u003ctd\u003e7\u003c/td\u003e\n   \u003ctd\u003e6,400\u003c/td\u003e\n   \u003ctd\u003e40 ft.\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAngel\u003c/td\u003e\n   \u003ctd\u003e11\u003c/td\u003e\n   \u003ctd\u003e28,600\u003c/td\u003e\n   \u003ctd\u003e60 ft.\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eDragon\u003c/td\u003e\n   \u003ctd\u003e14\u003c/td\u003e\n   \u003ctd\u003e80,300\u003c/td\u003e\n   \u003ctd\u003e90 ft.\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 51",
@@ -495,39 +529,49 @@
     "desc": "Your brain has a specialized gland to process pain signals separately from your higher brain functions, allowing you to maintain concentration in stressful situations. You can concentrate on a spell even when you take damage that reduces your Stamina Points (but not your HP). In addition, whenever you end your turn under a pain effect that requires you to attempt a saving throw, you can attempt a new saving throw against the effect; if you succeed, the pain effect ends."
   },
   {
-    "source": "Regenerative Blood, Mk 3",
-    "Name": "12",
-    "Level": "38,500",
-    "Price": "Heart",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Armory pg. 86",
+    "Name": "Regenerative Blood, Mk 3",
+    "Level": "12",
+    "Price": "38,500",
+    "System": "Heart",
+    "type": "augmentations_biotech",
+    "desc": "Your heart is genetically engineered to release regenerative chemicals that can heal physical trauma. Whenever you take a 10-minute rest and spend a Resolve Point to regain Stamina Points, you also regain a number of Hit Points. Similarly, when you spend Resolve Points to stay in the fight, you regain additional Hit Points. The amount of Hit Points you regain is based on the augmentation’s model.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eHit Points\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n   \u003ctd\u003e3,250\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e8\u003c/td\u003e\n   \u003ctd\u003e10,100\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e12\u003c/td\u003e\n   \u003ctd\u003e38,500\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e122,000\u003c/td\u003e\n   \u003ctd\u003e20\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e19\u003c/td\u003e\n   \u003ctd\u003e605,000\u003c/td\u003e\n   \u003ctd\u003e25\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Shock Fist, Aurora",
-    "Name": "12",
-    "Level": "41,400",
-    "Price": "Hand",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Armory pg. 87",
+    "Name": "Shock Fist, Aurora",
+    "Level": "12",
+    "Price": "41,400",
+    "System": "Hand",
+    "type": "augmentations_biotech",
+    "desc": "When you attack with this bioelectric organ implanted in the palm of your hand, your unarmed strike loses the archaic and nonlethal properties. You deal only the amount of damage listed for the augmentation’s model (plus additional damage from Weapon Specialization, if applicable), even if you have other abilities that increase your unarmed strike damage (such as natural weapons or the Improved Unarmed Strike feat). You don’t threaten squares within your natural reach unless you have some other way to do so (such as natural weapons or the Improved Unarmed Strike feat). The hand in which this augmentation is installed must be free to make an attack with it. Once you’ve used the shock fist for a single attack, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDamage\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eCritical\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eStatic\u003c/td\u003e\n   \u003ctd\u003e9\u003c/td\u003e\n   \u003ctd\u003e15,600\u003c/td\u003e\n   \u003ctd\u003e1d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 1d4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAurora\u003c/td\u003e\n   \u003ctd\u003e12\u003c/td\u003e\n   \u003ctd\u003e41,400\u003c/td\u003e\n   \u003ctd\u003e2d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 2d4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eStorm\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e297,000\u003c/td\u003e\n   \u003ctd\u003e4d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 3d4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eTempest\u003c/td\u003e\n   \u003ctd\u003e20\u003c/td\u003e\n   \u003ctd\u003e1,075,000\u003c/td\u003e\n   \u003ctd\u003e6d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 6d4\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Resistant Hide, Mk 5",
-    "Name": "13",
-    "Level": "46,350",
-    "Price": "Skin",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Armory pg. 87",
+    "Name": "Resistant Hide, Mk 5",
+    "Level": "13",
+    "Price": "46,350",
+    "System": "Skin",
+    "type": "augmentations_biotech",
+    "desc": "Your skin is reinforced with fur, scales, or other genetically engineered tissue. Select one type of energy (acid, cold, electricity, fire, or sonic); you gain an amount of resistance to that energy type based on the model of your resistant hide. If you have a racial trait that provides resistance to the selected energy type that’s equal to or greater than that of your resistant hide (and doesn’t explicitly stack with other sources of energy resistance), adding resistant hide increases the value of the energy resistance from the trait by 2. If you have a racial trait that provides resistance to the selected energy type of a value less than that of your resistant hide, the value of the resistance from your resistant hide increases by 2. \u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eResistance\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n   \u003ctd\u003e700\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e4\u003c/td\u003e\n   \u003ctd\u003e1,900\u003c/td\u003e\n   \u003ctd\u003e4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e7\u003c/td\u003e\n   \u003ctd\u003e5,890\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n   \u003ctd\u003e17,000\u003c/td\u003e\n   \u003ctd\u003e8\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e13\u003c/td\u003e\n   \u003ctd\u003e46,350\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 6\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e230,850\u003c/td\u003e\n   \u003ctd\u003e12\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Bone Spines, Punishing",
-    "Name": "13",
-    "Level": "47,900",
-    "Price": "Spinal Column",
-    "System": "augmentations_biotech"
+    "source": "Starfinder #29: The Cradle Infestation pg. 50",
+    "Name": "Bone Spines, Punishing",
+    "Level": "13",
+    "Price": "47,900",
+    "System": "Spinal Column",
+    "type": "augmentations_biotech",
+    "desc": "Your bones are laced with dangerous spines that can be extended to harm foes who get too close. You can retract or harmlessly extend your spines as a standard action. You can\u0027t extend bone spines while wearing armor not fitted to you. If your bone spines are extended and an opponent within 5 feet hits you with a melee attack, you can use your reaction to deal the listed piercing damage to that attacker. If your opponent\u0027s attack roll is a natural 20, the attacker also gains the bleeding condition equal to the item level of your spines. If you have natural weapons and those weapons are magical, the damage dealt by your bone spines is also magical. \u003ctable class\u003d\"inner\"\u003e \n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDamage\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eBristling\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n   \u003ctd\u003e2,900\u003c/td\u003e\n   \u003ctd\u003e1d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eWarding\u003c/td\u003e\n   \u003ctd\u003e9\u003c/td\u003e\n   \u003ctd\u003e12,900\u003c/td\u003e\n   \u003ctd\u003e2d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003ePunishing\u003c/td\u003e\n   \u003ctd\u003e13\u003c/td\u003e\n   \u003ctd\u003e47,900\u003c/td\u003e\n   \u003ctd\u003e4d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eRebuking\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e242,900\u003c/td\u003e\n   \u003ctd\u003e8d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Healing Tendril, Mk 2 melding",
-    "Name": "13",
-    "Level": "50,000",
-    "Price": "Spinal Column",
-    "System": "augmentations_biotech"
+    "source": "Starfinder #29: The Cradle Infestation pg. 50",
+    "Name": "Healing Tendril, Mk 2 melding",
+    "Level": "13",
+    "Price": "50,000",
+    "System": "Spinal Column",
+    "type": "augmentations_biotech",
+    "desc": "A translucent tendril emerges from your back. You can retract or extend this tendril as a move action. It isn’t prehensile, but you can touch it to a willing or unconscious creature within your reach as a standard action in order to fortify the target’s health. If the creature is dying, you automatically stabilize it. If the target is stable but unconscious, you can spend 1 Resolve Point to restore 1 Hit Point to the target. If the creature is diseased, infested, or poisoned, you grant it increased resistance but expose yourself to the affliction and must attempt a saving throw against it. If you succeed, the target of your healing tendril gains a +4 circumstance bonus to its next saving throw against the affliction and you don’t contract the affliction yourself. If you fail, the target of your healing tendril gains a +2 bonus to its next saving throw against the affliction and you contract the affliction yourself. You can use your healing tendril once per day. You cannot use your healing tendril on yourself.\n When you use a rejuvenating or melding tendril, the target regains HP equal to your level + your Constitution modifier. A melding tendril can also be used as a unity tendril of the same mark. When used as a unity tendril, your melding tendril does not stabilize, heal, or grant the target a bonus against afflictions. However, if you have already attached your melding tendril to a creature, you can take a standard action to use the healing properties of your tendril on it.\n"
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 51",
@@ -539,81 +583,103 @@
     "desc": "Your brain, heart, and lungs are partially homogenized with redundant functions, so each organ can perform the tasks of the others when necessary. This grants you a fortification ability that works like that of force fields, giving you a chance to treat any critical hit as a normal attack. This benefit doesn’t stack with the benefits of any other fortification ability.\u003ctable class\u003d\"inner\"\u003e \n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMODEL\u003c/td\u003e\n   \u003ctd\u003eLEVEL\u003c/td\u003e\n   \u003ctd\u003ePRICE\u003c/td\u003e\n   \u003ctd\u003eFORTIFICATION\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eBasic\u003c/td\u003e\n   \u003ctd\u003e14\u003c/td\u003e\n   \u003ctd\u003e63,000\u003c/td\u003e\n   \u003ctd\u003e20%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eComplex\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e94,000\u003c/td\u003e\n   \u003ctd\u003e40%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eThorough\u003c/td\u003e\n   \u003ctd\u003e16\u003c/td\u003e\n   \u003ctd\u003e145,000\u003c/td\u003e\n   \u003ctd\u003e60%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eFluid\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e218,000\u003c/td\u003e\n   \u003ctd\u003e80%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eAmorphous\u003c/td\u003e\n   \u003ctd\u003e19\u003c/td\u003e\n   \u003ctd\u003e480,000\u003c/td\u003e\n   \u003ctd\u003e100%\u003c/td\u003e\n  \u003c/tr\u003e \n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Unity Tendril, Mk 3",
-    "Name": "14",
-    "Level": "63,000",
-    "Price": "Spinal Column",
-    "System": "augmentations_biotech"
+    "source": "Starfinder #29: The Cradle Infestation pg. 51",
+    "Name": "Unity Tendril, Mk 3",
+    "Level": "14",
+    "Price": "63,000",
+    "System": "Spinal Column",
+    "type": "augmentations_biotech",
+    "desc": "A green tendril emerges from the back of your neck. You can retract or extend it as a move action. It’s not prehensile, but you can use a standard action to touch it to another willing creature and connect your minds. Your tentacle remains in contact with this creature until they’re no longer in your reach or you use a move action to detach the tentacle. During contact, you and the target can communicate with each other as if you both had telepathy. When you and the target are connected by the tendril, you both automatically succeed at attempts to aid another and provide covering fire, but only when doing so for each other.\u003ctable class\u003d\"inner\"\u003e \n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMODEL\u003c/td\u003e\n   \u003ctd\u003eLEVEL\u003c/td\u003e\n   \u003ctd\u003ePRICE\u003c/td\u003e\n   \u003ctd\u003eREACH\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n   \u003ctd\u003e4,200\u003c/td\u003e\n   \u003ctd\u003e5 ft.\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n   \u003ctd\u003e17,300\u003c/td\u003e\n   \u003ctd\u003e10 ft\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e14\u003c/td\u003e\n   \u003ctd\u003e63,000\u003c/td\u003e\n   \u003ctd\u003e15 ft.\u003c/td\u003e\n  \u003c/tr\u003e \n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Ultralight Wings, Dragon",
-    "Name": "14",
-    "Level": "80,300",
-    "Price": "All arms",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Armory pg. 87",
+    "Name": "Ultralight Wings, Dragon",
+    "Level": "14",
+    "Price": "80,300",
+    "System": "All arms",
+    "type": "augmentations_biotech",
+    "desc": "A set of wings that can fold up tightly is attached to your shoulder blades. You can deploy or fold up the wings as a move action. When deployed, the wings provide you with an extraordinary fly speed with clumsy maneuverability according to the model of ultralight wings you have. You can’t deploy your ultralight wings unless your shoulders are bare or you are wearing custom clothing, and you can’t use your wings to fly if you are encumbered, overburdened, or wearing more than light armor. Ultralight wings integrate into your natural shoulders and can be installed into prosthetic arms.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eFly Speed\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eStrix\u003c/td\u003e\n   \u003ctd\u003e7\u003c/td\u003e\n   \u003ctd\u003e6,400\u003c/td\u003e\n   \u003ctd\u003e40 ft.\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAngel\u003c/td\u003e\n   \u003ctd\u003e11\u003c/td\u003e\n   \u003ctd\u003e28,600\u003c/td\u003e\n   \u003ctd\u003e60 ft.\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eDragon\u003c/td\u003e\n   \u003ctd\u003e14\u003c/td\u003e\n   \u003ctd\u003e80,300\u003c/td\u003e\n   \u003ctd\u003e90 ft.\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Superorgan, Complex",
-    "Name": "15",
-    "Level": "94,000",
-    "Price": "Brain, Heart, and Lungs",
-    "System": "augmentations_biotech"
+    "source": "Starfinder #29: The Cradle Infestation pg. 51",
+    "Name": "Superorgan, Complex",
+    "Level": "15",
+    "Price": "94,000",
+    "System": "Brain, Heart, and Lungs",
+    "type": "augmentations_biotech",
+    "desc": "Your brain, heart, and lungs are partially homogenized with redundant functions, so each organ can perform the tasks of the others when necessary. This grants you a fortification ability that works like that of force fields, giving you a chance to treat any critical hit as a normal attack. This benefit doesn’t stack with the benefits of any other fortification ability.\u003ctable class\u003d\"inner\"\u003e \n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMODEL\u003c/td\u003e\n   \u003ctd\u003eLEVEL\u003c/td\u003e\n   \u003ctd\u003ePRICE\u003c/td\u003e\n   \u003ctd\u003eFORTIFICATION\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eBasic\u003c/td\u003e\n   \u003ctd\u003e14\u003c/td\u003e\n   \u003ctd\u003e63,000\u003c/td\u003e\n   \u003ctd\u003e20%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eComplex\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e94,000\u003c/td\u003e\n   \u003ctd\u003e40%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eThorough\u003c/td\u003e\n   \u003ctd\u003e16\u003c/td\u003e\n   \u003ctd\u003e145,000\u003c/td\u003e\n   \u003ctd\u003e60%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eFluid\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e218,000\u003c/td\u003e\n   \u003ctd\u003e80%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eAmorphous\u003c/td\u003e\n   \u003ctd\u003e19\u003c/td\u003e\n   \u003ctd\u003e480,000\u003c/td\u003e\n   \u003ctd\u003e100%\u003c/td\u003e\n  \u003c/tr\u003e \n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Regenerative Blood, Mk 4",
-    "Name": "15",
-    "Level": "122,000",
-    "Price": "Heart",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Armory pg. 86",
+    "Name": "Regenerative Blood, Mk 4",
+    "Level": "15",
+    "Price": "122,000",
+    "System": "Heart",
+    "type": "augmentations_biotech",
+    "desc": "Your heart is genetically engineered to release regenerative chemicals that can heal physical trauma. Whenever you take a 10-minute rest and spend a Resolve Point to regain Stamina Points, you also regain a number of Hit Points. Similarly, when you spend Resolve Points to stay in the fight, you regain additional Hit Points. The amount of Hit Points you regain is based on the augmentation’s model.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eHit Points\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n   \u003ctd\u003e3,250\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e8\u003c/td\u003e\n   \u003ctd\u003e10,100\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e12\u003c/td\u003e\n   \u003ctd\u003e38,500\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e122,000\u003c/td\u003e\n   \u003ctd\u003e20\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e19\u003c/td\u003e\n   \u003ctd\u003e605,000\u003c/td\u003e\n   \u003ctd\u003e25\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Superorgan, Thorough",
-    "Name": "16",
-    "Level": "145,000",
-    "Price": "Brain, Heart, and Lungs",
-    "System": "augmentations_biotech"
+    "source": "Starfinder #29: The Cradle Infestation pg. 51",
+    "Name": "Superorgan, Thorough",
+    "Level": "16",
+    "Price": "145,000",
+    "System": "Brain, Heart, and Lungs",
+    "type": "augmentations_biotech",
+    "desc": "Your brain, heart, and lungs are partially homogenized with redundant functions, so each organ can perform the tasks of the others when necessary. This grants you a fortification ability that works like that of force fields, giving you a chance to treat any critical hit as a normal attack. This benefit doesn’t stack with the benefits of any other fortification ability.\u003ctable class\u003d\"inner\"\u003e \n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMODEL\u003c/td\u003e\n   \u003ctd\u003eLEVEL\u003c/td\u003e\n   \u003ctd\u003ePRICE\u003c/td\u003e\n   \u003ctd\u003eFORTIFICATION\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eBasic\u003c/td\u003e\n   \u003ctd\u003e14\u003c/td\u003e\n   \u003ctd\u003e63,000\u003c/td\u003e\n   \u003ctd\u003e20%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eComplex\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e94,000\u003c/td\u003e\n   \u003ctd\u003e40%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eThorough\u003c/td\u003e\n   \u003ctd\u003e16\u003c/td\u003e\n   \u003ctd\u003e145,000\u003c/td\u003e\n   \u003ctd\u003e60%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eFluid\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e218,000\u003c/td\u003e\n   \u003ctd\u003e80%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eAmorphous\u003c/td\u003e\n   \u003ctd\u003e19\u003c/td\u003e\n   \u003ctd\u003e480,000\u003c/td\u003e\n   \u003ctd\u003e100%\u003c/td\u003e\n  \u003c/tr\u003e \n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Healing Tendril, Mk 3 melding",
-    "Name": "16",
-    "Level": "170,000",
-    "Price": "Spinal Column",
-    "System": "augmentations_biotech"
+    "source": "Starfinder #29: The Cradle Infestation pg. 50",
+    "Name": "Healing Tendril, Mk 3 melding",
+    "Level": "16",
+    "Price": "170,000",
+    "System": "Spinal Column",
+    "type": "augmentations_biotech",
+    "desc": "A translucent tendril emerges from your back. You can retract or extend this tendril as a move action. It isn’t prehensile, but you can touch it to a willing or unconscious creature within your reach as a standard action in order to fortify the target’s health. If the creature is dying, you automatically stabilize it. If the target is stable but unconscious, you can spend 1 Resolve Point to restore 1 Hit Point to the target. If the creature is diseased, infested, or poisoned, you grant it increased resistance but expose yourself to the affliction and must attempt a saving throw against it. If you succeed, the target of your healing tendril gains a +4 circumstance bonus to its next saving throw against the affliction and you don’t contract the affliction yourself. If you fail, the target of your healing tendril gains a +2 bonus to its next saving throw against the affliction and you contract the affliction yourself. You can use your healing tendril once per day. You cannot use your healing tendril on yourself.\n When you use a rejuvenating or melding tendril, the target regains HP equal to your level + your Constitution modifier. A melding tendril can also be used as a unity tendril of the same mark. When used as a unity tendril, your melding tendril does not stabilize, heal, or grant the target a bonus against afflictions. However, if you have already attached your melding tendril to a creature, you can take a standard action to use the healing properties of your tendril on it.\n"
   },
   {
-    "source": "Dragon Gland, Wyrm",
-    "Name": "16",
-    "Level": "181,500",
-    "Price": "Throat",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Core Rulebook pg. 211",
+    "Name": "Dragon Gland, Wyrm",
+    "Level": "16",
+    "Price": "181,500",
+    "System": "Throat",
+    "type": "augmentations_biotech",
+    "desc": "You implant an arcanicus gland modified to function for a creature of your race at the back of your throat. You can trigger this gland as a standard action to expel a breath weapon in a 15- foot cone as an extraordinary ability. Choose the damage type when the organ is biocrafted, picking from the following list: acid, cold, electricity, or fire. You are not harmed by using your own breath weapon. Once you’ve used your breath weapon, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately.\n\n A wyrmling dragon gland deals 3d6 damage, a standard gland deals 9d6 damage, and a wyrm gland deals 18d6 damage. Targets in the area can attempt a Reflex save (DC \u003d 10 + half your level + your Constitution modifier) to take only half damage.\n"
   },
   {
-    "source": "Superorgan, Fluid",
-    "Name": "17",
-    "Level": "218,000",
-    "Price": "Brain, Heart, and Lungs",
-    "System": "augmentations_biotech"
+    "source": "Starfinder #29: The Cradle Infestation pg. 51",
+    "Name": "Superorgan, Fluid",
+    "Level": "17",
+    "Price": "218,000",
+    "System": "Brain, Heart, and Lungs",
+    "type": "augmentations_biotech",
+    "desc": "Your brain, heart, and lungs are partially homogenized with redundant functions, so each organ can perform the tasks of the others when necessary. This grants you a fortification ability that works like that of force fields, giving you a chance to treat any critical hit as a normal attack. This benefit doesn’t stack with the benefits of any other fortification ability.\u003ctable class\u003d\"inner\"\u003e \n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMODEL\u003c/td\u003e\n   \u003ctd\u003eLEVEL\u003c/td\u003e\n   \u003ctd\u003ePRICE\u003c/td\u003e\n   \u003ctd\u003eFORTIFICATION\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eBasic\u003c/td\u003e\n   \u003ctd\u003e14\u003c/td\u003e\n   \u003ctd\u003e63,000\u003c/td\u003e\n   \u003ctd\u003e20%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eComplex\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e94,000\u003c/td\u003e\n   \u003ctd\u003e40%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eThorough\u003c/td\u003e\n   \u003ctd\u003e16\u003c/td\u003e\n   \u003ctd\u003e145,000\u003c/td\u003e\n   \u003ctd\u003e60%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eFluid\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e218,000\u003c/td\u003e\n   \u003ctd\u003e80%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eAmorphous\u003c/td\u003e\n   \u003ctd\u003e19\u003c/td\u003e\n   \u003ctd\u003e480,000\u003c/td\u003e\n   \u003ctd\u003e100%\u003c/td\u003e\n  \u003c/tr\u003e \n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Resistant Hide, Mk 6",
-    "Name": "17",
-    "Level": "230,850",
-    "Price": "Skin",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Armory pg. 87",
+    "Name": "Resistant Hide, Mk 6",
+    "Level": "17",
+    "Price": "230,850",
+    "System": "Skin",
+    "type": "augmentations_biotech",
+    "desc": "Your skin is reinforced with fur, scales, or other genetically engineered tissue. Select one type of energy (acid, cold, electricity, fire, or sonic); you gain an amount of resistance to that energy type based on the model of your resistant hide. If you have a racial trait that provides resistance to the selected energy type that’s equal to or greater than that of your resistant hide (and doesn’t explicitly stack with other sources of energy resistance), adding resistant hide increases the value of the energy resistance from the trait by 2. If you have a racial trait that provides resistance to the selected energy type of a value less than that of your resistant hide, the value of the resistance from your resistant hide increases by 2. \u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eResistance\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n   \u003ctd\u003e700\u003c/td\u003e\n   \u003ctd\u003e2\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e4\u003c/td\u003e\n   \u003ctd\u003e1,900\u003c/td\u003e\n   \u003ctd\u003e4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e7\u003c/td\u003e\n   \u003ctd\u003e5,890\u003c/td\u003e\n   \u003ctd\u003e6\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n   \u003ctd\u003e17,000\u003c/td\u003e\n   \u003ctd\u003e8\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e13\u003c/td\u003e\n   \u003ctd\u003e46,350\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 6\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e230,850\u003c/td\u003e\n   \u003ctd\u003e12\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Bone Spines, Rebuking",
-    "Name": "17",
-    "Level": "242,900",
-    "Price": "Spinal Column",
-    "System": "augmentations_biotech"
+    "source": "Starfinder #29: The Cradle Infestation pg. 50",
+    "Name": "Bone Spines, Rebuking",
+    "Level": "17",
+    "Price": "242,900",
+    "System": "Spinal Column",
+    "type": "augmentations_biotech",
+    "desc": "Your bones are laced with dangerous spines that can be extended to harm foes who get too close. You can retract or harmlessly extend your spines as a standard action. You can\u0027t extend bone spines while wearing armor not fitted to you. If your bone spines are extended and an opponent within 5 feet hits you with a melee attack, you can use your reaction to deal the listed piercing damage to that attacker. If your opponent\u0027s attack roll is a natural 20, the attacker also gains the bleeding condition equal to the item level of your spines. If you have natural weapons and those weapons are magical, the damage dealt by your bone spines is also magical. \u003ctable class\u003d\"inner\"\u003e \n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDamage\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eBristling\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n   \u003ctd\u003e2,900\u003c/td\u003e\n   \u003ctd\u003e1d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eWarding\u003c/td\u003e\n   \u003ctd\u003e9\u003c/td\u003e\n   \u003ctd\u003e12,900\u003c/td\u003e\n   \u003ctd\u003e2d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003ePunishing\u003c/td\u003e\n   \u003ctd\u003e13\u003c/td\u003e\n   \u003ctd\u003e47,900\u003c/td\u003e\n   \u003ctd\u003e4d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eRebuking\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e242,900\u003c/td\u003e\n   \u003ctd\u003e8d4 P\u003c/td\u003e\n  \u003c/tr\u003e \n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Shock Fist, Storm",
-    "Name": "17",
-    "Level": "297,000",
-    "Price": "Hand",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Armory pg. 87",
+    "Name": "Shock Fist, Storm",
+    "Level": "17",
+    "Price": "297,000",
+    "System": "Hand",
+    "type": "augmentations_biotech",
+    "desc": "When you attack with this bioelectric organ implanted in the palm of your hand, your unarmed strike loses the archaic and nonlethal properties. You deal only the amount of damage listed for the augmentation’s model (plus additional damage from Weapon Specialization, if applicable), even if you have other abilities that increase your unarmed strike damage (such as natural weapons or the Improved Unarmed Strike feat). You don’t threaten squares within your natural reach unless you have some other way to do so (such as natural weapons or the Improved Unarmed Strike feat). The hand in which this augmentation is installed must be free to make an attack with it. Once you’ve used the shock fist for a single attack, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDamage\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eCritical\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eStatic\u003c/td\u003e\n   \u003ctd\u003e9\u003c/td\u003e\n   \u003ctd\u003e15,600\u003c/td\u003e\n   \u003ctd\u003e1d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 1d4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAurora\u003c/td\u003e\n   \u003ctd\u003e12\u003c/td\u003e\n   \u003ctd\u003e41,400\u003c/td\u003e\n   \u003ctd\u003e2d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 2d4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eStorm\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e297,000\u003c/td\u003e\n   \u003ctd\u003e4d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 3d4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eTempest\u003c/td\u003e\n   \u003ctd\u003e20\u003c/td\u003e\n   \u003ctd\u003e1,075,000\u003c/td\u003e\n   \u003ctd\u003e6d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 6d4\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
     "source": "Starfinder Armory pg. 86",
@@ -625,24 +691,30 @@
     "desc": "Organic sacs implanted within your lungs cause you to exhale airborne antibodies and antitoxins. You and creatures breathing the same air within 30 feet of you can roll twice on saving throws against diseases and poisons and take the higher result."
   },
   {
-    "source": "Superorgan, Amorphous",
-    "Name": "19",
-    "Level": "480,000",
-    "Price": "Brain, Heart, and Lungs",
-    "System": "augmentations_biotech"
+    "source": "Starfinder #29: The Cradle Infestation pg. 51",
+    "Name": "Superorgan, Amorphous",
+    "Level": "19",
+    "Price": "480,000",
+    "System": "Brain, Heart, and Lungs",
+    "type": "augmentations_biotech",
+    "desc": "Your brain, heart, and lungs are partially homogenized with redundant functions, so each organ can perform the tasks of the others when necessary. This grants you a fortification ability that works like that of force fields, giving you a chance to treat any critical hit as a normal attack. This benefit doesn’t stack with the benefits of any other fortification ability.\u003ctable class\u003d\"inner\"\u003e \n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMODEL\u003c/td\u003e\n   \u003ctd\u003eLEVEL\u003c/td\u003e\n   \u003ctd\u003ePRICE\u003c/td\u003e\n   \u003ctd\u003eFORTIFICATION\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eBasic\u003c/td\u003e\n   \u003ctd\u003e14\u003c/td\u003e\n   \u003ctd\u003e63,000\u003c/td\u003e\n   \u003ctd\u003e20%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eComplex\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e94,000\u003c/td\u003e\n   \u003ctd\u003e40%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eThorough\u003c/td\u003e\n   \u003ctd\u003e16\u003c/td\u003e\n   \u003ctd\u003e145,000\u003c/td\u003e\n   \u003ctd\u003e60%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eFluid\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e218,000\u003c/td\u003e\n   \u003ctd\u003e80%\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eAmorphous\u003c/td\u003e\n   \u003ctd\u003e19\u003c/td\u003e\n   \u003ctd\u003e480,000\u003c/td\u003e\n   \u003ctd\u003e100%\u003c/td\u003e\n  \u003c/tr\u003e \n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Regenerative Blood, Mk 5",
-    "Name": "19",
-    "Level": "605,000",
-    "Price": "Heart",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Armory pg. 86",
+    "Name": "Regenerative Blood, Mk 5",
+    "Level": "19",
+    "Price": "605,000",
+    "System": "Heart",
+    "type": "augmentations_biotech",
+    "desc": "Your heart is genetically engineered to release regenerative chemicals that can heal physical trauma. Whenever you take a 10-minute rest and spend a Resolve Point to regain Stamina Points, you also regain a number of Hit Points. Similarly, when you spend Resolve Points to stay in the fight, you regain additional Hit Points. The amount of Hit Points you regain is based on the augmentation’s model.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eHit Points\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n   \u003ctd\u003e3,250\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e8\u003c/td\u003e\n   \u003ctd\u003e10,100\u003c/td\u003e\n   \u003ctd\u003e10\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e12\u003c/td\u003e\n   \u003ctd\u003e38,500\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 4\u003c/td\u003e\n   \u003ctd\u003e15\u003c/td\u003e\n   \u003ctd\u003e122,000\u003c/td\u003e\n   \u003ctd\u003e20\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eMk 5\u003c/td\u003e\n   \u003ctd\u003e19\u003c/td\u003e\n   \u003ctd\u003e605,000\u003c/td\u003e\n   \u003ctd\u003e25\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   },
   {
-    "source": "Shock Fist, Tempest",
-    "Name": "20",
-    "Level": "1,075,000",
-    "Price": "Hand",
-    "System": "augmentations_biotech"
+    "source": "Starfinder Armory pg. 87",
+    "Name": "Shock Fist, Tempest",
+    "Level": "20",
+    "Price": "1,075,000",
+    "System": "Hand",
+    "type": "augmentations_biotech",
+    "desc": "When you attack with this bioelectric organ implanted in the palm of your hand, your unarmed strike loses the archaic and nonlethal properties. You deal only the amount of damage listed for the augmentation’s model (plus additional damage from Weapon Specialization, if applicable), even if you have other abilities that increase your unarmed strike damage (such as natural weapons or the Improved Unarmed Strike feat). You don’t threaten squares within your natural reach unless you have some other way to do so (such as natural weapons or the Improved Unarmed Strike feat). The hand in which this augmentation is installed must be free to make an attack with it. Once you’ve used the shock fist for a single attack, you can’t use it again until you’ve rested for 10 minutes to regain Stamina Points.\u003ctable class\u003d\"inner\"\u003e\n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003ctd\u003e\u003cb\u003eModel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eLevel\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003ePrice\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eDamage\u003c/b\u003e\u003c/td\u003e\n   \u003ctd\u003e\u003cb\u003eCritical\u003c/b\u003e\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eStatic\u003c/td\u003e\n   \u003ctd\u003e9\u003c/td\u003e\n   \u003ctd\u003e15,600\u003c/td\u003e\n   \u003ctd\u003e1d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 1d4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eAurora\u003c/td\u003e\n   \u003ctd\u003e12\u003c/td\u003e\n   \u003ctd\u003e41,400\u003c/td\u003e\n   \u003ctd\u003e2d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 2d4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eStorm\u003c/td\u003e\n   \u003ctd\u003e17\u003c/td\u003e\n   \u003ctd\u003e297,000\u003c/td\u003e\n   \u003ctd\u003e4d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 3d4\u003c/td\u003e\n  \u003c/tr\u003e\n  \u003ctr\u003e\n   \u003ctd\u003eTempest\u003c/td\u003e\n   \u003ctd\u003e20\u003c/td\u003e\n   \u003ctd\u003e1,075,000\u003c/td\u003e\n   \u003ctd\u003e6d12 E\u003c/td\u003e\n   \u003ctd\u003eArc 6d4\u003c/td\u003e\n  \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n"
   }
 ]

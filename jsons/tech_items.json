@@ -10,7 +10,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Industrial-strength cabling is typically woven from hundreds of cords of high-durability plastic that are often coated in metal for added strength, usually adamantine or titanium alloy."
   },
   {
     "source": "Starfinder Core Rulebook pg. 219",
@@ -23,7 +23,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Industrial-strength cabling is typically woven from hundreds of cords of high-durability plastic that are often coated in metal for added strength, usually adamantine or titanium alloy."
   },
   {
     "source": "Starfinder Core Rulebook pg. 219",
@@ -36,7 +36,7 @@
     "Capacity": "80",
     "Usage": "1/hour",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "A personal comm unit is pocket-sized device that combines a minor portable computer (treat as a tier-0 computer with no upgrades or modules) and a cellular communication device, allowing wireless communication with other comm units in both audio- and text-based formats at planetary range (see page 272). A personal comm unit also includes a calculator, a flashlight (increases the light level one step in a 15-foot cone), and several entertainment options (including games and access to any local infospheres). You can upgrade a personal comm unit to function as some other devices (such as full computers and scanners) by spending credits equal to 110% of the additional device’s price."
   },
   {
     "source": "Starfinder Core Rulebook pg. 219",
@@ -49,7 +49,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "A personal comm unit is pocket-sized device that combines a minor portable computer (treat as a tier-0 computer with no upgrades or modules) and a cellular communication device, allowing wireless communication with other comm units in both audio- and text-based formats at planetary range (see page 272). A personal comm unit also includes a calculator, a flashlight (increases the light level one step in a 15-foot cone), and several entertainment options (including games and access to any local infospheres). You can upgrade a personal comm unit to function as some other devices (such as full computers and scanners) by spending credits equal to 110% of the additional device’s price."
   },
   {
     "source": "Starfinder Core Rulebook pg. 219",
@@ -62,7 +62,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "A personal comm unit is pocket-sized device that combines a minor portable computer (treat as a tier-0 computer with no upgrades or modules) and a cellular communication device, allowing wireless communication with other comm units in both audio- and text-based formats at planetary range (see page 272). A personal comm unit also includes a calculator, a flashlight (increases the light level one step in a 15-foot cone), and several entertainment options (including games and access to any local infospheres). You can upgrade a personal comm unit to function as some other devices (such as full computers and scanners) by spending credits equal to 110% of the additional device’s price."
   },
   {
     "source": "Starfinder Core Rulebook pg. 219",
@@ -75,7 +75,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Locks are extremely advanced reusable devices, able to secure any fastening or closure by bonding with its surface and then holding fast. Locks usually open with a code, security chip, or voice command. Successful Engineering checks can disable locks. Locks come in four levels of quality—simple, average, good, and superior—which determine the DC of Engineering checks to open them without the proper key or code. A lock takes two hands to secure or open with a security chip. For more information on locks, including the Engineering DCs to open them, see the Engineering skill on page 141."
   },
   {
     "source": "Starfinder Core Rulebook pg. 219",
@@ -88,7 +88,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Locks are extremely advanced reusable devices, able to secure any fastening or closure by bonding with its surface and then holding fast. Locks usually open with a code, security chip, or voice command. Successful Engineering checks can disable locks. Locks come in four levels of quality—simple, average, good, and superior—which determine the DC of Engineering checks to open them without the proper key or code. A lock takes two hands to secure or open with a security chip. For more information on locks, including the Engineering DCs to open them, see the Engineering skill on page 141."
   },
   {
     "source": "Starfinder Core Rulebook pg. 219",
@@ -101,7 +101,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Locks are extremely advanced reusable devices, able to secure any fastening or closure by bonding with its surface and then holding fast. Locks usually open with a code, security chip, or voice command. Successful Engineering checks can disable locks. Locks come in four levels of quality—simple, average, good, and superior—which determine the DC of Engineering checks to open them without the proper key or code. A lock takes two hands to secure or open with a security chip. For more information on locks, including the Engineering DCs to open them, see the Engineering skill on page 141."
   },
   {
     "source": "Starfinder Core Rulebook pg. 219",
@@ -114,7 +114,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Locks are extremely advanced reusable devices, able to secure any fastening or closure by bonding with its surface and then holding fast. Locks usually open with a code, security chip, or voice command. Successful Engineering checks can disable locks. Locks come in four levels of quality—simple, average, good, and superior—which determine the DC of Engineering checks to open them without the proper key or code. A lock takes two hands to secure or open with a security chip. For more information on locks, including the Engineering DCs to open them, see the Engineering skill on page 141."
   },
   {
     "source": "Starfinder Core Rulebook pg. 219",
@@ -491,7 +491,7 @@
     "Capacity": "10",
     "Usage": "1/day",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Environmental field collars, or EF collars, are a common form of protection for creature companions that accompany their owners into dangerous situations. These simple bands, often affixed to a neck or limb, automatically activate in hazardous environs, generating an environmental field around a creature companion of a particular size. This field provides the same environmental protections as a suit of armor (Core Rulebook 196), except that the duration of these protections is based on the collar’s battery usage rather than its item level. As a full action, you can affix an EF collar to (or remove one from) an adjacent creature companion, either yours or a willing or unconscious ally’s. While worn, the bulk of the collar does not count as bulk carried."
   },
   {
     "source": "Alien Archive 3 pg. 147",
@@ -504,7 +504,7 @@
     "Capacity": "10",
     "Usage": "1/day",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Environmental field collars, or EF collars, are a common form of protection for creature companions that accompany their owners into dangerous situations. These simple bands, often affixed to a neck or limb, automatically activate in hazardous environs, generating an environmental field around a creature companion of a particular size. This field provides the same environmental protections as a suit of armor (Core Rulebook 196), except that the duration of these protections is based on the collar’s battery usage rather than its item level. As a full action, you can affix an EF collar to (or remove one from) an adjacent creature companion, either yours or a willing or unconscious ally’s. While worn, the bulk of the collar does not count as bulk carried."
   },
   {
     "source": "Alien Archive 3 pg. 147",
@@ -517,7 +517,7 @@
     "Capacity": "10",
     "Usage": "1/day",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Environmental field collars, or EF collars, are a common form of protection for creature companions that accompany their owners into dangerous situations. These simple bands, often affixed to a neck or limb, automatically activate in hazardous environs, generating an environmental field around a creature companion of a particular size. This field provides the same environmental protections as a suit of armor (Core Rulebook 196), except that the duration of these protections is based on the collar’s battery usage rather than its item level. As a full action, you can affix an EF collar to (or remove one from) an adjacent creature companion, either yours or a willing or unconscious ally’s. While worn, the bulk of the collar does not count as bulk carried."
   },
   {
     "source": "Alien Archive 3 pg. 147",
@@ -530,7 +530,7 @@
     "Capacity": "10",
     "Usage": "1/day",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Environmental field collars, or EF collars, are a common form of protection for creature companions that accompany their owners into dangerous situations. These simple bands, often affixed to a neck or limb, automatically activate in hazardous environs, generating an environmental field around a creature companion of a particular size. This field provides the same environmental protections as a suit of armor (Core Rulebook 196), except that the duration of these protections is based on the collar’s battery usage rather than its item level. As a full action, you can affix an EF collar to (or remove one from) an adjacent creature companion, either yours or a willing or unconscious ally’s. While worn, the bulk of the collar does not count as bulk carried."
   },
   {
     "source": "Starfinder Armory pg. 106",
@@ -556,7 +556,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "\u003ctable\u003e \n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003cth\u003eMODEL\u003c/th\u003e\n   \u003cth\u003eLEVEL\u003c/th\u003e\n   \u003cth\u003ePRICE\u003c/th\u003e\n   \u003cth\u003eINSTALLATION DC\u003c/th\u003e\n   \u003cth\u003eRANGE\u003c/th\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e1\u003c/td\u003e\n   \u003ctd\u003e200\u003c/td\u003e\n   \u003ctd\u003e18\u003c/td\u003e\n   \u003ctd\u003e300 ft.\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n   \u003ctd\u003e400\u003c/td\u003e\n   \u003ctd\u003e22\u003c/td\u003e\n   \u003ctd\u003e1,200 ft.\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n   \u003ctd\u003e750\u003c/td\u003e\n   \u003ctd\u003e30\u003c/td\u003e\n   \u003ctd\u003eGlobal\u003c/td\u003e\n  \u003c/tr\u003e \n \u003c/tbody\u003e\n\u003c/table\u003e"
   },
   {
     "source": "Starfinder Armory pg. 108",
@@ -881,7 +881,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Nanite hypopens are simple-to-use, one-shot, preloaded devices roughly the size of a writing stylus that inject specialized nanites into a creature’s body to heal many sorts of mental and physical injuries. Seven types of nanite hypopens exist along a color-coded scale, as detailed below. As a standard action, you can use a nanite hypopen on yourself or an adjacent willing or unconscious living creature. Each nanite hypopen has a different effect, determined by its color; these are technological effects that function as the specific spells indicated on the chart below (using your ranks in Medicine in place of caster level when needed, such as when using a white nanite hypopen to remove a disease). A nanite hypopen can be used only once, after which it has no value. "
   },
   {
     "source": "Starfinder Armory pg. 107",
@@ -1102,7 +1102,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "\u003ctable\u003e \n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003cth\u003eMODEL\u003c/th\u003e\n   \u003cth\u003eLEVEL\u003c/th\u003e\n   \u003cth\u003ePRICE\u003c/th\u003e\n   \u003cth\u003eINSTALLATION DC\u003c/th\u003e\n   \u003cth\u003eRANGE\u003c/th\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e1\u003c/td\u003e\n   \u003ctd\u003e200\u003c/td\u003e\n   \u003ctd\u003e18\u003c/td\u003e\n   \u003ctd\u003e300 ft.\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n   \u003ctd\u003e400\u003c/td\u003e\n   \u003ctd\u003e22\u003c/td\u003e\n   \u003ctd\u003e1,200 ft.\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n   \u003ctd\u003e750\u003c/td\u003e\n   \u003ctd\u003e30\u003c/td\u003e\n   \u003ctd\u003eGlobal\u003c/td\u003e\n  \u003c/tr\u003e \n \u003c/tbody\u003e\n\u003c/table\u003e"
   },
   {
     "source": "Starfinder Armory pg. 107",
@@ -1271,7 +1271,7 @@
     "Capacity": "20",
     "Usage": "1/hour",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Robots are commonly used throughout the galaxy to handle repetitive tasks and make some aspects of life more convenient. Domestic drones have a rudimentary AI and only a limited ability to handle unexpected situations, making them useful for little beyond their specifically designated functions. Although the spy drone is a specialized—and in some places, illegal— version of a domestic drone, several other types of domestic drones are common in any large settlement. When activated, each acts as the indicated type of drone of a 1st-level mechanic, and you control it as if you were a 1st-level mechanic (using either an included remote control or a computer with an added control) except it can’t make any attacks and has no weapon mounts, no feats, and no ability to add drone mods beyond those mods specified in its entry. An activated domestic drone can move its speed, but it can otherwise take only the actions specified in its description or granted by its mods. Most domestic drones have a basic model and an elite model; both can understand one language (chosen at purchase), and elite models often have additional abilities and greater autonomy. Some mechanics design their personal drones to resemble ordinary domestic drones, which allows their far more adaptable (and sometimes menacing) drones to blend in. "
   },
   {
     "source": "Starfinder Armory pg. 106",
@@ -1297,7 +1297,7 @@
     "Capacity": "40",
     "Usage": "1/hour",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "This 50 feet of thin, nearly invisible wire is spooled around a dull-gray, flat metal cylinder. When any amount of the wire is unspooled and the cylinder is activated, the wire becomes exceptionally sensitive to vibration. The wire is often wrapped around valuable belongings or stretched as a trip wire across a doorway. When the activated wire is moved or touched, the cylinder emits a piercing alarm (though you can set it to send a silent alarm wirelessly to a comm unit or datapad instead). Noticing the warning wire requires a successful Perception check with a DC equal to 20 + the level of the warning wire, and bypassing it without setting it off usually requires a successful Acrobatics check at the same DC, though the GM might adjust the DC higher or lower as circumstances dictate. You can twist the cylinder in a preset pattern as a move action, deactivating the alarm and respooling the wire around the cylinder. "
   },
   {
     "source": "Starfinder Armory pg. 100",
@@ -1414,7 +1414,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "\u003ctable\u003e \n \u003ctbody\u003e\n  \u003ctr\u003e\n   \u003cth\u003eMODEL\u003c/th\u003e\n   \u003cth\u003eLEVEL\u003c/th\u003e\n   \u003cth\u003ePRICE\u003c/th\u003e\n   \u003cth\u003eINSTALLATION DC\u003c/th\u003e\n   \u003cth\u003eRANGE\u003c/th\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 1\u003c/td\u003e\n   \u003ctd\u003e1\u003c/td\u003e\n   \u003ctd\u003e200\u003c/td\u003e\n   \u003ctd\u003e18\u003c/td\u003e\n   \u003ctd\u003e300 ft.\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 2\u003c/td\u003e\n   \u003ctd\u003e3\u003c/td\u003e\n   \u003ctd\u003e400\u003c/td\u003e\n   \u003ctd\u003e22\u003c/td\u003e\n   \u003ctd\u003e1,200 ft.\u003c/td\u003e\n  \u003c/tr\u003e \n  \u003ctr\u003e\n   \u003ctd\u003eMk 3\u003c/td\u003e\n   \u003ctd\u003e5\u003c/td\u003e\n   \u003ctd\u003e750\u003c/td\u003e\n   \u003ctd\u003e30\u003c/td\u003e\n   \u003ctd\u003eGlobal\u003c/td\u003e\n  \u003c/tr\u003e \n \u003c/tbody\u003e\n\u003c/table\u003e"
   },
   {
     "source": "Starfinder Armory pg. 106",
@@ -1427,7 +1427,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Nanite hypopens are simple-to-use, one-shot, preloaded devices roughly the size of a writing stylus that inject specialized nanites into a creature’s body to heal many sorts of mental and physical injuries. Seven types of nanite hypopens exist along a color-coded scale, as detailed below. As a standard action, you can use a nanite hypopen on yourself or an adjacent willing or unconscious living creature. Each nanite hypopen has a different effect, determined by its color; these are technological effects that function as the specific spells indicated on the chart below (using your ranks in Medicine in place of caster level when needed, such as when using a white nanite hypopen to remove a disease). A nanite hypopen can be used only once, after which it has no value. "
   },
   {
     "source": "Alien Archive 3 pg. 89",
@@ -1635,7 +1635,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Nanite hypopens are simple-to-use, one-shot, preloaded devices roughly the size of a writing stylus that inject specialized nanites into a creature’s body to heal many sorts of mental and physical injuries. Seven types of nanite hypopens exist along a color-coded scale, as detailed below. As a standard action, you can use a nanite hypopen on yourself or an adjacent willing or unconscious living creature. Each nanite hypopen has a different effect, determined by its color; these are technological effects that function as the specific spells indicated on the chart below (using your ranks in Medicine in place of caster level when needed, such as when using a white nanite hypopen to remove a disease). A nanite hypopen can be used only once, after which it has no value. "
   },
   {
     "source": "Pact Worlds pg. 198",
@@ -1791,7 +1791,7 @@
     "Capacity": "40",
     "Usage": "1/hour",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "This 50 feet of thin, nearly invisible wire is spooled around a dull-gray, flat metal cylinder. When any amount of the wire is unspooled and the cylinder is activated, the wire becomes exceptionally sensitive to vibration. The wire is often wrapped around valuable belongings or stretched as a trip wire across a doorway. When the activated wire is moved or touched, the cylinder emits a piercing alarm (though you can set it to send a silent alarm wirelessly to a comm unit or datapad instead). Noticing the warning wire requires a successful Perception check with a DC equal to 20 + the level of the warning wire, and bypassing it without setting it off usually requires a successful Acrobatics check at the same DC, though the GM might adjust the DC higher or lower as circumstances dictate. You can twist the cylinder in a preset pattern as a move action, deactivating the alarm and respooling the wire around the cylinder. "
   },
   {
     "source": "Starfinder Armory pg. 98",
@@ -1830,7 +1830,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Nanite hypopens are simple-to-use, one-shot, preloaded devices roughly the size of a writing stylus that inject specialized nanites into a creature’s body to heal many sorts of mental and physical injuries. Seven types of nanite hypopens exist along a color-coded scale, as detailed below. As a standard action, you can use a nanite hypopen on yourself or an adjacent willing or unconscious living creature. Each nanite hypopen has a different effect, determined by its color; these are technological effects that function as the specific spells indicated on the chart below (using your ranks in Medicine in place of caster level when needed, such as when using a white nanite hypopen to remove a disease). A nanite hypopen can be used only once, after which it has no value. "
   },
   {
     "source": "Alien Archive 3 pg. 89",
@@ -1947,7 +1947,7 @@
     "Capacity": "100",
     "Usage": "1/hour",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Robots are commonly used throughout the galaxy to handle repetitive tasks and make some aspects of life more convenient. Domestic drones have a rudimentary AI and only a limited ability to handle unexpected situations, making them useful for little beyond their specifically designated functions. Although the spy drone is a specialized—and in some places, illegal— version of a domestic drone, several other types of domestic drones are common in any large settlement. When activated, each acts as the indicated type of drone of a 1st-level mechanic, and you control it as if you were a 1st-level mechanic (using either an included remote control or a computer with an added control) except it can’t make any attacks and has no weapon mounts, no feats, and no ability to add drone mods beyond those mods specified in its entry. An activated domestic drone can move its speed, but it can otherwise take only the actions specified in its description or granted by its mods. Most domestic drones have a basic model and an elite model; both can understand one language (chosen at purchase), and elite models often have additional abilities and greater autonomy. Some mechanics design their personal drones to resemble ordinary domestic drones, which allows their far more adaptable (and sometimes menacing) drones to blend in. "
   },
   {
     "source": "Starfinder Armory pg. 106",
@@ -1999,7 +1999,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Nanite hypopens are simple-to-use, one-shot, preloaded devices roughly the size of a writing stylus that inject specialized nanites into a creature’s body to heal many sorts of mental and physical injuries. Seven types of nanite hypopens exist along a color-coded scale, as detailed below. As a standard action, you can use a nanite hypopen on yourself or an adjacent willing or unconscious living creature. Each nanite hypopen has a different effect, determined by its color; these are technological effects that function as the specific spells indicated on the chart below (using your ranks in Medicine in place of caster level when needed, such as when using a white nanite hypopen to remove a disease). A nanite hypopen can be used only once, after which it has no value. "
   },
   {
     "source": "Starfinder Armory pg. 103",
@@ -2051,7 +2051,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Nanite hypopens are simple-to-use, one-shot, preloaded devices roughly the size of a writing stylus that inject specialized nanites into a creature’s body to heal many sorts of mental and physical injuries. Seven types of nanite hypopens exist along a color-coded scale, as detailed below. As a standard action, you can use a nanite hypopen on yourself or an adjacent willing or unconscious living creature. Each nanite hypopen has a different effect, determined by its color; these are technological effects that function as the specific spells indicated on the chart below (using your ranks in Medicine in place of caster level when needed, such as when using a white nanite hypopen to remove a disease). A nanite hypopen can be used only once, after which it has no value. "
   },
   {
     "source": "Starfinder Armory pg. 109",
@@ -2064,7 +2064,7 @@
     "Capacity": "40",
     "Usage": "1/hour",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "This 50 feet of thin, nearly invisible wire is spooled around a dull-gray, flat metal cylinder. When any amount of the wire is unspooled and the cylinder is activated, the wire becomes exceptionally sensitive to vibration. The wire is often wrapped around valuable belongings or stretched as a trip wire across a doorway. When the activated wire is moved or touched, the cylinder emits a piercing alarm (though you can set it to send a silent alarm wirelessly to a comm unit or datapad instead). Noticing the warning wire requires a successful Perception check with a DC equal to 20 + the level of the warning wire, and bypassing it without setting it off usually requires a successful Acrobatics check at the same DC, though the GM might adjust the DC higher or lower as circumstances dictate. You can twist the cylinder in a preset pattern as a move action, deactivating the alarm and respooling the wire around the cylinder. "
   },
   {
     "source": "Alien Archive pg. 57",
@@ -2181,7 +2181,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Nanite hypopens are simple-to-use, one-shot, preloaded devices roughly the size of a writing stylus that inject specialized nanites into a creature’s body to heal many sorts of mental and physical injuries. Seven types of nanite hypopens exist along a color-coded scale, as detailed below. As a standard action, you can use a nanite hypopen on yourself or an adjacent willing or unconscious living creature. Each nanite hypopen has a different effect, determined by its color; these are technological effects that function as the specific spells indicated on the chart below (using your ranks in Medicine in place of caster level when needed, such as when using a white nanite hypopen to remove a disease). A nanite hypopen can be used only once, after which it has no value. "
   },
   {
     "source": "Alien Archive 3 pg. 81",
@@ -2324,7 +2324,7 @@
     "Capacity": "10",
     "Usage": "1/hour",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "A portable light, sometimes called an electric torch, is one of several different devices that use batteries to create light sources. A portable light increases the light level by one step in an area determined by its model, as follows: flashlight (20- foot cone), lantern (10-foot radius), beacon (50-foot radius), and spotlight (100-foot cone)."
   },
   {
     "source": "Starfinder Core Rulebook pg. 219",
@@ -2337,7 +2337,7 @@
     "Capacity": "10",
     "Usage": "1/hour",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "A portable light, sometimes called an electric torch, is one of several different devices that use batteries to create light sources. A portable light increases the light level by one step in an area determined by its model, as follows: flashlight (20- foot cone), lantern (10-foot radius), beacon (50-foot radius), and spotlight (100-foot cone)."
   },
   {
     "source": "Starfinder Core Rulebook pg. 219",
@@ -2350,7 +2350,7 @@
     "Capacity": "10",
     "Usage": "1/hour",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "A portable light, sometimes called an electric torch, is one of several different devices that use batteries to create light sources. A portable light increases the light level by one step in an area determined by its model, as follows: flashlight (20- foot cone), lantern (10-foot radius), beacon (50-foot radius), and spotlight (100-foot cone)."
   },
   {
     "source": "Starfinder Core Rulebook pg. 219",
@@ -2363,7 +2363,7 @@
     "Capacity": "10",
     "Usage": "1/hour",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "A portable light, sometimes called an electric torch, is one of several different devices that use batteries to create light sources. A portable light increases the light level by one step in an area determined by its model, as follows: flashlight (20- foot cone), lantern (10-foot radius), beacon (50-foot radius), and spotlight (100-foot cone)."
   },
   {
     "source": "Starfinder #5: The Thirteenth Gate pg. 40",
@@ -2376,7 +2376,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Roughly the same size as standard batteries, kishalee batteries are translucent cylindrical objects bound by a transparent aluminum alloy. By a strange quirk of fate and parallel engineering, kishalee batteries can be interchanged with the standard batteries used among the Pact Worlds and beyond, but these rare batteries allow a creature to use and kishalee artifacts with greater efficiency. If placed in non-kishalee items, a kishalee battery functions like a standard battery. The technology for rapid recharging of a kishalee battery has been lost, but such batteries recharge themselves automatically over the course of 24 hours of disuse."
   },
   {
     "source": "Starfinder #5: The Thirteenth Gate pg. 40",
@@ -2428,7 +2428,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Roughly the same size as standard batteries, kishalee batteries are translucent cylindrical objects bound by a transparent aluminum alloy. By a strange quirk of fate and parallel engineering, kishalee batteries can be interchanged with the standard batteries used among the Pact Worlds and beyond, but these rare batteries allow a creature to use and kishalee artifacts with greater efficiency. If placed in non-kishalee items, a kishalee battery functions like a standard battery. The technology for rapid recharging of a kishalee battery has been lost, but such batteries recharge themselves automatically over the course of 24 hours of disuse."
   },
   {
     "source": "Starfinder #5: The Thirteenth Gate pg. 40",
@@ -2454,7 +2454,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Roughly the same size as standard batteries, kishalee batteries are translucent cylindrical objects bound by a transparent aluminum alloy. By a strange quirk of fate and parallel engineering, kishalee batteries can be interchanged with the standard batteries used among the Pact Worlds and beyond, but these rare batteries allow a creature to use and kishalee artifacts with greater efficiency. If placed in non-kishalee items, a kishalee battery functions like a standard battery. The technology for rapid recharging of a kishalee battery has been lost, but such batteries recharge themselves automatically over the course of 24 hours of disuse."
   },
   {
     "source": "Starfinder #5: The Thirteenth Gate pg. 40",
@@ -2467,7 +2467,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Roughly the same size as standard batteries, kishalee batteries are translucent cylindrical objects bound by a transparent aluminum alloy. By a strange quirk of fate and parallel engineering, kishalee batteries can be interchanged with the standard batteries used among the Pact Worlds and beyond, but these rare batteries allow a creature to use and kishalee artifacts with greater efficiency. If placed in non-kishalee items, a kishalee battery functions like a standard battery. The technology for rapid recharging of a kishalee battery has been lost, but such batteries recharge themselves automatically over the course of 24 hours of disuse."
   },
   {
     "source": "Starfinder #5: The Thirteenth Gate pg. 40",
@@ -2493,7 +2493,7 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Binders are simple, single-use, resin-cord restraints that can be placed only on helpless, pinned, or willing creatures (a standard action). A pair of binders immobilizes two limbs of your choice. A creature can escape binders with a successful Acrobatics check (DC \u003d 20 + 1-1/2 × your level)."
   },
   {
     "source": "Starfinder Core Rulebook pg. 219",
@@ -2506,6 +2506,6 @@
     "Capacity": "—",
     "Usage": "—",
     "type": "Technological Items",
-    "desc": "top desc: hr"
+    "desc": "Binders are simple, single-use, resin-cord restraints that can be placed only on helpless, pinned, or willing creatures (a standard action). A pair of binders immobilizes two limbs of your choice. A creature can escape binders with a successful Acrobatics check (DC \u003d 20 + 1-1/2 × your level)."
   }
 ]

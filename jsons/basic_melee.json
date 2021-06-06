@@ -10,7 +10,7 @@
     "Bulk": "—",
     "Special": "archaic, nonlethal",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "An unarmed strike can be dealt with any limb or appendage. Unarmed strikes deal nonlethal damage, and the damage from an unarmed strike is considered weapon damage for the purposes of effects that give you a bonus to weapon damage rolls."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -23,7 +23,7 @@
     "Bulk": "L",
     "Special": "Analog, archaic, thrown (10 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A club is any sort of blunt, oblong instrument with a haft suitable for gripping. Clubs can be made of stone, wood, or similar materials. Metal clubs exist as well, and they are usually hollow to keep them from being too heavy. Some Free Captains refer to clubs as belaying pins, though those archaic items are not required on starships."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -36,7 +36,7 @@
     "Bulk": "L",
     "Special": "Analog, operative, thrown (20 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A baton is a thin, solid metal shaft, usually with a textured rubber grip. A tactical baton can be used to inflict precise bludgeoning blows. An advanced baton, used by elite mercenary and security companies, often has an additional shaft, as well as a weighted end that can be powered to connect with substantially more force than a tactical baton."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -49,7 +49,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Battlegloves are popular, economical choices for mercenaries and guards. These durable nylon-web or para-aramid gloves hold a weighted plate over the wearer’s knuckles. You can hold other objects or weapons in a hand wearing a glove, but you can’t use the glove to make attacks while doing so."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -62,7 +62,7 @@
     "Bulk": "L",
     "Special": "analog, thrown (20 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A balanced, wedge-shaped blade affixed to a lightweight haft, a handaxe can be wielded in melee or thrown. The flexibility of handaxes makes them a favorite of explorers of all types, and the basic handaxe is a common tool that can be used as a weapon. A tactical handaxe is made of a stronger, lightweight alloy, while the sintered handaxe uses a denser ceramic material for added heft and a much keener edge. An ultrathin handaxe has a blade so thin it can’t be seen clearly, while the molecular rift handaxe has a blade narrow enough to slice between molecules. Most handaxes have blade covers to prevent accidental injury to the wielder."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -75,7 +75,7 @@
     "Bulk": "L",
     "Special": "Analog, operative, thrown (20 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These light blades can be used for both mundane tasks and combat. A typical survival knife has a fixed, single-edged, carbonsteel or ceramic blade and is treated against corrosion. Tactical knives have large, double-edged blades, often with a section of serrated blade near the haft, and they come in both fixed- and folding-blade designs; users may prefer one style or the other, but the two are identical in terms of price, weight, and damage dealt."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -88,7 +88,7 @@
     "Bulk": "L",
     "Special": "analog, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This thin blade comes with a scabbard that makes it resemble a stylish cane. Sword canes are popular on Absalom Station, where similar nonweapon items have some popularity as fashionable affectations. A sword cane can incorporate one of the following at the standard price for that item: 20 feet of retractable cable line, a personal comm unit, or a spotlight. A successful Perception check (DC \u003d 15 + the weapon’s item level) is required to identify a sword cane as a weapon when it is sheathed."
   },
   {
     "source": "Character Operations Manual pg. 122",
@@ -101,7 +101,7 @@
     "Bulk": "L",
     "Special": "Conceal, injection, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This weapon is a lightweight, handheld auto-injector device designed to quickly inject drugs, poison, and similar substance into a creature when pressed against its body. A syringe stick’s patented spring-loaded design features a sturdy needle able to punch through the toughest armor, chitin, and hide. Despite its deadliness, it is difficult to discern a syringe stick from a medicinal auto-injector."
   },
   {
     "source": "SFS Scenario #1-04: Cries From the Drift pg. 12",
@@ -114,7 +114,7 @@
     "Bulk": "L",
     "Special": "operative, powered (capacity 20, usage 1)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This looks like a normal tactical baton, except it is much thinner and lighter. The baton has passive nanoengineering such that swinging it hard enough through any atmosphere creates an electromagnetic force."
   },
   {
     "source": "Alien Archive pg. 31",
@@ -127,7 +127,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Centuries ago, some kasathas crafted simple weapons out of crest-eaters’ bony protrusions; these formidable gauntlets were badges of honor for the mightiest kasathan warriors, and modern artisans have recreated that aesthetic in the form of bone cestuses, though now they are usually formed of state-of-the-art resin instead of crest-eater bone. Due to the flecks of minerals embedded within, bone cestuses are often warm to the touch, especially after they have been exposed to natural sunlight. These basic one-handed melee weapons are capable of punching through a foe’s defenses, sometimes puncturing vital organs in the process."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -140,7 +140,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "While dueling swords are crafted to be aesthetically pleasing and are often seen as a mark of rank or tradition, many warriors still train with them to deadly effect. The powered blades of both buzzblade and ripper dueling swords bring this danger into the modern era, while the molecular rift sword—though unpowered— uses a field of disrupted molecules along its blade to slice through nearly anything, and must be stored in a magnetic sheath that never actually touches the blade."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -153,7 +153,7 @@
     "Bulk": "1",
     "Special": "Nonlethal, powered (capacity 20, usage 1), professional (farmer)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Company personnel must occasionally transport animals from one world to another. Large herd animals, such as ruthigs, can be notoriously stubborn, and sometimes a beast proves more dangerous than anticipated. In these situations, crews appreciate this stout electric prod capable of delivering a nonlethal shock that can stun or incapacitate even a surly wolliped. Electric prods see civilian use on Castrovel, Triaxus, and other worlds, where ranchers and farmers utilize them to keep large animals under control without causing permanent harm."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -166,7 +166,7 @@
     "Bulk": "L",
     "Special": "analog, nonlethal, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A weapon dating back to antiquity, a sap is shaped like a large, flat spoon with a heavily weighted end. Archaeological digs have verified that almost every society develops an analog to the sap. Modern versions are constructed from high-tech fiber and dense alloys. Although sap models are referred to as light, medium, and heavy by users, it’s the rare materials used in various models, and not their actual weight, that make them progressively better at bludgeoning victims into unconsciousness."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -179,7 +179,7 @@
     "Bulk": "1",
     "Special": "analog, unwieldy",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Similar to the assault hammer, the sledge has an exceptionally dense weighted head and a strong haft. This unbalanced design makes the hammer more difficult to swing, but its strikes pack a punch."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -192,7 +192,7 @@
     "Bulk": "L",
     "Special": "analog, conceal, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This blade looks much like a single-edged survival knife when opened, but the blade can be folded or collapsed to fit within the grip, making it easier to conceal. A switch on the knife means the blade can be folded or extended as a swift action, or as part of making an attack or full attack. Most weapon manufacturers that offer daggers also produce switchblades, which are made in the same models: tactical, ultrathin, zero-edge, and molecular rift."
   },
   {
     "source": "Starfinder #2: Temple of the Twelve pg. 12",
@@ -205,7 +205,7 @@
     "Bulk": "L",
     "Special": "analog, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Not all developments in military technology are successful. Originally designed to be a perfect survival tool, the inferno knife combines the cutting prowess of a survival knife with the virtues of a lighter and road flare. By squeezing one trigger, the user can inject a small stream of fuel from the hilt’s reservoir onto the blade’s tip, and a secondary trigger can ignite it, creating a small torch to signal others or light campfires. The product’s launch was disastrous, and users logged hundreds of complaints about the knives’ needless complexity. As a result, inferno knives have flooded the market and become showy weapons for criminals and performers, though timing the blade’s ignition in combat remains an unpredictable art."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -218,7 +218,7 @@
     "Bulk": "L",
     "Special": "analog, operative, tail",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Developed by ysoki on Akiton, this slender, lightweight blade has a series of bands that attach the blade to a tail or similar anatomy. Although using a tailblade doesn’t allow you to make additional attacks, it can free up your hands without leaving you unarmed."
   },
   {
     "source": "Alien Archive 2 pg. 23",
@@ -230,7 +230,8 @@
     "Critical": "—",
     "Bulk": "L",
     "Special": "analog",
-    "type": "One-Handed Weapons"
+    "type": "One-Handed Weapons",
+    "desc": "Members of the Corpse Fleet earn their dueling swords through tallied kill counts, while officers receive their blades as part of the transition to the rank of commander. Corpse Fleet admirals’ blades are some of the keenest weapons in the known galaxy. Although the weapons are mainly used by the Corpse Fleet, the undead navy leaks some versions into the markets on Eox."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -243,7 +244,7 @@
     "Bulk": "L",
     "Special": "analog, thrown (20 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A balanced, wedge-shaped blade affixed to a lightweight haft, a handaxe can be wielded in melee or thrown. The flexibility of handaxes makes them a favorite of explorers of all types, and the basic handaxe is a common tool that can be used as a weapon. A tactical handaxe is made of a stronger, lightweight alloy, while the sintered handaxe uses a denser ceramic material for added heft and a much keener edge. An ultrathin handaxe has a blade so thin it can’t be seen clearly, while the molecular rift handaxe has a blade narrow enough to slice between molecules. Most handaxes have blade covers to prevent accidental injury to the wielder."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -256,7 +257,7 @@
     "Bulk": "L",
     "Special": "analog, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This thin blade comes with a scabbard that makes it resemble a stylish cane. Sword canes are popular on Absalom Station, where similar nonweapon items have some popularity as fashionable affectations. A sword cane can incorporate one of the following at the standard price for that item: 20 feet of retractable cable line, a personal comm unit, or a spotlight. A successful Perception check (DC \u003d 15 + the weapon’s item level) is required to identify a sword cane as a weapon when it is sheathed."
   },
   {
     "source": "Alien Archive 4 pg. 51",
@@ -269,7 +270,7 @@
     "Bulk": "L",
     "Special": "Analog, penetrating",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Ignursos wield enough strength to punch through rock, and even after death, their claws ignite with momentary heat when struck against another surface. Weaponsmiths can stabilize the claws’ supernatural ignition and incorporate them into bladed gauntlets known as ignurso knuckles. These gauntlets’ ignurso-hide coverings protect the wielder from the claws’ heat, and high-end models allow the claws to retract into wrist sheathes."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -282,7 +283,7 @@
     "Bulk": "L",
     "Special": "conceal, integrated (1 slot), operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These keen-edged spikes are installed in an armor upgrade slot rather than held, stored in a surface slot in armor or an android’s body until extended. You can extend the spike as a move action and retract the spike as a swift action. Such a spike usually extends from the elbow, foot, knee, or wrist, but a spike can be fitted into a helmet or an android’s head for use in headbutting or goring foes. Retractable spikes are widely available throughout the Pact Worlds, with the various models—tactical, advanced, elite, and paragon—having individual rarity based on the credit outlay to acquire a given model."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -295,7 +296,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Kasathas on their home world wielded spined blades to better poison foes. Replicas of these ancient weapons can be found in the Museum of Ancestral Technology on the Idari. Modern warriors use refined versions of the weapon that are effective at delivering poisons and similar substances through contemporary armor. You apply such substances to the blade per rules found on page 232 of the Core Rulebook. While the basic version of the spined blade is generally analog, more advanced buzzblade, ripper, gravity, and rivener models are powered weapons."
   },
   {
     "source": "Character Operations Manual pg. 122",
@@ -308,7 +309,7 @@
     "Bulk": "L",
     "Special": "Conceal, injection, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This weapon is a lightweight, handheld auto-injector device designed to quickly inject drugs, poison, and similar substance into a creature when pressed against its body. A syringe stick’s patented spring-loaded design features a sturdy needle able to punch through the toughest armor, chitin, and hide. Despite its deadliness, it is difficult to discern a syringe stick from a medicinal auto-injector."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -321,7 +322,7 @@
     "Bulk": "1",
     "Special": "Nonlethal, powered (capacity 20, usage 1), professional (farmer)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Company personnel must occasionally transport animals from one world to another. Large herd animals, such as ruthigs, can be notoriously stubborn, and sometimes a beast proves more dangerous than anticipated. In these situations, crews appreciate this stout electric prod capable of delivering a nonlethal shock that can stun or incapacitate even a surly wolliped. Electric prods see civilian use on Castrovel, Triaxus, and other worlds, where ranchers and farmers utilize them to keep large animals under control without causing permanent harm."
   },
   {
     "source": "Starfinder #15: Sun Divers pg. 44",
@@ -334,7 +335,7 @@
     "Bulk": "L",
     "Special": "Analog, operative, polymorphic",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Weaponized polyfluid applications are just beginning to be explored. Polyfluid’s plasticity has already been applied to some melee weapons, resulting in the polymorphic weapon special property."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 48",
@@ -347,7 +348,7 @@
     "Bulk": "L",
     "Special": "Conceal, injection, integrated (1 slot), operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This hollow stinger is installed in an armor upgrade slot. It is typically stored in a limb of the armor (though some androids use it to augment their headbutts). The stinger must be extended to be used as a weapon or to refill its injection reservoir. Extending or retracting the stinger is a move action."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -360,7 +361,7 @@
     "Bulk": "L",
     "Special": "analog, nonlethal, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A weapon dating back to antiquity, a sap is shaped like a large, flat spoon with a heavily weighted end. Archaeological digs have verified that almost every society develops an analog to the sap. Modern versions are constructed from high-tech fiber and dense alloys. Although sap models are referred to as light, medium, and heavy by users, it’s the rare materials used in various models, and not their actual weight, that make them progressively better at bludgeoning victims into unconsciousness."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -373,7 +374,7 @@
     "Bulk": "L",
     "Special": "analog, shells (1; usage 1)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This bulky glove fits over the user’s hand, with reinforced plates covering the knuckles. When the weapon connects with a target, the kinetic force fires scattergun shells into the target and deal impressive bludgeoning damage. Mercenaries favor these weapons for fighting at close quarters, and pirates sometimes use them to make their punches all the more dramatic. Shell knuckles are available in tactical, advanced, elite, and paragon models."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -386,7 +387,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Slightly longer than a survival knife, a hook knife features a wicked barb along the blade’s back edge and deals vicious wounds to enemies when wielded effectively. The drow invented the hook knife, but the weapon is a favorite among cruel mercenaries and other unsavory types."
   },
   {
     "source": "Alien Archive pg. 31",
@@ -399,7 +400,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Centuries ago, some kasathas crafted simple weapons out of crest-eaters’ bony protrusions; these formidable gauntlets were badges of honor for the mightiest kasathan warriors, and modern artisans have recreated that aesthetic in the form of bone cestuses, though now they are usually formed of state-of-the-art resin instead of crest-eater bone. Due to the flecks of minerals embedded within, bone cestuses are often warm to the touch, especially after they have been exposed to natural sunlight. These basic one-handed melee weapons are capable of punching through a foe’s defenses, sometimes puncturing vital organs in the process."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -412,7 +413,7 @@
     "Bulk": "L",
     "Special": "Analog, operative, thrown (20 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These light blades can be used for both mundane tasks and combat. A typical survival knife has a fixed, single-edged, carbonsteel or ceramic blade and is treated against corrosion. Tactical knives have large, double-edged blades, often with a section of serrated blade near the haft, and they come in both fixed- and folding-blade designs; users may prefer one style or the other, but the two are identical in terms of price, weight, and damage dealt."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -425,7 +426,7 @@
     "Bulk": "L",
     "Special": "analog, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This thin blade comes with a scabbard that makes it resemble a stylish cane. Sword canes are popular on Absalom Station, where similar nonweapon items have some popularity as fashionable affectations. A sword cane can incorporate one of the following at the standard price for that item: 20 feet of retractable cable line, a personal comm unit, or a spotlight. A successful Perception check (DC \u003d 15 + the weapon’s item level) is required to identify a sword cane as a weapon when it is sheathed."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -438,7 +439,7 @@
     "Bulk": "L",
     "Special": "powered (capacity 20; usage 1)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "While dueling swords are crafted to be aesthetically pleasing and are often seen as a mark of rank or tradition, many warriors still train with them to deadly effect. The powered blades of both buzzblade and ripper dueling swords bring this danger into the modern era, while the molecular rift sword—though unpowered— uses a field of disrupted molecules along its blade to slice through nearly anything, and must be stored in a magnetic sheath that never actually touches the blade."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -451,7 +452,7 @@
     "Bulk": "L",
     "Special": "powered (capacity 20; usage 1)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Kasathas on their home world wielded spined blades to better poison foes. Replicas of these ancient weapons can be found in the Museum of Ancestral Technology on the Idari. Modern warriors use refined versions of the weapon that are effective at delivering poisons and similar substances through contemporary armor. You apply such substances to the blade per rules found on page 232 of the Core Rulebook. While the basic version of the spined blade is generally analog, more advanced buzzblade, ripper, gravity, and rivener models are powered weapons."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -464,7 +465,7 @@
     "Bulk": "L",
     "Special": "analog, conceal, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This blade looks much like a single-edged survival knife when opened, but the blade can be folded or collapsed to fit within the grip, making it easier to conceal. A switch on the knife means the blade can be folded or extended as a swift action, or as part of making an attack or full attack. Most weapon manufacturers that offer daggers also produce switchblades, which are made in the same models: tactical, ultrathin, zero-edge, and molecular rift."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -477,7 +478,7 @@
     "Bulk": "L",
     "Special": "nonlethal, operative, powered (capacity 20; usage 2)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "When this nonreflective, dark-gray baton connects with a target, it discharges an electrical pulse that can stagger its victim."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -490,7 +491,7 @@
     "Bulk": "L",
     "Special": "analog, thrown (30 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A balanced, wedge-shaped blade affixed to a lightweight haft, a handaxe can be wielded in melee or thrown. The flexibility of handaxes makes them a favorite of explorers of all types, and the basic handaxe is a common tool that can be used as a weapon. A tactical handaxe is made of a stronger, lightweight alloy, while the sintered handaxe uses a denser ceramic material for added heft and a much keener edge. An ultrathin handaxe has a blade so thin it can’t be seen clearly, while the molecular rift handaxe has a blade narrow enough to slice between molecules. Most handaxes have blade covers to prevent accidental injury to the wielder."
   },
   {
     "source": "Alien Archive 4 pg. 51",
@@ -503,7 +504,7 @@
     "Bulk": "L",
     "Special": "Analog, penetrating",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Ignursos wield enough strength to punch through rock, and even after death, their claws ignite with momentary heat when struck against another surface. Weaponsmiths can stabilize the claws’ supernatural ignition and incorporate them into bladed gauntlets known as ignurso knuckles. These gauntlets’ ignurso-hide coverings protect the wielder from the claws’ heat, and high-end models allow the claws to retract into wrist sheathes."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 48",
@@ -516,7 +517,7 @@
     "Bulk": "L",
     "Special": "Conceal, injection, integrated (1 slot), operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This hollow stinger is installed in an armor upgrade slot. It is typically stored in a limb of the armor (though some androids use it to augment their headbutts). The stinger must be extended to be used as a weapon or to refill its injection reservoir. Extending or retracting the stinger is a move action."
   },
   {
     "source": "Character Operations Manual pg. 122",
@@ -529,7 +530,7 @@
     "Bulk": "L",
     "Special": "Conceal, injection, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This weapon is a lightweight, handheld auto-injector device designed to quickly inject drugs, poison, and similar substance into a creature when pressed against its body. A syringe stick’s patented spring-loaded design features a sturdy needle able to punch through the toughest armor, chitin, and hide. Despite its deadliness, it is difficult to discern a syringe stick from a medicinal auto-injector."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -542,7 +543,7 @@
     "Bulk": "L",
     "Special": "powered (capacity 20; usage 1)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Battlegloves are popular, economical choices for mercenaries and guards. These durable nylon-web or para-aramid gloves hold a weighted plate over the wearer’s knuckles. You can hold other objects or weapons in a hand wearing a glove, but you can’t use the glove to make attacks while doing so."
   },
   {
     "source": "Alien Archive 2 pg. 23",
@@ -554,7 +555,8 @@
     "Critical": "—",
     "Bulk": "L",
     "Special": "analog",
-    "type": "One-Handed Weapons"
+    "type": "One-Handed Weapons",
+    "desc": "Members of the Corpse Fleet earn their dueling swords through tallied kill counts, while officers receive their blades as part of the transition to the rank of commander. Corpse Fleet admirals’ blades are some of the keenest weapons in the known galaxy. Although the weapons are mainly used by the Corpse Fleet, the undead navy leaks some versions into the markets on Eox."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -567,7 +569,7 @@
     "Bulk": "1",
     "Special": "Nonlethal, powered (capacity 20, usage 2), professional (farmer)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Company personnel must occasionally transport animals from one world to another. Large herd animals, such as ruthigs, can be notoriously stubborn, and sometimes a beast proves more dangerous than anticipated. In these situations, crews appreciate this stout electric prod capable of delivering a nonlethal shock that can stun or incapacitate even a surly wolliped. Electric prods see civilian use on Castrovel, Triaxus, and other worlds, where ranchers and farmers utilize them to keep large animals under control without causing permanent harm."
   },
   {
     "source": "Starfinder #15: Sun Divers pg. 44",
@@ -580,7 +582,7 @@
     "Bulk": "L",
     "Special": "Analog, operative, polymorphic",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Weaponized polyfluid applications are just beginning to be explored. Polyfluid’s plasticity has already been applied to some melee weapons, resulting in the polymorphic weapon special property."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -593,7 +595,7 @@
     "Bulk": "L",
     "Special": "conceal, integrated (1 slot), operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These keen-edged spikes are installed in an armor upgrade slot rather than held, stored in a surface slot in armor or an android’s body until extended. You can extend the spike as a move action and retract the spike as a swift action. Such a spike usually extends from the elbow, foot, knee, or wrist, but a spike can be fitted into a helmet or an android’s head for use in headbutting or goring foes. Retractable spikes are widely available throughout the Pact Worlds, with the various models—tactical, advanced, elite, and paragon—having individual rarity based on the credit outlay to acquire a given model."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -606,7 +608,7 @@
     "Bulk": "L",
     "Special": "analog, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This thin blade comes with a scabbard that makes it resemble a stylish cane. Sword canes are popular on Absalom Station, where similar nonweapon items have some popularity as fashionable affectations. A sword cane can incorporate one of the following at the standard price for that item: 20 feet of retractable cable line, a personal comm unit, or a spotlight. A successful Perception check (DC \u003d 15 + the weapon’s item level) is required to identify a sword cane as a weapon when it is sheathed."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -619,7 +621,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "While dueling swords are crafted to be aesthetically pleasing and are often seen as a mark of rank or tradition, many warriors still train with them to deadly effect. The powered blades of both buzzblade and ripper dueling swords bring this danger into the modern era, while the molecular rift sword—though unpowered— uses a field of disrupted molecules along its blade to slice through nearly anything, and must be stored in a magnetic sheath that never actually touches the blade."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -632,7 +634,7 @@
     "Bulk": "L",
     "Special": "analog, nonlethal, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A weapon dating back to antiquity, a sap is shaped like a large, flat spoon with a heavily weighted end. Archaeological digs have verified that almost every society develops an analog to the sap. Modern versions are constructed from high-tech fiber and dense alloys. Although sap models are referred to as light, medium, and heavy by users, it’s the rare materials used in various models, and not their actual weight, that make them progressively better at bludgeoning victims into unconsciousness."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -645,7 +647,7 @@
     "Bulk": "L",
     "Special": "powered (capacity 20; usage 1)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Kasathas on their home world wielded spined blades to better poison foes. Replicas of these ancient weapons can be found in the Museum of Ancestral Technology on the Idari. Modern warriors use refined versions of the weapon that are effective at delivering poisons and similar substances through contemporary armor. You apply such substances to the blade per rules found on page 232 of the Core Rulebook. While the basic version of the spined blade is generally analog, more advanced buzzblade, ripper, gravity, and rivener models are powered weapons."
   },
   {
     "source": "Alien Archive pg. 31",
@@ -658,7 +660,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Centuries ago, some kasathas crafted simple weapons out of crest-eaters’ bony protrusions; these formidable gauntlets were badges of honor for the mightiest kasathan warriors, and modern artisans have recreated that aesthetic in the form of bone cestuses, though now they are usually formed of state-of-the-art resin instead of crest-eater bone. Due to the flecks of minerals embedded within, bone cestuses are often warm to the touch, especially after they have been exposed to natural sunlight. These basic one-handed melee weapons are capable of punching through a foe’s defenses, sometimes puncturing vital organs in the process."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -671,7 +673,7 @@
     "Bulk": "L",
     "Special": "Analog, operative, thrown (20 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The thinness and lightness of daggers make them easy to carry or conceal. Ultrathin daggers have sharp, double-edged blades. Zero-edge daggers have blades—crafted with quantum technology—that are so fine, their edges blur. The blade of a molecular rift dagger looks translucent, as if it’s made of glass, and its vibrating particles allow the dagger to slice through almost any substance. Most daggers are available with fixed, folding, or retractable blades."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -684,7 +686,7 @@
     "Bulk": "L",
     "Special": "analog, shells (2; usage 2)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This bulky glove fits over the user’s hand, with reinforced plates covering the knuckles. When the weapon connects with a target, the kinetic force fires scattergun shells into the target and deal impressive bludgeoning damage. Mercenaries favor these weapons for fighting at close quarters, and pirates sometimes use them to make their punches all the more dramatic. Shell knuckles are available in tactical, advanced, elite, and paragon models."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -697,7 +699,7 @@
     "Bulk": "L",
     "Special": "powered (capacity 20; usage 1)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Battlegloves are popular, economical choices for mercenaries and guards. These durable nylon-web or para-aramid gloves hold a weighted plate over the wearer’s knuckles. You can hold other objects or weapons in a hand wearing a glove, but you can’t use the glove to make attacks while doing so."
   },
   {
     "source": "Alien Archive 4 pg. 51",
@@ -710,7 +712,7 @@
     "Bulk": "L",
     "Special": "Analog, penetrating",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Ignursos wield enough strength to punch through rock, and even after death, their claws ignite with momentary heat when struck against another surface. Weaponsmiths can stabilize the claws’ supernatural ignition and incorporate them into bladed gauntlets known as ignurso knuckles. These gauntlets’ ignurso-hide coverings protect the wielder from the claws’ heat, and high-end models allow the claws to retract into wrist sheathes."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 48",
@@ -723,7 +725,7 @@
     "Bulk": "L",
     "Special": "Conceal, injection, integrated (1 slot), operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This hollow stinger is installed in an armor upgrade slot. It is typically stored in a limb of the armor (though some androids use it to augment their headbutts). The stinger must be extended to be used as a weapon or to refill its injection reservoir. Extending or retracting the stinger is a move action."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -736,7 +738,7 @@
     "Bulk": "L",
     "Special": "analog, conceal, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This blade looks much like a single-edged survival knife when opened, but the blade can be folded or collapsed to fit within the grip, making it easier to conceal. A switch on the knife means the blade can be folded or extended as a swift action, or as part of making an attack or full attack. Most weapon manufacturers that offer daggers also produce switchblades, which are made in the same models: tactical, ultrathin, zero-edge, and molecular rift."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -749,7 +751,7 @@
     "Bulk": "L",
     "Special": "analog, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This thin blade comes with a scabbard that makes it resemble a stylish cane. Sword canes are popular on Absalom Station, where similar nonweapon items have some popularity as fashionable affectations. A sword cane can incorporate one of the following at the standard price for that item: 20 feet of retractable cable line, a personal comm unit, or a spotlight. A successful Perception check (DC \u003d 15 + the weapon’s item level) is required to identify a sword cane as a weapon when it is sheathed."
   },
   {
     "source": "Character Operations Manual pg. 122",
@@ -762,7 +764,7 @@
     "Bulk": "L",
     "Special": "Conceal, injection, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This weapon is a lightweight, handheld auto-injector device designed to quickly inject drugs, poison, and similar substance into a creature when pressed against its body. A syringe stick’s patented spring-loaded design features a sturdy needle able to punch through the toughest armor, chitin, and hide. Despite its deadliness, it is difficult to discern a syringe stick from a medicinal auto-injector."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -775,7 +777,7 @@
     "Bulk": "L",
     "Special": "Analog, operative, thrown (20 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The thinness and lightness of daggers make them easy to carry or conceal. Ultrathin daggers have sharp, double-edged blades. Zero-edge daggers have blades—crafted with quantum technology—that are so fine, their edges blur. The blade of a molecular rift dagger looks translucent, as if it’s made of glass, and its vibrating particles allow the dagger to slice through almost any substance. Most daggers are available with fixed, folding, or retractable blades."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -788,7 +790,7 @@
     "Bulk": "1",
     "Special": "Nonlethal, powered (capacity 100, usage 4), professional (farmer)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Company personnel must occasionally transport animals from one world to another. Large herd animals, such as ruthigs, can be notoriously stubborn, and sometimes a beast proves more dangerous than anticipated. In these situations, crews appreciate this stout electric prod capable of delivering a nonlethal shock that can stun or incapacitate even a surly wolliped. Electric prods see civilian use on Castrovel, Triaxus, and other worlds, where ranchers and farmers utilize them to keep large animals under control without causing permanent harm."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -801,7 +803,7 @@
     "Bulk": "L",
     "Special": "analog, thrown (30 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A balanced, wedge-shaped blade affixed to a lightweight haft, a handaxe can be wielded in melee or thrown. The flexibility of handaxes makes them a favorite of explorers of all types, and the basic handaxe is a common tool that can be used as a weapon. A tactical handaxe is made of a stronger, lightweight alloy, while the sintered handaxe uses a denser ceramic material for added heft and a much keener edge. An ultrathin handaxe has a blade so thin it can’t be seen clearly, while the molecular rift handaxe has a blade narrow enough to slice between molecules. Most handaxes have blade covers to prevent accidental injury to the wielder."
   },
   {
     "source": "Starfinder #15: Sun Divers pg. 44",
@@ -814,7 +816,7 @@
     "Bulk": "L",
     "Special": "Analog, operative, polymorphic",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Weaponized polyfluid applications are just beginning to be explored. Polyfluid’s plasticity has already been applied to some melee weapons, resulting in the polymorphic weapon special property."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -827,7 +829,7 @@
     "Bulk": "L",
     "Special": "powered (capacity 40; usage 2)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Kasathas on their home world wielded spined blades to better poison foes. Replicas of these ancient weapons can be found in the Museum of Ancestral Technology on the Idari. Modern warriors use refined versions of the weapon that are effective at delivering poisons and similar substances through contemporary armor. You apply such substances to the blade per rules found on page 232 of the Core Rulebook. While the basic version of the spined blade is generally analog, more advanced buzzblade, ripper, gravity, and rivener models are powered weapons."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -840,7 +842,7 @@
     "Bulk": "L",
     "Special": "powered (capacity 20; usage 1)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "While dueling swords are crafted to be aesthetically pleasing and are often seen as a mark of rank or tradition, many warriors still train with them to deadly effect. The powered blades of both buzzblade and ripper dueling swords bring this danger into the modern era, while the molecular rift sword—though unpowered— uses a field of disrupted molecules along its blade to slice through nearly anything, and must be stored in a magnetic sheath that never actually touches the blade."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -853,7 +855,7 @@
     "Bulk": "L",
     "Special": "conceal, integrated (1 slot), operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These keen-edged spikes are installed in an armor upgrade slot rather than held, stored in a surface slot in armor or an android’s body until extended. You can extend the spike as a move action and retract the spike as a swift action. Such a spike usually extends from the elbow, foot, knee, or wrist, but a spike can be fitted into a helmet or an android’s head for use in headbutting or goring foes. Retractable spikes are widely available throughout the Pact Worlds, with the various models—tactical, advanced, elite, and paragon—having individual rarity based on the credit outlay to acquire a given model."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -866,7 +868,7 @@
     "Bulk": "L",
     "Special": "operative, powered (capacity 20; usage 2), stun",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This more advanced combat baton, known as a peacemaker, is a light metal rod that discharges a pulse that can be strong enough to knock a target to the ground."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -879,7 +881,7 @@
     "Bulk": "L",
     "Special": "analog, shells (3; usage 3)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This bulky glove fits over the user’s hand, with reinforced plates covering the knuckles. When the weapon connects with a target, the kinetic force fires scattergun shells into the target and deal impressive bludgeoning damage. Mercenaries favor these weapons for fighting at close quarters, and pirates sometimes use them to make their punches all the more dramatic. Shell knuckles are available in tactical, advanced, elite, and paragon models."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -892,7 +894,7 @@
     "Bulk": "L",
     "Special": "analog, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This thin blade comes with a scabbard that makes it resemble a stylish cane. Sword canes are popular on Absalom Station, where similar nonweapon items have some popularity as fashionable affectations. A sword cane can incorporate one of the following at the standard price for that item: 20 feet of retractable cable line, a personal comm unit, or a spotlight. A successful Perception check (DC \u003d 15 + the weapon’s item level) is required to identify a sword cane as a weapon when it is sheathed."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -905,7 +907,7 @@
     "Bulk": "L",
     "Special": "powered (capacity 20; usage 1)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Battlegloves are popular, economical choices for mercenaries and guards. These durable nylon-web or para-aramid gloves hold a weighted plate over the wearer’s knuckles. You can hold other objects or weapons in a hand wearing a glove, but you can’t use the glove to make attacks while doing so."
   },
   {
     "source": "Alien Archive pg. 31",
@@ -918,7 +920,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Centuries ago, some kasathas crafted simple weapons out of crest-eaters’ bony protrusions; these formidable gauntlets were badges of honor for the mightiest kasathan warriors, and modern artisans have recreated that aesthetic in the form of bone cestuses, though now they are usually formed of state-of-the-art resin instead of crest-eater bone. Due to the flecks of minerals embedded within, bone cestuses are often warm to the touch, especially after they have been exposed to natural sunlight. These basic one-handed melee weapons are capable of punching through a foe’s defenses, sometimes puncturing vital organs in the process."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -931,7 +933,7 @@
     "Bulk": "L",
     "Special": "Analog, operative, thrown (20 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The thinness and lightness of daggers make them easy to carry or conceal. Ultrathin daggers have sharp, double-edged blades. Zero-edge daggers have blades—crafted with quantum technology—that are so fine, their edges blur. The blade of a molecular rift dagger looks translucent, as if it’s made of glass, and its vibrating particles allow the dagger to slice through almost any substance. Most daggers are available with fixed, folding, or retractable blades."
   },
   {
     "source": "Alien Archive 2 pg. 23",
@@ -943,7 +945,8 @@
     "Critical": "—",
     "Bulk": "L",
     "Special": "analog",
-    "type": "One-Handed Weapons"
+    "type": "One-Handed Weapons",
+    "desc": "Members of the Corpse Fleet earn their dueling swords through tallied kill counts, while officers receive their blades as part of the transition to the rank of commander. Corpse Fleet admirals’ blades are some of the keenest weapons in the known galaxy. Although the weapons are mainly used by the Corpse Fleet, the undead navy leaks some versions into the markets on Eox."
   },
   {
     "source": "Alien Archive 4 pg. 51",
@@ -956,7 +959,7 @@
     "Bulk": "L",
     "Special": "Analog, penetrating",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Ignursos wield enough strength to punch through rock, and even after death, their claws ignite with momentary heat when struck against another surface. Weaponsmiths can stabilize the claws’ supernatural ignition and incorporate them into bladed gauntlets known as ignurso knuckles. These gauntlets’ ignurso-hide coverings protect the wielder from the claws’ heat, and high-end models allow the claws to retract into wrist sheathes."
   },
   {
     "source": "Starfinder #29: The Cradle Infestation pg. 48",
@@ -969,7 +972,7 @@
     "Bulk": "L",
     "Special": "Conceal, injection, integrated (1 slot), operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This hollow stinger is installed in an armor upgrade slot. It is typically stored in a limb of the armor (though some androids use it to augment their headbutts). The stinger must be extended to be used as a weapon or to refill its injection reservoir. Extending or retracting the stinger is a move action."
   },
   {
     "source": "Character Operations Manual pg. 122",
@@ -982,7 +985,7 @@
     "Bulk": "L",
     "Special": "Conceal, injection, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This weapon is a lightweight, handheld auto-injector device designed to quickly inject drugs, poison, and similar substance into a creature when pressed against its body. A syringe stick’s patented spring-loaded design features a sturdy needle able to punch through the toughest armor, chitin, and hide. Despite its deadliness, it is difficult to discern a syringe stick from a medicinal auto-injector."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -995,7 +998,7 @@
     "Bulk": "L",
     "Special": "analog",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "While dueling swords are crafted to be aesthetically pleasing and are often seen as a mark of rank or tradition, many warriors still train with them to deadly effect. The powered blades of both buzzblade and ripper dueling swords bring this danger into the modern era, while the molecular rift sword—though unpowered— uses a field of disrupted molecules along its blade to slice through nearly anything, and must be stored in a magnetic sheath that never actually touches the blade."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -1008,7 +1011,7 @@
     "Bulk": "1",
     "Special": "Nonlethal, powered (capacity 100, usage 4), professional (farmer)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Company personnel must occasionally transport animals from one world to another. Large herd animals, such as ruthigs, can be notoriously stubborn, and sometimes a beast proves more dangerous than anticipated. In these situations, crews appreciate this stout electric prod capable of delivering a nonlethal shock that can stun or incapacitate even a surly wolliped. Electric prods see civilian use on Castrovel, Triaxus, and other worlds, where ranchers and farmers utilize them to keep large animals under control without causing permanent harm."
   },
   {
     "source": "Starfinder #15: Sun Divers pg. 44",
@@ -1021,7 +1024,7 @@
     "Bulk": "L",
     "Special": "Analog, operative, polymorphic",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Weaponized polyfluid applications are just beginning to be explored. Polyfluid’s plasticity has already been applied to some melee weapons, resulting in the polymorphic weapon special property."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -1034,7 +1037,7 @@
     "Bulk": "L",
     "Special": "powered (capacity 40; usage 2)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Kasathas on their home world wielded spined blades to better poison foes. Replicas of these ancient weapons can be found in the Museum of Ancestral Technology on the Idari. Modern warriors use refined versions of the weapon that are effective at delivering poisons and similar substances through contemporary armor. You apply such substances to the blade per rules found on page 232 of the Core Rulebook. While the basic version of the spined blade is generally analog, more advanced buzzblade, ripper, gravity, and rivener models are powered weapons."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -1047,7 +1050,7 @@
     "Bulk": "L",
     "Special": "analog, conceal, operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This blade looks much like a single-edged survival knife when opened, but the blade can be folded or collapsed to fit within the grip, making it easier to conceal. A switch on the knife means the blade can be folded or extended as a swift action, or as part of making an attack or full attack. Most weapon manufacturers that offer daggers also produce switchblades, which are made in the same models: tactical, ultrathin, zero-edge, and molecular rift."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -1060,7 +1063,7 @@
     "Bulk": "L",
     "Special": "Operative, powered (capacity 20, usage 1), thrown (20 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A baton is a thin, solid metal shaft, usually with a textured rubber grip. A tactical baton can be used to inflict precise bludgeoning blows. An advanced baton, used by elite mercenary and security companies, often has an additional shaft, as well as a weighted end that can be powered to connect with substantially more force than a tactical baton."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1073,7 +1076,7 @@
     "Bulk": "L",
     "Special": "analog, thrown (40 ft.)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A balanced, wedge-shaped blade affixed to a lightweight haft, a handaxe can be wielded in melee or thrown. The flexibility of handaxes makes them a favorite of explorers of all types, and the basic handaxe is a common tool that can be used as a weapon. A tactical handaxe is made of a stronger, lightweight alloy, while the sintered handaxe uses a denser ceramic material for added heft and a much keener edge. An ultrathin handaxe has a blade so thin it can’t be seen clearly, while the molecular rift handaxe has a blade narrow enough to slice between molecules. Most handaxes have blade covers to prevent accidental injury to the wielder."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1086,7 +1089,7 @@
     "Bulk": "L",
     "Special": "conceal, integrated (1 slot), operative",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "These keen-edged spikes are installed in an armor upgrade slot rather than held, stored in a surface slot in armor or an android’s body until extended. You can extend the spike as a move action and retract the spike as a swift action. Such a spike usually extends from the elbow, foot, knee, or wrist, but a spike can be fitted into a helmet or an android’s head for use in headbutting or goring foes. Retractable spikes are widely available throughout the Pact Worlds, with the various models—tactical, advanced, elite, and paragon—having individual rarity based on the credit outlay to acquire a given model."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1099,7 +1102,7 @@
     "Bulk": "L",
     "Special": "analog, shells (4; usage 4)",
     "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This bulky glove fits over the user’s hand, with reinforced plates covering the knuckles. When the weapon connects with a target, the kinetic force fires scattergun shells into the target and deal impressive bludgeoning damage. Mercenaries favor these weapons for fighting at close quarters, and pirates sometimes use them to make their punches all the more dramatic. Shell knuckles are available in tactical, advanced, elite, and paragon models."
   },
   {
     "source": "SFS Scenario #1-09: Live Exploration Extreme! pg. 26",
@@ -1111,8 +1114,7 @@
     "Critical": "wound",
     "Bulk": "L",
     "Special": "operative, powered (capacity 20, usage 1)",
-    "type": "One-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "type": "One-Handed Weapons"
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -1125,7 +1127,7 @@
     "Bulk": "1",
     "Special": "analog, block, thrown (20 ft.)",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Spears come in many varieties. Buzzblade spears vibrate at high frequency. Zero-edge spears employ quantum manufacturing to hone an edge so fine that it seems indistinct. The gravity spear uses a tiny gravity field generator to accelerate the weapon at the moment of impact."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -1138,7 +1140,7 @@
     "Bulk": "1",
     "Special": "analog, block",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Staves are long and flexible, weighted on the end to provide extra striking power. Most staves are made from aluminum or fiberglass, though some are still made from wood."
   },
   {
     "source": "Character Operations Manual pg. 122",
@@ -1151,7 +1153,7 @@
     "Bulk": "L",
     "Special": "Injection",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "At a glance, this weapon resembles a massive medicinal syringe that has been affixed to a pole roughly as long as the wielder’s body. A tank found at the butt of the spear allows substances to be poured into the weapon, and a spring-loaded mechanism automatically injects foes upon striking a successful blow. The exact origins of this dastardly weapon are unknown, though both the grays and a notorious race of subterranean creatures from Golarion are claimed to have designed this weapon for torturous experimentation."
   },
   {
     "source": "Starfinder Armory pg. 54",
@@ -1163,8 +1165,7 @@
     "Critical": "—",
     "Bulk": "1",
     "Special": "analog",
-    "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "type": "Two-Handed Weapons"
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1177,7 +1178,7 @@
     "Bulk": "L",
     "Special": "analog, conceal, grapple, operative, throttle",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A pair of slim handles connected by flexible cable made of a strong alloy, the garrote is a weapon strongly associated with assassination. That’s no accident, as the weapon’s primary use is to silently strangle creatures. However, a garrote can also be used to ensnare appendages. The wire garrote is the simplest version, while the nanofiber, microfilament, and monowire models use increasingly fine cables to deal substantially more damage. For instance, the monowire version has a cable as thin as a single complex molecule, which closes into the handles when the weapon isn’t in use. This construction results in a nearly invisible cable with an extreme edge."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1190,7 +1191,7 @@
     "Bulk": "1",
     "Special": "analog",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "No one can argue against the damage potential of a greataxe. Half-orcs who take an interest in fragmentary records from lost Golarion embrace the greataxe as a cultural symbol. Tactical greataxes are the most common, but sintered models are made of dense ceramic and designed to increase the axe’s effectiveness against modern gear. It’s hard to tell ultrathin greataxes from molecular rift models at a glance, but one’s edge is merely blurry while the other’s is actually translucent."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1203,7 +1204,7 @@
     "Bulk": "1",
     "Special": "analog, reach",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A lance is a long, heavy spear designed for use while riding a mount. While mounted or riding a cycle, you can wield a lance with one hand. This weapon is common across the Pact Worlds. Traditionally used by shotalashu warriors riding saurian mounts in the jungles of Castrovel and bonded ryphorian and dragonkin partners of Triaxus, lances are also known to have been common weapons on lost Golarion. Modern wielders use lances while mounted or driving open vehicles, such as cycle-riding raiders like the Vercite Rustrunners. Tactical lances are straightforward and widely available, while advanced lances are made of strong composites and have fine points to deal more damage. Elite lances have superfine points, and each has a particularly dense core for a more powerful strike. Paragon lances have been entirely redesigned using dense, flexible materials and an ultrathin point to achieve incomparable performance."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1216,7 +1217,7 @@
     "Bulk": "1",
     "Special": "analog",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The serrated, sweeping blade of a chitinblade is based on technology recovered from encounters with the Swarm. The source material can come from a natural part of a creature’s body, but the final weapon is detached and wielded with two hands. A tactical chitinblade is modeled on an animal counterpart with little modification, but high-tech materials and manufacturing improve on nature in the microserrated, nanoserrated, and ultraserrated models."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1229,7 +1230,7 @@
     "Bulk": "1",
     "Special": "breakdown",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The kasathan puzzleblade is a two-handed sword that can be disassembled into pieces for ease of storage and transport, although reassembling the blade for use takes some time. Many who carry a puzzleblade see the assembly time as a reminder of virtues to uphold, so the various types of puzzleblades take their names from kasathan values of conviction, dedication, moderation, and tradition. Some ysoki, on the other hand, have taken a liking to the weapon due to the fact that the disassembled pieces can be stored in ysoki cheek pouches."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1242,7 +1243,7 @@
     "Bulk": "1",
     "Special": "block, living, powered (capacity 20; usage 1), reach",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Xenodruids developed the living staff, a gnarled and vineswathed pole, to use as a weapon and a sign of their allegiance. The staff itself can extend, and the vines can wrap around and entangle a target. Xenodruids on sentinel duty favor the tactical and advanced models. The elite and paragon models are more common among highly skilled warrior-mystics undertaking assault missions."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1255,7 +1256,7 @@
     "Bulk": "1",
     "Special": "analog, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Outsized hammers, mauls are valued for their intimidation factor and effectiveness in battle. A tactical maul is as much an instrument for hammering posts into the ground as a weapon. Advanced mauls include dense, heavy cores to deliver a more forceful blow. Elite mauls and paragon mauls are designed and manufactured more for war than labor, although the weapons can be used as tools."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1268,7 +1269,7 @@
     "Bulk": "1",
     "Special": "analog",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "No one can argue against the damage potential of a greataxe. Half-orcs who take an interest in fragmentary records from lost Golarion embrace the greataxe as a cultural symbol. Tactical greataxes are the most common, but sintered models are made of dense ceramic and designed to increase the axe’s effectiveness against modern gear. It’s hard to tell ultrathin greataxes from molecular rift models at a glance, but one’s edge is merely blurry while the other’s is actually translucent."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1281,7 +1282,7 @@
     "Bulk": "1",
     "Special": "analog, trip",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Few weapons send a more distinctive and imposing message than a scythe, given its longstanding and transcultural connotations of harvest and death. A far cry from the farming tools of ages past, scythes range from tactical to sintered to ultrathin models. Followers of Urgathoa make up a significant portion of the customer base for this weapon."
   },
   {
     "source": "Character Operations Manual pg. 122",
@@ -1294,7 +1295,7 @@
     "Bulk": "L",
     "Special": "Injection",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "At a glance, this weapon resembles a massive medicinal syringe that has been affixed to a pole roughly as long as the wielder’s body. A tank found at the butt of the spear allows substances to be poured into the weapon, and a spring-loaded mechanism automatically injects foes upon striking a successful blow. The exact origins of this dastardly weapon are unknown, though both the grays and a notorious race of subterranean creatures from Golarion are claimed to have designed this weapon for torturous experimentation."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1307,7 +1308,7 @@
     "Bulk": "L",
     "Special": "analog, conceal, grapple, operative, throttle",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A pair of slim handles connected by flexible cable made of a strong alloy, the garrote is a weapon strongly associated with assassination. That’s no accident, as the weapon’s primary use is to silently strangle creatures. However, a garrote can also be used to ensnare appendages. The wire garrote is the simplest version, while the nanofiber, microfilament, and monowire models use increasingly fine cables to deal substantially more damage. For instance, the monowire version has a cable as thin as a single complex molecule, which closes into the handles when the weapon isn’t in use. This construction results in a nearly invisible cable with an extreme edge."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -1320,7 +1321,7 @@
     "Bulk": "1",
     "Special": "analog, block",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Staves are long and flexible, weighted on the end to provide extra striking power. Most staves are made from aluminum or fiberglass, though some are still made from wood."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1333,7 +1334,7 @@
     "Bulk": "1",
     "Special": "analog, reach",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A lance is a long, heavy spear designed for use while riding a mount. While mounted or riding a cycle, you can wield a lance with one hand. This weapon is common across the Pact Worlds. Traditionally used by shotalashu warriors riding saurian mounts in the jungles of Castrovel and bonded ryphorian and dragonkin partners of Triaxus, lances are also known to have been common weapons on lost Golarion. Modern wielders use lances while mounted or driving open vehicles, such as cycle-riding raiders like the Vercite Rustrunners. Tactical lances are straightforward and widely available, while advanced lances are made of strong composites and have fine points to deal more damage. Elite lances have superfine points, and each has a particularly dense core for a more powerful strike. Paragon lances have been entirely redesigned using dense, flexible materials and an ultrathin point to achieve incomparable performance."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -1346,7 +1347,7 @@
     "Bulk": "1",
     "Special": "analog, block, thrown (20 ft.)",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Spears come in many varieties. Buzzblade spears vibrate at high frequency. Zero-edge spears employ quantum manufacturing to hone an edge so fine that it seems indistinct. The gravity spear uses a tiny gravity field generator to accelerate the weapon at the moment of impact."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1359,7 +1360,7 @@
     "Bulk": "1",
     "Special": "analog",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The serrated, sweeping blade of a chitinblade is based on technology recovered from encounters with the Swarm. The source material can come from a natural part of a creature’s body, but the final weapon is detached and wielded with two hands. A tactical chitinblade is modeled on an animal counterpart with little modification, but high-tech materials and manufacturing improve on nature in the microserrated, nanoserrated, and ultraserrated models."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1372,7 +1373,7 @@
     "Bulk": "1",
     "Special": "breakdown",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The kasathan puzzleblade is a two-handed sword that can be disassembled into pieces for ease of storage and transport, although reassembling the blade for use takes some time. Many who carry a puzzleblade see the assembly time as a reminder of virtues to uphold, so the various types of puzzleblades take their names from kasathan values of conviction, dedication, moderation, and tradition. Some ysoki, on the other hand, have taken a liking to the weapon due to the fact that the disassembled pieces can be stored in ysoki cheek pouches."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1385,7 +1386,7 @@
     "Bulk": "1",
     "Special": "analog",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "No one can argue against the damage potential of a greataxe. Half-orcs who take an interest in fragmentary records from lost Golarion embrace the greataxe as a cultural symbol. Tactical greataxes are the most common, but sintered models are made of dense ceramic and designed to increase the axe’s effectiveness against modern gear. It’s hard to tell ultrathin greataxes from molecular rift models at a glance, but one’s edge is merely blurry while the other’s is actually translucent."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1398,7 +1399,7 @@
     "Bulk": "1",
     "Special": "analog, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Outsized hammers, mauls are valued for their intimidation factor and effectiveness in battle. A tactical maul is as much an instrument for hammering posts into the ground as a weapon. Advanced mauls include dense, heavy cores to deliver a more forceful blow. Elite mauls and paragon mauls are designed and manufactured more for war than labor, although the weapons can be used as tools."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1411,7 +1412,7 @@
     "Bulk": "1",
     "Special": "analog, trip",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Few weapons send a more distinctive and imposing message than a scythe, given its longstanding and transcultural connotations of harvest and death. A far cry from the farming tools of ages past, scythes range from tactical to sintered to ultrathin models. Followers of Urgathoa make up a significant portion of the customer base for this weapon."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -1424,7 +1425,7 @@
     "Bulk": "1",
     "Special": "block, powered (capacity 40; usage 2), thrown (20 ft.)",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Spears come in many varieties. Buzzblade spears vibrate at high frequency. Zero-edge spears employ quantum manufacturing to hone an edge so fine that it seems indistinct. The gravity spear uses a tiny gravity field generator to accelerate the weapon at the moment of impact."
   },
   {
     "source": "Character Operations Manual pg. 122",
@@ -1437,7 +1438,7 @@
     "Bulk": "L",
     "Special": "Injection",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "At a glance, this weapon resembles a massive medicinal syringe that has been affixed to a pole roughly as long as the wielder’s body. A tank found at the butt of the spear allows substances to be poured into the weapon, and a spring-loaded mechanism automatically injects foes upon striking a successful blow. The exact origins of this dastardly weapon are unknown, though both the grays and a notorious race of subterranean creatures from Golarion are claimed to have designed this weapon for torturous experimentation."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1450,7 +1451,7 @@
     "Bulk": "L",
     "Special": "analog, conceal, grapple, operative, throttle",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A pair of slim handles connected by flexible cable made of a strong alloy, the garrote is a weapon strongly associated with assassination. That’s no accident, as the weapon’s primary use is to silently strangle creatures. However, a garrote can also be used to ensnare appendages. The wire garrote is the simplest version, while the nanofiber, microfilament, and monowire models use increasingly fine cables to deal substantially more damage. For instance, the monowire version has a cable as thin as a single complex molecule, which closes into the handles when the weapon isn’t in use. This construction results in a nearly invisible cable with an extreme edge."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1463,7 +1464,7 @@
     "Bulk": "1",
     "Special": "block, living, powered (capacity 20; usage 1), reach",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Xenodruids developed the living staff, a gnarled and vineswathed pole, to use as a weapon and a sign of their allegiance. The staff itself can extend, and the vines can wrap around and entangle a target. Xenodruids on sentinel duty favor the tactical and advanced models. The elite and paragon models are more common among highly skilled warrior-mystics undertaking assault missions."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1476,7 +1477,7 @@
     "Bulk": "1",
     "Special": "analog",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The serrated, sweeping blade of a chitinblade is based on technology recovered from encounters with the Swarm. The source material can come from a natural part of a creature’s body, but the final weapon is detached and wielded with two hands. A tactical chitinblade is modeled on an animal counterpart with little modification, but high-tech materials and manufacturing improve on nature in the microserrated, nanoserrated, and ultraserrated models."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1489,7 +1490,7 @@
     "Bulk": "1",
     "Special": "analog, reach",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A lance is a long, heavy spear designed for use while riding a mount. While mounted or riding a cycle, you can wield a lance with one hand. This weapon is common across the Pact Worlds. Traditionally used by shotalashu warriors riding saurian mounts in the jungles of Castrovel and bonded ryphorian and dragonkin partners of Triaxus, lances are also known to have been common weapons on lost Golarion. Modern wielders use lances while mounted or driving open vehicles, such as cycle-riding raiders like the Vercite Rustrunners. Tactical lances are straightforward and widely available, while advanced lances are made of strong composites and have fine points to deal more damage. Elite lances have superfine points, and each has a particularly dense core for a more powerful strike. Paragon lances have been entirely redesigned using dense, flexible materials and an ultrathin point to achieve incomparable performance."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1502,7 +1503,7 @@
     "Bulk": "1",
     "Special": "analog",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "No one can argue against the damage potential of a greataxe. Half-orcs who take an interest in fragmentary records from lost Golarion embrace the greataxe as a cultural symbol. Tactical greataxes are the most common, but sintered models are made of dense ceramic and designed to increase the axe’s effectiveness against modern gear. It’s hard to tell ultrathin greataxes from molecular rift models at a glance, but one’s edge is merely blurry while the other’s is actually translucent."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1515,7 +1516,7 @@
     "Bulk": "1",
     "Special": "breakdown",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The kasathan puzzleblade is a two-handed sword that can be disassembled into pieces for ease of storage and transport, although reassembling the blade for use takes some time. Many who carry a puzzleblade see the assembly time as a reminder of virtues to uphold, so the various types of puzzleblades take their names from kasathan values of conviction, dedication, moderation, and tradition. Some ysoki, on the other hand, have taken a liking to the weapon due to the fact that the disassembled pieces can be stored in ysoki cheek pouches."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1528,7 +1529,7 @@
     "Bulk": "1",
     "Special": "analog, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Outsized hammers, mauls are valued for their intimidation factor and effectiveness in battle. A tactical maul is as much an instrument for hammering posts into the ground as a weapon. Advanced mauls include dense, heavy cores to deliver a more forceful blow. Elite mauls and paragon mauls are designed and manufactured more for war than labor, although the weapons can be used as tools."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -1541,7 +1542,7 @@
     "Bulk": "1",
     "Special": "analog, block, thrown (20 ft.)",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Spears come in many varieties. Buzzblade spears vibrate at high frequency. Zero-edge spears employ quantum manufacturing to hone an edge so fine that it seems indistinct. The gravity spear uses a tiny gravity field generator to accelerate the weapon at the moment of impact."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1554,7 +1555,7 @@
     "Bulk": "1",
     "Special": "block, living, powered (capacity 20; usage 1), reach",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Xenodruids developed the living staff, a gnarled and vineswathed pole, to use as a weapon and a sign of their allegiance. The staff itself can extend, and the vines can wrap around and entangle a target. Xenodruids on sentinel duty favor the tactical and advanced models. The elite and paragon models are more common among highly skilled warrior-mystics undertaking assault missions."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1567,7 +1568,7 @@
     "Bulk": "1",
     "Special": "analog, trip",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Few weapons send a more distinctive and imposing message than a scythe, given its longstanding and transcultural connotations of harvest and death. A far cry from the farming tools of ages past, scythes range from tactical to sintered to ultrathin models. Followers of Urgathoa make up a significant portion of the customer base for this weapon."
   },
   {
     "source": "Character Operations Manual pg. 122",
@@ -1580,7 +1581,7 @@
     "Bulk": "L",
     "Special": "Injection",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "At a glance, this weapon resembles a massive medicinal syringe that has been affixed to a pole roughly as long as the wielder’s body. A tank found at the butt of the spear allows substances to be poured into the weapon, and a spring-loaded mechanism automatically injects foes upon striking a successful blow. The exact origins of this dastardly weapon are unknown, though both the grays and a notorious race of subterranean creatures from Golarion are claimed to have designed this weapon for torturous experimentation."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1593,7 +1594,7 @@
     "Bulk": "1",
     "Special": "analog",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The serrated, sweeping blade of a chitinblade is based on technology recovered from encounters with the Swarm. The source material can come from a natural part of a creature’s body, but the final weapon is detached and wielded with two hands. A tactical chitinblade is modeled on an animal counterpart with little modification, but high-tech materials and manufacturing improve on nature in the microserrated, nanoserrated, and ultraserrated models."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1606,7 +1607,7 @@
     "Bulk": "L",
     "Special": "analog, conceal, grapple, operative, throttle",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A pair of slim handles connected by flexible cable made of a strong alloy, the garrote is a weapon strongly associated with assassination. That’s no accident, as the weapon’s primary use is to silently strangle creatures. However, a garrote can also be used to ensnare appendages. The wire garrote is the simplest version, while the nanofiber, microfilament, and monowire models use increasingly fine cables to deal substantially more damage. For instance, the monowire version has a cable as thin as a single complex molecule, which closes into the handles when the weapon isn’t in use. This construction results in a nearly invisible cable with an extreme edge."
   },
   {
     "source": "Starfinder Armory pg. 52",
@@ -1619,7 +1620,7 @@
     "Bulk": "1",
     "Special": "analog, reach",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A lance is a long, heavy spear designed for use while riding a mount. While mounted or riding a cycle, you can wield a lance with one hand. This weapon is common across the Pact Worlds. Traditionally used by shotalashu warriors riding saurian mounts in the jungles of Castrovel and bonded ryphorian and dragonkin partners of Triaxus, lances are also known to have been common weapons on lost Golarion. Modern wielders use lances while mounted or driving open vehicles, such as cycle-riding raiders like the Vercite Rustrunners. Tactical lances are straightforward and widely available, while advanced lances are made of strong composites and have fine points to deal more damage. Elite lances have superfine points, and each has a particularly dense core for a more powerful strike. Paragon lances have been entirely redesigned using dense, flexible materials and an ultrathin point to achieve incomparable performance."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -1632,7 +1633,7 @@
     "Bulk": "1",
     "Special": "analog, block",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Staves are long and flexible, weighted on the end to provide extra striking power. Most staves are made from aluminum or fiberglass, though some are still made from wood."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1645,7 +1646,7 @@
     "Bulk": "1",
     "Special": "breakdown",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "The kasathan puzzleblade is a two-handed sword that can be disassembled into pieces for ease of storage and transport, although reassembling the blade for use takes some time. Many who carry a puzzleblade see the assembly time as a reminder of virtues to uphold, so the various types of puzzleblades take their names from kasathan values of conviction, dedication, moderation, and tradition. Some ysoki, on the other hand, have taken a liking to the weapon due to the fact that the disassembled pieces can be stored in ysoki cheek pouches."
   },
   {
     "source": "Starfinder Core Rulebook pg. 171",
@@ -1658,7 +1659,7 @@
     "Bulk": "1",
     "Special": "block, powered (capacity 40; usage 2), thrown (20 ft.)",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Spears come in many varieties. Buzzblade spears vibrate at high frequency. Zero-edge spears employ quantum manufacturing to hone an edge so fine that it seems indistinct. The gravity spear uses a tiny gravity field generator to accelerate the weapon at the moment of impact."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1671,7 +1672,7 @@
     "Bulk": "1",
     "Special": "block, living, powered (capacity 20; usage 1), reach",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Xenodruids developed the living staff, a gnarled and vineswathed pole, to use as a weapon and a sign of their allegiance. The staff itself can extend, and the vines can wrap around and entangle a target. Xenodruids on sentinel duty favor the tactical and advanced models. The elite and paragon models are more common among highly skilled warrior-mystics undertaking assault missions."
   },
   {
     "source": "Starfinder Armory pg. 53",
@@ -1684,6 +1685,6 @@
     "Bulk": "1",
     "Special": "analog, unwieldy",
     "type": "Two-Handed Weapons",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Outsized hammers, mauls are valued for their intimidation factor and effectiveness in battle. A tactical maul is as much an instrument for hammering posts into the ground as a weapon. Advanced mauls include dense, heavy cores to deliver a more forceful blow. Elite mauls and paragon mauls are designed and manufactured more for war than labor, although the weapons can be used as tools."
   }
 ]

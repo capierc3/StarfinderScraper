@@ -20,8 +20,7 @@
     "Name": "Unskilled Labor",
     "Level": "0",
     "Price": "4 per day or 1 per hour",
-    "type": "Professional Services",
-    "desc": "error, looping till null"
+    "type": "Professional Services"
   },
   {
     "source": "Starfinder Armory pg. 135",
@@ -29,7 +28,7 @@
     "Level": "0",
     "Price": "75",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Grooming practices vary widely from species to species, but all generally involve various methods to keep a creature’s body neat and clean. Examples of standard grooming services include haircuts, fur trimming, feather preening, claw or nail trimming, nail and scale buffing, parasite removal, tooth cleaning and dentistry, and the like. Exotic grooming services are usually considered luxuries rather than necessities, and include hair, fur, or scale coloring; body modifications; permanent and temporary tattoos; and wellness services such as massages, medicinal baths, and spa treatments."
   },
   {
     "source": "Starfinder Armory pg. 135",
@@ -37,7 +36,7 @@
     "Level": "0",
     "Price": "3",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Grooming practices vary widely from species to species, but all generally involve various methods to keep a creature’s body neat and clean. Examples of standard grooming services include haircuts, fur trimming, feather preening, claw or nail trimming, nail and scale buffing, parasite removal, tooth cleaning and dentistry, and the like. Exotic grooming services are usually considered luxuries rather than necessities, and include hair, fur, or scale coloring; body modifications; permanent and temporary tattoos; and wellness services such as massages, medicinal baths, and spa treatments."
   },
   {
     "source": "Starfinder Armory pg. 135",
@@ -45,7 +44,7 @@
     "Level": "0",
     "Price": "10",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Standard laundry services include both washing and dry-cleaning, and the listed price is for up to 1 bulk of clothing. Clean laundry is usually ready the next day. Magical laundry service is usually provided by a spellcaster using "
   },
   {
     "source": "Starfinder Armory pg. 135",
@@ -53,7 +52,7 @@
     "Level": "0",
     "Price": "1",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Standard laundry services include both washing and dry-cleaning, and the listed price is for up to 1 bulk of clothing. Clean laundry is usually ready the next day. Magical laundry service is usually provided by a spellcaster using "
   },
   {
     "source": "Starfinder Armory pg. 135",
@@ -61,7 +60,7 @@
     "Level": "0",
     "Price": "100 per day",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "While technological medical equipment and magical healing are readily available for purchase in most areas, many people have neither the funds nor the skill to use such methods. Fortunately, three types of facilities provide medical treatment services to the general public: clinics, hospitals, and trauma centers. Each of these facilities is usually equipped with multiple medical labs and can perform some or all of the tasks of the Medicine skill, detailed below. Prices depend on the service provided, as listed in Table 1–34, though most facilities will perform first aid for no cost. These are average prices; medical treatments at a high-end or luxury facility can cost 2 to 10 times more."
   },
   {
     "source": "Starfinder Armory pg. 135",
@@ -69,7 +68,7 @@
     "Level": "0",
     "Price": "15 per hour",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "While technological medical equipment and magical healing are readily available for purchase in most areas, many people have neither the funds nor the skill to use such methods. Fortunately, three types of facilities provide medical treatment services to the general public: clinics, hospitals, and trauma centers. Each of these facilities is usually equipped with multiple medical labs and can perform some or all of the tasks of the Medicine skill, detailed below. Prices depend on the service provided, as listed in Table 1–34, though most facilities will perform first aid for no cost. These are average prices; medical treatments at a high-end or luxury facility can cost 2 to 10 times more."
   },
   {
     "source": "Starfinder Armory pg. 135",
@@ -77,7 +76,7 @@
     "Level": "0",
     "Price": "75",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "While technological medical equipment and magical healing are readily available for purchase in most areas, many people have neither the funds nor the skill to use such methods. Fortunately, three types of facilities provide medical treatment services to the general public: clinics, hospitals, and trauma centers. Each of these facilities is usually equipped with multiple medical labs and can perform some or all of the tasks of the Medicine skill, detailed below. Prices depend on the service provided, as listed in Table 1–34, though most facilities will perform first aid for no cost. These are average prices; medical treatments at a high-end or luxury facility can cost 2 to 10 times more."
   },
   {
     "source": "Starfinder Armory pg. 135",
@@ -85,7 +84,7 @@
     "Level": "0",
     "Price": "1,000",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "While technological medical equipment and magical healing are readily available for purchase in most areas, many people have neither the funds nor the skill to use such methods. Fortunately, three types of facilities provide medical treatment services to the general public: clinics, hospitals, and trauma centers. Each of these facilities is usually equipped with multiple medical labs and can perform some or all of the tasks of the Medicine skill, detailed below. Prices depend on the service provided, as listed in Table 1–34, though most facilities will perform first aid for no cost. These are average prices; medical treatments at a high-end or luxury facility can cost 2 to 10 times more."
   },
   {
     "source": "Starfinder Armory pg. 135",
@@ -93,7 +92,7 @@
     "Level": "0",
     "Price": "1,000",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "While technological medical equipment and magical healing are readily available for purchase in most areas, many people have neither the funds nor the skill to use such methods. Fortunately, three types of facilities provide medical treatment services to the general public: clinics, hospitals, and trauma centers. Each of these facilities is usually equipped with multiple medical labs and can perform some or all of the tasks of the Medicine skill, detailed below. Prices depend on the service provided, as listed in Table 1–34, though most facilities will perform first aid for no cost. These are average prices; medical treatments at a high-end or luxury facility can cost 2 to 10 times more."
   },
   {
     "source": "Starfinder Core Rulebook pg. 234",
@@ -101,7 +100,7 @@
     "Level": "0",
     "Price": "20",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Professional spellcasters are common only in major settlements and often require advance appointments and insist on security measures when dealing with new clients. Many are associated with a church, guild, or major corporation, and they may only work for groups and individuals associated with such organizations. It’s generally not possible to convince a professional spellcaster to travel to an unsecured location to cast spells, and any who do agree to it will insist on much higher payment rates (anywhere from 10 to 100 times the normal price)."
   },
   {
     "source": "Starfinder Core Rulebook pg. 234",
@@ -109,7 +108,7 @@
     "Level": "0",
     "Price": "100",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Professional spellcasters are common only in major settlements and often require advance appointments and insist on security measures when dealing with new clients. Many are associated with a church, guild, or major corporation, and they may only work for groups and individuals associated with such organizations. It’s generally not possible to convince a professional spellcaster to travel to an unsecured location to cast spells, and any who do agree to it will insist on much higher payment rates (anywhere from 10 to 100 times the normal price)."
   },
   {
     "source": "Starfinder Core Rulebook pg. 234",
@@ -117,7 +116,7 @@
     "Level": "0",
     "Price": "350",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Professional spellcasters are common only in major settlements and often require advance appointments and insist on security measures when dealing with new clients. Many are associated with a church, guild, or major corporation, and they may only work for groups and individuals associated with such organizations. It’s generally not possible to convince a professional spellcaster to travel to an unsecured location to cast spells, and any who do agree to it will insist on much higher payment rates (anywhere from 10 to 100 times the normal price)."
   },
   {
     "source": "Starfinder Core Rulebook pg. 234",
@@ -125,7 +124,7 @@
     "Level": "0",
     "Price": "1,000",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Professional spellcasters are common only in major settlements and often require advance appointments and insist on security measures when dealing with new clients. Many are associated with a church, guild, or major corporation, and they may only work for groups and individuals associated with such organizations. It’s generally not possible to convince a professional spellcaster to travel to an unsecured location to cast spells, and any who do agree to it will insist on much higher payment rates (anywhere from 10 to 100 times the normal price)."
   },
   {
     "source": "Starfinder Core Rulebook pg. 234",
@@ -133,7 +132,7 @@
     "Level": "0",
     "Price": "3,000",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Professional spellcasters are common only in major settlements and often require advance appointments and insist on security measures when dealing with new clients. Many are associated with a church, guild, or major corporation, and they may only work for groups and individuals associated with such organizations. It’s generally not possible to convince a professional spellcaster to travel to an unsecured location to cast spells, and any who do agree to it will insist on much higher payment rates (anywhere from 10 to 100 times the normal price)."
   },
   {
     "source": "Starfinder Core Rulebook pg. 234",
@@ -141,7 +140,7 @@
     "Level": "0",
     "Price": "9,000",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Professional spellcasters are common only in major settlements and often require advance appointments and insist on security measures when dealing with new clients. Many are associated with a church, guild, or major corporation, and they may only work for groups and individuals associated with such organizations. It’s generally not possible to convince a professional spellcaster to travel to an unsecured location to cast spells, and any who do agree to it will insist on much higher payment rates (anywhere from 10 to 100 times the normal price)."
   },
   {
     "source": "Starfinder Core Rulebook pg. 234",
@@ -149,7 +148,7 @@
     "Level": "0",
     "Price": "30,000",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Professional spellcasters are common only in major settlements and often require advance appointments and insist on security measures when dealing with new clients. Many are associated with a church, guild, or major corporation, and they may only work for groups and individuals associated with such organizations. It’s generally not possible to convince a professional spellcaster to travel to an unsecured location to cast spells, and any who do agree to it will insist on much higher payment rates (anywhere from 10 to 100 times the normal price)."
   },
   {
     "source": "Starfinder Armory pg. 135",
@@ -157,7 +156,7 @@
     "Level": "0",
     "Price": "Skill bonus x 5 per week",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Although most starships require crews of only half a dozen or fewer to fly, larger vessels can require 20 or more crew members to operate successfully. Standard crew members usually don’t have a stat block, but they are generally characters of CR 1 or lower. They cannot fill roles in starship combat, but they can serve on teams supporting an officer in a role."
   },
   {
     "source": "Starfinder Armory pg. 135",
@@ -165,7 +164,7 @@
     "Level": "0",
     "Price": "20 per week",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Although most starships require crews of only half a dozen or fewer to fly, larger vessels can require 20 or more crew members to operate successfully. Standard crew members usually don’t have a stat block, but they are generally characters of CR 1 or lower. They cannot fill roles in starship combat, but they can serve on teams supporting an officer in a role."
   },
   {
     "source": "Starfinder #38: Crash and Burn pg. 55",
@@ -173,7 +172,7 @@
     "Level": "1",
     "Price": "5 credits/month",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Less of a physical item and more of a service, a union membership offers a series of benefits. To get one, you must regularly pay the dues (listed below). Most unions provide digital proof of your membership, though some require you to carry a physical card (which has negligible bulk). An apprentice union membership grants a +1 circumstance bonus to Diplomacy checks to interact with individuals who also belong to unions and, once per month, allows you to roll your Profession check twice and take the better result when you perform the practice profession downtime activity. An artisan union membership increases the bonus to +2 and allows you to roll twice on your Profession check two times per month when you perform the practice profession downtime activity. A master union membership increases the bonus to +4 and allows you to roll twice on your Profession check whenever you perform the practice profession downtime activity."
   },
   {
     "source": "Starfinder #38: Crash and Burn pg. 55",
@@ -181,7 +180,7 @@
     "Level": "7",
     "Price": "25 credits/month",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Less of a physical item and more of a service, a union membership offers a series of benefits. To get one, you must regularly pay the dues (listed below). Most unions provide digital proof of your membership, though some require you to carry a physical card (which has negligible bulk). An apprentice union membership grants a +1 circumstance bonus to Diplomacy checks to interact with individuals who also belong to unions and, once per month, allows you to roll your Profession check twice and take the better result when you perform the practice profession downtime activity. An artisan union membership increases the bonus to +2 and allows you to roll twice on your Profession check two times per month when you perform the practice profession downtime activity. A master union membership increases the bonus to +4 and allows you to roll twice on your Profession check whenever you perform the practice profession downtime activity."
   },
   {
     "source": "Starfinder #38: Crash and Burn pg. 55",
@@ -189,6 +188,6 @@
     "Level": "14",
     "Price": "100 credits/month",
     "type": "Professional Services",
-    "desc": "top desc: hr"
+    "desc": "Less of a physical item and more of a service, a union membership offers a series of benefits. To get one, you must regularly pay the dues (listed below). Most unions provide digital proof of your membership, though some require you to carry a physical card (which has negligible bulk). An apprentice union membership grants a +1 circumstance bonus to Diplomacy checks to interact with individuals who also belong to unions and, once per month, allows you to roll your Profession check twice and take the better result when you perform the practice profession downtime activity. An artisan union membership increases the bonus to +2 and allows you to roll twice on your Profession check two times per month when you perform the practice profession downtime activity. A master union membership increases the bonus to +4 and allows you to roll twice on your Profession check whenever you perform the practice profession downtime activity."
   }
 ]

@@ -9,7 +9,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Regions ravaged by a living apocalypse’s radioactivity sometimes develop a form of natural solarian weapon crystal known as an "
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -21,7 +21,7 @@
     "Bulk": "—",
     "Special": "stun",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Alien Archive 2 pg. 117",
@@ -33,7 +33,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "top desc: hr"
+    "desc": "In their travels, solar wisps sometimes shed portions of themselves, which cool rapidly into a glittering stream of beautiful bright-orange jewels called "
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -45,7 +45,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Photon crystals add compressed photonic energy to a weapon strike, adding fire damage and the potential to burn the target."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -57,7 +57,7 @@
     "Bulk": "—",
     "Special": "Stun",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -69,7 +69,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "W-boson crystals amplify the sheer amount of damage a weapon deals."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -81,7 +81,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This specialized weapon crystal causes a solar weapon to twist energy, momentum, and even stranger forces around it. A weapon enhanced with a z-boson crystal deals increased damage and can sometimes give a target unexpected momentum, hurling it backward. Z-boson crystals are fairly esoteric and can be found in shard, least, minor, lesser, standard, greater, and true versions."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -93,7 +93,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Gluon crystals create an entropic field along the weapon that creates traumatic wounds."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -105,7 +105,7 @@
     "Bulk": "—",
     "Special": "penetrating",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Theoretically kin to the electron crystal, a muon crystal turns its user’s solar weapon into a wispy glow in shimmering colors, closer to the auroras certain worlds experience than the unadulterated light of a star. This diffuse weapon slides easily through most matter, making it easier to tear through living creatures and inanimate objects alike. Muon crystals are available in least, minor, lesser, standard, and greater varieties."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -117,7 +117,7 @@
     "Bulk": "—",
     "Special": "variant boost 1d3 (2/day)",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "T-quark crystals have a rapid rate of decay that a solarian can manipulate a limited number of times per day to charge his solar weapon for a more powerful strike. When the t-quark crystal is active, the solar weapon is surrounded by a chaotic storm of particles, the spiraling results of the crystal’s decay. T-quark crystals are available in least, minor, lesser, standard, greater, and true varieties."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -129,7 +129,7 @@
     "Bulk": "—",
     "Special": "stun",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -141,7 +141,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A positron crystal’s interactions with matter release both heat and radiation, causing a solar weapon it enhances to roar with flame as it strikes enemies. This adds fire damage to the weapon’s strikes and adds the irradiate critical hit effect to critical hits scored with the weapon. Unlike many radioactive weapons, a solar weapon enhanced by a positron crystal does not pose any particular risk to its user, although the reason behind this remains unknown. Research into precisely how to preserve these crystals is ongoing; currently only least, minor, and lesser versions remain stable for more than a few seconds, though these are quite powerful."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -153,7 +153,7 @@
     "Bulk": "—",
     "Special": "penetrating",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Theoretically kin to the electron crystal, a muon crystal turns its user’s solar weapon into a wispy glow in shimmering colors, closer to the auroras certain worlds experience than the unadulterated light of a star. This diffuse weapon slides easily through most matter, making it easier to tear through living creatures and inanimate objects alike. Muon crystals are available in least, minor, lesser, standard, and greater varieties."
   },
   {
     "source": "Alien Archive 2 pg. 117",
@@ -165,7 +165,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "In their travels, solar wisps sometimes shed portions of themselves, which cool rapidly into a glittering stream of beautiful bright-orange jewels called "
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -177,7 +177,7 @@
     "Bulk": "—",
     "Special": "Stun",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -189,7 +189,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This specialized weapon crystal causes a solar weapon to twist energy, momentum, and even stranger forces around it. A weapon enhanced with a z-boson crystal deals increased damage and can sometimes give a target unexpected momentum, hurling it backward. Z-boson crystals are fairly esoteric and can be found in shard, least, minor, lesser, standard, greater, and true versions."
   },
   {
     "source": "Alien Archive 2 pg. 81",
@@ -201,7 +201,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Regions ravaged by a living apocalypse’s radioactivity sometimes develop a form of natural solarian weapon crystal known as an "
   },
   {
     "source": "Starfinder Core Rulebook pg. 179",
@@ -213,7 +213,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Graviton crystals accelerate the impact of a weapon, dealing extra damage and potentially knocking down targets."
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -225,7 +225,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Photon crystals add compressed photonic energy to a weapon strike, adding fire damage and the potential to burn the target."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -237,7 +237,7 @@
     "Bulk": "—",
     "Special": "variant boost 1d4 (3/day)",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "T-quark crystals have a rapid rate of decay that a solarian can manipulate a limited number of times per day to charge his solar weapon for a more powerful strike. When the t-quark crystal is active, the solar weapon is surrounded by a chaotic storm of particles, the spiraling results of the crystal’s decay. T-quark crystals are available in least, minor, lesser, standard, greater, and true varieties."
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -249,7 +249,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "W-boson crystals amplify the sheer amount of damage a weapon deals."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -261,7 +261,7 @@
     "Bulk": "—",
     "Special": "stun",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -273,7 +273,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Gluon crystals create an entropic field along the weapon that creates traumatic wounds."
   },
   {
     "source": "Alien Archive 2 pg. 117",
@@ -285,7 +285,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "In their travels, solar wisps sometimes shed portions of themselves, which cool rapidly into a glittering stream of beautiful bright-orange jewels called "
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -297,7 +297,7 @@
     "Bulk": "—",
     "Special": "Stun",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -309,7 +309,7 @@
     "Bulk": "—",
     "Special": "variant boost 2d4 (3/day)",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "T-quark crystals have a rapid rate of decay that a solarian can manipulate a limited number of times per day to charge his solar weapon for a more powerful strike. When the t-quark crystal is active, the solar weapon is surrounded by a chaotic storm of particles, the spiraling results of the crystal’s decay. T-quark crystals are available in least, minor, lesser, standard, greater, and true varieties."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -321,7 +321,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This specialized weapon crystal causes a solar weapon to twist energy, momentum, and even stranger forces around it. A weapon enhanced with a z-boson crystal deals increased damage and can sometimes give a target unexpected momentum, hurling it backward. Z-boson crystals are fairly esoteric and can be found in shard, least, minor, lesser, standard, greater, and true versions."
   },
   {
     "source": "Alien Archive 2 pg. 81",
@@ -333,7 +333,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Regions ravaged by a living apocalypse’s radioactivity sometimes develop a form of natural solarian weapon crystal known as an "
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -345,7 +345,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Graviton crystals accelerate the impact of a weapon, dealing extra damage and potentially knocking down targets."
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -357,7 +357,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Photon crystals add compressed photonic energy to a weapon strike, adding fire damage and the potential to burn the target."
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -369,7 +369,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "W-boson crystals amplify the sheer amount of damage a weapon deals."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -381,7 +381,7 @@
     "Bulk": "—",
     "Special": "stun",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -393,7 +393,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Gluon crystals create an entropic field along the weapon that creates traumatic wounds."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -405,7 +405,7 @@
     "Bulk": "—",
     "Special": "penetrating",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Theoretically kin to the electron crystal, a muon crystal turns its user’s solar weapon into a wispy glow in shimmering colors, closer to the auroras certain worlds experience than the unadulterated light of a star. This diffuse weapon slides easily through most matter, making it easier to tear through living creatures and inanimate objects alike. Muon crystals are available in least, minor, lesser, standard, and greater varieties."
   },
   {
     "source": "Alien Archive 2 pg. 117",
@@ -417,7 +417,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "In their travels, solar wisps sometimes shed portions of themselves, which cool rapidly into a glittering stream of beautiful bright-orange jewels called "
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -429,7 +429,7 @@
     "Bulk": "—",
     "Special": "Stun",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -441,7 +441,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This specialized weapon crystal causes a solar weapon to twist energy, momentum, and even stranger forces around it. A weapon enhanced with a z-boson crystal deals increased damage and can sometimes give a target unexpected momentum, hurling it backward. Z-boson crystals are fairly esoteric and can be found in shard, least, minor, lesser, standard, greater, and true versions."
   },
   {
     "source": "Alien Archive 2 pg. 81",
@@ -453,7 +453,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Regions ravaged by a living apocalypse’s radioactivity sometimes develop a form of natural solarian weapon crystal known as an "
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -465,7 +465,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Graviton crystals accelerate the impact of a weapon, dealing extra damage and potentially knocking down targets."
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -477,7 +477,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Photon crystals add compressed photonic energy to a weapon strike, adding fire damage and the potential to burn the target."
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -489,7 +489,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "W-boson crystals amplify the sheer amount of damage a weapon deals."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -501,7 +501,7 @@
     "Bulk": "—",
     "Special": "stun",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -513,7 +513,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Gluon crystals create an entropic field along the weapon that creates traumatic wounds."
   },
   {
     "source": "Alien Archive 2 pg. 117",
@@ -525,7 +525,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "In their travels, solar wisps sometimes shed portions of themselves, which cool rapidly into a glittering stream of beautiful bright-orange jewels called "
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -537,7 +537,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A positron crystal’s interactions with matter release both heat and radiation, causing a solar weapon it enhances to roar with flame as it strikes enemies. This adds fire damage to the weapon’s strikes and adds the irradiate critical hit effect to critical hits scored with the weapon. Unlike many radioactive weapons, a solar weapon enhanced by a positron crystal does not pose any particular risk to its user, although the reason behind this remains unknown. Research into precisely how to preserve these crystals is ongoing; currently only least, minor, and lesser versions remain stable for more than a few seconds, though these are quite powerful."
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -549,7 +549,7 @@
     "Bulk": "—",
     "Special": "Stun",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -561,7 +561,7 @@
     "Bulk": "—",
     "Special": "variant boost 2d6 (4/day)",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "T-quark crystals have a rapid rate of decay that a solarian can manipulate a limited number of times per day to charge his solar weapon for a more powerful strike. When the t-quark crystal is active, the solar weapon is surrounded by a chaotic storm of particles, the spiraling results of the crystal’s decay. T-quark crystals are available in least, minor, lesser, standard, greater, and true varieties."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -573,7 +573,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This specialized weapon crystal causes a solar weapon to twist energy, momentum, and even stranger forces around it. A weapon enhanced with a z-boson crystal deals increased damage and can sometimes give a target unexpected momentum, hurling it backward. Z-boson crystals are fairly esoteric and can be found in shard, least, minor, lesser, standard, greater, and true versions."
   },
   {
     "source": "Alien Archive 2 pg. 81",
@@ -585,7 +585,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Regions ravaged by a living apocalypse’s radioactivity sometimes develop a form of natural solarian weapon crystal known as an "
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -597,7 +597,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Graviton crystals accelerate the impact of a weapon, dealing extra damage and potentially knocking down targets."
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -609,7 +609,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Photon crystals add compressed photonic energy to a weapon strike, adding fire damage and the potential to burn the target."
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -621,7 +621,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "W-boson crystals amplify the sheer amount of damage a weapon deals."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -633,7 +633,7 @@
     "Bulk": "—",
     "Special": "stun",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -645,7 +645,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Gluon crystals create an entropic field along the weapon that creates traumatic wounds."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -657,7 +657,7 @@
     "Bulk": "—",
     "Special": "penetrating",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Theoretically kin to the electron crystal, a muon crystal turns its user’s solar weapon into a wispy glow in shimmering colors, closer to the auroras certain worlds experience than the unadulterated light of a star. This diffuse weapon slides easily through most matter, making it easier to tear through living creatures and inanimate objects alike. Muon crystals are available in least, minor, lesser, standard, and greater varieties."
   },
   {
     "source": "Alien Archive 2 pg. 117",
@@ -669,7 +669,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "In their travels, solar wisps sometimes shed portions of themselves, which cool rapidly into a glittering stream of beautiful bright-orange jewels called "
   },
   {
     "source": "Pact Worlds pg. 194",
@@ -681,7 +681,7 @@
     "Bulk": "—",
     "Special": "Stun",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -693,7 +693,7 @@
     "Bulk": "—",
     "Special": "variant boost 3d6 (5/day)",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "T-quark crystals have a rapid rate of decay that a solarian can manipulate a limited number of times per day to charge his solar weapon for a more powerful strike. When the t-quark crystal is active, the solar weapon is surrounded by a chaotic storm of particles, the spiraling results of the crystal’s decay. T-quark crystals are available in least, minor, lesser, standard, greater, and true varieties."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -705,7 +705,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This specialized weapon crystal causes a solar weapon to twist energy, momentum, and even stranger forces around it. A weapon enhanced with a z-boson crystal deals increased damage and can sometimes give a target unexpected momentum, hurling it backward. Z-boson crystals are fairly esoteric and can be found in shard, least, minor, lesser, standard, greater, and true versions."
   },
   {
     "source": "Alien Archive 2 pg. 81",
@@ -717,7 +717,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Regions ravaged by a living apocalypse’s radioactivity sometimes develop a form of natural solarian weapon crystal known as an "
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -729,7 +729,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Graviton crystals accelerate the impact of a weapon, dealing extra damage and potentially knocking down targets."
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -741,7 +741,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Photon crystals add compressed photonic energy to a weapon strike, adding fire damage and the potential to burn the target."
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -753,7 +753,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "W-boson crystals amplify the sheer amount of damage a weapon deals."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -765,7 +765,7 @@
     "Bulk": "—",
     "Special": "stun",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -777,7 +777,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Gluon crystals create an entropic field along the weapon that creates traumatic wounds."
   },
   {
     "source": "Alien Archive 2 pg. 117",
@@ -789,7 +789,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "In their travels, solar wisps sometimes shed portions of themselves, which cool rapidly into a glittering stream of beautiful bright-orange jewels called "
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -801,7 +801,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "A positron crystal’s interactions with matter release both heat and radiation, causing a solar weapon it enhances to roar with flame as it strikes enemies. This adds fire damage to the weapon’s strikes and adds the irradiate critical hit effect to critical hits scored with the weapon. Unlike many radioactive weapons, a solar weapon enhanced by a positron crystal does not pose any particular risk to its user, although the reason behind this remains unknown. Research into precisely how to preserve these crystals is ongoing; currently only least, minor, and lesser versions remain stable for more than a few seconds, though these are quite powerful."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -813,7 +813,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "This specialized weapon crystal causes a solar weapon to twist energy, momentum, and even stranger forces around it. A weapon enhanced with a z-boson crystal deals increased damage and can sometimes give a target unexpected momentum, hurling it backward. Z-boson crystals are fairly esoteric and can be found in shard, least, minor, lesser, standard, greater, and true versions."
   },
   {
     "source": "Alien Archive 2 pg. 81",
@@ -825,7 +825,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Regions ravaged by a living apocalypse’s radioactivity sometimes develop a form of natural solarian weapon crystal known as an "
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -837,7 +837,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Gluon crystals create an entropic field along the weapon that creates traumatic wounds."
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -849,7 +849,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Graviton crystals accelerate the impact of a weapon, dealing extra damage and potentially knocking down targets."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -861,7 +861,7 @@
     "Bulk": "—",
     "Special": "penetrating",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Theoretically kin to the electron crystal, a muon crystal turns its user’s solar weapon into a wispy glow in shimmering colors, closer to the auroras certain worlds experience than the unadulterated light of a star. This diffuse weapon slides easily through most matter, making it easier to tear through living creatures and inanimate objects alike. Muon crystals are available in least, minor, lesser, standard, and greater varieties."
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -873,7 +873,7 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "Photon crystals add compressed photonic energy to a weapon strike, adding fire damage and the potential to burn the target."
   },
   {
     "source": "Starfinder Armory pg. 49",
@@ -885,7 +885,7 @@
     "Bulk": "—",
     "Special": "variant boost 6d6 (5/day)",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "T-quark crystals have a rapid rate of decay that a solarian can manipulate a limited number of times per day to charge his solar weapon for a more powerful strike. When the t-quark crystal is active, the solar weapon is surrounded by a chaotic storm of particles, the spiraling results of the crystal’s decay. T-quark crystals are available in least, minor, lesser, standard, greater, and true varieties."
   },
   {
     "source": "Starfinder Core Rulebook pg. 180",
@@ -897,6 +897,6 @@
     "Bulk": "—",
     "Special": "—",
     "type": "solarian_crystals",
-    "desc": "has special with \u003ca\u003e tags"
+    "desc": "W-boson crystals amplify the sheer amount of damage a weapon deals."
   }
 ]

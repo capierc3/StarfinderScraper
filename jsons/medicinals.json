@@ -5,7 +5,7 @@
     "Level": "1",
     "Price": "150",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "An analgesic deadens sensory input and is used by medical professionals to reduce sensations of pain. If you take or are injected with an analgesic, you are flat-footed for 1 round per tier of the medicinal. You also gain a bonus (equal to the analgesic’s tier) to saving throws against pain effects for 10 minutes per tier of the medicinal."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -13,7 +13,7 @@
     "Level": "1",
     "Price": "150",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Antibiotics help patients fight off disease. When you take or are injected with an antibiotic, you gain a bonus (equal to 3 + the medicinal’s tier) to saving throws against disease for a number of days equal to 2 × the antibiotic’s tier."
   },
   {
     "source": "Starfinder Armory pg. 132",
@@ -21,7 +21,7 @@
     "Level": "1",
     "Price": "75",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "An antiemetic settles your stomach, stopping the symptoms of illness or ameliorating your body’s response to the environment. When you take or are injected with an antiemetic, you gain a bonus (equal to the medicinal’s tier) to saving throws to avoid becoming sickened or nauseated for 10 minutes per tier of the medicinal. If you are currently suffering one of these conditions and the effect allows a saving throw to negate, an antiemetic allows you to immediately attempt a new saving throw."
   },
   {
     "source": "Starfinder Core Rulebook pg. 232",
@@ -29,7 +29,7 @@
     "Level": "1",
     "Price": "75",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "An antitoxin is a broad-spectrum medicinal designed to weaken all poisons in your system. When you take or are injected with an antitoxin, you gain a bonus (equal to 3 + the medicinal’s tier) to saving throws against poison for a number of hours equal to its tier."
   },
   {
     "source": "Starfinder Armory pg. 132",
@@ -37,7 +37,7 @@
     "Level": "1",
     "Price": "75",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "A coagulant thickens the blood, serving as an emergency stopgap to prevent someone from bleeding out before receiving medical attention. When you take or are injected with a coagulant, you gain immunity to the bleeding condition for 1 minute per tier of the medicinal, but you also take a penalty equal to the medicinal’s tier to Acrobatics and Athletics checks and to Reflex saves for that duration."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -45,7 +45,7 @@
     "Level": "1",
     "Price": "150",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "This substance boosts your immune system. If you take or are injected with a counteractant, you gain a bonus equal to the medicinal’s tier to saving throws to end afflictions, and a successful saving throw counts as a number of consecutive saving throws equal to the medicinal’s tier. These benefits last a number of days equal to the medicinal’s tier."
   },
   {
     "source": "Alien Archive 4 pg. 79",
@@ -53,7 +53,7 @@
     "Level": "1",
     "Price": "75",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Similar to an antitoxin, cytoguard actively regenerates cellular damage, mitigating the immediate effects of poison. When you take or are injected with cytoguard, you gain resistance equal to 3 times the medicinal’s tier to the damage dealt by initial exposure to poison. In addition, you gain a bonus equal to the medicinal’s tier to saving throws against poison. Both effects last for a number of hours equal to the medicinal’s tier."
   },
   {
     "source": "Starfinder Armory pg. 133",
@@ -61,7 +61,7 @@
     "Level": "1",
     "Price": "75",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "While stimulants provide a quick burst of energy, excitants provide a longer and more measured effect and are popular among soldiers on watch, though jitteriness is a common side effect. For a number of hours equal to the medicinal’s tier, you gain a bonus equal to the medicinal’s tier to saving throws to avoid becoming fatigued or exhausted, and you gain immunity to sleep effects. You take a –2 penalty to Dexterity-based skill checks for the duration of the medicinal. During this time, you do not need to attempt Fortitude saves to avoid the effects of sleep deprivation."
   },
   {
     "source": "Alien Archive 4 pg. 7",
@@ -69,7 +69,7 @@
     "Level": "1",
     "Price": "75",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "As an extension of their supernatural healing abilities, agathions have developed specialized medicines infused with the holy properties of Nirvana. These enlightened medicinals follow the rules for medicinals in the Starfinder Core Rulebook, though they’re hybrid items that use Life Science or Mysticism as the associated skills for crafting."
   },
   {
     "source": "Alien Archive 4 pg. 79",
@@ -77,7 +77,7 @@
     "Level": "1",
     "Price": "75",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "A prismatilate extract releases a steady dose of endorphins and regenerative agents that encourage long-term recovery. When you take or are injected with prismatilate, you gain a bonus (equal to 2 + the medicinal’s tier) to saving throws to remove negative levels. In addition, you increase the number of HP you recover from a full night’s rest or complete bed rest by 25% times the medicinal’s tier. Both effects last for 24 hours."
   },
   {
     "source": "Alien Archive 4 pg. 7",
@@ -85,7 +85,7 @@
     "Level": "1",
     "Price": "75",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "As an extension of their supernatural healing abilities, agathions have developed specialized medicines infused with the holy properties of Nirvana. These enlightened medicinals follow the rules for medicinals in the Starfinder Core Rulebook, though they’re hybrid items that use Life Science or Mysticism as the associated skills for crafting."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -93,7 +93,7 @@
     "Level": "1",
     "Price": "150",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "This injection restores consciousness quickly once you are injected. If you are unconscious due to Hit Point loss, you immediately gain a number of Hit Points equal to the medicinal’s tier. If you are unconscious due to a failed saving throw, you immediately get a new saving throw against the same DC as the effect that caused the unconsciousness with a bonus equal to 3 + the medicinal’s tier. If you succeed, you regain consciousness."
   },
   {
     "source": "Starfinder Core Rulebook pg. 232",
@@ -101,7 +101,7 @@
     "Level": "1",
     "Price": "75",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Numerous mild sedatives commonly available for purchase have legitimate medical uses, but they are also popular among some bounty hunters to help capture their quarries alive. If you take or are injected with a sedative, you take nonlethal damage. A tier 1 sedative deals 1d4 nonlethal damage, a tier 2 sedative deals 2d4 nonlethal damage, a tier 3 sedative deals 4d4 nonlethal damage, and a tier 4 sedative deals 8d4 nonlethal damage. When suffering from an emotion or fear effect that allows a saving throw to negate it, you can take or be injected with a sedative that permits you to immediately attempt a new saving throw with a bonus equal to the sedative’s tier to end the effect, as long as it’s not a permanent or instantaneous effect."
   },
   {
     "source": "Starfinder Armory pg. 133",
@@ -109,7 +109,7 @@
     "Level": "1",
     "Price": "75",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "This adrenaline-filled injection provides you with a burst of energy, allowing you to shrug off the effects of fatigue or exhaustion for a short time, though this surge takes a toll on you. A tier 1 stimulant lasts for 1d4 rounds, a tier 2 stimulant lasts for 2d4 rounds, a tier 3 stimulant lasts for 4d4 rounds, and a tier 4 stimulant lasts for 6d4 rounds, during which time you can ignore all penalties due to being fatigued or exhausted. After the stimulant wears off, the condition returns, but if you would have been fatigued, you are instead exhausted."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -117,7 +117,7 @@
     "Level": "1",
     "Price": "150",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Explorers often take precautions against known diseases. Vaccines must be formulated for a specific disease. One day after taking or being injected with a vaccine, you gain a bonus equal to 5 + the medicinal’s tier to saving throws against that disease for a number of months equal to the vaccine’s tier. This bonus does not stack with antibiotics."
   },
   {
     "source": "Starfinder Core Rulebook pg. 232",
@@ -125,7 +125,7 @@
     "Level": "5",
     "Price": "3,000",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "An analgesic deadens sensory input and is used by medical professionals to reduce sensations of pain. If you take or are injected with an analgesic, you are flat-footed for 1 round per tier of the medicinal. You also gain a bonus (equal to the analgesic’s tier) to saving throws against pain effects for 10 minutes per tier of the medicinal."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -133,7 +133,7 @@
     "Level": "5",
     "Price": "3,000",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Antibiotics help patients fight off disease. When you take or are injected with an antibiotic, you gain a bonus (equal to 3 + the medicinal’s tier) to saving throws against disease for a number of days equal to 2 × the antibiotic’s tier."
   },
   {
     "source": "Starfinder Armory pg. 132",
@@ -141,7 +141,7 @@
     "Level": "5",
     "Price": "450",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "An antiemetic settles your stomach, stopping the symptoms of illness or ameliorating your body’s response to the environment. When you take or are injected with an antiemetic, you gain a bonus (equal to the medicinal’s tier) to saving throws to avoid becoming sickened or nauseated for 10 minutes per tier of the medicinal. If you are currently suffering one of these conditions and the effect allows a saving throw to negate, an antiemetic allows you to immediately attempt a new saving throw."
   },
   {
     "source": "Starfinder Core Rulebook pg. 232",
@@ -149,7 +149,7 @@
     "Level": "5",
     "Price": "450",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "An antitoxin is a broad-spectrum medicinal designed to weaken all poisons in your system. When you take or are injected with an antitoxin, you gain a bonus (equal to 3 + the medicinal’s tier) to saving throws against poison for a number of hours equal to its tier."
   },
   {
     "source": "Starfinder Armory pg. 132",
@@ -157,7 +157,7 @@
     "Level": "5",
     "Price": "450",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "A coagulant thickens the blood, serving as an emergency stopgap to prevent someone from bleeding out before receiving medical attention. When you take or are injected with a coagulant, you gain immunity to the bleeding condition for 1 minute per tier of the medicinal, but you also take a penalty equal to the medicinal’s tier to Acrobatics and Athletics checks and to Reflex saves for that duration."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -165,7 +165,7 @@
     "Level": "5",
     "Price": "3,000",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "This substance boosts your immune system. If you take or are injected with a counteractant, you gain a bonus equal to the medicinal’s tier to saving throws to end afflictions, and a successful saving throw counts as a number of consecutive saving throws equal to the medicinal’s tier. These benefits last a number of days equal to the medicinal’s tier."
   },
   {
     "source": "Alien Archive 4 pg. 79",
@@ -173,7 +173,7 @@
     "Level": "5",
     "Price": "450",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Similar to an antitoxin, cytoguard actively regenerates cellular damage, mitigating the immediate effects of poison. When you take or are injected with cytoguard, you gain resistance equal to 3 times the medicinal’s tier to the damage dealt by initial exposure to poison. In addition, you gain a bonus equal to the medicinal’s tier to saving throws against poison. Both effects last for a number of hours equal to the medicinal’s tier."
   },
   {
     "source": "Starfinder Armory pg. 133",
@@ -181,7 +181,7 @@
     "Level": "5",
     "Price": "450",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "While stimulants provide a quick burst of energy, excitants provide a longer and more measured effect and are popular among soldiers on watch, though jitteriness is a common side effect. For a number of hours equal to the medicinal’s tier, you gain a bonus equal to the medicinal’s tier to saving throws to avoid becoming fatigued or exhausted, and you gain immunity to sleep effects. You take a –2 penalty to Dexterity-based skill checks for the duration of the medicinal. During this time, you do not need to attempt Fortitude saves to avoid the effects of sleep deprivation."
   },
   {
     "source": "Alien Archive 4 pg. 7",
@@ -189,7 +189,7 @@
     "Level": "5",
     "Price": "450",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "As an extension of their supernatural healing abilities, agathions have developed specialized medicines infused with the holy properties of Nirvana. These enlightened medicinals follow the rules for medicinals in the Starfinder Core Rulebook, though they’re hybrid items that use Life Science or Mysticism as the associated skills for crafting."
   },
   {
     "source": "Alien Archive 4 pg. 79",
@@ -197,7 +197,7 @@
     "Level": "5",
     "Price": "450",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "A prismatilate extract releases a steady dose of endorphins and regenerative agents that encourage long-term recovery. When you take or are injected with prismatilate, you gain a bonus (equal to 2 + the medicinal’s tier) to saving throws to remove negative levels. In addition, you increase the number of HP you recover from a full night’s rest or complete bed rest by 25% times the medicinal’s tier. Both effects last for 24 hours."
   },
   {
     "source": "Alien Archive 4 pg. 7",
@@ -205,7 +205,7 @@
     "Level": "5",
     "Price": "450",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "As an extension of their supernatural healing abilities, agathions have developed specialized medicines infused with the holy properties of Nirvana. These enlightened medicinals follow the rules for medicinals in the Starfinder Core Rulebook, though they’re hybrid items that use Life Science or Mysticism as the associated skills for crafting."
   },
   {
     "source": "Starfinder Core Rulebook pg. 232",
@@ -213,7 +213,7 @@
     "Level": "5",
     "Price": "450",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Numerous mild sedatives commonly available for purchase have legitimate medical uses, but they are also popular among some bounty hunters to help capture their quarries alive. If you take or are injected with a sedative, you take nonlethal damage. A tier 1 sedative deals 1d4 nonlethal damage, a tier 2 sedative deals 2d4 nonlethal damage, a tier 3 sedative deals 4d4 nonlethal damage, and a tier 4 sedative deals 8d4 nonlethal damage. When suffering from an emotion or fear effect that allows a saving throw to negate it, you can take or be injected with a sedative that permits you to immediately attempt a new saving throw with a bonus equal to the sedative’s tier to end the effect, as long as it’s not a permanent or instantaneous effect."
   },
   {
     "source": "Starfinder Armory pg. 133",
@@ -221,7 +221,7 @@
     "Level": "5",
     "Price": "450",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "This adrenaline-filled injection provides you with a burst of energy, allowing you to shrug off the effects of fatigue or exhaustion for a short time, though this surge takes a toll on you. A tier 1 stimulant lasts for 1d4 rounds, a tier 2 stimulant lasts for 2d4 rounds, a tier 3 stimulant lasts for 4d4 rounds, and a tier 4 stimulant lasts for 6d4 rounds, during which time you can ignore all penalties due to being fatigued or exhausted. After the stimulant wears off, the condition returns, but if you would have been fatigued, you are instead exhausted."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -229,7 +229,7 @@
     "Level": "5",
     "Price": "3,000",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Explorers often take precautions against known diseases. Vaccines must be formulated for a specific disease. One day after taking or being injected with a vaccine, you gain a bonus equal to 5 + the medicinal’s tier to saving throws against that disease for a number of months equal to the vaccine’s tier. This bonus does not stack with antibiotics."
   },
   {
     "source": "Starfinder Core Rulebook pg. 232",
@@ -237,7 +237,7 @@
     "Level": "10",
     "Price": "15,000",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "An analgesic deadens sensory input and is used by medical professionals to reduce sensations of pain. If you take or are injected with an analgesic, you are flat-footed for 1 round per tier of the medicinal. You also gain a bonus (equal to the analgesic’s tier) to saving throws against pain effects for 10 minutes per tier of the medicinal."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -245,7 +245,7 @@
     "Level": "10",
     "Price": "15,000",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Antibiotics help patients fight off disease. When you take or are injected with an antibiotic, you gain a bonus (equal to 3 + the medicinal’s tier) to saving throws against disease for a number of days equal to 2 × the antibiotic’s tier."
   },
   {
     "source": "Starfinder Armory pg. 132",
@@ -253,7 +253,7 @@
     "Level": "10",
     "Price": "2,700",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "An antiemetic settles your stomach, stopping the symptoms of illness or ameliorating your body’s response to the environment. When you take or are injected with an antiemetic, you gain a bonus (equal to the medicinal’s tier) to saving throws to avoid becoming sickened or nauseated for 10 minutes per tier of the medicinal. If you are currently suffering one of these conditions and the effect allows a saving throw to negate, an antiemetic allows you to immediately attempt a new saving throw."
   },
   {
     "source": "Starfinder Core Rulebook pg. 232",
@@ -261,7 +261,7 @@
     "Level": "10",
     "Price": "2,700",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "An antitoxin is a broad-spectrum medicinal designed to weaken all poisons in your system. When you take or are injected with an antitoxin, you gain a bonus (equal to 3 + the medicinal’s tier) to saving throws against poison for a number of hours equal to its tier."
   },
   {
     "source": "Starfinder Armory pg. 132",
@@ -269,7 +269,7 @@
     "Level": "10",
     "Price": "2,700",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "A coagulant thickens the blood, serving as an emergency stopgap to prevent someone from bleeding out before receiving medical attention. When you take or are injected with a coagulant, you gain immunity to the bleeding condition for 1 minute per tier of the medicinal, but you also take a penalty equal to the medicinal’s tier to Acrobatics and Athletics checks and to Reflex saves for that duration."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -277,7 +277,7 @@
     "Level": "10",
     "Price": "15,000",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "This substance boosts your immune system. If you take or are injected with a counteractant, you gain a bonus equal to the medicinal’s tier to saving throws to end afflictions, and a successful saving throw counts as a number of consecutive saving throws equal to the medicinal’s tier. These benefits last a number of days equal to the medicinal’s tier."
   },
   {
     "source": "Alien Archive 4 pg. 79",
@@ -285,7 +285,7 @@
     "Level": "10",
     "Price": "2,700",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Similar to an antitoxin, cytoguard actively regenerates cellular damage, mitigating the immediate effects of poison. When you take or are injected with cytoguard, you gain resistance equal to 3 times the medicinal’s tier to the damage dealt by initial exposure to poison. In addition, you gain a bonus equal to the medicinal’s tier to saving throws against poison. Both effects last for a number of hours equal to the medicinal’s tier."
   },
   {
     "source": "Starfinder Armory pg. 133",
@@ -293,7 +293,7 @@
     "Level": "10",
     "Price": "2,700",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "While stimulants provide a quick burst of energy, excitants provide a longer and more measured effect and are popular among soldiers on watch, though jitteriness is a common side effect. For a number of hours equal to the medicinal’s tier, you gain a bonus equal to the medicinal’s tier to saving throws to avoid becoming fatigued or exhausted, and you gain immunity to sleep effects. You take a –2 penalty to Dexterity-based skill checks for the duration of the medicinal. During this time, you do not need to attempt Fortitude saves to avoid the effects of sleep deprivation."
   },
   {
     "source": "Alien Archive 4 pg. 7",
@@ -301,7 +301,7 @@
     "Level": "10",
     "Price": "2,700",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "As an extension of their supernatural healing abilities, agathions have developed specialized medicines infused with the holy properties of Nirvana. These enlightened medicinals follow the rules for medicinals in the Starfinder Core Rulebook, though they’re hybrid items that use Life Science or Mysticism as the associated skills for crafting."
   },
   {
     "source": "Alien Archive 4 pg. 79",
@@ -309,7 +309,7 @@
     "Level": "10",
     "Price": "2,700",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "A prismatilate extract releases a steady dose of endorphins and regenerative agents that encourage long-term recovery. When you take or are injected with prismatilate, you gain a bonus (equal to 2 + the medicinal’s tier) to saving throws to remove negative levels. In addition, you increase the number of HP you recover from a full night’s rest or complete bed rest by 25% times the medicinal’s tier. Both effects last for 24 hours."
   },
   {
     "source": "Alien Archive 4 pg. 7",
@@ -317,7 +317,7 @@
     "Level": "10",
     "Price": "2,700",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "As an extension of their supernatural healing abilities, agathions have developed specialized medicines infused with the holy properties of Nirvana. These enlightened medicinals follow the rules for medicinals in the Starfinder Core Rulebook, though they’re hybrid items that use Life Science or Mysticism as the associated skills for crafting."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -325,7 +325,7 @@
     "Level": "10",
     "Price": "15,000",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "This injection restores consciousness quickly once you are injected. If you are unconscious due to Hit Point loss, you immediately gain a number of Hit Points equal to the medicinal’s tier. If you are unconscious due to a failed saving throw, you immediately get a new saving throw against the same DC as the effect that caused the unconsciousness with a bonus equal to 3 + the medicinal’s tier. If you succeed, you regain consciousness."
   },
   {
     "source": "Starfinder Core Rulebook pg. 232",
@@ -333,7 +333,7 @@
     "Level": "10",
     "Price": "2,700",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Numerous mild sedatives commonly available for purchase have legitimate medical uses, but they are also popular among some bounty hunters to help capture their quarries alive. If you take or are injected with a sedative, you take nonlethal damage. A tier 1 sedative deals 1d4 nonlethal damage, a tier 2 sedative deals 2d4 nonlethal damage, a tier 3 sedative deals 4d4 nonlethal damage, and a tier 4 sedative deals 8d4 nonlethal damage. When suffering from an emotion or fear effect that allows a saving throw to negate it, you can take or be injected with a sedative that permits you to immediately attempt a new saving throw with a bonus equal to the sedative’s tier to end the effect, as long as it’s not a permanent or instantaneous effect."
   },
   {
     "source": "Starfinder Armory pg. 133",
@@ -341,7 +341,7 @@
     "Level": "10",
     "Price": "2,700",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "This adrenaline-filled injection provides you with a burst of energy, allowing you to shrug off the effects of fatigue or exhaustion for a short time, though this surge takes a toll on you. A tier 1 stimulant lasts for 1d4 rounds, a tier 2 stimulant lasts for 2d4 rounds, a tier 3 stimulant lasts for 4d4 rounds, and a tier 4 stimulant lasts for 6d4 rounds, during which time you can ignore all penalties due to being fatigued or exhausted. After the stimulant wears off, the condition returns, but if you would have been fatigued, you are instead exhausted."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -349,7 +349,7 @@
     "Level": "10",
     "Price": "15,000",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Explorers often take precautions against known diseases. Vaccines must be formulated for a specific disease. One day after taking or being injected with a vaccine, you gain a bonus equal to 5 + the medicinal’s tier to saving throws against that disease for a number of months equal to the vaccine’s tier. This bonus does not stack with antibiotics."
   },
   {
     "source": "Starfinder Core Rulebook pg. 232",
@@ -357,7 +357,7 @@
     "Level": "15",
     "Price": "23,500",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "An analgesic deadens sensory input and is used by medical professionals to reduce sensations of pain. If you take or are injected with an analgesic, you are flat-footed for 1 round per tier of the medicinal. You also gain a bonus (equal to the analgesic’s tier) to saving throws against pain effects for 10 minutes per tier of the medicinal."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -365,7 +365,7 @@
     "Level": "15",
     "Price": "23,500",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Antibiotics help patients fight off disease. When you take or are injected with an antibiotic, you gain a bonus (equal to 3 + the medicinal’s tier) to saving throws against disease for a number of days equal to 2 × the antibiotic’s tier."
   },
   {
     "source": "Starfinder Armory pg. 132",
@@ -373,7 +373,7 @@
     "Level": "15",
     "Price": "16,200",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "An antiemetic settles your stomach, stopping the symptoms of illness or ameliorating your body’s response to the environment. When you take or are injected with an antiemetic, you gain a bonus (equal to the medicinal’s tier) to saving throws to avoid becoming sickened or nauseated for 10 minutes per tier of the medicinal. If you are currently suffering one of these conditions and the effect allows a saving throw to negate, an antiemetic allows you to immediately attempt a new saving throw."
   },
   {
     "source": "Starfinder Core Rulebook pg. 232",
@@ -381,7 +381,7 @@
     "Level": "15",
     "Price": "16,200",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "An antitoxin is a broad-spectrum medicinal designed to weaken all poisons in your system. When you take or are injected with an antitoxin, you gain a bonus (equal to 3 + the medicinal’s tier) to saving throws against poison for a number of hours equal to its tier."
   },
   {
     "source": "Starfinder Armory pg. 132",
@@ -389,7 +389,7 @@
     "Level": "15",
     "Price": "16,200",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "A coagulant thickens the blood, serving as an emergency stopgap to prevent someone from bleeding out before receiving medical attention. When you take or are injected with a coagulant, you gain immunity to the bleeding condition for 1 minute per tier of the medicinal, but you also take a penalty equal to the medicinal’s tier to Acrobatics and Athletics checks and to Reflex saves for that duration."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -397,7 +397,7 @@
     "Level": "15",
     "Price": "23,500",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "This substance boosts your immune system. If you take or are injected with a counteractant, you gain a bonus equal to the medicinal’s tier to saving throws to end afflictions, and a successful saving throw counts as a number of consecutive saving throws equal to the medicinal’s tier. These benefits last a number of days equal to the medicinal’s tier."
   },
   {
     "source": "Alien Archive 4 pg. 79",
@@ -405,7 +405,7 @@
     "Level": "15",
     "Price": "16,200",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Similar to an antitoxin, cytoguard actively regenerates cellular damage, mitigating the immediate effects of poison. When you take or are injected with cytoguard, you gain resistance equal to 3 times the medicinal’s tier to the damage dealt by initial exposure to poison. In addition, you gain a bonus equal to the medicinal’s tier to saving throws against poison. Both effects last for a number of hours equal to the medicinal’s tier."
   },
   {
     "source": "Starfinder Armory pg. 133",
@@ -413,7 +413,7 @@
     "Level": "15",
     "Price": "16,200",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "While stimulants provide a quick burst of energy, excitants provide a longer and more measured effect and are popular among soldiers on watch, though jitteriness is a common side effect. For a number of hours equal to the medicinal’s tier, you gain a bonus equal to the medicinal’s tier to saving throws to avoid becoming fatigued or exhausted, and you gain immunity to sleep effects. You take a –2 penalty to Dexterity-based skill checks for the duration of the medicinal. During this time, you do not need to attempt Fortitude saves to avoid the effects of sleep deprivation."
   },
   {
     "source": "Alien Archive 4 pg. 7",
@@ -421,7 +421,7 @@
     "Level": "15",
     "Price": "16,200",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "As an extension of their supernatural healing abilities, agathions have developed specialized medicines infused with the holy properties of Nirvana. These enlightened medicinals follow the rules for medicinals in the Starfinder Core Rulebook, though they’re hybrid items that use Life Science or Mysticism as the associated skills for crafting."
   },
   {
     "source": "Alien Archive 4 pg. 79",
@@ -429,7 +429,7 @@
     "Level": "15",
     "Price": "16,200",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "A prismatilate extract releases a steady dose of endorphins and regenerative agents that encourage long-term recovery. When you take or are injected with prismatilate, you gain a bonus (equal to 2 + the medicinal’s tier) to saving throws to remove negative levels. In addition, you increase the number of HP you recover from a full night’s rest or complete bed rest by 25% times the medicinal’s tier. Both effects last for 24 hours."
   },
   {
     "source": "Alien Archive 4 pg. 7",
@@ -437,7 +437,7 @@
     "Level": "15",
     "Price": "16,200",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "As an extension of their supernatural healing abilities, agathions have developed specialized medicines infused with the holy properties of Nirvana. These enlightened medicinals follow the rules for medicinals in the Starfinder Core Rulebook, though they’re hybrid items that use Life Science or Mysticism as the associated skills for crafting."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -445,7 +445,7 @@
     "Level": "15",
     "Price": "3,000",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "This injection restores consciousness quickly once you are injected. If you are unconscious due to Hit Point loss, you immediately gain a number of Hit Points equal to the medicinal’s tier. If you are unconscious due to a failed saving throw, you immediately get a new saving throw against the same DC as the effect that caused the unconsciousness with a bonus equal to 3 + the medicinal’s tier. If you succeed, you regain consciousness."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -453,7 +453,7 @@
     "Level": "15",
     "Price": "23,500",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "This injection restores consciousness quickly once you are injected. If you are unconscious due to Hit Point loss, you immediately gain a number of Hit Points equal to the medicinal’s tier. If you are unconscious due to a failed saving throw, you immediately get a new saving throw against the same DC as the effect that caused the unconsciousness with a bonus equal to 3 + the medicinal’s tier. If you succeed, you regain consciousness."
   },
   {
     "source": "Starfinder Core Rulebook pg. 232",
@@ -461,7 +461,7 @@
     "Level": "15",
     "Price": "16,200",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Numerous mild sedatives commonly available for purchase have legitimate medical uses, but they are also popular among some bounty hunters to help capture their quarries alive. If you take or are injected with a sedative, you take nonlethal damage. A tier 1 sedative deals 1d4 nonlethal damage, a tier 2 sedative deals 2d4 nonlethal damage, a tier 3 sedative deals 4d4 nonlethal damage, and a tier 4 sedative deals 8d4 nonlethal damage. When suffering from an emotion or fear effect that allows a saving throw to negate it, you can take or be injected with a sedative that permits you to immediately attempt a new saving throw with a bonus equal to the sedative’s tier to end the effect, as long as it’s not a permanent or instantaneous effect."
   },
   {
     "source": "Starfinder Armory pg. 133",
@@ -469,7 +469,7 @@
     "Level": "15",
     "Price": "16,200",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "This adrenaline-filled injection provides you with a burst of energy, allowing you to shrug off the effects of fatigue or exhaustion for a short time, though this surge takes a toll on you. A tier 1 stimulant lasts for 1d4 rounds, a tier 2 stimulant lasts for 2d4 rounds, a tier 3 stimulant lasts for 4d4 rounds, and a tier 4 stimulant lasts for 6d4 rounds, during which time you can ignore all penalties due to being fatigued or exhausted. After the stimulant wears off, the condition returns, but if you would have been fatigued, you are instead exhausted."
   },
   {
     "source": "Character Operations Manual pg. 127",
@@ -477,6 +477,6 @@
     "Level": "15",
     "Price": "23,500",
     "type": "Medicinals",
-    "desc": "top desc: hr"
+    "desc": "Explorers often take precautions against known diseases. Vaccines must be formulated for a specific disease. One day after taking or being injected with a vaccine, you gain a bonus equal to 5 + the medicinal’s tier to saving throws against that disease for a number of months equal to the vaccine’s tier. This bonus does not stack with antibiotics."
   }
 ]

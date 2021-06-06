@@ -12,7 +12,7 @@
     "Upgrade Slots": "3",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "While this heavy armor of sculpted metal plates offers good protection to the wearer, its main purpose is to intimidate enemies. Often used for honor guards, military exercises, or parades, ceremonial plate is usually brightly colored or made of shining metal, with elaborate helmets."
   },
   {
     "source": "Starfinder Armory pg. 71",
@@ -27,7 +27,7 @@
     "Upgrade Slots": "1",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Although designed for extravehicular activity in hazardous conditions, reinforced EVA suits function as durable, if clunky, heavy armor. This full-body suit has a rigid shell covering the back and chest, with heavy gloves, padded boots, and rugged fabric rounding out the ensemble. A wide helmet design provides good visibility and includes a retractable glare shield. The suit’s excellent air recycling makes for a more comfortable environment than many more battle-worthy designs."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -42,7 +42,7 @@
     "Upgrade Slots": "0",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "An economical choice for many mercenaries, golemforged plating is one of the universe’s most popular heavy armors. Golemforged plating consists of a close-fitting polycarbonate suit fitted with ports and sockets to fit most armor customization options. Suits of golemforged plating include flexible boots and gloves as well as a standard helmet with a clear visor."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -57,7 +57,7 @@
     "Upgrade Slots": "2",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "For a tough job, your suit has to be tough, too. The EJ hardsuit’s protective plating and bulk belie its comfortable and modifiable design."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -72,7 +72,7 @@
     "Upgrade Slots": "0",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "These beautiful suits of heavy armor feature engraved metal bands that fit above and below the body’s major joints. Metal guards, woven chain sheets, and force fields stretch between the bands to form a complete set of protective gear. Tinted crystals are often added during the forging process to the ore used for ringwear to create glimmering suits of different hues."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -102,7 +102,7 @@
     "Upgrade Slots": "0",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -117,7 +117,7 @@
     "Upgrade Slots": "0",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "These gleaming metal plates lock together to form a suit of heavy armor reminiscent of an insect’s shell. Although the iridishell was initially designed for shirrens, its beauty combined and functionality makes it a popular choice for many. More expensive suits of iridishell not only offer more protection but feature elaborate designs with gold or silver trim and embedded jewels."
   },
   {
     "source": "Alien Archive pg. 73",
@@ -132,7 +132,7 @@
     "Upgrade Slots": "1",
     "Bulk": "1",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Scavengers on Daimalko dare to brave the wastes of their world to gather the enamel-like hulls that kyokors occasionally shed from their crowns. These toothy moltings are enormous, and once they’re retrieved, they require a great deal of effort to grind into plates that can be used to craft armor. Despite this and the dangers of gathering the requisite moltings, suits of kyokor plating are in demand throughout the universe, making collection of the raw materials and subsequent forging into lucrative careers."
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -147,7 +147,7 @@
     "Upgrade Slots": "1",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Asteroid miners wear mining jacks for both life support and protection against the hazards of vacuum mining. As they are designed for use in low and zero gravity, the jacks are quite bulky, with alloys chosen for strength and durability rather than weight. Because miners often spend the entire day in a vacuum, mining jacks have storage compartments accessible within the armor. The breastplate of a mining jack can expand outward without being removed, allowing the wearer a modest amount of space to pull her arms inside and enjoy a beverage or meal. Each suit includes a pair of miniature airlocks that allow safe transfer of small objects from outside to inside the suit as a full action. A pair of mining jacks can even link locks to trade gear without exposing the item or either wearer to vacuum. The first mining jacks were dwarven designs, but their ingenious design and utility have made them popular throughout the Diaspora."
   },
   {
     "source": "Pact Worlds pg. 196",
@@ -192,7 +192,7 @@
     "Upgrade Slots": "2",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "For a tough job, your suit has to be tough, too. The EJ hardsuit’s protective plating and bulk belie its comfortable and modifiable design."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -207,7 +207,7 @@
     "Upgrade Slots": "1",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "The defiance series of heavy armor is the workhorse of squad armor. A formed hard shell overlays a suit of para-aramids, creating a bulky and solid protective outfit. Defiance series helmets have wide, tinted visors to allow peripheral vision."
   },
   {
     "source": "Starfinder Armory pg. 71",
@@ -222,7 +222,7 @@
     "Upgrade Slots": "1",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Although designed for extravehicular activity in hazardous conditions, reinforced EVA suits function as durable, if clunky, heavy armor. This full-body suit has a rigid shell covering the back and chest, with heavy gloves, padded boots, and rugged fabric rounding out the ensemble. A wide helmet design provides good visibility and includes a retractable glare shield. The suit’s excellent air recycling makes for a more comfortable environment than many more battle-worthy designs."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -237,7 +237,7 @@
     "Upgrade Slots": "1",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "An economical choice for many mercenaries, golemforged plating is one of the universe’s most popular heavy armors. Golemforged plating consists of a close-fitting polycarbonate suit fitted with ports and sockets to fit most armor customization options. Suits of golemforged plating include flexible boots and gloves as well as a standard helmet with a clear visor."
   },
   {
     "source": "Alien Archive pg. 7",
@@ -267,7 +267,7 @@
     "Upgrade Slots": "0",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -282,7 +282,7 @@
     "Upgrade Slots": "1",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "When they first ventured beyond the frigid seas of Kalo- Mahoi, the kalo brought the waters of their moon with them in specially engineered suits. The kalo encounter suit represents the latest evolution of that design—a portable ocean that keeps the kalo at the nearfreezing temperatures they prefer. The suit’s air supply doubles as ballast to keep the wearer neutrally buoyant in water despite the armor’s weight, and the idiomatic design accommodates and protects the kalo’s swimming membranes. While the armor can be adapted to circulate water instead of air, kalos prefer their comfort of their own technology. Similarly, the filters and seals of kalo encounter suits can be adapted to the needs of air breathers, although such suits tend to accumulate excess moisture and develop mold or mildew."
   },
   {
     "source": "Starfinder Armory pg. 68",
@@ -297,7 +297,7 @@
     "Upgrade Slots": "0",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "A living defense designed by the Xenowardens, dendron armor melds bioengineered wood with advanced microbespun polymers. A mossy layer beneath this outer shell provides cushioning and life support. Xenowardens stylize this heavy armor to resemble the sentient trees found on Castrovel and other verdant worlds. The organic design of dendron armor makes adding upgrades a challenge, but it offers a good balance between mobility and protection."
   },
   {
     "source": "Starfinder Core Rulebook pg. 197",
@@ -312,7 +312,7 @@
     "Upgrade Slots": "1",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "While this heavy armor of sculpted metal plates offers good protection to the wearer, its main purpose is to intimidate enemies. Often used for honor guards, military exercises, or parades, ceremonial plate is usually brightly colored or made of shining metal, with elaborate helmets."
   },
   {
     "source": "Pact Worlds pg. 196",
@@ -342,7 +342,7 @@
     "Upgrade Slots": "2",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Asteroid miners wear mining jacks for both life support and protection against the hazards of vacuum mining. As they are designed for use in low and zero gravity, the jacks are quite bulky, with alloys chosen for strength and durability rather than weight. Because miners often spend the entire day in a vacuum, mining jacks have storage compartments accessible within the armor. The breastplate of a mining jack can expand outward without being removed, allowing the wearer a modest amount of space to pull her arms inside and enjoy a beverage or meal. Each suit includes a pair of miniature airlocks that allow safe transfer of small objects from outside to inside the suit as a full action. A pair of mining jacks can even link locks to trade gear without exposing the item or either wearer to vacuum. The first mining jacks were dwarven designs, but their ingenious design and utility have made them popular throughout the Diaspora."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -357,7 +357,7 @@
     "Upgrade Slots": "1",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "These beautiful suits of heavy armor feature engraved metal bands that fit above and below the body’s major joints. Metal guards, woven chain sheets, and force fields stretch between the bands to form a complete set of protective gear. Tinted crystals are often added during the forging process to the ore used for ringwear to create glimmering suits of different hues."
   },
   {
     "source": "Starfinder #4: The Ruined Clouds pg. 44",
@@ -372,7 +372,7 @@
     "Upgrade Slots": "0",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Kishalee building materials are some of the sturdiest and long-lasting substances ever made, and kish have taken debris from collapsed structures—and have sometimes even intentionally demolished buildings—to make these suits of heavy armor. Hardplate has the archaic armor special property."
   },
   {
     "source": "Starfinder Armory pg. 68",
@@ -387,7 +387,7 @@
     "Upgrade Slots": "2",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "The faceless, slate-gray design of enforcer armor blends intimidation and anonymity. This heavy armor’s design echoes the aegis series’ personal tank approach, albeit with markedly inferior protection. Enforcer armor often towers a full foot over the wearer’s natural height, with most of the wearer’s head safely sheltered behind the breastplate and sensory input handled through projected video and audio feeds. Criminal organizations use enforcer armor to keep their hired muscle impersonal and enigmatic."
   },
   {
     "source": "Alien Archive 2 pg. 23",
@@ -401,7 +401,8 @@
     "Speed Adjustment": "-5 ft.",
     "Upgrade Slots": "1",
     "Bulk": "2",
-    "type": "heavy_armor"
+    "type": "heavy_armor",
+    "desc": "Meant for first-wave boarding actions, fossilwrap armor is a cage of alchemically treated bones and steel. This armor is meant to shrug off most incoming blows while giving the wearer some amount of mobility in the thick of combat."
   },
   {
     "source": "Pact Worlds pg. 196",
@@ -416,7 +417,7 @@
     "Upgrade Slots": "2",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "The stern and unrelenting Hellknights are known as much for their distinctive plate armor as for their fearsome adherence to rigid order. This variant of ceremonial plate is predominantly black with protruding spikes, and each Hellknight order has its own distinct design."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -431,7 +432,7 @@
     "Upgrade Slots": "3",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "For a tough job, your suit has to be tough, too. The EJ hardsuit’s protective plating and bulk belie its comfortable and modifiable design."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -446,7 +447,7 @@
     "Upgrade Slots": "1",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "These utilitarian suits of heavy armor reflect the brute strength of their inventors. Overplate makes no concession to comfort. Instead, each polycarbonate suit is solid, dense, and often unadorned, though the high-quality craftsmanship of each suit is apparent. Overplate has a reputation for withstanding any sort of trauma, thanks to its coating of thermoplastic resin."
   },
   {
     "source": "Starfinder Armory pg. 71",
@@ -461,7 +462,7 @@
     "Upgrade Slots": "2",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Although designed for extravehicular activity in hazardous conditions, reinforced EVA suits function as durable, if clunky, heavy armor. This full-body suit has a rigid shell covering the back and chest, with heavy gloves, padded boots, and rugged fabric rounding out the ensemble. A wide helmet design provides good visibility and includes a retractable glare shield. The suit’s excellent air recycling makes for a more comfortable environment than many more battle-worthy designs."
   },
   {
     "source": "Starfinder Armory pg. 68",
@@ -476,7 +477,7 @@
     "Upgrade Slots": "2",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "When first commissioned by the Church of Iomedae, this heavy armor was dubbed Armor of the Inheritor Ascendant. This cumbersome mouthful was soon supplanted by the tongue-and-cheek nickname “Inheritor’s grace,” as “by her grace, we are protected.” Now only the dourest of Iomedae’s church refer to her armor by its proper title. Each suit of Inheritor’s grace armor constructed by the church receives blessings as part of its construction, though otherwise identical knock-offs and officially licensed suits also exist. The armor is extremely common among worshipers of Iomedae and Knights of Golarion, but it is also worn by those with no connection to her faith."
   },
   {
     "source": "Alien Archive pg. 73",
@@ -491,7 +492,7 @@
     "Upgrade Slots": "3",
     "Bulk": "1",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Scavengers on Daimalko dare to brave the wastes of their world to gather the enamel-like hulls that kyokors occasionally shed from their crowns. These toothy moltings are enormous, and once they’re retrieved, they require a great deal of effort to grind into plates that can be used to craft armor. Despite this and the dangers of gathering the requisite moltings, suits of kyokor plating are in demand throughout the universe, making collection of the raw materials and subsequent forging into lucrative careers."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -506,7 +507,7 @@
     "Upgrade Slots": "2",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "An economical choice for many mercenaries, golemforged plating is one of the universe’s most popular heavy armors. Golemforged plating consists of a close-fitting polycarbonate suit fitted with ports and sockets to fit most armor customization options. Suits of golemforged plating include flexible boots and gloves as well as a standard helmet with a clear visor."
   },
   {
     "source": "Pact Worlds pg. 196",
@@ -521,7 +522,7 @@
     "Upgrade Slots": "3",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -536,7 +537,7 @@
     "Upgrade Slots": "2",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "The defiance series of heavy armor is the workhorse of squad armor. A formed hard shell overlays a suit of para-aramids, creating a bulky and solid protective outfit. Defiance series helmets have wide, tinted visors to allow peripheral vision."
   },
   {
     "source": "Starfinder Armory pg. 68",
@@ -551,7 +552,7 @@
     "Upgrade Slots": "1",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "A living defense designed by the Xenowardens, dendron armor melds bioengineered wood with advanced microbespun polymers. A mossy layer beneath this outer shell provides cushioning and life support. Xenowardens stylize this heavy armor to resemble the sentient trees found on Castrovel and other verdant worlds. The organic design of dendron armor makes adding upgrades a challenge, but it offers a good balance between mobility and protection."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -566,7 +567,7 @@
     "Upgrade Slots": "5",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "While this heavy armor of sculpted metal plates offers good protection to the wearer, its main purpose is to intimidate enemies. Often used for honor guards, military exercises, or parades, ceremonial plate is usually brightly colored or made of shining metal, with elaborate helmets."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -581,7 +582,7 @@
     "Upgrade Slots": "3",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "These beautiful suits of heavy armor feature engraved metal bands that fit above and below the body’s major joints. Metal guards, woven chain sheets, and force fields stretch between the bands to form a complete set of protective gear. Tinted crystals are often added during the forging process to the ore used for ringwear to create glimmering suits of different hues."
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -596,7 +597,7 @@
     "Upgrade Slots": "2",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Based on designs reverse-engineered from ancient troves and alloys rediscovered through painstaking research, night plate is the heavy armor of choice for the drow of Apostae. It blends archaic armor sensibilities with cutting-edge technology, resulting in an appearance that resembles a metallic construct as much as armor. Night plate’s design incorporates flaring cauldrons and razor-sharp leg spurs, though these impressive adornments have little function beyond intimidation. Highergrade models incorporate even more of these embellishments, cunningly designed to avoid interference with the armor’s primary functions."
   },
   {
     "source": "Near Space pg. 152",
@@ -611,7 +612,7 @@
     "Upgrade Slots": "3",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "The giants of Pholskar harvest rivers of raw, molten hivillium; remove any impurities; and pour it directly into hundreds of specialized molds. The hardened plates are extracted and woven together to form suits of terramold plate. This armor is more restrictive than many armors in its class, but it can absorb and disperse impacts with incredible efficiency."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -626,7 +627,7 @@
     "Upgrade Slots": "3",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "These utilitarian suits of heavy armor reflect the brute strength of their inventors. Overplate makes no concession to comfort. Instead, each polycarbonate suit is solid, dense, and often unadorned, though the high-quality craftsmanship of each suit is apparent. Overplate has a reputation for withstanding any sort of trauma, thanks to its coating of thermoplastic resin."
   },
   {
     "source": "Starfinder #4: The Ruined Clouds pg. 44",
@@ -641,7 +642,7 @@
     "Upgrade Slots": "0",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Kishalee building materials are some of the sturdiest and long-lasting substances ever made, and kish have taken debris from collapsed structures—and have sometimes even intentionally demolished buildings—to make these suits of heavy armor. Hardplate has the archaic armor special property."
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -656,7 +657,7 @@
     "Upgrade Slots": "3",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "When they first ventured beyond the frigid seas of Kalo- Mahoi, the kalo brought the waters of their moon with them in specially engineered suits. The kalo encounter suit represents the latest evolution of that design—a portable ocean that keeps the kalo at the nearfreezing temperatures they prefer. The suit’s air supply doubles as ballast to keep the wearer neutrally buoyant in water despite the armor’s weight, and the idiomatic design accommodates and protects the kalo’s swimming membranes. While the armor can be adapted to circulate water instead of air, kalos prefer their comfort of their own technology. Similarly, the filters and seals of kalo encounter suits can be adapted to the needs of air breathers, although such suits tend to accumulate excess moisture and develop mold or mildew."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -671,7 +672,7 @@
     "Upgrade Slots": "3",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "These gleaming metal plates lock together to form a suit of heavy armor reminiscent of an insect’s shell. Although the iridishell was initially designed for shirrens, its beauty combined and functionality makes it a popular choice for many. More expensive suits of iridishell not only offer more protection but feature elaborate designs with gold or silver trim and embedded jewels."
   },
   {
     "source": "Near Space pg. 152",
@@ -686,7 +687,7 @@
     "Upgrade Slots": "5",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "When the skittermanders of Vesk-3 realized that their new overlords intended to continue conquering neighboring planets, they decided to help by designing armor for vesk shock troops. However, their wild sense of aesthetics produced armor that few vesk military commanders would allow in their ranks. Luckily, the suits are very popular on the open market, so skittermanders continue to produce this armor for those with a bold sense of style."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -701,7 +702,7 @@
     "Upgrade Slots": "4",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "For a tough job, your suit has to be tough, too. The EJ hardsuit’s protective plating and bulk belie its comfortable and modifiable design."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -716,7 +717,7 @@
     "Upgrade Slots": "4",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "These suits of interlocking metal and ceramic plates are usually highly decorated. Gold trim, exaggerated shoulder guards, and stylized Skyfire logos on the breastplates are common. These iconic outfits are worn by the storied members of the Skyfire Legion, though other groups and individuals have copied the Legion’s distinctively decorated heavy armor. Skyfire armor ordinarily comes with force fields that encase the wearer’s head when needed."
   },
   {
     "source": "Pact Worlds pg. 196",
@@ -731,7 +732,7 @@
     "Upgrade Slots": "4",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "The stern and unrelenting Hellknights are known as much for their distinctive plate armor as for their fearsome adherence to rigid order. This variant of ceremonial plate is predominantly black with protruding spikes, and each Hellknight order has its own distinct design."
   },
   {
     "source": "Pact Worlds pg. 196",
@@ -746,7 +747,7 @@
     "Upgrade Slots": "3",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -761,7 +762,7 @@
     "Upgrade Slots": "3",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "The defiance series of heavy armor is the workhorse of squad armor. A formed hard shell overlays a suit of para-aramids, creating a bulky and solid protective outfit. Defiance series helmets have wide, tinted visors to allow peripheral vision."
   },
   {
     "source": "Alien Archive pg. 73",
@@ -776,7 +777,7 @@
     "Upgrade Slots": "3",
     "Bulk": "1",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Scavengers on Daimalko dare to brave the wastes of their world to gather the enamel-like hulls that kyokors occasionally shed from their crowns. These toothy moltings are enormous, and once they’re retrieved, they require a great deal of effort to grind into plates that can be used to craft armor. Despite this and the dangers of gathering the requisite moltings, suits of kyokor plating are in demand throughout the universe, making collection of the raw materials and subsequent forging into lucrative careers."
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -791,7 +792,7 @@
     "Upgrade Slots": "3",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Asteroid miners wear mining jacks for both life support and protection against the hazards of vacuum mining. As they are designed for use in low and zero gravity, the jacks are quite bulky, with alloys chosen for strength and durability rather than weight. Because miners often spend the entire day in a vacuum, mining jacks have storage compartments accessible within the armor. The breastplate of a mining jack can expand outward without being removed, allowing the wearer a modest amount of space to pull her arms inside and enjoy a beverage or meal. Each suit includes a pair of miniature airlocks that allow safe transfer of small objects from outside to inside the suit as a full action. A pair of mining jacks can even link locks to trade gear without exposing the item or either wearer to vacuum. The first mining jacks were dwarven designs, but their ingenious design and utility have made them popular throughout the Diaspora."
   },
   {
     "source": "Starfinder Armory pg. 68",
@@ -806,7 +807,7 @@
     "Upgrade Slots": "2",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "A living defense designed by the Xenowardens, dendron armor melds bioengineered wood with advanced microbespun polymers. A mossy layer beneath this outer shell provides cushioning and life support. Xenowardens stylize this heavy armor to resemble the sentient trees found on Castrovel and other verdant worlds. The organic design of dendron armor makes adding upgrades a challenge, but it offers a good balance between mobility and protection."
   },
   {
     "source": "Alien Archive pg. 7",
@@ -836,7 +837,7 @@
     "Upgrade Slots": "4",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "These utilitarian suits of heavy armor reflect the brute strength of their inventors. Overplate makes no concession to comfort. Instead, each polycarbonate suit is solid, dense, and often unadorned, though the high-quality craftsmanship of each suit is apparent. Overplate has a reputation for withstanding any sort of trauma, thanks to its coating of thermoplastic resin."
   },
   {
     "source": "Starfinder Armory pg. 68",
@@ -851,7 +852,7 @@
     "Upgrade Slots": "4",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "The faceless, slate-gray design of enforcer armor blends intimidation and anonymity. This heavy armor’s design echoes the aegis series’ personal tank approach, albeit with markedly inferior protection. Enforcer armor often towers a full foot over the wearer’s natural height, with most of the wearer’s head safely sheltered behind the breastplate and sensory input handled through projected video and audio feeds. Criminal organizations use enforcer armor to keep their hired muscle impersonal and enigmatic."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -866,7 +867,7 @@
     "Upgrade Slots": "6",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "An economical choice for many mercenaries, golemforged plating is one of the universe’s most popular heavy armors. Golemforged plating consists of a close-fitting polycarbonate suit fitted with ports and sockets to fit most armor customization options. Suits of golemforged plating include flexible boots and gloves as well as a standard helmet with a clear visor."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -881,7 +882,7 @@
     "Upgrade Slots": "4",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "These beautiful suits of heavy armor feature engraved metal bands that fit above and below the body’s major joints. Metal guards, woven chain sheets, and force fields stretch between the bands to form a complete set of protective gear. Tinted crystals are often added during the forging process to the ore used for ringwear to create glimmering suits of different hues."
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -896,7 +897,7 @@
     "Upgrade Slots": "4",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Based on designs reverse-engineered from ancient troves and alloys rediscovered through painstaking research, night plate is the heavy armor of choice for the drow of Apostae. It blends archaic armor sensibilities with cutting-edge technology, resulting in an appearance that resembles a metallic construct as much as armor. Night plate’s design incorporates flaring cauldrons and razor-sharp leg spurs, though these impressive adornments have little function beyond intimidation. Highergrade models incorporate even more of these embellishments, cunningly designed to avoid interference with the armor’s primary functions."
   },
   {
     "source": "Near Space pg. 152",
@@ -911,7 +912,7 @@
     "Upgrade Slots": "4",
     "Bulk": "4",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "The giants of Pholskar harvest rivers of raw, molten hivillium; remove any impurities; and pour it directly into hundreds of specialized molds. The hardened plates are extracted and woven together to form suits of terramold plate. This armor is more restrictive than many armors in its class, but it can absorb and disperse impacts with incredible efficiency."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -926,7 +927,7 @@
     "Upgrade Slots": "5",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "The ultimate battle gear, pioneered by the vesk, these suits of heavy armor have a dappled polycarbonate shell that resembles stone in texture. A monolith suit looks like a massive articulated golem formed of stone plates. Despite its size, monolith armor moves easily thanks to its power-assisted joints. Sigils and personal emblems can be “chiseled” on the breastplate or shoulder guards of a monolith suit to signal the wearer’s allegiance."
   },
   {
     "source": "Alien Archive 2 pg. 53",
@@ -941,7 +942,7 @@
     "Upgrade Slots": "1",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -956,7 +957,7 @@
     "Upgrade Slots": "4",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "These gleaming metal plates lock together to form a suit of heavy armor reminiscent of an insect’s shell. Although the iridishell was initially designed for shirrens, its beauty combined and functionality makes it a popular choice for many. More expensive suits of iridishell not only offer more protection but feature elaborate designs with gold or silver trim and embedded jewels."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -971,7 +972,7 @@
     "Upgrade Slots": "5",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Aegis suits of heavy armor cover wearers entirely, leading to the suits’ nickname of “personal tanks.” Helmet visors are narrow or nonexistent, instead projecting video and audio feeds to the wearer. Power-assisted limbs allow the wearer to move intuitively with the suit on."
   },
   {
     "source": "Starfinder #4: The Ruined Clouds pg. 44",
@@ -986,7 +987,7 @@
     "Upgrade Slots": "0",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Kishalee building materials are some of the sturdiest and long-lasting substances ever made, and kish have taken debris from collapsed structures—and have sometimes even intentionally demolished buildings—to make these suits of heavy armor. Hardplate has the archaic armor special property."
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -1001,7 +1002,7 @@
     "Upgrade Slots": "4",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "When they first ventured beyond the frigid seas of Kalo- Mahoi, the kalo brought the waters of their moon with them in specially engineered suits. The kalo encounter suit represents the latest evolution of that design—a portable ocean that keeps the kalo at the nearfreezing temperatures they prefer. The suit’s air supply doubles as ballast to keep the wearer neutrally buoyant in water despite the armor’s weight, and the idiomatic design accommodates and protects the kalo’s swimming membranes. While the armor can be adapted to circulate water instead of air, kalos prefer their comfort of their own technology. Similarly, the filters and seals of kalo encounter suits can be adapted to the needs of air breathers, although such suits tend to accumulate excess moisture and develop mold or mildew."
   },
   {
     "source": "Near Space pg. 152",
@@ -1016,7 +1017,7 @@
     "Upgrade Slots": "6",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "When the skittermanders of Vesk-3 realized that their new overlords intended to continue conquering neighboring planets, they decided to help by designing armor for vesk shock troops. However, their wild sense of aesthetics produced armor that few vesk military commanders would allow in their ranks. Luckily, the suits are very popular on the open market, so skittermanders continue to produce this armor for those with a bold sense of style."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -1031,7 +1032,7 @@
     "Upgrade Slots": "5",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "For a tough job, your suit has to be tough, too. The EJ hardsuit’s protective plating and bulk belie its comfortable and modifiable design."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -1046,7 +1047,7 @@
     "Upgrade Slots": "5",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "These suits of interlocking metal and ceramic plates are usually highly decorated. Gold trim, exaggerated shoulder guards, and stylized Skyfire logos on the breastplates are common. These iconic outfits are worn by the storied members of the Skyfire Legion, though other groups and individuals have copied the Legion’s distinctively decorated heavy armor. Skyfire armor ordinarily comes with force fields that encase the wearer’s head when needed."
   },
   {
     "source": "Alien Archive 2 pg. 23",
@@ -1060,7 +1061,8 @@
     "Speed Adjustment": "-5 ft.",
     "Upgrade Slots": "5",
     "Bulk": "2",
-    "type": "heavy_armor"
+    "type": "heavy_armor",
+    "desc": "Meant for first-wave boarding actions, fossilwrap armor is a cage of alchemically treated bones and steel. This armor is meant to shrug off most incoming blows while giving the wearer some amount of mobility in the thick of combat."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -1075,7 +1077,7 @@
     "Upgrade Slots": "7",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "An economical choice for many mercenaries, golemforged plating is one of the universe’s most popular heavy armors. Golemforged plating consists of a close-fitting polycarbonate suit fitted with ports and sockets to fit most armor customization options. Suits of golemforged plating include flexible boots and gloves as well as a standard helmet with a clear visor."
   },
   {
     "source": "Starfinder Armory pg. 68",
@@ -1090,7 +1092,7 @@
     "Upgrade Slots": "4",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "When first commissioned by the Church of Iomedae, this heavy armor was dubbed Armor of the Inheritor Ascendant. This cumbersome mouthful was soon supplanted by the tongue-and-cheek nickname “Inheritor’s grace,” as “by her grace, we are protected.” Now only the dourest of Iomedae’s church refer to her armor by its proper title. Each suit of Inheritor’s grace armor constructed by the church receives blessings as part of its construction, though otherwise identical knock-offs and officially licensed suits also exist. The armor is extremely common among worshipers of Iomedae and Knights of Golarion, but it is also worn by those with no connection to her faith."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -1105,7 +1107,7 @@
     "Upgrade Slots": "5",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "These utilitarian suits of heavy armor reflect the brute strength of their inventors. Overplate makes no concession to comfort. Instead, each polycarbonate suit is solid, dense, and often unadorned, though the high-quality craftsmanship of each suit is apparent. Overplate has a reputation for withstanding any sort of trauma, thanks to its coating of thermoplastic resin."
   },
   {
     "source": "Alien Archive pg. 73",
@@ -1120,7 +1122,7 @@
     "Upgrade Slots": "4",
     "Bulk": "1",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Scavengers on Daimalko dare to brave the wastes of their world to gather the enamel-like hulls that kyokors occasionally shed from their crowns. These toothy moltings are enormous, and once they’re retrieved, they require a great deal of effort to grind into plates that can be used to craft armor. Despite this and the dangers of gathering the requisite moltings, suits of kyokor plating are in demand throughout the universe, making collection of the raw materials and subsequent forging into lucrative careers."
   },
   {
     "source": "Pact Worlds pg. 196",
@@ -1135,7 +1137,7 @@
     "Upgrade Slots": "6",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "The stern and unrelenting Hellknights are known as much for their distinctive plate armor as for their fearsome adherence to rigid order. This variant of ceremonial plate is predominantly black with protruding spikes, and each Hellknight order has its own distinct design."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -1150,7 +1152,7 @@
     "Upgrade Slots": "5",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "These beautiful suits of heavy armor feature engraved metal bands that fit above and below the body’s major joints. Metal guards, woven chain sheets, and force fields stretch between the bands to form a complete set of protective gear. Tinted crystals are often added during the forging process to the ore used for ringwear to create glimmering suits of different hues."
   },
   {
     "source": "Starfinder Armory pg. 68",
@@ -1165,7 +1167,7 @@
     "Upgrade Slots": "5",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "The faceless, slate-gray design of enforcer armor blends intimidation and anonymity. This heavy armor’s design echoes the aegis series’ personal tank approach, albeit with markedly inferior protection. Enforcer armor often towers a full foot over the wearer’s natural height, with most of the wearer’s head safely sheltered behind the breastplate and sensory input handled through projected video and audio feeds. Criminal organizations use enforcer armor to keep their hired muscle impersonal and enigmatic."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -1210,7 +1212,7 @@
     "Upgrade Slots": "4",
     "Bulk": "4",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "The giants of Pholskar harvest rivers of raw, molten hivillium; remove any impurities; and pour it directly into hundreds of specialized molds. The hardened plates are extracted and woven together to form suits of terramold plate. This armor is more restrictive than many armors in its class, but it can absorb and disperse impacts with incredible efficiency."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -1225,7 +1227,7 @@
     "Upgrade Slots": "6",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "The ultimate battle gear, pioneered by the vesk, these suits of heavy armor have a dappled polycarbonate shell that resembles stone in texture. A monolith suit looks like a massive articulated golem formed of stone plates. Despite its size, monolith armor moves easily thanks to its power-assisted joints. Sigils and personal emblems can be “chiseled” on the breastplate or shoulder guards of a monolith suit to signal the wearer’s allegiance."
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -1240,7 +1242,7 @@
     "Upgrade Slots": "4",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Based on designs reverse-engineered from ancient troves and alloys rediscovered through painstaking research, night plate is the heavy armor of choice for the drow of Apostae. It blends archaic armor sensibilities with cutting-edge technology, resulting in an appearance that resembles a metallic construct as much as armor. Night plate’s design incorporates flaring cauldrons and razor-sharp leg spurs, though these impressive adornments have little function beyond intimidation. Highergrade models incorporate even more of these embellishments, cunningly designed to avoid interference with the armor’s primary functions."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -1255,7 +1257,7 @@
     "Upgrade Slots": "6",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Aegis suits of heavy armor cover wearers entirely, leading to the suits’ nickname of “personal tanks.” Helmet visors are narrow or nonexistent, instead projecting video and audio feeds to the wearer. Power-assisted limbs allow the wearer to move intuitively with the suit on."
   },
   {
     "source": "Near Space pg. 152",
@@ -1270,7 +1272,7 @@
     "Upgrade Slots": "7",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "When the skittermanders of Vesk-3 realized that their new overlords intended to continue conquering neighboring planets, they decided to help by designing armor for vesk shock troops. However, their wild sense of aesthetics produced armor that few vesk military commanders would allow in their ranks. Luckily, the suits are very popular on the open market, so skittermanders continue to produce this armor for those with a bold sense of style."
   },
   {
     "source": "Starfinder Armory pg. 68",
@@ -1285,7 +1287,7 @@
     "Upgrade Slots": "5",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "A living defense designed by the Xenowardens, dendron armor melds bioengineered wood with advanced microbespun polymers. A mossy layer beneath this outer shell provides cushioning and life support. Xenowardens stylize this heavy armor to resemble the sentient trees found on Castrovel and other verdant worlds. The organic design of dendron armor makes adding upgrades a challenge, but it offers a good balance between mobility and protection."
   },
   {
     "source": "Starfinder #34: We’re No Heroes pg. 44",
@@ -1300,7 +1302,7 @@
     "Upgrade Slots": "6",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "For a tough job, your suit has to be tough, too. The EJ hardsuit’s protective plating and bulk belie its comfortable and modifiable design."
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -1315,7 +1317,7 @@
     "Upgrade Slots": "6",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "When they first ventured beyond the frigid seas of Kalo- Mahoi, the kalo brought the waters of their moon with them in specially engineered suits. The kalo encounter suit represents the latest evolution of that design—a portable ocean that keeps the kalo at the nearfreezing temperatures they prefer. The suit’s air supply doubles as ballast to keep the wearer neutrally buoyant in water despite the armor’s weight, and the idiomatic design accommodates and protects the kalo’s swimming membranes. While the armor can be adapted to circulate water instead of air, kalos prefer their comfort of their own technology. Similarly, the filters and seals of kalo encounter suits can be adapted to the needs of air breathers, although such suits tend to accumulate excess moisture and develop mold or mildew."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -1345,7 +1347,7 @@
     "Upgrade Slots": "6",
     "Bulk": "1",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Scavengers on Daimalko dare to brave the wastes of their world to gather the enamel-like hulls that kyokors occasionally shed from their crowns. These toothy moltings are enormous, and once they’re retrieved, they require a great deal of effort to grind into plates that can be used to craft armor. Despite this and the dangers of gathering the requisite moltings, suits of kyokor plating are in demand throughout the universe, making collection of the raw materials and subsequent forging into lucrative careers."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -1360,7 +1362,7 @@
     "Upgrade Slots": "7",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "These utilitarian suits of heavy armor reflect the brute strength of their inventors. Overplate makes no concession to comfort. Instead, each polycarbonate suit is solid, dense, and often unadorned, though the high-quality craftsmanship of each suit is apparent. Overplate has a reputation for withstanding any sort of trauma, thanks to its coating of thermoplastic resin."
   },
   {
     "source": "Alien Archive 2 pg. 53",
@@ -1375,7 +1377,7 @@
     "Upgrade Slots": "3",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "\u003cbr\u003e"
   },
   {
     "source": "Starfinder Armory pg. 68",
@@ -1390,7 +1392,7 @@
     "Upgrade Slots": "7",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "When first commissioned by the Church of Iomedae, this heavy armor was dubbed Armor of the Inheritor Ascendant. This cumbersome mouthful was soon supplanted by the tongue-and-cheek nickname “Inheritor’s grace,” as “by her grace, we are protected.” Now only the dourest of Iomedae’s church refer to her armor by its proper title. Each suit of Inheritor’s grace armor constructed by the church receives blessings as part of its construction, though otherwise identical knock-offs and officially licensed suits also exist. The armor is extremely common among worshipers of Iomedae and Knights of Golarion, but it is also worn by those with no connection to her faith."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -1419,7 +1421,8 @@
     "Speed Adjustment": "-5 ft.",
     "Upgrade Slots": "6",
     "Bulk": "2",
-    "type": "heavy_armor"
+    "type": "heavy_armor",
+    "desc": "Meant for first-wave boarding actions, fossilwrap armor is a cage of alchemically treated bones and steel. This armor is meant to shrug off most incoming blows while giving the wearer some amount of mobility in the thick of combat."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -1434,7 +1437,7 @@
     "Upgrade Slots": "7",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "The ultimate battle gear, pioneered by the vesk, these suits of heavy armor have a dappled polycarbonate shell that resembles stone in texture. A monolith suit looks like a massive articulated golem formed of stone plates. Despite its size, monolith armor moves easily thanks to its power-assisted joints. Sigils and personal emblems can be “chiseled” on the breastplate or shoulder guards of a monolith suit to signal the wearer’s allegiance."
   },
   {
     "source": "Starfinder Armory pg. 70",
@@ -1449,7 +1452,7 @@
     "Upgrade Slots": "6",
     "Bulk": "2",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Based on designs reverse-engineered from ancient troves and alloys rediscovered through painstaking research, night plate is the heavy armor of choice for the drow of Apostae. It blends archaic armor sensibilities with cutting-edge technology, resulting in an appearance that resembles a metallic construct as much as armor. Night plate’s design incorporates flaring cauldrons and razor-sharp leg spurs, though these impressive adornments have little function beyond intimidation. Highergrade models incorporate even more of these embellishments, cunningly designed to avoid interference with the armor’s primary functions."
   },
   {
     "source": "Starfinder Core Rulebook pg. 198",
@@ -1464,6 +1467,6 @@
     "Upgrade Slots": "7",
     "Bulk": "3",
     "type": "heavy_armor",
-    "desc": "top desc: hr"
+    "desc": "Aegis suits of heavy armor cover wearers entirely, leading to the suits’ nickname of “personal tanks.” Helmet visors are narrow or nonexistent, instead projecting video and audio feeds to the wearer. Power-assisted limbs allow the wearer to move intuitively with the suit on."
   }
 ]
