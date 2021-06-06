@@ -11,7 +11,7 @@ Junit test to make sure all jsons have a source that contains "pg."
 
 # Coming soon
 
--Fixed broken/ missing information from equipment. 
--Adding the rest of pages from the site.
--Better naming and orginination of json output sturcture. 
+-Fixed broken/ missing information from equipment.  
+-Adding the rest of pages from the site.  
+-Better naming and orginination of json output sturcture.  
 -More junit tests to test descritions.
