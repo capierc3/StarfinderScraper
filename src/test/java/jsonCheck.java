@@ -14,7 +14,7 @@ public class jsonCheck {
     public void sourceTest() {
 
         String[] fileNames;
-        File jsons = new File("jsons");
+        File jsons = new File("jsons/");
         fileNames = jsons.list();
 
         assert fileNames != null;
@@ -27,14 +27,16 @@ public class jsonCheck {
                 for (JsonElement jsonElement : jsonArray) {
                     JsonObject json = jsonElement.getAsJsonObject();
                     try {
-                        assertTrue(json.get("source").toString().contains("pg."));
+                        assertTrue(json.get("source").toString().contains("pg.") ||
+                                json.get("source").toString().contains("No source found"));
                     } catch (AssertionError e) {
                         System.out.println("Failed " + fileName + " : " + json.get("source").toString());
                         assertTrue(false);
                     }
                 }
+                System.out.println("Passed " + fileName);
             } catch (Exception e) {
-                e.printStackTrace();
+                //e.printStackTrace();
             }
         }
     }

@@ -10,6 +10,7 @@ import org.jsoup.nodes.Node;
 import org.jsoup.parser.Parser;
 import org.jsoup.select.Elements;
 
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
@@ -25,19 +26,30 @@ public class EquipmentScraper {
     /**
      * creates json files from the equipment pages on aonsrd.com.
      */
+
+    //TODO: current errors
+    //SHOULDN'T BE CALLED
+    //SHOULDN'T BE CALLED
+    //Red Star Plasma Kukri
+    //Warclub
+    //Unskilled Labor
+    //Recharging Stations, 1 round/charge
+    //Flechette
     public EquipmentScraper() {
+        //read the archives xml for urls and pages
         try {
             InputStream is = this.getClass().getResourceAsStream("/archives.xml");
             Document doc = Jsoup.parse(is, null, "", Parser.xmlParser());
+            //pulls up the equipment tag items in the xml
             Elements pages = doc.getElementsByTag("equipment").get(0).children();
+            //loops all the pages
             for (Element element : pages) {
                 page = element.children();
                 pageName = element.nodeName();
                 //todo: remove after debugging
-                //if (pageName.equalsIgnoreCase("basic_melee")) {
-                    read();
-                //}
-                System.out.println(pageName + ".json created");
+                //if (pageName.equalsIgnoreCase("medicinals"))
+                read();
+                //System.out.println(pageName + ".json created");
             }
         } catch (IOException e) {
             e.printStackTrace();
@@ -53,6 +65,7 @@ public class EquipmentScraper {
             return tableReader(page.get(0).text());
         } else {
             //textReader(page.get(0).text());
+            System.out.println("Table");
             return "";
         }
     }
@@ -75,16 +88,17 @@ public class EquipmentScraper {
         for (Element table: tables) {
             ArrayList<ArrayList<String>> tableArray = new ArrayList<>();
             if (table.siblingElements().size() == 0) {
-                String tableName = "";
+                String tableName;
                 try {
                     tableName = table.parent().previousElementSibling().child(0).text();
                 } catch (IndexOutOfBoundsException e) {
                     //This is okay just means table name is page name.
-                    //System.out.println("table name not found in " + pageName);
+                    tableName = "";
                 }
                 Elements colHeadings = table.getElementsByTag("th");
                 ArrayList<String> headings = new ArrayList<>();
                 headings.add("source");
+                //pulls the column headings from the table
                 for (Element th : colHeadings) {
                     headings.add(th.text());
                 }
@@ -153,13 +167,27 @@ public class EquipmentScraper {
 
     private String getDetails(String link, String item, ArrayList<String> row) throws IOException {
 
+        //removes added amount to item names, ex: Arrows (20) -> Arrows
+        if (item.contains("(")) {
+            item = item.substring(0, item.lastIndexOf("(") - 1);
+        }
         try {
+            //parse url
             Document page = Jsoup.connect(link)
                     .userAgent("Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 "
                             + "(KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36")
                     .timeout(0).followRedirects(true).execute().parse();
+            //find main sections
             Elements tables = page.getElementsByTag("table");
-            Elements spans = tables.get(0).getElementsByTag("span");
+            //pages without tables
+            if (tables.size() == 0) {
+                return extraTextRead(page, row);
+            }
+            int tableNum = 0;
+            while (tables.get(tableNum).attributes().get("class").equalsIgnoreCase("inner")) {
+                tableNum++;
+            }
+            Elements spans = tables.get(tableNum).getElementsByTag("span");
             Elements sections = spans.get(0).getElementsByTag("h2");
             Elements h1Sections = spans.get(0).getElementsByTag("h1");
             String desc = "";
@@ -178,20 +206,27 @@ public class EquipmentScraper {
                 if (section.nextElementSibling().tagName().equalsIgnoreCase("h1")) {
                     section = section.nextElementSibling();
                 }
-                if (section.text().equalsIgnoreCase(item)) {
+                //todo: changed = to contains. need to recheck working jsons
+                if (section.text().contains(item)) {
                     desc = searchInfo(section, row, spans, item, spanNum);
+                    if (!desc.equalsIgnoreCase("")) {
+                        break;
+                    }
                 }
             }
             if (desc.equalsIgnoreCase("")) {
                 for (Element section : h1Sections) {
-                    if (section.text().equalsIgnoreCase(item)) {
+                    //todo: changed = to contains. need to recheck working jsons
+                    if (section.text().contains(item)) {
                         desc = searchInfo(section, row, spans, item, spanNum);
                     }
                 }
             }
             return desc;
         } catch (IndexOutOfBoundsException e) {
+            e.printStackTrace();
             System.out.println(pageName + ": " + item);
+            System.exit(1);
         } catch (HttpStatusException e2) {
             System.out.println("page not found: " + link);
             System.out.println("\tNo extra details added for: " + item);
@@ -202,7 +237,9 @@ public class EquipmentScraper {
     private String searchInfo(Element section, ArrayList<String> row, Elements spans, String item, int spanNum) {
         Element currentElm = section.nextElementSibling().nextElementSibling();
         String source = currentElm.text();
-        row.add(source);
+        if (row.size() == 0) {
+            row.add(source);
+        }
         currentElm = currentElm.nextElementSibling();
         //finds the items descriptions.
         while (currentElm.tagName().equalsIgnoreCase("b") || currentElm.nextElementSibling().tagName().equalsIgnoreCase("b") || currentElm.tagName().equalsIgnoreCase("a")) {
@@ -221,7 +258,7 @@ public class EquipmentScraper {
                 return "top desc: h2";
             } else if (currentElm.nextElementSibling() == null) {
                 System.out.println(item);
-                return "";
+                return "No description found";
             }
         }
         //Finds descriptions that contains <i> tags and loops to get all information.
@@ -255,6 +292,41 @@ public class EquipmentScraper {
             return currentElm.nextSibling().toString();
         }
         return "";
+    }
+
+    /**
+     * gets extra information from a page that doesn't store information in a table.
+     * @param page url Document
+     * @param row used for source information
+     * @return string of the description
+     */
+    private String extraTextRead(Document page, ArrayList<String> row) {
+
+        Element mainContent = page.getElementById("ctl00_MainContent_DetailedOutput");
+        if (mainContent == null) {
+            row.add("No source found");
+            return "No description available";
+        }
+        Elements content = mainContent.children();
+        Element currentElem = content.first();
+
+        StringBuilder desc = new StringBuilder();
+        while (currentElem != null && !currentElem.tagName().equalsIgnoreCase("h2")) {
+            if (currentElem.tagName().equalsIgnoreCase("b") && currentElem.text().equalsIgnoreCase("Source")) {
+                currentElem = currentElem.nextElementSibling();
+                row.add(currentElem.text());
+            }
+            if (currentElem.tagName().equalsIgnoreCase("br")) {
+                if (!(currentElem.nextSibling() instanceof Element)) {
+                    if (desc.length() != 0) {
+                        desc.append("\n");
+                    }
+                    desc.append(currentElem.nextSibling().toString());
+                }
+            }
+            currentElem = currentElem.nextElementSibling();
+        }
+        return desc.toString();
     }
 
     private void textReader(String url) throws IOException {
