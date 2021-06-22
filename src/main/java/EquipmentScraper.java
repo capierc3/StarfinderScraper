@@ -41,15 +41,15 @@ public class EquipmentScraper {
             InputStream is = this.getClass().getResourceAsStream("/archives.xml");
             Document doc = Jsoup.parse(is, null, "", Parser.xmlParser());
             //pulls up the equipment tag items in the xml
-            Elements pages = doc.getElementsByTag("equipment").get(0).children();
+            Elements pages = doc.getElementsByTag("ship").get(0).children();
             //loops all the pages
             for (Element element : pages) {
                 page = element.children();
                 pageName = element.nodeName();
                 //todo: remove after debugging
-                //if (pageName.equalsIgnoreCase("medicinals"))
+                //if (pageName.equalsIgnoreCase("weapons"))
                 read();
-                //System.out.println(pageName + ".json created");
+                System.out.println(pageName + ".json created");
             }
         } catch (IOException e) {
             e.printStackTrace();
@@ -65,7 +65,7 @@ public class EquipmentScraper {
             return tableReader(page.get(0).text());
         } else {
             //textReader(page.get(0).text());
-            System.out.println("Table");
+            System.out.println("Table: " + pageName);
             return "";
         }
     }
@@ -110,14 +110,29 @@ public class EquipmentScraper {
                     Elements cols = rows.get(i).getElementsByTag("td");
                     boolean name = true;
                     String desc = "";
+                    int colNum = 0;
                     for (Element col: cols) {
-                        if (col.getElementsByTag("a").size() > 0 && name) {
+                        if (col.getElementsByTag("a").size() > 0 && name && colNum == 0) {
                             String link = "https://aonsrd.com/"
                                     + col.getElementsByTag("a").get(0).attributes().get("href");
                             desc = getDetails(link, col.text(), row);
                             name = false;
                         }
                         row.add(col.text());
+                        colNum++;
+                    }
+                    //no link found for source and desc
+                    if (name) {
+                        Element mainContent = webDoc.getElementById("ctl00_MainContent_SectionHeader");
+                        if (mainContent != null) {
+                            Elements bs = mainContent.getElementsByTag("b");
+                            for (Element elm : bs) {
+                                if (elm.text().equalsIgnoreCase("Source")) {
+                                    row.add(0,elm.nextElementSibling().text());
+                                    desc = "no description found";
+                                }
+                            }
+                        }
                     }
                     if (tableName.equalsIgnoreCase("")) {
                         row.add(pageName);
@@ -321,7 +336,9 @@ public class EquipmentScraper {
                     if (desc.length() != 0) {
                         desc.append("\n");
                     }
-                    desc.append(currentElem.nextSibling().toString());
+                    if (currentElem.nextSibling() != null) {
+                        desc.append(currentElem.nextSibling().toString());
+                    }
                 }
             }
             currentElem = currentElem.nextElementSibling();
