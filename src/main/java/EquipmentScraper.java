@@ -2,6 +2,8 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonParser;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
 import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -47,7 +49,7 @@ public class EquipmentScraper {
                 page = element.children();
                 pageName = element.nodeName();
                 //todo: remove after debugging
-                //if (pageName.equalsIgnoreCase("weapons"))
+                //if (pageName.equalsIgnoreCase("baseframes"))
                 read();
                 System.out.println(pageName + ".json created");
             }
@@ -60,13 +62,11 @@ public class EquipmentScraper {
      * reads the page and sends the info to the correct methods for parsing and inserting.
      * @throws IOException e
      */
-    private String read() throws IOException {
+    private void read() throws IOException {
         if (page.get(1).text().equalsIgnoreCase("table")) {
-            return tableReader(page.get(0).text());
+            tableReader(page.get(0).text());
         } else {
-            //textReader(page.get(0).text());
-            System.out.println("Table: " + pageName);
-            return "";
+            textReader(page.get(0).text());
         }
     }
 
@@ -75,7 +75,7 @@ public class EquipmentScraper {
      * @param url String of the page's url
      * @throws IOException e
      */
-    private String tableReader(String url) throws IOException {
+    private void tableReader(String url) throws IOException {
         //parse URL
         webDoc = Jsoup.connect(url)
                 .userAgent("Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 "
@@ -175,9 +175,7 @@ public class EquipmentScraper {
             FileWriter writer = new FileWriter("jsons/" + pageName + ".json");
             writer.write(gson.toJson(element));
             writer.close();
-            return gson.toJson(element);
         }
-        return "";
     }
 
     private String getDetails(String link, String item, ArrayList<String> row) throws IOException {
@@ -352,44 +350,53 @@ public class EquipmentScraper {
                 .userAgent("Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 "
                         + "(KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36")
                 .timeout(0).followRedirects(true).execute().parse();
-        Elements tables = webDoc.getElementsByTag("table");
-        ArrayList<ArrayList<String>> pageHeadings = new ArrayList<>();
-        ArrayList<ArrayList<ArrayList<String>>> pageTables = new ArrayList<>();
-        String type;
-        for (Element table: tables) {
-            if (table.className().equalsIgnoreCase("inner")) {
-                Element parent = table.parent();
-                Elements h2 = parent.getElementsByClass("title");
-                type = h2.get(0).text();
-                Elements rows = table.getElementsByTag("tr");
-                ArrayList<ArrayList<String>> tableArray = new ArrayList<>();
-                ArrayList<String> tableHeadings = new ArrayList<>();
-                for (int i = 0; i < rows.size(); i++) {
-                    Elements cols = rows.get(i).getElementsByTag("td");
-                    ArrayList<String> row = new ArrayList<>();
-                    for (Element col : cols) {
-                        if (i == 0) {
-                            tableHeadings.add(col.text());
-                        } else {
-                            row.add(col.text());
+        Element table = webDoc.getElementById("ctl00_MainContent_DataListAll");
+        JSONArray mainArray = new JSONArray();
+        if (table != null) {
+            Elements items = table.getElementsByTag("span");
+            for (Element item: items) {
+                Elements values = item.children();
+                JSONObject jsonItem = new JSONObject();
+                for (Element value : values) {
+                    if (value.tagName().equalsIgnoreCase("h2")) {
+                        jsonItem.put("Name",value.text());
+                    } else if (value.text().equalsIgnoreCase("Source")) {
+                        jsonItem.put("Source",value.nextElementSibling().text());
+                    } else if (value.tagName().equalsIgnoreCase("b")) {
+                        jsonItem.put(value.text(),value.nextSibling().toString());
+                    } else if (value.tagName().equalsIgnoreCase("h3")) {
+                        JSONArray array = new JSONArray();
+                        JSONObject special = new JSONObject();
+                        Element elm = value.nextElementSibling();
+                        while (elm != null) {
+                            if (elm.tagName().equalsIgnoreCase("b")) {
+                                special.put(elm.text(),elm.nextSibling().toString());
+                            }
+                            elm = elm.nextElementSibling();
+                        }
+                        array.add(special);
+                        jsonItem.put(value.text(),array);
+                        break;
+                    } else if (value.tagName().equalsIgnoreCase("br")) {
+                        if (value.nextSibling() != null && !(value.nextSibling() instanceof Element)) {
+                            if (jsonItem.get("desc") == null) {
+                                jsonItem.put("desc", value.nextSibling().toString());
+                            } else {
+                                jsonItem.put("desc", jsonItem.get("desc") + "\n" + value.nextSibling().toString());
+                            }
                         }
                     }
-                    if (i > 0) {
-                        row.add(type);
-                        tableArray.add(row);
-                    }
                 }
-                tableHeadings.add("type");
-                pageHeadings.add(tableHeadings);
-                pageTables.add(tableArray);
+                mainArray.add(jsonItem);
             }
         }
-        //todo: test all headings match
-        //buildJson(pageHeadings.get(0));
-        for (ArrayList<ArrayList<String>> table: pageTables) {
-            addEntries(pageHeadings.get(0),table);
-        }
 
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        JsonParser parser = new JsonParser();
+        JsonElement element = parser.parse(mainArray.toJSONString());
+        FileWriter writer = new FileWriter("jsons/" + pageName + ".json");
+        writer.write(gson.toJson(element));
+        writer.close();
     }
 
 //TODO: get working, rows need to be new json

@@ -136,7 +136,6 @@
             </type>
         </properties>
     </ship>
-
     <equipment>
         <computer>
             <url>
@@ -482,4 +481,15 @@
 
 
     </equipment>
+    <aliens>
+        <All>
+            <url>
+                https://aonsrd.com/Aliens.aspx?Letter=All
+            </url>
+            <type>
+                aTable
+            </type>
+        </All>
+    </aliens>
+
 </Archives>
