@@ -27,3 +27,9 @@ task scrape(type: JavaExec) {
     description 'Scrapes the site and builds jsons'
     main = 'run'
 }
+
+task convert(type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+    description 'converts .txt files from textfiles folder to json'
+    main = 'textToJson'
+}
