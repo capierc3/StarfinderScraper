@@ -6,6 +6,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -506,7 +507,9 @@ public class AlienScrape {
         JsonParser parser = new JsonParser();
         JsonElement element = parser.parse(jsonArray.toJSONString());
         try {
-            FileWriter writer = new FileWriter("jsons/" + filename);
+            File file = new File("jsons/aliens/" + filename);
+            file.getParentFile().mkdirs();
+            FileWriter writer = new FileWriter(file);
             writer.write(gson.toJson(element));
             writer.close();
         } catch (IOException e) {

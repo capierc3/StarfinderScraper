@@ -24,14 +24,14 @@ public class EquipmentScraper {
     private Elements page;
     private String pageName;
     private Document webDoc;
+    private String section;
 
     /**
      * creates json files from the equipment pages on aonsrd.com.
      */
 
     //TODO: current errors
-    //SHOULDN'T BE CALLED
-    //SHOULDN'T BE CALLED
+    //These items have errors
     //Red Star Plasma Kukri
     //Warclub
     //Unskilled Labor
@@ -43,15 +43,21 @@ public class EquipmentScraper {
             InputStream is = this.getClass().getResourceAsStream("/archives.xml");
             Document doc = Jsoup.parse(is, null, "", Parser.xmlParser());
             //pulls up the equipment tag items in the xml
-            Elements pages = doc.getElementsByTag("ship").get(0).children();
-            //loops all the pages
-            for (Element element : pages) {
-                page = element.children();
-                pageName = element.nodeName();
-                //todo: remove after debugging
-                //if (pageName.equalsIgnoreCase("baseframes"))
-                read();
-                System.out.println(pageName + ".json created");
+            String[] sections = {"ship", "equipment"};
+            for (String section: sections) {
+                this.section = section;
+                System.out.println("Scrapping " + section);
+                Elements pages = doc.getElementsByTag(section).get(0).children();
+                //loops all the pages
+                for (Element element : pages) {
+                    page = element.children();
+                    pageName = element.nodeName();
+                    //todo: remove after debugging
+                    //if (pageName.equalsIgnoreCase("baseframes"))
+                    read();
+                    System.out.println(pageName + ".json created");
+                }
+                System.out.println(section + " done!");
             }
         } catch (IOException e) {
             e.printStackTrace();
@@ -172,7 +178,9 @@ public class EquipmentScraper {
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
             JsonParser parser = new JsonParser();
             JsonElement element = parser.parse(jsonArray.toString());
-            FileWriter writer = new FileWriter("jsons/" + pageName + ".json");
+            File file = new File("jsons/" + section+ "/" + pageName + ".json");
+            file.getParentFile().mkdirs();
+            FileWriter writer = new FileWriter(file);
             writer.write(gson.toJson(element));
             writer.close();
         }
@@ -394,7 +402,9 @@ public class EquipmentScraper {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         JsonParser parser = new JsonParser();
         JsonElement element = parser.parse(mainArray.toJSONString());
-        FileWriter writer = new FileWriter("jsons/" + pageName + ".json");
+        File file = new File("jsons/" + section + "/" + pageName + ".json");
+        file.getParentFile().mkdirs();
+        FileWriter writer = new FileWriter(file);
         writer.write(gson.toJson(element));
         writer.close();
     }

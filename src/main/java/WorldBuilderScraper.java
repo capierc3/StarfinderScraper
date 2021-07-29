@@ -16,6 +16,8 @@ public class WorldBuilderScraper {
 
     public static void Scrape() {
 
+        System.out.println("World Builder Scraper starting");
+
         Document doc = getPage("https://aonsrd.com/Rules.aspx?ID=754");
         Elements tableHeadings = doc.getElementsByTag("h3");
 
@@ -116,7 +118,7 @@ public class WorldBuilderScraper {
             System.out.println(i + ": " + heading.text());
             i++;
         }
-
+        System.out.println("World Builder json created");
     }
 
 
